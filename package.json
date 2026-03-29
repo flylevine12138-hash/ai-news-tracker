@@ -1,0 +1,24 @@
+{
+  "name": "ai-news-tracker",
+  "version": "1.0.0",
+  "description": "AI科技资讯追踪网站 - 实时聚合全球15+科技新闻源",
+  "main": "index.html",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.js",
+    "serve": "python -m http.server 8080",
+    "deploy": "powershell -ExecutionPolicy Bypass -File deploy.ps1"
+  },
+  "keywords": [
+    "ai",
+    "news",
+    "tech",
+    "rss",
+    "tracker"
+  ],
+  "author": "瓦力",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/你的用户名/ai-news-tracker.git"
+  }
+}
