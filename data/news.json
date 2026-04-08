@@ -1,7 +1,161 @@
 {
-  "updateTime": "2026-04-08T20:03:16.657Z",
-  "total": 107,
+  "updateTime": "2026-04-08T23:10:21.538Z",
+  "total": 117,
   "news": [
+    {
+      "title": "我国成功发射卫星互联网低轨 21 组卫星",
+      "link": "https://www.ithome.com/0/937/205.htm",
+      "summary": "\nIT之家 4 月 9 日消息，据央视新闻报道，北京时间 2026 年 4 月 9 日 3 时 38 分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将卫星互联网低轨 21 组卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。\n此次任务是长征系列运载火箭的第 637 次飞行。\n\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-08 22:35:35",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic Supply-Chain Risk Label Should Stay in Place, Appeals Court Says",
+      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+      "summary": "The AI company now faces conflicting rulings in its fight over how Claude can be used by the US military....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-08 22:27:26",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69cea9a12b790324f16d5a40/master/pass/Anthropic-Supply-Chain-Risk-Business.jpg"
+    },
+    {
+      "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
+      "link": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
+      "summary": "\nThe age of agentic AI is upon us — whether we like it or not. What started with an innocent question-answer banter with ChatGPT back in 2022 has become an existential debate on job security and the r...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-04-08 22:26:37",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+      "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+      "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-08 21:50:41",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+      "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-08 21:19:07",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
+      "link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
+      "summary": "LinkedIn says claims fabricated by extension maker suspended for scraping data....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-08 21:08:06",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/linkedin-logo-500x500-1775680562.jpg"
+    },
+    {
+      "title": "AI agent Poke makes setting up automations as easy as sending a text",
+      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-08 21:05:13",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+      "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+      "summary": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-08 21:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+      "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-08 20:49:11",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iranhax-500x500.jpg"
+    },
+    {
+      "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation",
+      "link": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
+      "summary": "\nMeta has been one of the most interesting companies of the generative AI era — initially gaining a loyal and huge following of users for the release of its mostly open source Llama family of large la...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-04-08 20:34:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 iOS / iPadOS 26.4.1 发布：修复 iCloud 数据同步 Bug",
+      "link": "https://www.ithome.com/0/937/204.htm",
+      "summary": "\nIT之家 4 月 9 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 26.4.1 更新（内部版本号：23E254），本次更新距离上次发布正式版间隔 15 天。\n\n需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n在更新日志中，苹果公司只是表示“本更新提供针对 iPhone 的错误修复”。I...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-08 20:30:10",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+      "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but m...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-08 20:14:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-08 20:09:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+      "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+      "summary": "Meta touts strong benchmarks but admits \"performance gaps\" in agentic and coding systems....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-08 19:59:10",
+      "category": "chip",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-500x500.jpg"
+    },
     {
       "title": "Amazon to end support for older Kindle devices",
       "link": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
@@ -47,6 +201,17 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "title": "How our digital devices are putting our right to privacy at risk",
+      "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
+      "summary": "Law professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Data Will Be Used Against You....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-08 19:17:30",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/Google-Maps-CarPlay-Dashboard-500x500.png"
+    },
+    {
       "title": "LLM-referred traffic converts at 30-40% — and most enterprises aren't optimizing for it",
       "link": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing",
       "summary": "\nFor more than two decades, digital discovery has operated on a simple model: search, scan, click, decide. \nThat worked when humans were the ones doing the web searching; but with the advent of AI age...",
@@ -60,7 +225,7 @@
     {
       "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
       "link": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
-      "summary": "This is the first model Meta has released under its Superintelligence Labs, led by former ScaleAI CEO Alexandr Wang....",
+      "summary": "This is the first model Meta has released under its Superintelligence Labs, led by former Scale AI CEO Alexandr Wang....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -102,25 +267,14 @@
       "thumbnail": "https://media.wired.com/photos/69d66fdf5ed03f09403e5e8d/master/pass/Kamal%20Shehadi_WiredME,Gettyimages.jpg"
     },
     {
-      "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation",
-      "link": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
-      "summary": "\nMeta has been one of the most interesting companies of the generative AI era — initially gaining a loyal and huge following of users for the release of its mostly open source Llama family of large la...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-04-08 18:41:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Motorola's budget phones are now up to 50% more expensive as memory shortage drags on",
+      "title": "Motorola suddenly raises budget phone prices up to 50%—you can probably thank AI",
       "link": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
       "summary": "Motorola's budget phones are much less budget-friendly today....",
       "source": "Ars Technica",
       "sourceKey": "arstechnica",
       "region": "us",
       "pubDate": "2026-04-08 18:39:08",
-      "category": "other",
+      "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/moto_g_2026-500x500.png"
     },
     {
@@ -256,17 +410,6 @@
       "thumbnail": "https://media.wired.com/photos/69d679c9383b6979c9a47b1a/master/pass/Amazon-Killing-Older-Kindles-Gear-86436640.jpg"
     },
     {
-      "title": "These are the countries moving to ban social media for children",
-      "link": "https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and ex...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-08 16:30:53",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Meta is reentering the AI race with a new model called Muse Spark",
       "link": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
       "summary": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta...",
@@ -276,28 +419,6 @@
       "pubDate": "2026-04-08 16:12:54",
       "category": "ai",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0312.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto",
-      "link": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
-      "summary": "Back, a long-time researcher and pioneer in cryptography, denies the allegation that he is the secretive creator of Bitcoin....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-08 16:03:21",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-      "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-08 16:01:09",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "vivo 开放平台上线 Android 17 开发者预览版，首批适配 X300 Pro、iQOO 15",
@@ -330,17 +451,6 @@
       "region": "cn",
       "pubDate": "2026-04-08 15:43:31",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Hackers steal and leak sensitive LAPD police documents",
-      "link": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
-      "summary": "The LAPD said the breach affected “a digital storage system” belonging to the city’s Attorney's Office. The World Leaks extortion gang was reported to be behind the attack....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-08 15:38:34",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -399,17 +509,6 @@
       "thumbnail": ""
     },
     {
-      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-08 15:23:44",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "2026 款小鹏 MONA M03 汽车欧阳娜娜语音彩蛋上线，覆盖主驾迎宾、低电量提示等场景",
       "link": "https://www.ithome.com/0/937/198.htm",
       "summary": "\nIT之家 4 月 8 日消息，小鹏汽车官方今日宣布，2026 款小鹏 MONA M03 欧阳娜娜语音彩蛋上线。\n\n据介绍，2026 款小鹏 MONA M03 汽车欧阳娜娜语音彩蛋覆盖了 Nana 悄悄话、晚间音乐氛围灯、舒享模式、小憩模式、超舒适座椅按摩、主驾迎宾、Nana 的鼓励、超速提示、低电量提示、满电出发、下车带手机提醒、预计到达、注意开门杀、停车自动激活哨兵模式、大雨场景、Nana 的...",
@@ -452,28 +551,6 @@
       "pubDate": "2026-04-08 15:13:20",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1414665828-500x500-1775659706.jpg"
-    },
-    {
-      "title": "我国科学家破解水稻高产抗病育种难题，高产稳产再添硬核保障",
-      "link": "https://www.ithome.com/0/937/195.htm",
-      "summary": "\nIT之家 4 月 8 日消息，据央视报道，我国科研团队在水稻高产抗病育种方面取得新进展。相关研究成果于 4 月 8 日在国际学术期刊《自然》上发表。\n\n中国科学院分子植物科学卓越创新中心何祖华院士团队联合上海交通大学、浙江大学、上海师范大学等机构，成功克隆出一个广谱抗病基因，命名为 Xa48，并阐明了水稻在长期种植中抗病能力变化的规律。\n\n▲ XA48 介导的免疫信号通路及 Xa48-OsVOZ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-08 15:06:45",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "微信鸿蒙版 App 8.0.16.52 正式版更新发布",
-      "link": "https://www.ithome.com/0/937/194.htm",
-      "summary": "\nIT之家 4 月 8 日消息，微信鸿蒙版今日迎来最新的 8.0.16.52 (8392756) 正式版更新，官方更新日志依然为“修复了一些已知问题”。\n截至IT之家发文，鸿蒙版微信已安装已达到 4960 万次。\n\n大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。\n\n\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-08 15:03:18",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "The Miniature Wife was an exercise in visual trickery",
@@ -520,15 +597,15 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/3d9e28c56bd10628271bb980017b4ca8_1775658048.jpeg"
     },
     {
-      "title": "With Orion still flying, NASA is nearing key decisions about Artemis III",
-      "link": "https://arstechnica.com/space/2026/04/with-orion-still-flying-nasa-is-nearing-key-decisions-about-artemis-iii/",
-      "summary": "\"One of the questions is what the initial orbit will be for Artemis III.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-08 14:15:10",
-      "category": "space",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/lunar-lander-500x500.jpg"
+      "title": "Digital Quant 2026 量化交易大赛总交易量破48M美金，27支队伍参赛，“人虾对决”升温",
+      "link": "https://www.tmtpost.com/7946045.html",
+      "summary": "从榜单表现看，当前榜首队伍累计盈利已达 45,314.48 USDT，收益率为 28.04%；第二至第四名之间分差仅 0.59分，头部竞争仍较为接近。与此同时，已有 3支“龙虾战队”进入前九。截至目前，榜单前15名队伍均保持正收益，赛事已呈现出“人类战队暂时领先、龙虾战队持续追赶”的阶段性格局。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-08 14:12:08",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/706eb09fe4b3e1cd8b1e18d57931d678_1775657787.png"
     },
     {
       "title": "碳基向下，硅基向上：我们正在供养一台「失控的增长机器」",
@@ -550,7 +627,7 @@
       "region": "cn",
       "pubDate": "2026-04-08 14:11:31",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/ae75651b8cb771663d492e29a598cc95_1775657495.jpeg"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r4t3qegrsdfbvf3.png"
     },
     {
       "title": "芯片出海，征服日本汽车？",
@@ -561,7 +638,7 @@
       "region": "cn",
       "pubDate": "2026-04-08 14:11:25",
       "category": "chip",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/dc3fb1dbf703e0fce41f2bba8baee667_1775657488.png"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r4t3hrn3.png"
     },
     {
       "title": "华裔领衔神秘小队，护航Anthropic“玻璃之翼”",
@@ -608,26 +685,15 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4536ug3.png"
     },
     {
-      "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
-      "link": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/",
-      "summary": "A select group of customers is testing the Claude Mythos Preview....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-08 13:34:17",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/anthropoc_search-500x500.jpg"
-    },
-    {
-      "title": "Ikea’s New Lineup of Smart Home Gear Is Quietly Changing the Game",
-      "link": "https://www.wired.com/story/ikea-matter-smart-home-hands-on/",
-      "summary": "Ikea’s latest light bulbs, remotes, and more have arrived, plus plenty of other fun gear that’s well-priced and easy to control....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-08 13:16:00",
+      "title": "迪尔股价在评级上调后大涨，这是否意味着农业周期已触底？",
+      "link": "https://www.tmtpost.com/7945965.html",
+      "summary": "杰富瑞分析师斯蒂芬·沃尔克曼将迪尔公司的股票评级从“卖出”上调至“持有”。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-08 13:25:43",
       "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69d4482369e358e539effd5e/master/pass/KAJPLATS_0_aee62cf345.jpg"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/435grtgf3.png"
     },
     {
       "title": "Tractive’s new dog and cat trackers provide more health insights for your pets",
@@ -641,17 +707,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/tractive1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Xbox’s new era needs games like Forza Horizon 6",
-      "link": "https://www.theverge.com/games/908305/forza-horizon-6-preview-xbox",
-      "summary": "It's a weird time at Xbox. Microsoft's gaming division is under new management, with its current leadership intent on what it describes as \"a renewed commitment to Xbox.\" But given that no one really ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-08 13:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ss_7775b5046e2fcc717f180577f482b2a5e3cbf0dc.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
       "link": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulner...",
@@ -660,7 +715,7 @@
       "region": "us",
       "pubDate": "2026-04-08 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/06/USWDS_SPREAD.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "氪星晚报｜星巴克中国发布“千店千面”战略；TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心；谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
@@ -696,17 +751,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Thousands of consumer routers hacked by Russia's military",
-      "link": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
-      "summary": "End-of-life routers in homes and small offices hacked in 120 countries....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-08 11:00:08",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-500x500.jpeg"
-    },
-    {
       "title": "拉来数名特斯拉大将，能否解雷军销量“焦虑”？",
       "link": "https://www.tmtpost.com/7944381.html",
       "summary": "被传“挖”来数名特斯拉的昔日大将，小米汽车的组织架构或再度注入“新鲜血液”。...",
@@ -716,28 +760,6 @@
       "pubDate": "2026-04-08 10:56:36",
       "category": "auto",
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y46jytg3.png"
-    },
-    {
-      "title": "砸了8000块，儿子的眼轴还是涨了0.1mm",
-      "link": "https://www.tmtpost.com/7944235.html",
-      "summary": "放下焦虑，看见真相。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-08 10:55:50",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5hyjtng3.png"
-    },
-    {
-      "title": "腾讯音乐的版权，挡不住汽水音乐的算法",
-      "link": "https://www.tmtpost.com/7945686.html",
-      "summary": "新模式与旧时代的较量。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-08 10:55:29",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/3r2egf3.png"
     },
     {
       "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
@@ -993,17 +1015,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Valve brings native Steam Link app to Apple's Vision Pro",
-      "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
-      "summary": "New app can replace third-party options that were jankier to use....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-07 22:21:21",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-500x500.jpeg"
-    },
-    {
       "title": "Block introduces Managerbot, a proactive Square AI agent and the clearest proof point yet for Jack Dorsey’s AI bet",
       "link": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest",
       "summary": "\nBlock today unveiled Managerbot, a new AI agent embedded in the Square platform that proactively monitors a seller's business, identifies emerging problems, and proposes actionable solutions — withou...",
@@ -1037,15 +1048,15 @@
       "thumbnail": ""
     },
     {
-      "title": "AI joins the 8-hour work day as GLM ships 5.1 open source LLM, beating Opus 4.6 and GPT-5.4 on SWE-Bench Pro",
-      "link": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4",
-      "summary": "\nIs China picking back up the open source AI baton? \nZ.ai, also known as Zhupai AI, a Chinese AI startup best known for its powerful, open source GLM family of models, has unveiled GLM-5.1 today under...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
+      "title": "Temple University Student Highlights IEEE Membership Perks",
+      "link": "https://spectrum.ieee.org/temple-university-student-membership-perks",
+      "summary": "\nKyle McGinley graduated from high school in 2018 and, like many teenagers, he was unsure what career he wanted to pursue. Recuperating from a sports injury led him to consider becoming a physical the...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-04-07 21:27:07",
+      "pubDate": "2026-04-07 18:00:02",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-white-man-smiling-and-crossing-his-arms-in-a-workshop.jpg?id=65485944&width=1200&height=800&coordinates=62%2C0%2C63%2C0"
     },
     {
       "title": "Desalination plants in the Middle East are increasingly vulnerable",
@@ -1059,6 +1070,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Decentralized Training Can Help Solve AI’s Energy Woes",
+      "link": "https://spectrum.ieee.org/decentralized-ai-training-2676670858",
+      "summary": "\n Artificial intelligence harbors an enormous energy appetite. Such constant cravings are evident in the hefty carbon footprint of the data centers behind the AI boom and the steady increase over time...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-07 14:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-several-data-servers-interconnected-across-long-distances.jpg?id=65477795&width=1200&height=800&coordinates=156%2C0%2C156%2C0"
+    },
+    {
       "title": "Enabling agent-first process redesign",
       "link": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
       "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en...",
@@ -1067,7 +1089,29 @@
       "region": "us",
       "pubDate": "2026-04-07 14:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Deloitte-Landing-Page-Card.png?w=1200"
+      "thumbnail": ""
+    },
+    {
+      "title": "Why AI Systems Fail Quietly",
+      "link": "https://spectrum.ieee.org/ai-reliability",
+      "summary": "\nIn late-stage testing of a distributed AI platform, engineers sometimes encounter a perplexing situation: every monitoring dashboard reads “healthy,” yet users report that the system’s decisions are ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-07 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-series-of-135-green-dots-slowly-transition-from-bright-green-to-black.png?id=65461614&width=1200&height=800&coordinates=73%2C0%2C74%2C0"
+    },
+    {
+      "title": "Over-the-Air Computation Uses Radio Interference to Crunch Data",
+      "link": "https://spectrum.ieee.org/wireless-network-over-air-computation",
+      "summary": "\nPicture a highway with networked autonomous cars driving along it. On a serene, cloudless day, these cars need only exchange thimblefuls of data with one another. Now picture the same stretch in a su...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-07 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-wavy-lines-and-geometric-circles-forming-a-colorful-fluid-layered-pattern.png?id=65476058&width=1200&height=800&coordinates=0%2C666%2C0%2C667"
     },
     {
       "title": "The Download: AI’s impact on jobs, and data centres in space",
@@ -1078,7 +1122,7 @@
       "region": "us",
       "pubDate": "2026-04-07 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/04/20240926__DSC7922_PA.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
@@ -1136,6 +1180,17 @@
       "thumbnail": ""
     },
     {
+      "title": "AI Is Insatiable",
+      "link": "https://spectrum.ieee.org/high-bandwidth-memory-shortage",
+      "summary": "\nWhile browsing our website a few weeks ago, I stumbled upon “How and When the Memory Chip Shortage Will End” by Senior Editor Samuel K. Moore. His analysis focuses on the current DRAM shortage caused...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-06 14:22:58",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/robot-hand-catching-falling-computer-chips-from-an-open-snack-bag-in-pop-art-style.png?id=65425799&width=1200&height=800&coordinates=0%2C180%2C0%2C181"
+    },
+    {
       "title": "AI is changing how small online sellers decide what to make",
       "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
       "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p...",
@@ -1145,6 +1200,17 @@
       "pubDate": "2026-04-06 11:00:00",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Studying Human Attitudes Towards Robots Through Experience",
+      "link": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+      "summary": "\nBuilding the next generation of robots for successful integration into our homes, offices, and factories is more than just solving the hardware and software problems – we also need to understand how ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-05 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200&height=800&coordinates=62%2C0%2C63%2C0"
     },
     {
       "title": "Four things we’d need to put data centers in space",
@@ -1158,6 +1224,39 @@
       "thumbnail": ""
     },
     {
+      "title": "Video Friday: Digit Learns to Dance—Virtually Overnight",
+      "link": "https://spectrum.ieee.org/video-humanoid-dancing",
+      "summary": "\nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few mont...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-03 16:30:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/bipedal-teal-robot-practices-side-to-side-dance-move-with-arm-movement.gif?id=65460048&width=1200&height=800&coordinates=11%2C0%2C11%2C0"
+    },
+    {
+      "title": "ENIAC’s Architects Wove Stories Through Computing",
+      "link": "https://spectrum.ieee.org/eniac-80th-anniversary-weaving",
+      "summary": "\nThis year marks the 80th anniversary of ENIAC, the first general-purpose digital computer. The computer was built during World War II to speed up ballistics calculations, but its contributions to com...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-03 13:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/close-up-black-and-white-1940-s-image-of-a-woman-holding-a-metallic-brick-like-controller-with-large-knobs.jpg?id=65453792&width=1200&height=800&coordinates=0%2C83%2C0%2C84"
+    },
+    {
+      "title": "Young Professional’s AI Tool Spots Mental Health Conditions",
+      "link": "https://spectrum.ieee.org/abhishek-appaji-ai-diagnostic-tool",
+      "summary": "\nAbhishek Appaji has committed his career to bringing lifesaving technology to underresourced communities. The IEEE senior member weaves together artificial intelligence, biomedical engineering, deep ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-02 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-adult-indian-man-using-a-machine-to-capture-images-of-an-adult-womans-retina.jpg?id=65452299&width=1200&height=800&coordinates=156%2C0%2C156%2C0"
+    },
+    {
       "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
       "link": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in...",
@@ -1166,7 +1265,7 @@
       "region": "us",
       "pubDate": "2026-04-02 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/21a82f27-7b51-2a01-89f9-90e034d77707.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Fuel prices are soaring. Plastic could be next.",
@@ -1178,6 +1277,17 @@
       "pubDate": "2026-04-02 10:00:00",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "What Exoskeletons Learned From One Relentless User",
+      "link": "https://spectrum.ieee.org/exoskeleton-user-experience",
+      "summary": "\nIt’s easy to assume that Robert Woo was defined by the accident that took away his ability to walk.\nCertainly, the day of his accident—14 December 2007—was a turning point. Woo, an architect working ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-01 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-man-wearing-a-full-body-robotic-exoskeleton-standing-on-a-city-sidewalk.png?id=65426945&width=1200&height=800&coordinates=0%2C667%2C0%2C667"
     }
   ]
 }
