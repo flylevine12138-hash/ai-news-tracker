@@ -1,7 +1,40 @@
 {
-  "updateTime": "2026-04-12T17:04:24.219Z",
+  "updateTime": "2026-04-12T19:55:37.763Z",
   "total": 117,
   "news": [
+    {
+      "title": "Five signs data drift is already undermining your security models",
+      "link": "https://venturebeat.com/security/five-signs-data-drift-is-already-undermining-your-security-models",
+      "summary": "\nData drift happens when the statistical properties of a machine learning (ML) model's input data change over time, eventually rendering its predictions less accurate. Cybersecurity professionals who ...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-04-12 19:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "X says it’s reducing payments to clickbait accounts",
+      "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "summary": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-12 17:02:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rockstar Games says hack will have ‘no impact’",
+      "link": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
+      "summary": "Rockstar confirmed on Saturday that some of its data was compromised in a breach of a third-party provider. The group ShinyHunters claimed responsibility, saying it had gained access to the company's ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-12 17:02:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Jason_and_Lucia_02_With_Logos_landscape.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
       "link": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
@@ -25,17 +58,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Your developers are already running AI locally: Why on-device inference is the CISO’s new blind spot",
-      "link": "https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is",
-      "summary": "\nFor the last 18 months, the CISO playbook for generative AI has been relatively simple: Control the browser.\nSecurity teams tightened cloud access security broker (CASB) policies, blocked or monitore...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-04-12 16:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "广汽科技日发布五大核心技术：星源插混让 2 吨大车油耗降至 3 升，昊铂 GT 攀登版 5 月上市",
       "link": "https://www.ithome.com/0/938/364.htm",
       "summary": "\nIT之家 4 月 12 日消息，在今晚的 2026 广汽科技日活动上，广汽集团集中发布了星源动力、星舰车身、星河智舱、星灵电子电气架构 4.0 以及车规级芯片生态等领域的最新成果。\n\n在动力技术方面，广汽发布了新一代星源动力技术品牌，涵盖星源插混与星源超级双擎（HEV+）两大系统。\n\n星源插混搭载 1.5T 混动发动机，可输出 125kW 最大功率与 245N·m 峰值扭矩；其所配备的 GMC ...",
@@ -44,7 +66,7 @@
       "region": "cn",
       "pubDate": "2026-04-12 15:59:59",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/ff757c8a-024d-48e3-a545-f19422e0d217.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "黯然退场：苹果前 AI 负责人 Giannandrea 预计将于 4 月 15 日后离任",
@@ -55,7 +77,7 @@
       "region": "cn",
       "pubDate": "2026-04-12 15:21:33",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/a4e338ae-4fc3-44ad-a1b5-31e8f42ea742.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Linux 对 AI 生成代码制定规则：允许使用 Copilot 等辅助工具，人类承担失误责任",
@@ -66,7 +88,7 @@
       "region": "cn",
       "pubDate": "2026-04-12 15:09:37",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/ba11ca25-7fa1-40b1-a91c-5a0e73132b6f.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
@@ -76,6 +98,17 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-04-12 15:07:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Your developers are already running AI locally: Why on-device inference is the CISO’s new blind spot",
+      "link": "https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is",
+      "summary": "\nFor the last 18 months, the CISO playbook for generative AI has been relatively simple: Control the browser.\nSecurity teams tightened cloud access security broker (CASB) policies, blocked or monitore...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-04-12 15:00:20",
       "category": "ai",
       "thumbnail": ""
     },
@@ -110,7 +143,7 @@
       "region": "cn",
       "pubDate": "2026-04-12 14:50:29",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/30b156e0-254e-4c77-aa3d-3286faaabc36.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "苹果 AI 智能眼镜细节曝光：多款框型配色、竖向椭圆形摄像头，有望 2027 年上市",
@@ -121,7 +154,7 @@
       "region": "cn",
       "pubDate": "2026-04-12 14:36:59",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/e47ef106-3289-44bc-81dc-d1c204011f81.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "荣耀朱臣才开箱 MagicBook 系列新品，演示“Magic 视界”新功能",
@@ -132,7 +165,7 @@
       "region": "cn",
       "pubDate": "2026-04-12 14:34:08",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/7c142689-4c7c-4f27-a0c1-04402ff87c3c.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99",
@@ -154,7 +187,7 @@
       "region": "cn",
       "pubDate": "2026-04-12 14:23:06",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/752376e8-48ae-4ba9-9931-aa50239691ea.png?x-bce-process=image/format,f_auto/auto-orient,o_1"
     },
     {
       "title": "玩老游戏，最可怕的还不是画面落伍",
@@ -165,7 +198,7 @@
       "region": "cn",
       "pubDate": "2026-04-12 14:15:21",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/8650e7a4-4a9d-46e1-9e22-96e23916a83c.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "「Claude Code之父」其实是野路子来的……",
@@ -187,7 +220,7 @@
       "region": "cn",
       "pubDate": "2026-04-12 14:11:11",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/33851212-201b-4580-a35c-c7188ec9fe1a.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
@@ -209,7 +242,7 @@
       "region": "cn",
       "pubDate": "2026-04-12 14:06:10",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/c98146e0-a642-4196-9737-c559d4bb856f.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
@@ -575,17 +608,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/IMG_3487.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Your article about AI doesn’t need AI art",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-      "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces -...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-11 15:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
       "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
       "summary": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM....",
@@ -786,7 +808,7 @@
     {
       "title": "36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万",
       "link": "https://36kr.com/p/3761739153081096?f=rss",
-      "summary": "\n作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，高端工业镜头研发商——阿基视觉科技（东莞）有限公司（下称“阿基视觉”）近日完成数千万元��使轮融资，由东莞科创、深担创投、松禾资本及林润集团联合投资，德太资本担任本轮融资顾问。本轮融资将用于团队扩充、产能扩建、研发配套及市场拓展，加速高端工业镜头的国产化替代进程。\n  阿基视觉成立于2022年，总部位于东莞松山湖。2025年，CEO吴选胜加入阿基视觉，...",
+      "summary": "\n作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，高端工业镜头研发商——阿基视觉科技（东莞）有限公司（下称“阿基视觉”）近日完成数千万元天使轮融资，由东莞科创、深担创投、松禾资本及林润集团联合投资，德太资本担任本轮融资顾问。本轮融资将用于团队扩充、产能扩建、研发配套及市场拓展，加速高端工业镜头的国产化替代进程。\n  阿基视觉成立于2022年，总部位于东莞松山湖。2025年，CEO吴选胜加入阿基视觉，吴...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
@@ -814,17 +836,6 @@
       "region": "cn",
       "pubDate": "2026-04-11 01:02:01",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
-      "link": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
-      "summary": "The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-11 00:44:17",
-      "category": "space",
       "thumbnail": ""
     },
     {
@@ -979,7 +990,7 @@
       "region": "us",
       "pubDate": "2026-04-10 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/04/Users_Glass-thumb.jpg"
+      "thumbnail": ""
     },
     {
       "title": ":fire: SolonCode CLI v2026.4.11 发布（编码智能体）",
@@ -1034,7 +1045,7 @@
       "region": "us",
       "pubDate": "2026-04-10 10:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/edit-thumb.jpg?w=2687"
+      "thumbnail": ""
     },
     {
       "title": "deepin 25.1.0 发布 | AI 领航，丝滑入芯！",
@@ -1133,7 +1144,7 @@
       "region": "us",
       "pubDate": "2026-04-09 12:25:10",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/02/0511013_01.jpg?w=2947"
+      "thumbnail": ""
     },
     {
       "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
@@ -1144,7 +1155,7 @@
       "region": "us",
       "pubDate": "2026-04-09 10:00:00",
       "category": "other",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AP23278453062506.jpg?w=2902"
+      "thumbnail": ""
     },
     {
       "title": "Desalination technology, by the numbers",
@@ -1169,17 +1180,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation",
-      "link": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
-      "summary": "\nMeta has been one of the most interesting companies of the generative AI era — initially gaining a loyal and huge following of users for the release of its mostly open source Llama family of large la...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-04-08 20:34:01",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
       "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
       "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas...",
@@ -1199,7 +1199,7 @@
       "region": "us",
       "pubDate": "2026-04-08 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/06/USWDS_SPREAD.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Temple University Student Highlights IEEE Membership Perks",
@@ -1243,7 +1243,7 @@
       "region": "us",
       "pubDate": "2026-04-07 14:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Deloitte-Landing-Page-Card.png?w=1200"
+      "thumbnail": ""
     },
     {
       "title": "Why AI Systems Fail Quietly",
