@@ -1,7 +1,359 @@
 {
-  "updateTime": "2026-04-15T14:57:55.451Z",
+  "updateTime": "2026-04-15T18:53:56.500Z",
   "total": 117,
   "news": [
+    {
+      "title": "We tested Anthropic’s redesigned Claude Code desktop app and 'Routines' -- here's what enterprises should know",
+      "link": "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know",
+      "summary": "\nThe transition from AI as a chatbot to AI as a workforce is no longer a theoretical projection; it has become the primary design philosophy for the modern developer's toolkit. \nOn April 14, 2026, Ant...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-04-15 18:40:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-15 18:38:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-15 18:33:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ikea’s smart donut lamp is a sweet treat",
+      "link": "https://www.theverge.com/tech/911809/ikea-varmblixt-smart-donut-lamp-review-matter-thread",
+      "summary": "Ikea's popular Varmblixt lamp just got a smart home glow-up. The delightfully bulbous light now features color-changing, dimming, and smart home control. I tested the new smart lamp in my daughter's r...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-15 18:30:50",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268444_Ikea_Varmblixt_lamp_JTuohy_0006.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Google rolls out a native Gemini app for Mac",
+      "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-15 18:22:13",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google launches a Gemini AI app on Mac",
+      "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+      "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull u...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-15 18:10:15",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Microsoft counters the MacBook Neo with freebies for students",
+      "link": "https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students",
+      "summary": "Apple's $599 MacBook Neo ($499 for students) has sent shockwaves through the PC ecosystem, and now Microsoft is responding with deals targeting students in the US. A new \"Microsoft College Offer\" is l...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-15 18:03:46",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Under-Embargo-until-4.15-at-11am-PT_260413_BTSCampaign_3DLaptop_Delivery_NoBubbles.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "AI Could Democratize One of Tech's Most Valuable Resources",
+      "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
+      "summary": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-15 18:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69dea084bbe4a9ff56b3014b/master/pass/AL-Lab-AI-Could-Democratize-One-of-Techs-Most-Valuable-Resources-Business.jpg"
+    },
+    {
+      "title": "AI's next bottleneck isn't the models — it's whether agents can think together",
+      "link": "https://venturebeat.com/orchestration/ais-next-bottleneck-isnt-the-models-its-whether-agents-can-think-together",
+      "summary": "\nAI agents can connect together, but they cannot think together. That’s a huge difference and a bottleneck for next-gen systems, says Outshift by Cisco’s SVP and GM Vijoy Pandey.\nAs he describes the c...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-04-15 17:52:37",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more",
+      "link": "https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/",
+      "summary": "Glydways is in talks to raise another $250 million as it prepares to launch three pilot programs....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-15 17:46:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Accel raises $5B to back late-stage bets",
+      "link": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/",
+      "summary": "Accel announced on Tuesday that it raised $5 billion in fresh capital to back late-stage companies building AI....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-15 17:37:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft Surface PCs Are Getting Big Price Hikes, and the Cheaper Models Are Going Away",
+      "link": "https://www.wired.com/story/microsoft-surface-price-hikes-cheaper-models-going-away/",
+      "summary": "The price increases range from $200 to $300, and Microsoft doesn’t sell a sub-$1,000 Surface anymore. The rising cost of consumer tech is a common theme in 2026....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-15 17:28:30",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/69dfbe4967d3fd19de3c0dce/master/pass/GettyImages-1227921954.jpg"
+    },
+    {
+      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-15 17:24:18",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Best Buy’s Ultimate Upgrade Sale features deals on dozens of our favorite gadgets",
+      "link": "https://www.theverge.com/gadgets/911853/best-buy-ultimate-upgrade-sale-2026-tech-deals-apple",
+      "summary": "If you missed out on Amazon’s recent spring sales event, Best Buy’s Ultimate Upgrade Sale presents yet another opportunity to score steep discounts on some of our favorite gadgets. The five-day sale r...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-15 17:04:34",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The Senate is voting to save free IRS Direct File today",
+      "link": "https://www.theverge.com/policy/912490/irs-direct-file-senate-vote",
+      "summary": "The Senate is getting ready to vote on a bill to resurrect IRS Direct File, the free tax filing service axed by the Trump administration in 2025. On Wednesday, Sen. Elizabeth Warren (D-MA) will seek u...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-15 17:00:00",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK417_H_Herrera_Money_03.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
+      "link": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
+      "summary": "This is a big step in a new strategic direction for Adobe....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-15 16:54:33",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/adobe-firefly-ai-assistant-500x500.jpg"
+    },
+    {
+      "title": "Most people still don’t want anything to do with robotaxis",
+      "link": "https://www.theverge.com/transportation/912357/robotaxi-poll-ev-intelligence-report-waymo-tesla",
+      "summary": "I've been reporting on self-driving cars for over a decade, and I've seen the technology go through many ups and downs, highs and lows. But one thing has remained remarkably the same over the years: t...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-15 16:27:56",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK418_Autonomous_Vehicles_Cvirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Anthropic shrugs off VC funding offers valuing it at $800B+, for now",
+      "link": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
+      "summary": "VCs are frothing at the mouth to write more checks to Anthropic at a valuation that matches or beats OpenAI's....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-15 16:21:21",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Amazon Is Buying Globalstar—and What It Means for Your iPhone",
+      "link": "https://www.wired.com/story/why-amazon-is-buying-globalstar-and-what-it-means-for-your-iphone/",
+      "summary": "Amazon is paying more than $11 billion for a small satellite company....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-15 16:19:40",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/69dec7e359777aa741957731/master/pass/Amazon-Bought-GlobalStar-Gear-2270825370.jpg"
+    },
+    {
+      "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
+      "link": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
+      "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The compa...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-15 16:13:30",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1253153052.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "US jobs too important to risk Chinese car imports, says Ford CEO",
+      "link": "https://arstechnica.com/cars/2026/04/us-jobs-too-important-to-risk-chinese-car-imports-says-ford-ceo/",
+      "summary": "China has enough spare capacity to swallow the entire US car market, says Ford's Jim Farley....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-15 16:08:26",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2178358975-500x500-1776266974.jpg"
+    },
+    {
+      "title": "The US Government Will Ask Data Centers How Much Power They Use",
+      "link": "https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/",
+      "summary": "In a letter obtained by WIRED, the Energy Information Administration tells two senators that it plans to develop a mandatory assessment of data centers' energy use....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-15 16:00:27",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69debc4d4d898774bc720bdd/master/pass/GettyImages-2249152852.jpg"
+    },
+    {
+      "title": "Motorola sues social platforms and creators over posts, raising speech concerns in India",
+      "link": "https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/",
+      "summary": "Motorola has sought a permanent injunction restraining the defendants from publishing or sharing what it describes as false or defamatory content about its products, including reviews, videos, comment...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-15 16:00:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Airwallex is about to take on Stripe and the rest of the payments industry — in the physical world",
+      "link": "https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/",
+      "summary": "Airwallex, valued at $8 billion, is launching a point-of-sale product that lets businesses accept in-person payments in multiple countries via a single platform....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-15 16:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Good Omens S3 trailer sets up a blessed conclusion",
+      "link": "https://arstechnica.com/culture/2026/04/good-omens-s3-trailer-sets-up-a-blessed-conclusion/",
+      "summary": "Prime Video's supernatural comedy will end with a special 90-minute final episode....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-15 15:45:42",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/goodomens-500x500.jpg"
+    },
+    {
+      "title": "事关 L2 级辅助驾驶：相关强制性国标进一步公开征求意见，华为引望、小米汽车、比亚迪、特斯拉等单位联合起草",
+      "link": "https://www.ithome.com/0/939/644.htm",
+      "summary": "\nIT之家 4 月 15 日消息，工信部组织完成了《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准（报批稿）的编制工作。\n\n标准报批稿及编制说明于 2026 年 4 月 16 日至 22 日公示，进一步听取社会各界意见。大家可以按照官方格式向工信部积极反馈。\n\n该标准报批稿规定了基础单车道组合驾驶辅助系统、基础多车道组合驾驶辅助系统以及领航组合驾驶辅助系统的安全要求与同一型式判定，并描述了...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-15 15:28:28",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "Allbirds abandons clothes, pivots to \"AI compute infrastructure\"",
+      "link": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
+      "summary": "Desperate stock-boosting move recalls 2017's \"Long Island Blockchain\" frenzy....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-15 15:26:56",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1253152849-500x500-1776265723.jpg"
+    },
+    {
+      "title": "九号推出 M3 85/95c MAX 闪骑智能铅酸电摩：首发价 4799/6299 元",
+      "link": "https://www.ithome.com/0/939/643.htm",
+      "summary": "\nIT之家 4 月 15 日消息，九号电动今晚宣布推出双强智能铅酸电摩新品，IT之家汇总价格如下：\n\n九号 M3 95c MAX 闪骑，新品首发价 6299 元起；\n九号 M3 85c MAX 闪骑，新品首发价 4799 元起。\n\n京东九号（Ninebot）【新品】M3 95c MAX 闪骑 九号电动摩托车智能超长续航通勤外卖【门店自提】 到门店选颜色 6899 元直达链接\n2026 年数码家电政...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-15 15:15:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "上下水版 3501 元：石头 P20 Ultra Plus 扫拖机器人年内好价限今日",
+      "link": "https://www.ithome.com/0/939/642.htm",
+      "summary": "\n石头 P20 Ultra Plus 扫拖机器人开售于 2025 年 8 月 15 日，其中上下水版定价为 4699 元。\n今日天猫超市 88VIP 仅需 3501 元，礼金活动仅限今日，23:59:59 失效。\n点击详情页右上角【...】，选择【淘金币】，淘金币抵扣后实付 3501 元包邮：\n天猫石头 P20 Ultra Plus 上下水版抵扣后 3501 元领 670 元券\n\n据介绍，这款扫地...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-15 15:06:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "New 3D map of Universe could solve dark energy mystery",
+      "link": "https://arstechnica.com/science/2026/04/desi-completes-its-3d-map-of-universe-right-on-schedule/",
+      "summary": "Latest data must still be analyzed but could help determine if dark energy is constant or varies over time....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-15 15:00:56",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/desi1-500x500.jpg"
+    },
+    {
+      "title": "MAGA Is Starting to Look Beyond Trump",
+      "link": "https://www.wired.com/story/maga-is-starting-to-look-beyond-trump/",
+      "summary": "A seemingly endless torrent of criticism directed toward Trump from former MAGA allies suggests the president is losing support from his base....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-15 15:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/69deb111b083bab80bea1f90/master/pass/politics_trump_maga.jpg"
+    },
+    {
+      "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
+      "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
+      "summary": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-15 14:58:08",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69df97b621acbf548f6fdef0/master/pass/GettyImages-1134284112.jpg"
+    },
     {
       "title": "Steam 新一周游戏销量榜公布：《红色沙漠》全球四连冠，《杀戮尖塔 2》稳居第二",
       "link": "https://www.ithome.com/0/939/641.htm",
@@ -69,17 +421,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Sweden blames Russian hackers for attempting ‘destructive’ cyberattack on thermal plant",
-      "link": "https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/",
-      "summary": "Sweden's minister for civil defense said Russian hackers are \"now attempting destructive cyber attacks against organizations in Europe.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-15 14:21:39",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "What’s the deal with Alzheimer’s disease and amyloid?",
       "link": "https://arstechnica.com/science/2026/04/whats-the-deal-with-alzheimers-disease-and-amyloid/",
       "summary": "For decades, scientists have concentrated on what now looks to be a blind alley....",
@@ -121,40 +462,7 @@
       "region": "us",
       "pubDate": "2026-04-15 14:00:00",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "补足有线连接，罗技推出 Alto Keys 琥珀 K98M / K98S Plus 三模机械键盘",
-      "link": "https://www.ithome.com/0/939/633.htm",
-      "summary": "\nIT之家 4 月 15 日消息，Logitech 罗技现已推出 Alto Keys 琥珀 K98M / K98S Plus 机械键盘，售价分别为 399 元和 499 元。\n\nIT之家注意到，相较无 Plus 后缀的原版，新款为此前仅能充电的 USB-C 接口补足数据传输功能，支持 1kHz 回报率有线连接；加上此前就有的蓝牙 LE 和罗技 Bolt，K98M / K98S Plus 正式成为“...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-15 13:57:11",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "华为随行 WiFi X 新品 4 月 27 日正式发售，零售价 2499 元",
-      "link": "https://www.ithome.com/0/939/632.htm",
-      "summary": "\nIT之家 4 月 15 日消息，中国移动携手华为打造的全新一代随行 WiFi 产品 —— 华为随行 WiFi X 确认将于 4 月 24 日开始预售，4 月 27 日正式发售，零售价 2499 元。\n同时，中国移动也为这款产品配备了专属资费套餐及多个融合套餐可选，比如 200GB 流量融合套餐 199 元。\n\n华为随行 WiFi X 的宣传语为“超级直播神器”，该产品已在 2025 年底首次亮相...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-15 13:56:49",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "Snap is cutting 1,000 jobs, 16% of its workforce",
-      "link": "https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/",
-      "summary": "The company cites advancements in AI for the cuts....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-15 13:54:15",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/FROM_S4_UT_406_250822_REDJES_02727_R_3000.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "氪星晚报｜Snap宣布将裁员约1000人；字节启动新一轮期权回购；苹果CEO库克斥资106万美元增持耐克",
@@ -168,17 +476,6 @@
       "thumbnail": ""
     },
     {
-      "title": "小米 · 中国汽车场地职业联赛揭幕战 4 月 24 日开启，明早 10 点门票开售",
-      "link": "https://www.ithome.com/0/939/630.htm",
-      "summary": "\nIT之家 4 月 15 日消息，小米汽车官方今晚宣布，由小米总冠名的“小米 · 中国汽车场地职业联赛”2026 赛季揭幕战，将于 4 月 24 日在上海国际赛车场正式开赛，赛事门票明日上午 10 点发售。\n\nCTCC 中国汽车场地职业联赛是目前国内规模最大的国家级场地汽车赛事之一，参赛车型覆盖范围广、赛车数量多，竞技性和观赏性较强。\n作为赛事总冠名方，小米方面将为现场观众提供专属观赛席位及包厢，...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-15 13:51:36",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Walmart is updating its 4K streaming box with Gemini and Matter support",
       "link": "https://www.theverge.com/tech/912334/walmart-onn-4k-pro-streamer-google-tv-gemini-matter-thread-smart-home",
       "summary": "It hasn't been officially announced, but Walmart's website now has a listing (you may need to set your location to Ventura, California) for an updated version of its budget-friendly Onn 4K Pro streami...",
@@ -187,7 +484,7 @@
       "region": "us",
       "pubDate": "2026-04-15 13:49:28",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/walmart_onn.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Blue Origin has a new employee stock plan, but not everyone is happy",
@@ -199,6 +496,17 @@
       "pubDate": "2026-04-15 13:38:19",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/HFqh0p3WsAEFUNs-500x500.jpg"
+    },
+    {
+      "title": "全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元",
+      "link": "https://www.qbitai.com/2026/04/401512.html",
+      "summary": "16cm极致外扩，主动探入清洁死角...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-04-15 13:28:53",
+      "category": "other",
+      "thumbnail": ""
     },
     {
       "title": "Best Smart Smoke Detector (and Why You Still Need a Dumb One)",
@@ -223,28 +531,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-tax-form-500x500.jpg"
     },
     {
-      "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
-      "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-      "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-15 13:06:54",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-      "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-      "summary": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-15 13:01:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Stealth Signals Are Bypassing Iran’s Internet Blackout",
       "link": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
       "summary": "\nOn 8 January 2026, the Iranian government imposed a near-total communications shutdown. It was the country’s first full information blackout: For weeks, the internet was off across all provinces whil...",
@@ -267,61 +553,6 @@
       "thumbnail": "https://spectrum.ieee.org/media-library/abstract-pixel-art-resembling-a-padlock-and-token.jpg?id=65520763&width=2000&height=1500&coordinates=416%2C0%2C417%2C0"
     },
     {
-      "title": "This energy startup’s bet on 100-year-old grid tech is paying off",
-      "link": "https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/",
-      "summary": "Ayr Energy is using a shortage of power conversion equipment to break open a decades-old market....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-15 13:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-      "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-      "summary": "The company uses AI to review code that, more often than not these days, has also been generated by AI....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-15 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "This startup is betting tokenmaxxing will create the next compute giant",
-      "link": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-      "summary": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-15 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Amazon unveils a slimmer Fire TV Stick HD, opens Ember Artline TVs for preorder",
-      "link": "https://techcrunch.com/2026/04/15/amazon-unveils-a-slimmer-fire-tv-stick-hd-opens-ember-artline-tvs-for-preorder/",
-      "summary": "On Wednesday, Amazon announced the launch of its new Fire TV Stick HD and Ember Artline televisions, both now available for preorder.  Following the initial release of the first-generation Fire TV Sti...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-15 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chipmakers AMD, Arm, and Qualcomm are all investing in this buzzy self-driving tech startup",
-      "link": "https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/",
-      "summary": "Wayve's $1.2 billion Series D round, which was announced in February, keeps growing....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-15 13:00:00",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
       "title": "More phone cameras should come with telephoto lenses",
       "link": "https://www.theverge.com/tech/912097/vivo-x300-ultra-camera-kit-hands-on",
       "summary": "Upgrading your phone with a camera grip attachment is one thing. But doll-sized telephoto lenses that you mount on top of the rear camera? C'mon. I wrote the Vivo X300 off as a gimmick, a funny concep...",
@@ -330,29 +561,7 @@
       "region": "us",
       "pubDate": "2026-04-15 13:00:00",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
-      "link": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
-      "summary": "Adobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assista...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-15 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Amazon’s new Fire TV Stick HD is its ‘slimmest ever’",
-      "link": "https://www.theverge.com/tech/912346/amazon-fire-tv-stick-hd-slimmest-ever",
-      "summary": "Amazon has taken the wraps off a new Fire TV Stick HD that it says is its slimmest yet. At $34.99, the device offers a design that Amazon says is 30 percent thinner than the previous generation, along...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-15 13:00:00",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268463_Vivo_X300_Ultra_AJohnson_0006.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Adobe’s new Firefly AI Assistant wants to run Photoshop, Premiere, Illustrator and more from one prompt",
@@ -373,17 +582,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-04-15 12:55:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Nothing makes it easy to share files between any Android phone and a Mac",
-      "link": "https://www.theverge.com/tech/912317/nothing-warp-android-mac-pc-linux-hands-on",
-      "summary": "I test Android phones for a living, but I write about them using a company-supplied MacBook Air. Both platforms are great in their own right, but they're not so great at talking to one another. On a h...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-15 12:45:43",
       "category": "ai",
       "thumbnail": ""
     },
@@ -410,26 +608,15 @@
       "thumbnail": "https://media.wired.com/photos/685f10e6472f227b69cc9560/master/pass/The%20Best%20Standing%20Desks.png"
     },
     {
-      "title": "The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to",
-      "link": "https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch",
-      "summary": "Tomodachi Life: Living the Dream is hard to explain. The best way to understand is to see it in action; a screenshot of Handsome Squidward and Bob Belcher falling in love over their shared appreciatio...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-15 12:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft faces fresh Windows Recall security concerns",
-      "link": "https://www.theverge.com/report/912101/microsoft-windows-recall-new-security-concerns-response",
-      "summary": "When Microsoft tried to launch Recall, an AI-powered Windows feature that screenshots most of what you do on your PC, it was labeled a \"disaster\" for cybersecurity and a \"privacy nightmare.\" After the...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
+      "title": "Best GoPro Camera (2026): Compact, Budget, Accessories",
+      "link": "https://www.wired.com/gallery/best-gopro-hero-camera/",
+      "summary": "You’re an action hero, and you need a camera to match. We guide you through all the models, plus accessory recommendations and hidden software tricks to try....",
+      "source": "Wired",
+      "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-04-15 11:30:00",
-      "category": "ai",
-      "thumbnail": ""
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/68a91d240ff15a77d5c4a427/master/pass/Which%20GoPro%20Hero%20Camera%20Should%20You%20Buy_.png"
     },
     {
       "title": "Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
@@ -443,17 +630,6 @@
       "thumbnail": "https://media.wired.com/photos/686729e7c3e228b35983727d/master/pass/Best%20Wifi%20Routers.png"
     },
     {
-      "title": "Best GoPro Camera (2026): Compact, Budget, Accessories",
-      "link": "https://www.wired.com/gallery/best-gopro-hero-camera/",
-      "summary": "You’re an action hero, and you need a camera to match. We guide you through all the models, plus accessory recommendations and hidden software tricks to try....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-15 11:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/68a91d240ff15a77d5c4a427/master/pass/Which%20GoPro%20Hero%20Camera%20Should%20You%20Buy_.png"
-    },
-    {
       "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
       "link": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
       "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account, so he clicks on a pi...",
@@ -465,13 +641,13 @@
       "thumbnail": ""
     },
     {
-      "title": "Snap is laying off 16 percent of its staff as it leans into AI",
-      "link": "https://www.theverge.com/tech/912314/snap-layoffs-1000-staffers-ai-profitability",
-      "summary": "Snap is laying off roughly 16 percent of its global workforce in a cost-cutting effort to chase improved profitability with the help of AI. The cuts will impact around 1,000 full-time employees, accor...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-15 11:26:08",
+      "title": "MiniMax M2.7 开源协议引争议：严禁商业用途，开发者质疑“伪开源”",
+      "link": "https://www.oschina.net/news/421258",
+      "summary": "国产AI大模型厂商MiniMax（稀宇科技）于近日开源了其最新一代模型MiniMax-M2.7，该模型在编程能力基准测试SWE-Pro中取得56.22%的成绩，几乎追平Anthropic的Claude Opus水平。 然而，这本应值得庆贺的技术突破却因开源协议的突然\"变脸\"在开发者社区引发轩然大波——MiniMax M2.7明确禁止商业用途，除非获得公司书面授权，......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-15 11:09:32",
       "category": "ai",
       "thumbnail": ""
     },
@@ -542,50 +718,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Spotify now sells printed books",
-      "link": "https://www.theverge.com/entertainment/912232/spotify-update-physical-book-bookshop-sales",
-      "summary": "Spotify is rolling out some new updates for book lovers, expanding audiobook listening features and allowing users to buy physical publications through the platform. Readers in the US and UK can now p...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-15 11:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Caves That Could Help Us Find, or Become, Aliens",
-      "link": "https://www.wired.com/story/the-caves-that-could-help-us-find-or-become-aliens/",
-      "summary": "From lava tubes on Mars to ice pockets on Europa, subterranean environments may offer the best chance of finding life—and living safely—beyond our planet....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-15 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69d7ff7bb95420b1da80e5a6/master/pass/science_space_cave_getty.jpg"
-    },
-    {
-      "title": "AI Slop Is Making the Internet Fake-Happy",
-      "link": "https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/",
-      "summary": "A new study examines the impact of the rise of AI-generated websites on the internet—and found some surprising results....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-15 11:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69de82bee716e7137086c443/master/pass/Business_Upto35PercentoftheInternetIsAISlop.jpg"
-    },
-    {
-      "title": "X’s Big Bot Purge Wiped Out a Lot of People’s Secret Porn Feeds",
-      "link": "https://www.wired.com/story/x-bot-purge-wipes-out-secret-porn-feeds/",
-      "summary": "The platform’s large-scale crackdown on automated accounts is also impacting people who’ve spent years curating niche porn on secret X accounts....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-15 10:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69dd8fff41310264a14475b8/master/pass/X-Bot-Purge-Wipes-Out-Users-Niche-Porn-Feeds-Culture.jpg"
-    },
-    {
       "title": "国产AI芯片崛起：三大门派、瓜分英伟达",
       "link": "https://www.tmtpost.com/7954297.html",
       "summary": "国产崛起，英伟达不再无敌。...",
@@ -628,17 +760,6 @@
       "pubDate": "2026-04-15 10:05:56",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
-      "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
-      "summary": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-15 10:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69deb8f5fa20dbfacc2b0a3c/master/pass/041426-deepfake-crisis-schools.jpg"
     },
     {
       "title": "合肥朋友集合！本周六线下围观模力方舟“口袋龙虾”",
@@ -795,17 +916,6 @@
       "thumbnail": ""
     },
     {
-      "title": "2026 年 3 月国产数据库大事记",
-      "link": "https://my.oschina.net/u/4559794/blog/19576238",
-      "summary": "光大银行 1598.38 万采购 GoldenDB 原厂现场服务；九有数据库完成 A + 轮融资；天谋科技 IoTDB 入选国家级首版次软件名录；矩阵起源开源业内首个 “Git for Memory” Agent 可信记忆框架 Memoria；OceanBase 4.4.2 LTS 版本发布，TP/AP/AI 一体化融合；openGauss 7.0.0-RC3 正式发布，支持 AI 能力集成方案 ...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-15 05:56:14",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "浏览器原地变龙虾！Chrome上线Skills，技能一键复用帮你干活",
       "link": "https://www.qbitai.com/2026/04/401389.html",
       "summary": "浏览器纷纷Agent化...",
@@ -826,28 +936,6 @@
       "pubDate": "2026-04-15 05:06:17",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans",
-      "link": "https://www.wired.com/story/total-wireless-promo-code/",
-      "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-15 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg"
-    },
-    {
-      "title": "Booking.com Promo Codes and Deals: Up to 20% Off",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-15 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg"
     },
     {
       "title": "黄仁勋率先开源量子AI大模型",
@@ -938,50 +1026,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/125732_original_local_1200x1050_v3_converted-500x500.jpg"
     },
     {
-      "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
-      "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
-      "summary": "Do you trust AI chatbots for health advice? What about one in your patient portal?...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-14 20:30:20",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2245570667-500x500.jpg"
-    },
-    {
-      "title": "Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away",
-      "link": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/",
-      "summary": "\"Paying more for the same stuff\" is the story of consumer technology in 2026....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-14 19:58:52",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_1971-500x500.jpeg"
-    },
-    {
-      "title": "Apple chooses Amazon satellites for iPhone, years after rejecting Starlink offer",
-      "link": "https://arstechnica.com/tech-policy/2026/04/amazon-to-merge-with-globalstar-become-iphones-primary-satellite-provider/",
-      "summary": "Amazon announces $11.6B merger with Globalstar and satellite deal with Apple....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-14 19:50:16",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/amazon-leo-phone-500x500-1776193813.jpg"
-    },
-    {
-      "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
-      "link": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
-      "summary": "New model is the first AI system to complete a difficult multistep infiltration challenge....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-14 19:11:25",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2270583709-500x500.jpg"
-    },
-    {
       "title": "OpenAI Engineer Helps Companies Attract Buyers and Boost Sales",
       "link": "https://spectrum.ieee.org/openai-engineer-sarang-gupta",
       "summary": "\nLike many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday lif...",
@@ -1002,17 +1046,6 @@
       "pubDate": "2026-04-14 18:00:00",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
-      "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
-      "summary": "You can save custom prompts you find useful or grab a premade Skill from Google's library....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-14 17:00:37",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/google-automate-windups-500x500.jpg"
     },
     {
       "title": "Anthropic’s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk",
@@ -1048,17 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Databricks tested a stronger model against its multi-step agent on hybrid queries. The stronger model still lost by 21%.",
-      "link": "https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single",
-      "summary": "\nData teams building AI agents keep running into the same failure mode. Questions that require joining structured data with unstructured content, sales figures alongside customer reviews or citation c...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-04-14 15:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "网易互娱架构调整，市场负责人王怡调任海外",
       "link": "https://36kr.com/p/3766722584822537?f=rss",
       "summary": "\n文 | 贝果树\n  编辑 | 果脯\n  4月14日，网易互娱回应了“网易互娱市场中心负责人网怡离职”的传闻。网易互娱表示上述信息不实，“裁撤营销中台”也属子虚乌有，王怡因个人原因提出调任，已获公司批准。\n  网易互娱发布的内部邮件显示，市场负责人王怡工作地点将调整至海外。原市场中心更名为用户增长中心，原渠道发行中心更名为发行中心。相关组织架构和人员调整工作将在4月内完成。\n  王怡曾任宝洁品牌经...",
@@ -1090,17 +1112,6 @@
       "pubDate": "2026-04-14 13:00:01",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/a-close-up-shows-a-man-seated-in-a-wheelchair-attached-to-the-top-of-his-head-are-two-devices-each-with-a-cable-extending-away.jpg?id=65504719&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
-    },
-    {
-      "title": "43% of AI-generated code changes need debugging in production, survey finds",
-      "link": "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds",
-      "summary": "\nThe software industry is racing to write code with artificial intelligence. It is struggling, badly, to make sure that code holds up once it ships.\nA survey of 200 senior site-reliability and DevOps ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-04-14 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "The Download: the state of AI, and protecting bears with drones",
@@ -1178,17 +1189,6 @@
       "pubDate": "2026-04-14 09:09:33",
       "category": "ai",
       "thumbnail": "https://img.36krcdn.com/hsossms/20260414/v2_c987a78bc6d647b0ad9373f406e22709@16805102_oswg78064oswg1080oswg661_img_000?x-oss-process=image/format,jpg/interlace,1"
-    },
-    {
-      "title": "什么Excel这函数那公式，我千问永远一步搞定",
-      "link": "https://www.qbitai.com/2026/04/401127.html",
-      "summary": "手机电脑全打通，随时随地大白话改表格...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-04-14 08:36:36",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "「美股例外」何时休？",
