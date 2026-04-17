@@ -1,17 +1,105 @@
 {
-  "updateTime": "2026-04-17T20:09:26.279Z",
+  "updateTime": "2026-04-17T23:09:57.325Z",
   "total": 117,
   "news": [
     {
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-17 22:34:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+      "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+      "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-17 21:28:35",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/cryptocurrency-500x500.jpg"
+    },
+    {
+      "title": "OpenAI’s former Sora boss is leaving",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-17 21:13:25",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Should you stare into Sam Altman’s orb before your next date?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, wh...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-17 20:42:47",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/world-id-tinder-verify.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-17 20:38:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+      "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+      "summary": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-17 20:16:13",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national sec...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-17 20:14:21",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
       "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-      "summary": "The former Instagram VP is departing the ChatGPT-maker, which is also sunsetting the “OpenAI for Science” application he led....",
+      "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-04-17 19:56:42",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/69e28bd5c90ceaca5deef659/master/pass/Kevin-Weil-Leaving-OpenAI-Business-2212179127.jpg"
+    },
+    {
+      "title": "Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake\"",
+      "link": "https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/",
+      "summary": "Probation for man who used stolen logins and posted private info on social media....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-17 19:31:48",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-500x500.jpg"
     },
     {
       "title": "Trump picks qualified, normal health leader to head CDC; experts still cautious",
@@ -300,17 +388,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily. ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-17 15:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma",
       "link": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma",
       "summary": "\nAnthropic today launched Claude Design, a new product from its Anthropic Labs division that allows users to create polished visual work — designs, interactive prototypes, slide decks, one-pagers, and...",
@@ -465,28 +542,6 @@
       "thumbnail": "https://spectrum.ieee.org/media-library/wipl-d-logo.png?id=26851496&width=980"
     },
     {
-      "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
-      "link": "https://techcrunch.com/2026/04/17/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
-      "summary": "Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S. administrations. But even if the spy law known as Section 702 expires in Ap...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-17 14:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Google’s AI Mode can now help you find products in stock nearby",
-      "link": "https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/",
-      "summary": "Although you can already track hotel prices at the city level, the new update lets you do so for a specific hotel that you're interested in....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-17 14:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Ghost orchid in the machine",
       "link": "https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn",
       "summary": "Vacuum cleaners, personal massagers, electronic baby rockers, and walking pads: These are the secondhand machines Rachel Youn sources to create their kinetic sculptures. Made with artificial flowers, ...",
@@ -498,28 +553,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/257764_Rachel_Youn_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "The South Korean president is doing quote-post diplomacy",
-      "link": "https://www.theverge.com/policy/913587/south-korea-lee-jae-myung-israel",
-      "summary": "\"This is no different from Comfort Women or the Holocaust,\" wrote South Korean President Lee Jae-myung on X last week, quoting a post with a video of Israeli Defense Forces soldiers throwing a body of...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-17 14:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2187682257.jpg?quality=90&strip=all&crop=17.6921875,27.555539932508,67.04140625,68.603533933258"
-    },
-    {
-      "title": "Peloton, stay in your lane",
-      "link": "https://www.theverge.com/column/913766/optimizer-peloton-fitness-business-column",
-      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-17 14:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/258213_Peloton_Cross_Training_AKrales_0048.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "增长无力，分红有力，熊猫乳品押注C端仍未破局 | 看财报",
       "link": "https://www.tmtpost.com/7957808.html",
       "summary": "转型很“股东”...",
@@ -529,17 +562,6 @@
       "pubDate": "2026-04-17 13:36:52",
       "category": "other",
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/09fcb433e7600cfdbbfe48b2789b1ce1_1776433015.png"
-    },
-    {
-      "title": "The ‘AI is inevitable’ trap",
-      "link": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
-      "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-17 13:24:34",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0417_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
@@ -727,17 +749,6 @@
       "pubDate": "2026-04-17 11:02:56",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-      "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
-      "summary": "Here's which players are winning the race to transition to post-quantum crypto....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-17 11:00:50",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-500x500.jpg"
     },
     {
       "title": "How Can Astronauts Tell How Fast They’re Going?",
@@ -1013,17 +1024,6 @@
       "pubDate": "2026-04-17 03:30:27",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
-      "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
-      "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-17 03:15:54",
-      "category": "space",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/PanCam_mast_fitted_to_ExoMars_rover-1-500x500.jpg"
     },
     {
       "title": "ImageNet作者苏昊回国任教复旦！李飞飞高徒，具身第一高引，出任通用物理AI院长",
