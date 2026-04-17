@@ -1,16 +1,148 @@
 {
-  "updateTime": "2026-04-17T17:36:49.668Z",
-  "total": 107,
+  "updateTime": "2026-04-17T20:09:26.279Z",
+  "total": 117,
   "news": [
+    {
+      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+      "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "summary": "The former Instagram VP is departing the ChatGPT-maker, which is also sunsetting the “OpenAI for Science” application he led....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-17 19:56:42",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69e28bd5c90ceaca5deef659/master/pass/Kevin-Weil-Leaving-OpenAI-Business-2212179127.jpg"
+    },
+    {
+      "title": "Trump picks qualified, normal health leader to head CDC; experts still cautious",
+      "link": "https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/",
+      "summary": "She's well qualified but will need to navigate RFK Jr.'s anti-vaccine agenda....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-17 19:19:47",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-500x500-1776453341.jpg"
+    },
+    {
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-17 19:17:26",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+      "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-17 18:42:45",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "$25,000 buys plenty of used EVs: Here are some options",
+      "link": "https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/",
+      "summary": "Is $20,000–$25,000 a sweet spot for secondhand electric cars? We think so....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-17 18:31:48",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/electric-piggy-bank-25k-500x500.jpg"
+    },
+    {
+      "title": "Satellite and drone images reveal big delays in US data center construction",
+      "link": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
+      "summary": "Data centers face construction delays and energy bottleneck as resistance grows....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-17 18:08:25",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Drone-thermal-image-of-Garland-data-center-500x500.jpg"
+    },
+    {
+      "title": "Betting on the news raises ethical questions for journalists",
+      "link": "https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket",
+      "summary": "Prediction market exchanges have created an environment where just about any piece of information is potentially monetizable: How well will BTS's new song perform this week? How hot will Los Angeles g...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-17 18:07:43",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS527_PREDICTION_MARKETS_CVIRGINIA2_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
+      "link": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
+      "summary": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-17 17:48:46",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon won’t release Fire Sticks that support sideloading anymore",
+      "link": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/",
+      "summary": "The two newest Fire Sticks block apps from outside of Amazon's store....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-17 17:42:42",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/about-amazon-hero-fire-tv-stick-hero-option-2-amazon-news-jp-041026-500x500.jpg"
+    },
+    {
+      "title": "Train-to-Test scaling explained: How to optimize your end-to-end AI compute budget for inference",
+      "link": "https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference",
+      "summary": "\nThe standard guidelines for building large language models (LLMs) optimize only for training costs and ignore inference costs. This poses a challenge for real-world applications that use inference-ti...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-04-17 17:34:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ridley Scott's post-apocalyptic The Dog Stars drops first trailer",
+      "link": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer/",
+      "summary": "\"The world that was, doesn't exist. It's just us, trying to hold onto what was.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-17 17:32:55",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dogstar3-500x500.jpg"
+    },
+    {
+      "title": "This charming gadget writes bad AI poetry",
+      "link": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
+      "summary": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-17 17:30:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268467_Poetry_Camera_AJohnson_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "Zoom teams up with World to verify humans in meetings",
       "link": "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/",
-      "summary": "Zoom will show a badge on verified participants' tile....",
+      "summary": "Meeting platform Zoom has announced a partnership with World, Sam Altman's human ID verification company, to ensure that the people attending meetings are actually human and not AI-generated imposters...",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-04-17 17:15:00",
-      "category": "other",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -25,6 +157,28 @@
       "thumbnail": "https://media.wired.com/photos/69e24d762c03fd43832a42f8/master/pass/GettyImages-2214140680.jpg"
     },
     {
+      "title": "Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds",
+      "link": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds",
+      "summary": "\nA rogue AI agent at Meta passed every identity check and still exposed sensitive data to unauthorized employees in March. Two weeks later, Mercor, a $10 billion AI startup, confirmed a supply-chain b...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-04-17 17:07:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Artemis II pilot talks about what it was really like to fly and land in Orion",
+      "link": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
+      "summary": "\"I've been thinking about reentry for three straight years.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-17 16:59:44",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e016204large-500x500.jpg"
+    },
+    {
       "title": "Gigs turns your concert history into a personal live music archive",
       "link": "https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/",
       "summary": "New iPhone app Gigs uses AI to turn old tickets, screenshots, and emails into a personal concert archive with stats, memories, and more....",
@@ -34,6 +188,17 @@
       "pubDate": "2026-04-17 16:55:45",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
+      "link": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+      "summary": "Prices for \"critical components\" are surging because of massive data center investments....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-17 16:23:20",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/hotdogman-500x500.png"
     },
     {
       "title": "Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why",
@@ -55,7 +220,7 @@
       "region": "us",
       "pubDate": "2026-04-17 15:58:07",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC02956_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The best budget smartphones you can buy",
@@ -66,7 +231,7 @@
       "region": "us",
       "pubDate": "2026-04-17 15:55:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268464_The_best_budget_phone_you_can_buy_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
@@ -77,7 +242,7 @@
       "region": "us",
       "pubDate": "2026-04-17 15:46:37",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2236326005.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "AI Drafting My Stories? Over My Dead Body",
@@ -99,7 +264,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 15:15:50",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/94ff145d-a5bc-4fe9-a991-4b4dba5b688a.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "消息称苹果今年推出 OLED 屏幕版 MacBook Pro、iPad mini，三星显示供应",
@@ -110,7 +275,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 15:09:39",
       "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/54c5c59d-c71f-4199-b4d8-be89520c0580.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
@@ -121,12 +286,12 @@
       "region": "us",
       "pubDate": "2026-04-17 15:07:50",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Apple-AirPods-Pro-3-deal.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Uber will now pick up your returns from your doorstep",
       "link": "https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep/",
-      "summary": "The new returns feature is the company's latest effort to become an everything app....",
+      "summary": "The new returns feature is the company's latest effort to become an everything app. There are limitations to the new service, and there is, of course, a courier fee....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -165,7 +330,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 14:56:54",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/c4fbb9c9-41c4-4b1b-95a5-e0f6ee631306.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "消息称 DeepSeek 正寻求首轮外部融资，估值超百亿美元",
@@ -187,7 +352,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 14:38:14",
       "category": "auto",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/2421e29a-3a86-4d81-9cd6-a8c2d664d1ea.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "曝微软即将发布新一代 Surface Laptop / Pro 笔记本，英特尔酷睿 Ultra 3 机型先行",
@@ -198,7 +363,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 14:38:08",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/eed734e3-e44e-448c-9249-039486f3d643.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "五年定增153亿，七成拿来“补窟窿”，合盛硅业的钱烧哪了？ | 看财报",
@@ -220,7 +385,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 14:19:03",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/28e4e255-e2e5-4d5f-a24c-2f306a4e4a12.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "B 社为《星空》PS5 Pro 版推出热修复补丁解决游戏崩溃问题，PS5 版下周推出",
@@ -231,7 +396,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 14:17:46",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/c5b1b423-3439-4b3e-9d28-8bcbc0bf3426.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "微软被指强制引导用户使用 Edge：系统更新后自动弹出浏览器",
@@ -242,7 +407,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 14:11:44",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/de5c6137-b4b4-4a33-89f6-69f3c40c1a89.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "三星解释为何不再做小屏手机：由大多数人使用需求决定，实在喜欢小屏可以买 Z Flip 小折叠",
@@ -253,7 +418,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 14:09:55",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/f13d3eb3-99fe-408d-bb65-cfd90bc38841.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "Pie Day 2026",
@@ -289,6 +454,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Designing Broadband LPDA-Fed Reflector Antennas With Full-Wave EM Simulation",
+      "link": "https://content.knowledgehub.wiley.com/efficient-design-and-simulation-of-lpda-fed-parabolic-reflector-antennas/",
+      "summary": "\nA practical guide to designing log-periodic dipole array fed parabolic reflector antennas using advanced 3D MoM simulation — from parametric modeling to electrically large structures.\nWhat Attendees ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-17 14:00:50",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/wipl-d-logo.png?id=26851496&width=980"
+    },
+    {
       "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
       "link": "https://techcrunch.com/2026/04/17/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
       "summary": "Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S. administrations. But even if the spy law known as Section 702 expires in Ap...",
@@ -319,7 +495,7 @@
       "region": "us",
       "pubDate": "2026-04-17 14:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/257764_Rachel_Youn_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The South Korean president is doing quote-post diplomacy",
@@ -330,7 +506,7 @@
       "region": "us",
       "pubDate": "2026-04-17 14:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2187682257.jpg?quality=90&strip=all&crop=17.6921875,27.555539932508,67.04140625,68.603533933258"
     },
     {
       "title": "Peloton, stay in your lane",
@@ -341,7 +517,7 @@
       "region": "us",
       "pubDate": "2026-04-17 14:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/258213_Peloton_Cross_Training_AKrales_0048.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "增长无力，分红有力，熊猫乳品押注C端仍未破局 | 看财报",
@@ -363,18 +539,7 @@
       "region": "us",
       "pubDate": "2026-04-17 13:24:34",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bluesky confirms DDoS attack is cause of continued app outages",
-      "link": "https://techcrunch.com/2026/04/17/its-not-just-you-bluesky-is-sorta-down/",
-      "summary": "Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET on April 15....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-17 13:22:04",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0417_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
@@ -388,17 +553,6 @@
       "thumbnail": "https://media.wired.com/photos/69e17bf83768d90cb0bbfa58/master/pass/pol_trump_4GettyImages-2182147962.jpg"
     },
     {
-      "title": "Netflix plans to add a vertical video feed, use AI for recommendations",
-      "link": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
-      "summary": "Netflix is going to launch a TikTok-like vertical video feed within its apps this month, and plans to use AI broadly for content creation and recommendations....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-17 13:17:18",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch",
       "link": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch/",
       "summary": "Blue Origin will soon launch the third flight of its New Glenn rocket, this time with a reused booster....",
@@ -408,28 +562,6 @@
       "pubDate": "2026-04-17 13:06:24",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/HF_XtVIXcAQ5jrN-1-500x500.jpg"
-    },
-    {
-      "title": "SaySo is a new short-form video app that aims to restore users’ trust in news",
-      "link": "https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/",
-      "summary": "Users are fed up with misinformation and AI slop cluttering their feeds. SaySo is a new short-form video app that delivers news from vetted creators and journalists....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-17 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The creative software industry has declared war on Adobe",
-      "link": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
-      "summary": "All empires eventually fall, and it seems the creative software industry has collectively decided that Adobe's time has come. The Creative Cloud provider's suite of design tools have been considered t...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-17 12:51:16",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Coolfly Aura Review: More Angles, Fewer Advantages",
@@ -507,17 +639,6 @@
       "pubDate": "2026-04-17 11:33:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/686466f75387ebe0264fb50c/master/pass/The%20Best%20MagSafe%20Accessories%20for%20Your%20New%20iPhone.png"
-    },
-    {
-      "title": "A giant cell tower is going to space this weekend",
-      "link": "https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcemobile",
-      "summary": "This weekend's scheduled Blue Origin rocket launch is rather momentous. Success would signal an end to SpaceX's monopoly on reusable orbital launch vehicles, and set up a three-way race to make that \"...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-17 11:25:37",
-      "category": "space",
-      "thumbnail": ""
     },
     {
       "title": "海信与格力“线上狂怼”背后，空调的“黄金时代”一去不返",
@@ -639,17 +760,6 @@
       "pubDate": "2026-04-17 11:00:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/69e1a08b3db5454459de6d7b/master/pass/Review--Canyon-Spectral-ON-CF-8-Electric-Mountain-Bike.jpg"
-    },
-    {
-      "title": "The Influencers Normalizing Not Having Sex",
-      "link": "https://www.wired.com/story/the-influencers-normalizing-not-having-sex/",
-      "summary": "From a celibate porn star to an asexual ex-Mormon, the internet is full of people who are abstaining from sex—and it’s not just incels....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-17 10:30:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69e15fa6a619499b9c4fcb89/master/pass/SB_Celibacy_TA-1.jpg"
     },
     {
       "title": "The case for fixing everything",
@@ -949,50 +1059,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon",
-      "link": "https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/",
-      "summary": "\"The old protect the young, and then the young protect the old.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-16 23:20:33",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/grogu1CROP-500x500.jpg"
-    },
-    {
-      "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
-      "link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
-      "summary": "For the first time in a while, the benefits of new Intel tech will trickle down....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-16 21:33:33",
-      "category": "chip",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/intel-core-series-3-500x500.jpeg"
-    },
-    {
-      "title": "OpenAI starts offering a biology-tuned LLM",
-      "link": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-      "summary": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-16 21:17:47",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1421511892-500x500.jpg"
-    },
-    {
-      "title": "As they got close to the Moon, Artemis II astronauts were eager to land",
-      "link": "https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/",
-      "summary": "\"If you had given us the keys to the lander, we would have taken it down.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-16 21:00:38",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e013365large-500x500.jpg"
-    },
-    {
       "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
       "link": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
       "summary": "\nSalesforce on Wednesday unveiled the most ambitious architectural transformation in its 27-year history, introducing \"Headless 360\" — a sweeping initiative that exposes every capability in its platfo...",
@@ -1002,17 +1068,6 @@
       "pubDate": "2026-04-16 21:00:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
-      "link": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
-      "summary": "New tool builds on deepset’s Haystack toward a “decentralized open source AI ecosystem.”...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-16 20:43:46",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/thunderbolt-500x500-1776371344.webp"
     },
     {
       "title": "Are we getting what we paid for? How to turn AI momentum into measurable value",
@@ -1026,17 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Ad firms settle with Trump FTC over claims they boycotted conservative media",
-      "link": "https://arstechnica.com/tech-policy/2026/04/ad-firms-settle-with-trump-ftc-over-claims-they-boycotted-conservative-media/",
-      "summary": "FTC aims to stamp out brand-safety standards that hurt Breitbart and Musk's X....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-16 19:08:38",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/andrew-ferguson-500x500.jpg"
-    },
-    {
       "title": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github",
       "link": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github",
       "summary": "\nThe journey from a laboratory hypothesis to a pharmacy shelf is one of the most grueling marathons in modern industry, typically spanning 10 to 15 years and billions of dollars in investment. \nProgre...",
@@ -1048,37 +1092,15 @@
       "thumbnail": ""
     },
     {
-      "title": "OpenAI drastically updates Codex desktop app to use all other apps on your computer, generate images, preview webpages",
-      "link": "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages",
-      "summary": "\nConfirming it has reached 3 million weekly developers, OpenAI is massively updating its Codex developer environment via its Mac and Windows desktop apps today to bring it closer to the “Super App” th...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
+      "title": "IEEE Entrepreneurship Connects Hardware Startups With Investors",
+      "link": "https://spectrum.ieee.org/ieee-entrepreneurship-hardware-startups-investors",
+      "summary": "\nRoughly 90 percent of hard tech startups fail due to funding constraints, longer R&amp;D timelines for developing hardware, and the complexity of manufacturing their products, according to a number o...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-04-16 18:36:52",
+      "pubDate": "2026-04-16 18:00:01",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "New Codex features include the ability to use your computer in the background",
-      "link": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
-      "summary": "An in-app browser allows visual feedback while building websites and more....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-16 18:30:44",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Codex-screenshot-500x500-1776363060.jpg"
-    },
-    {
-      "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM",
-      "link": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm",
-      "summary": "\nAnthropic is publicly releasing its most powerful large language model yet, Claude Opus 4.7, today — as it continues to keep an even more powerful successor, Mythos, restricted to a small number of e...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-04-16 16:17:00",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/groups-of-people-seated-together-at-several-tables-inside-of-a-large-meeting-hall.jpg?id=65559941&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
     },
     {
       "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
@@ -1178,6 +1200,94 @@
       "pubDate": "2026-04-16 10:00:00",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Stealth Signals Are Bypassing Iran’s Internet Blackout",
+      "link": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+      "summary": "\nOn 8 January 2026, the Iranian government imposed a near-total communications shutdown. It was the country’s first full information blackout: For weeks, the internet was off across all provinces whil...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-15 13:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-photo-collage-of-a-woman-in-a-hijab-protests-in-iran-a-satellite-satellite-dishes-and-the-words-you-are-not-connected-to-t.png?id=65521125&width=1245&height=700&coordinates=0%2C779%2C0%2C779"
+    },
+    {
+      "title": "Crypto Faces Increased Threat From Quantum Attacks",
+      "link": "https://spectrum.ieee.org/quantum-safe-crypto",
+      "summary": "\nThe race to transition online security protocols to ones that can’t be cracked by a quantum computer is already on. The algorithms that are commonly used today to protect data online—RSA and elliptic...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-15 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-pixel-art-resembling-a-padlock-and-token.jpg?id=65520763&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
+    },
+    {
+      "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
+      "link": "https://spectrum.ieee.org/openai-engineer-sarang-gupta",
+      "summary": "\nLike many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday lif...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-14 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-adult-indian-man-smiling-with-his-arms-crossed.png?id=65519413&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "What It’s Like to Live With an Experimental Brain Implant",
+      "link": "https://spectrum.ieee.org/bci-user-experience",
+      "summary": "\nScott Imbrie vividly remembers the first time he used a robotic arm to shake someone’s hand and felt the robotic limb as if it were his own. “I still get goosebumps when I think about that initial co...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-14 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-close-up-shows-a-man-seated-in-a-wheelchair-attached-to-the-top-of-his-head-are-two-devices-each-with-a-cable-extending-away.jpg?id=65504719&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Squishy Photonic Switches Promise Fast Low-Power Logic",
+      "link": "https://spectrum.ieee.org/soft-photonics",
+      "summary": "\nPhotonic devices, which rely on light instead of electricity, have the potential to be faster and more energy efficient than today’s electronics. They also present a unique opportunity to develop dev...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-13 12:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-micropipette-piercing-through-a-hemisphere-shaped-membrane-to-inject-a-droplet-at-its-core.jpg?id=65506297&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Working With More Experienced Engineers Can Fast-Track Career Growth",
+      "link": "https://spectrum.ieee.org/using-feedback-engineering",
+      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-10 18:49:00",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+    },
+    {
+      "title": "Remembering Gus Gaynor: A Devoted IEEE Volunteer",
+      "link": "https://spectrum.ieee.org/remembering-gus-gaynor",
+      "summary": "\nGerard “Gus” Gaynor, a long-serving IEEE volunteer and former engineering director at 3M, died on 9 March. The IEEE Life Fellow was 104.\nReaders of The Institute might remember Gus from his 2022 prof...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-09 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-white-high-school-boy-lowering-a-radio-systems-needle-onto-a-vinyl-record.jpg?id=65492955&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale",
+      "link": "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/",
+      "summary": "\nZTASP is a mission-scale assurance and governance platform designed for autonomous systems operating in real-world environments. It integrates heterogeneous systems—including drones, robots, sensors,...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-09 15:06:39",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/technology-innovation-institute-logo-with-stylized-tii-and-curved-line.png?id=65498963&width=980"
     }
   ]
 }
