@@ -1,50 +1,171 @@
 {
-  "updateTime": "2026-04-18T14:25:38.908Z",
+  "updateTime": "2026-04-18T17:04:53.595Z",
   "total": 117,
   "news": [
     {
-      "title": "Anthropic MCP 协议被指存在设计缺陷，服务器可被诱导执行任意代码",
-      "link": "https://www.ithome.com/0/940/797.htm",
-      "summary": "\nIT之家 4 月 18 日消息，安全研究团队 OX Security 本周（4 月 15 日）发现，Anthropic 创建、维护的行业标准 AI 通信协议 MCP（IT之家注：Model Context Protocol）存在设计缺陷，可导致服务器被诱导执行任意代码（RCE）。\n\n据介绍，该漏洞并非普通的疏忽，而是架构层面的设计缺陷并存在于官方 MCP SDK 中。影响 Python、Type...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-18 14:07:29",
+      "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
+      "link": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
+      "summary": "Jorge L. Alonso, a federal district court judge for the Northern District of Illinois, said that the Trump Administration violated the First Amendment when it pressured Facebook and Apple to remove IC...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-18 16:42:25",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "《异环》宣布与保时捷、雷蛇、支付宝、P5X 等联动，4 月 23 日正式公测",
-      "link": "https://www.ithome.com/0/940/796.htm",
-      "summary": "\nIT之家 4 月 18 日消息，《异环》全平台公测将于 4 月 23 日正式开启，登陆 PC、Mac、移动端（安卓、iOS、鸿蒙）、PS5，预下载将于 4 月 21 日 9:00 开启。\n \n在今晚的《异环》公测前瞻特别节目中，完美世界官方宣布《异环》将与罗森、雷蛇、北通、支付宝等品牌开启联动，并将与保时捷开启多项载具联动，还将与《P5R》《P5X》《幻塔》展开音乐联动。\n\n配置需求方面，PC ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+      "link": "https://www.qbitai.com/2026/04/402988.html",
+      "summary": "自然语言控制设备，零编程编排流程...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-04-18 13:58:24",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "沉寂多年，消息称育碧将推《幽灵行动》正统续作",
-      "link": "https://www.ithome.com/0/940/795.htm",
-      "summary": "\nIT之家 4 月 18 日消息，据科技媒体 Wccftech 今天报道，爆料人士 Tom Henderson 最近透露，预计将在近期发售《刺客信条：黑旗重制版》，之后公布的新作则是《幽灵行动》。\n\n作为参考，育碧曾在 2019 年推出《幽灵行动：断点》，但口碑、销量表现平平。此后该系列便一直沉寂。虽然育碧后来试图通过更新“沉浸模式”和加入 AI 队友进行补救，但收效有限。\n同时，育碧原计划推出大...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-18 13:45:15",
+      "pubDate": "2026-04-18 15:58:07",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "可提升自动对焦性能，消息称佳能 EOS R7 Mark II 相机搭载 DIGIC Accelerator Lite 处理器",
-      "link": "https://www.ithome.com/0/940/791.htm",
-      "summary": "\nIT之家 4 月 18 日消息，消息源 Canon Rumors 前天发文称，佳能可能会为 EOS R7 Mark II 无反相机引入 DIGIC Accelerator Lite 精简版处理器。\n\n据报道，佳能已经在 EOS R1 和 R5 Mark II 相机中使用过 DIGIC Accelerator 处理器，用于提升相机的数据处理能力。该芯片可与高速背照式 / 堆栈式传感器配合，带来更快...",
+      "title": "OpenClaw的风，已经吹进了奶茶圈",
+      "link": "https://www.qbitai.com/2026/04/402965.html",
+      "summary": "企业如何安全落地龙虾？...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-04-18 15:48:50",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "迅雷旗下“光鸭云盘”官宣 4 月 20 日上线：号称免登录、不限速，自带 2TB 免费空间",
+      "link": "https://www.ithome.com/0/940/807.htm",
+      "summary": "\nIT之家 4 月 18 日消息，迅雷旗下云存储产品“光鸭云盘”官宣将于 4 月 20 日面向公众开放注册，所有用户均可解锁“永久免费 2TB 存储空间”。\n\n该产品由迅雷全资孙公司（子公司的子公司）深圳市光闪云科技有限公司（成立于 2025 年）提供服务，主打“免登录下载、不限速传输”等核心功能。\n光鸭云盘支持 100GB 单文件上传及 100 万文件批量转存，100MB 以下的小文件支持免登录...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-04-18 13:18:37",
-      "category": "chip",
+      "pubDate": "2026-04-18 15:45:57",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/75cda65b-d9f8-4de2-9e14-3b3eb15f4603.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Cheap stuff that doesn’t suck, take 3",
+      "link": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
+      "summary": "From fancy OLED TVs to robot vacuums with arms, we tend to cover a lot of cool stuff here at The Verge that, unfortunately, often costs as much as a month’s rent (or more). But with the ongoing tariff...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-18 15:33:00",
+      "category": "other",
       "thumbnail": ""
+    },
+    {
+      "title": "国产光纤全球爆单：价格暴涨 650%，企业排产已至明年一季度",
+      "link": "https://www.ithome.com/0/940/806.htm",
+      "summary": "\nIT之家 4 月 18 日消息，光纤光缆，作为现代信息传输的重要介质，广泛应用于数据通信、传感、医疗及工业控制等领域。今年以来，光纤行业呈现出“产品量价齐升”的景气态势。\n据央视报道，国内多家光纤生产企业一季度产销量大幅增长，部分规格产品价格涨幅高达 650%，在手订单排产已延伸至 2027 年第一季度。\n\n在江苏一家光纤生产企业，工作人员介绍称，今年一季度光纤产品产销量同比增长 35% 以上，...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-18 15:25:19",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/e12e4994-466a-4486-b514-57b1a8729315.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "方形相机模组告别家族式设计？索尼 Xperia 1 VIII 手机外观再度曝光",
+      "link": "https://www.ithome.com/0/940/805.htm",
+      "summary": "\nIT之家 4 月 18 日消息，消息源 @mobaziro 昨天在 X 平台发文，曝光索尼 Xperia 1 VIII 手机的渲染图。\n\n如果泄露渲染图属实，那么索尼将放弃初代 Xperia 1（IT之家注：2019 年发布）以来沿用至今的纵向长条相机模组，转为更加接近主流风格的方形岛式后摄模组。\n结合 Notebookcheck 报道，目前有传闻称该机将搭载 4800 万像素三摄系统。虽然索尼...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-18 15:16:45",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/90c43790-05c1-45a2-a1ab-b37ae131ad68.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "DeepSeek 被曝启动首次外部融资，国资消息人士称完全投不进去",
+      "link": "https://www.ithome.com/0/940/804.htm",
+      "summary": "\nIT之家 4 月 18 日消息，昨日，一则关于国内 AI 大模型独角兽企业 DeepSeek（深度求索）启动首次外部融资的消息在投资圈和科技界迅速传播。\n据 The Information 报道，DeepSeek 正与投资者洽谈首轮外部股权融资，计划以不低于 100 亿美元（IT之家注：现汇率约合 683.41 亿元人民币）的估值，募集不少于 3 亿美元资金。若该消息属实，这将标志着这家长期以“...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-18 15:08:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "联想 ThinkPlus 方胖子 190W 自带伸缩线移动电源开售：配备 2.01 英寸数显屏，349 元",
+      "link": "https://www.ithome.com/0/940/803.htm",
+      "summary": "\nIT之家 4 月 18 日消息，联想 ThinkPlus 方胖子 190W 自带伸缩线移动电源现已开售，新品主打 190W 多口超级快充、自带 75cm 双向快充伸缩线，售价 349 元。\n\n\n据介绍，这款充电宝外壳采用 PVD 电镀工艺，拥有黑色、白色两种配色可选，带有挂绳，伸缩线长度为 75cm，可自由把控长度。\n\n\n规格方面，这款充电宝的自充功率可达 100W Max，单口最高输出功率 1...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-18 15:06:53",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/3640ad7d-7a04-461f-bdfd-97eb8c8e7826.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-18 14:56:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "联力推出 439 元 V150 INF 紧凑型机箱：兼容 M-ATX 及背插主板，标配 3 个 ARGB 无限镜",
+      "link": "https://www.ithome.com/0/940/802.htm",
+      "summary": "\nIT之家 4 月 18 日消息，联力新推出了一款 VECTOR VISO INF 机箱，京东显示 439 元。\n京东 LIANLI 联力 V150 INF 机箱 支持 360 水冷 / MATX 背插主板 无限镜侧透钢化玻璃 带 3 个 ARGB 风扇 预装显卡支架 联力 V150INF 无限镜 黑色【新品】439 元直达链接\n这款机箱兼容 M-ATX、Mini-ITX 主板，兼容 M-ATX ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-18 14:55:05",
+      "category": "ai",
+      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/413400/40/3132/130757/69cca764Fb633d0c3/00835dc5dcd9cd13.png"
+    },
+    {
+      "title": "“载”来点想象，大疆农业无人机新品 4 月 21 日发布",
+      "link": "https://www.ithome.com/0/940/801.htm",
+      "summary": "\nIT之家 4 月 18 日消息，大疆最近在官网宣布，4 月 21 日下午 14:00 将推出一款新品，宣传语为“载”来点想象。\n \n和往常一样，大疆并没有直接公布这款新品的具体品类。不过从宣传图片剪影和官网分类来看，这款新品应该是农业无人机，感兴趣的小伙伴们可以关注IT之家后续报道。\n\n\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-18 14:49:29",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/9a45b6f3-a483-45ed-be0c-15c5ad15b08f.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "曝 Stripe 曾意图 12 亿美元收购 Airwallex 空中云汇，如今却正面交锋",
+      "link": "https://www.ithome.com/0/940/800.htm",
+      "summary": "\nIT之家 4 月 18 日消息，据科技媒体 TechCrunch 昨天报道，支付服务提供商 Stripe 曾在几年前试图收购 Airwallex 空中云汇，但最终并未成交。\n\n据报道，Airwallex 创始人 Jack Zhang 当年 34 岁，创业三年半。他有一天受邀前往 Stripe CEO 帕特里克 · 科里森（Patrick Collison）位于硅谷的豪宅。\n当时科里森提出以 12...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-18 14:37:05",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/4ccdcb1f-b361-4537-aac9-de97a1c06d4c.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "天工 3.0 机器人斩获北京亦庄勇士挑战赛冠军，实现“全自主”通关",
+      "link": "https://www.ithome.com/0/940/799.htm",
+      "summary": "\nIT之家 4 月 18 日消息，首届北京亦庄机器人勇士挑战赛今日落下帷幕，北京人形机器人创新中心（以下简称“北京人形”）携其研发的“具身天工 3.0”全尺寸通用人形机器人参赛，并以全自主方式完赛，成功通关摆锤穿越、开拓前行、破门清障等基于现实高危场景设计的赛项，以最高积分斩获全球首个全自主机器人勇士挑战赛冠军，同时赢得勇士智行奖。\n这是继 2025 年“具身天工”夺得全球首个人形机器人半程马拉松...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-18 14:32:16",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/514e9ce5-a4f6-44ed-9fcc-b75f9fac12a5.gif"
+    },
+    {
+      "title": "联想 ThinkPad T16 Gen 5 公布：首搭 Panther Lake 与 LPCAMM2 可升级内存",
+      "link": "https://www.ithome.com/0/940/798.htm",
+      "summary": "\nIT之家 4 月 18 日消息，联想官网 4 月 10 日公布了 ThinkPad T16 Gen 5（Intel）相关资料，这款新机目前已经在海外开启预售或正式开售，国行版本预计近期发布，港版（Ultra 5 332 vPro 版本）显示 14990 港币（现汇率约合 13083 元人民币）。\n\nThinkPad T16 Gen 5 首次引入 Intel Panther Lake 平台并搭载 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-18 14:25:08",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/0e7f16e7-abf8-4f65-b15a-fbf573ee6576.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "The App Store is booming again, and AI may be why",
@@ -66,72 +187,72 @@
       "region": "us",
       "pubDate": "2026-04-18 13:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/dyson_hushjetminicool_1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
-      "title": "世界超级摩托车锦标赛荷兰站：张雪机车首回合正赛获得第四名",
-      "link": "https://www.ithome.com/0/940/789.htm",
-      "summary": "\nIT之家 4 月 18 日消息，在刚刚结束的 2026 世界超级摩托车锦标赛（WSBK）荷兰站 WorldSSP 组别第一回合正赛中，中国摩托车制造商“张雪机车”旗下 53 号法国车手瓦伦丁 · 德比斯（Valentin Debise）以第四名完赛。\n尽管未能延续葡萄牙站双冠的辉煌，但这支成立仅两年的中国车队，在素以高速弯道著称的阿森 TT 赛道（TT Circuit Assen）上，依然展现了...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "从月薪160元到身家过亿，“最强打工妹”回归，难解海底捞的焦虑症",
+      "link": "https://www.tmtpost.com/7958327.html",
+      "summary": "又一次“临危受命”。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-04-18 12:55:34",
+      "pubDate": "2026-04-18 12:24:41",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "首款雷电 5 认证四盘位 M.2 固态硬盘盒，OWC 发布 Express 4M2 Ultra",
-      "link": "https://www.ithome.com/0/940/788.htm",
-      "summary": "\nIT之家 4 月 18 日消息，OWC（Other World Computing）今天在 NAB 2026 广播电视展会，推出首款雷电 5 认证四盘位 M.2 固态硬盘盒 Express 4M2 Ultra。\n\n据介绍，这款硬盘盒专为追求极致性能的专业用户设计，用户可自行选购 NVMe 固态硬盘并配置 RAID 0、1、4、5、10 或 JBOD。\n规格方面，该硬盘盒最高传输速度可达 6622...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "当核心人才可以被精准定价：DeepSeek遭遇人才困局",
+      "link": "https://www.tmtpost.com/7958318.html",
+      "summary": "这不是一个人的理想妥协，这是整个国产AI硬科技初创公司在巨头碾压下的一面镜子。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-04-18 12:48:02",
+      "pubDate": "2026-04-18 12:24:32",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "微软砸 200 万美元为 Edge 拉新：头奖 100 万美元现金 + 奔驰汽车",
-      "link": "https://www.ithome.com/0/940/787.htm",
-      "summary": "\nIT之家 4 月 18 日消息，据 TomsHardware 今日报道，微软为推广 Edge 浏览器推出了一项总奖金池高达 200 万美元（IT之家注：现汇率约合 1366.8 万元人民币）的抽奖活动，然而这项活动自 3 月 12 日开启以来已有一个多月，直至前天才被媒体发现。\n\n该活动名为“Edge Prize Party”，面向美国、加拿大、英国、法国、德国、荷兰、爱尔兰、奥地利、希腊、芬兰...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "微软是如何穿越30年周期的",
+      "link": "https://www.tmtpost.com/7958334.html",
+      "summary": "这个能力的核心，是企业分发、开发者生态、订阅化改造和极强的资本开支能力。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-04-18 12:46:58",
+      "pubDate": "2026-04-18 12:20:57",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI时代，音乐行业的钱会流向哪里？",
+      "link": "https://www.tmtpost.com/7958395.html",
+      "summary": "底气从哪来？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-18 12:20:50",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "EmuDeck 团队推出 Playnix 迷你主机：AMD 锐龙 5CPU、RX 9060 XT 显卡，1139 美元",
-      "link": "https://www.ithome.com/0/940/786.htm",
-      "summary": "\nIT之家 4 月 18 日消息，复古游戏机模拟器 EmuDeck 开发团队最近推出 Playnix 迷你主机，搭载 AMD RX 9060 XT 显卡，号称是 Steam Machine 的对标产品，售价 1139 美元（IT之家注：现汇率约合 7784 元人民币）。\n\n据介绍，这款迷你主机尺寸是 320*247*64mm，机箱采用 3D 打印制造，内置 6 核心 AMD 锐龙 5 处理器，TD...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "三星断舍离，家电大撤退",
+      "link": "https://www.tmtpost.com/7958399.html",
+      "summary": "三星家电不必再在中国苦苦支撑。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-04-18 12:27:24",
-      "category": "chip",
+      "pubDate": "2026-04-18 12:20:45",
+      "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "Anthropic CEO 达里奥 · 阿莫迪：AI 发展永无止境，未来五年或取代半数初级白领岗位",
-      "link": "https://www.ithome.com/0/940/785.htm",
-      "summary": "\nIT之家 4 月 18 日消息，据科技媒体 The Decoder 今天报道，Anthropic CEO 达里奥 · 阿莫迪（Dario Amodei）最近在接受采访时认为，AI 仍存在巨大发展空间，如彩虹一般没有尽头，并且算力还有很长的增长路径。\n\nIT之家援引 The Decoder，阿莫迪在谈到 AI 对就业市场的影响时表示，当前社会对 AI 的信任仍然不足，导致这项技术只能以信任的速度扩...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "养鸡不如做食品？“鸡王”一年卖掉44万吨肉制品",
+      "link": "https://www.tmtpost.com/7958477.html",
+      "summary": "鸡王不再满足于养鸡。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-04-18 12:12:44",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "时隔 35 年 SNK 复活 NeoGeo AES+ 主机：11 月 12 日发售，兼容原版卡带",
-      "link": "https://www.ithome.com/0/940/784.htm",
-      "summary": "\nIT之家 4 月 18 日消息，SNK 与 Plaion 旗下复古游戏品牌 Plaion Replai 宣布推出复刻版 NeoGeo AES+ 主机，将于 2026 年 11 月 12 日发售，同时还将推出一系列游戏卡带。\n\n这款主机是对 1990 年发售的 NeoGeo AES（Advanced Entertainment System）的现代化复刻，号称提供“无与伦比的原真性”，售价 249...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-18 12:01:07",
-      "category": "ai",
+      "pubDate": "2026-04-18 12:20:34",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -143,7 +264,7 @@
       "region": "us",
       "pubDate": "2026-04-18 12:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/videoframe_121699.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The AI apps are coming for your PC",
@@ -154,7 +275,7 @@
       "region": "us",
       "pubDate": "2026-04-18 12:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-124.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Great white sharks are overheating",
@@ -201,17 +322,6 @@
       "thumbnail": "https://media.wired.com/photos/69e28a8f04c989eedf38ac69/master/pass/tuf-A14-02-top.JPG"
     },
     {
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-18 10:30:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69e261f2c08b65b67742964b/master/pass/IMG_0608%202.jpeg"
-    },
-    {
       "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
       "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
       "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more....",
@@ -221,6 +331,17 @@
       "pubDate": "2026-04-18 10:30:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/69e297a5b6d175715986c107/master/pass/security_EU_Age_Getty_1.jpg"
+    },
+    {
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-18 10:30:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69e261f2c08b65b67742964b/master/pass/IMG_0608%202.jpeg"
     },
     {
       "title": "Where to Shop for Vinyl Records Online (2026): Discogs, Bandcamp, Ebay",
@@ -322,72 +443,6 @@
       "thumbnail": ""
     },
     {
-      "title": "美光科技正在助力市场上最火热的价值型ETF大幅跑赢大盘",
-      "link": "https://www.tmtpost.com/7958265.html",
-      "summary": "iShares MSCI 美国价值因子 ETF 的主要持仓包括美光科技、英特尔公司、思科系统以及应用材料。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-18 03:07:27",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "降费三年，头部基金公司表面稳坐牌桌，实则已走上三条路",
-      "link": "https://www.tmtpost.com/7958229.html",
-      "summary": "总管理费放大镜下，公募头部公司的分化比排名更值得看。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-18 03:06:38",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "不缺钱的梁文锋，为什么要融资？",
-      "link": "https://www.tmtpost.com/7958175.html",
-      "summary": "外界很容易把这次转向理解为妥协。但换一个角度看，它更接近一种从实验状态向工业状态的进化。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-18 03:06:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "对7平台幽灵外卖 的35.97亿罚单背后 ，外卖行业价格战红线划定",
-      "link": "https://www.tmtpost.com/7958198.html",
-      "summary": "35.97亿元的罚单，1968.74万元的对个人罚款，数字背后是监管层的决心，也是对整个行业的警示：幽灵外卖的狂欢结束了，外卖行业的廉价时代正在终结。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-18 03:06:24",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "市场看起来情绪高涨，但黄金、债券和股票释放出相互矛盾的信号",
-      "link": "https://www.tmtpost.com/7958244.html",
-      "summary": "黄金、美国国债和标普500指数目前都维持在关键点位附近。接下来会怎么走至关重要。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-18 02:47:47",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "DeepSeek 首次融资，AGI 理想向资本低头？",
-      "link": "https://www.tmtpost.com/7958205.html",
-      "summary": "DeepSeek的转折，从来不是梁文锋一个人的“理想妥协”，而是整个国产AI行业的缩影。在AI这场残酷的长期竞赛中，技术理想主义需要商业现实的支撑，独立自主需要开放合作的补充，前沿探索需要生态建设的协同。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-18 02:45:33",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "智元机器人，要做AI大模型平台和开放生态",
       "link": "https://36kr.com/p/3770721219035649?f=rss",
       "summary": "\n文｜王毓婵\n  编辑｜杨轩\n  当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？\n  上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相较之下，硬件的篇幅反倒很少。\n  智元推出了六大AI模型、七大生产力解决方案，并首次公开AIMA（...",
@@ -396,7 +451,7 @@
       "region": "cn",
       "pubDate": "2026-04-18 02:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260417/v2_1aed7ec0ee8349a6b156d6763bb3f5d8@10269314_oswg835437oswg1600oswg1067_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "技术日报｜superpowers 突破 15.7 万星重夺榜首，Google AI 文件检测工具magika强势入榜",
@@ -462,7 +517,7 @@
       "region": "us",
       "pubDate": "2026-04-17 21:13:25",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Should you stare into Sam Altman’s orb before your next date?",
@@ -473,7 +528,7 @@
       "region": "us",
       "pubDate": "2026-04-17 20:42:47",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/world-id-tinder-verify.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
@@ -506,7 +561,7 @@
       "region": "us",
       "pubDate": "2026-04-17 20:14:21",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
@@ -594,7 +649,7 @@
       "region": "us",
       "pubDate": "2026-04-17 18:07:43",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS527_PREDICTION_MARKETS_CVIRGINIA2_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
@@ -649,7 +704,7 @@
       "region": "us",
       "pubDate": "2026-04-17 17:30:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268467_Poetry_Camera_AJohnson_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Zoom teams up with World to verify humans in meetings",
@@ -696,17 +751,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e016204large-500x500.jpg"
     },
     {
-      "title": "Gigs turns your concert history into a personal live music archive",
-      "link": "https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/",
-      "summary": "New iPhone app Gigs uses AI to turn old tickets, screenshots, and emails into a personal concert archive with stats, memories, and more....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-17 16:55:45",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
       "link": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
       "summary": "Prices for \"critical components\" are surging because of massive data center investments....",
@@ -716,28 +760,6 @@
       "pubDate": "2026-04-17 16:23:20",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/hotdogman-500x500.png"
-    },
-    {
-      "title": "Our new favorite budget phones",
-      "link": "https://www.theverge.com/tech/912286/our-new-favorite-budget-phones",
-      "summary": "Over the last few months, every phone maker under the sun has refreshed its lineups, especially at the affordable end, with no major budget phone launches now expected until next year. That made it th...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-17 15:58:07",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC02956_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The best budget smartphones you can buy",
-      "link": "https://www.theverge.com/gadgets/912271/best-budget-smartphones-cheap-iphone-android-phones",
-      "summary": "Some of us take a kind of “eat to live” rather than a “live to eat” approach to gadgets. They’re tools that help you get things done, not something you want to invest a lot of time or money in. If tha...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-17 15:55:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268464_The_best_budget_phone_you_can_buy_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma",
@@ -814,7 +836,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 11:17:58",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260417/v2_3470a7c7c03549cdbb2731de6da3a231@1199336245_oswg56306oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
@@ -825,7 +847,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 11:02:56",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260417/v2_f36e426f387041abb99ab55be2e38ef5@6162492_oswg2407477oswg5424oswg3944_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
     },
     {
       "title": "The case for fixing everything",
@@ -869,7 +891,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 09:19:53",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260417/v2_58600302005a46e3af11aa4c999937df@1215450627_oswg153875oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Ant Design 6.3.6 发布，企业级 UI 设计语言和 React 实现",
@@ -902,7 +924,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 08:25:30",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260417/v2_f91d5792e2bc44bdb8b373280199dd29@517825446_oswg615251oswg1269oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
@@ -979,7 +1001,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 07:23:59",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260417/v2_c0e8c7027ea145d2bb9f6b7e3bd85108@5362858_oswg1122123oswg1080oswg1528_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
@@ -1045,7 +1067,7 @@
       "region": "cn",
       "pubDate": "2026-04-17 03:33:56",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260417/v2_77f14aff1a16446786fe983d4be90c1c@5920579_oswg160747oswg441oswg588_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "空间智能第一股，开盘暴涨171%！李飞飞押注的赛道，杭州六小龙之一跑通了",
@@ -1112,28 +1134,6 @@
       "pubDate": "2026-04-16 18:00:01",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/groups-of-people-seated-together-at-several-tables-inside-of-a-large-meeting-hall.jpg?id=65559941&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
-    },
-    {
-      "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
-      "link": "https://www.qbitai.com/2026/04/402085.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-04-16 13:36:09",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
-      "link": "https://www.qbitai.com/2026/04/401741.html",
-      "summary": "发布一站式物理AI数据服务平台...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-04-16 13:04:18",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Making AI operational in constrained public sector environments",
