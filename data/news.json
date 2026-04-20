@@ -1,50 +1,435 @@
 {
-  "updateTime": "2026-04-20T11:57:48.367Z",
-  "total": 107,
+  "updateTime": "2026-04-20T16:20:42.179Z",
+  "total": 117,
   "news": [
     {
-      "title": "华为 Pura 90 系列新品发布会一文汇总：麒麟 9030S 登场，还有行业首款横向阔折叠、鸿蒙全家桶",
-      "link": "https://www.ithome.com/0/941/320.htm",
-      "summary": "\n今天（4 月 20 日）下午，华为 Pura 系列及全场景新品发布会如期举行，本次发布会的重头戏聚焦于“Pura”。\n华为在正式发布 Pura 90 系列的同时，也推出了行业首款横向阔折叠 Pura X Max，还为 Pura X 带来了两款新配色。\n\n与此同时，包括 WATCH 非凡大师星钻绽放款、WATCH FIT 5 系列、WATCH Buds 2、AI 眼镜、MateBook 14 鸿蒙...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-20 11:28:56",
+      "title": "FAA orders investigation into Blue Origin’s New Glenn mishap",
+      "link": "https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/",
+      "summary": "The New Glenn rocket will have to stay grounded while the company investigates what caused the apparent failure of its upper stage....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-20 16:11:41",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "惠普公布 2026 款暗影精灵系列耳机外设产品线：云雀 3 入耳式、飓风 3 新增配色...",
-      "link": "https://www.ithome.com/0/941/319.htm",
-      "summary": "\nIT之家 4 月 20 日消息，惠普在今天的发布会中介绍了多款暗影精灵耳机外设。\n\nIT之家整理产品如下：\n云雀 3 / 云雀 3 加强版耳机\n\n该耳机提供 4 种尺寸耳塞可选，采用专利耳甲腔式耳尖，利用耳廓结构夹持固定，运动或晃动时更稳固，提供 90° 弯型 USB-C 插头设计，支持掌机、手机、PC 等多平台即插即用。\n规格方面，该耳机配备 14.3mm 单元动圈单元，支持虚拟环绕音效与板载...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-20 11:24:47",
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-20 16:06:21",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Birdfy’s new 4K feeder wants to teach you about the birds it identifies",
+      "link": "https://www.theverge.com/tech/914832/birdfy-feeder-metal-2-4k-wide-angle-camera-ornisense-ai-price-availability",
+      "summary": "Birdfy has announced a new version of its camera-equipped metal feeder with an upgraded camera to make you feel even closer to nature while staring at your phone from the sofa. The Birdfy Feeder Metal...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-20 16:00:00",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "“叕”卡双待：华为 Pura 90 Pro Max 手机同样支持 eSIM 功能",
-      "link": "https://www.ithome.com/0/941/318.htm",
-      "summary": "\nIT之家 4 月 20 日消息，在今天的华为 Pura 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Pura 90 系列手机。新机分为三杯：标准版、Pro 和 Pro Max，售价 4699 元起。\n\nIT之家从华为官网获悉，除了 Pura X Max 外，华为 Pura 90 Pro Max 新机同样支持 eSIM 卡功能，实现一机装载四...",
+      "title": "WhatsApp is testing a premium subscription, put it is mainly cosmetic",
+      "link": "https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/",
+      "summary": "WhatsApp is testing a subscription after Meta debuted a similar subscription for Instagram earlier this year...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-20 15:59:26",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Humanoid ‘Lightning’ robot smashes the half-marathon record",
+      "link": "https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record",
+      "summary": "An autonomous scarlet robot named \"Lightning\" finished a 13-mile race in Beijing on Sunday in just 50 minutes and 26 seconds, less than half the time of last year's fastest robot, which took two hours...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-20 15:42:40",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "支付宝官宣华为 AI 眼镜可用鸿蒙版 App“看一下支付”",
+      "link": "https://www.ithome.com/0/941/374.htm",
+      "summary": "\nIT之家 4 月 20 日消息，在今天下午的华为 Pura 系列及全场景新品发布会上，华为终端 BG CEO 何刚正式发布了其今天佩戴的新品 —— 华为 AI 眼镜，定价 2499 元起。\n\nIT之家注意到，支付宝官方今日发文宣布，华为 AI 眼镜内置支付宝鸿蒙版 App，可以“看一下支付”：\n\n既支持看商家收款码支付\n也可以看“碰一下”收款设备支付\n\n用户绑定眼镜与支付宝账户，录入本人语音后，...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-04-20 11:19:01",
+      "pubDate": "2026-04-20 15:41:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+      "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+      "summary": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-20 15:30:19",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软公布 XGP 订阅第二批游戏阵容，《最终幻想 5》下月 5 日入库",
+      "link": "https://www.ithome.com/0/941/373.htm",
+      "summary": "\nIT之家 4 月 20 日消息，微软官方公布了 XGP 订阅第二批游戏阵容，涵盖《最终幻想 5》《近日点》等作品。\n\nIT之家附各游戏上线时间表如下：\n\n《小小火箭实验室》（Little Rocket Lab）：4 月 21 日，此前已支持 Premium、现登陆 Ultimate / PC 档位\n《汤：被盗土豆的故事》（Sopa: Tale of the Stolen Potato）：4 月 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-20 15:19:23",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "Blue Origin’s New Glenn rocket grounded after delivering satellite to wrong orbit",
+      "link": "https://www.theverge.com/science/914866/blue-origin-new-glenn-grounded-faa",
+      "summary": "The Federal Aviation Administration grounded Blue Origin's New Glenn rocket after it shuttled its payload to the wrong orbit during its launch on Sunday, according to a report from the Orlando Sentine...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-20 15:15:35",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "42.8 万元起，长城旗下 2026 款坦克 700 Hi4-T/Hi4-Z 车型上市",
-      "link": "https://www.ithome.com/0/941/317.htm",
-      "summary": "\nIT之家 4 月 20 日消息，长城汽车旗下 2026 款坦克 700 Hi4-T/Hi4-Z 今天的发布会中正式上市，系列车型共推出 3 款版本，预售价为 42.8 万元起，IT之家整理价格信息如下：\n\n\n系列车型主打专属“敦煌青”外观颜色，同时还提供千峰翠、玄武黑、远山灰等自然系车色。车辆采用瑞兽“麒麟”设计语言，前脸采用“瑞麟之眼”激光大灯，其配有 260 颗 LED 灯珠，照射距离最远达...",
+      "title": "Tesla launches robotaxis in Dallas and Houston, and oops, it’s already unavailable",
+      "link": "https://www.theverge.com/transportation/914823/tesla-robotaxi-houston-dallas-unavailable",
+      "summary": "Tesla claims to have launched a robotaxi service in Dallas and Houston over the weekend, but so far, online crowdsourcing tools indicate that very few cars are actually available. On Saturday, @TeslaR...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-20 15:06:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软发布《极限竞速：地平线 6》Xbox 限定外设，含无线手柄、耳机",
+      "link": "https://www.ithome.com/0/941/371.htm",
+      "summary": "\nIT之家 4 月 20 日消息，微软今天公布《极限竞速：地平线 6》Xbox 限定版无线手柄、耳机，售价暂未出炉。\n\nIT之家注意到，《极限竞速：地平线 6》限定版 Xbox 无线手柄拥有半透明外壳、扳机，机身上带有贯穿赛道图案，Xbox 西瓜键配色方案也有更改，呈现亮眼的粉色和绿色；摇杆则是浓粉色。而 ABXY 键被刷上了粉色、黄色、蓝色等，电池仓盖上还印有 Horizon Festival ...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-04-20 11:13:28",
+      "pubDate": "2026-04-20 15:04:51",
       "category": "energy",
       "thumbnail": ""
+    },
+    {
+      "title": "Hyundai Ioniq 3 2026: Price, Specs, Availability",
+      "link": "https://www.wired.com/story/hyundai-ioniq-3-2026/",
+      "summary": "The brand’s new 300-mile urban EV has great interior space and driving smarts, but a lot of competition. And, yes, there's a chance it is US-bound....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-20 15:03:08",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69e25ac766e2b77438cf4141/master/pass/Hyundai%20IONIQ3%20Ext3.png"
+    },
+    {
+      "title": "Meet Bruce, the \"beak-jousting\" parrot",
+      "link": "https://arstechnica.com/science/2026/04/meet-bruce-the-beak-jousting-parrot/",
+      "summary": "Kea parrot missing his upper beak \"has rewritten what disability means for behaviorally complex species.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-20 15:00:22",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/bruce1-500x500.jpg"
+    },
+    {
+      "title": "Canva’s CEO on its big pivot to AI enterprise software",
+      "link": "https://www.theverge.com/podcast/913793/melanie-perkins-canva-ai-adobe-affinity-design",
+      "summary": "Today, I’m talking with Melanie Perkins, founder and CEO of Canva, a popular online design tool. I always enjoy talking with Melanie. She was last on the show a couple of years ago, just as the AI rev...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-20 15:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "summary": "Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-20 14:57:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "曝索尼 100-400mm f/4.5 GM 镜头五月发布，Alpha 7 R VI 相机采用 6700 万像素传感器",
+      "link": "https://www.ithome.com/0/941/370.htm",
+      "summary": "\nIT之家 4 月 20 日消息，消息源 SonyAlpha Rumors 今日发文称，索尼将在 5 月推出 Alpha 7 R VI 全画幅无反相机、100-400mm f/4.5 GM 长焦镜头。\n\nIT之家从报道中获悉，目前消息人士称 100-400mm 镜头的最大光圈是 f/4.5，而非此前爆料人 HowToFly 所述的 f/4.0。后者过去几年一向比较可靠，不过这次误差了 1/3 档光...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-20 14:50:58",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "App host Vercel says it was hacked and customer data stolen",
+      "link": "https://techcrunch.com/2026/04/20/app-host-vercel-confirms-security-incident-says-customer-data-was-stolen-via-breach-at-context-ai/",
+      "summary": "Vercel blamed its breach on an earlier hack at Context AI, which allowed hackers to hijack a Vercel employee's account to steal customer data....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-20 14:45:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "《红色沙漠》动捕演员承认游戏剧情叙事薄弱，但其他方面足以弥补",
+      "link": "https://www.ithome.com/0/941/369.htm",
+      "summary": "\nIT之家 4 月 20 日消息，据游戏媒体 Insider Gaming 今天报道，《红色沙漠》游戏 3 月中旬上线，发售至今已有一个多月，凭借庞大的开放世界和丰富的探索内容给玩家留下深刻印象。但不少玩家上手后发现其剧情表现相对薄弱且缺乏深度。\n\n据报道，《红色沙漠》主角克里夫动作捕捉演员 Trevor McEwan 在一次问答活动中表示：“我承认本作在叙事方面有所欠缺，但其他方面足以弥补。此外...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-20 14:38:53",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "亚马逊给老用户打定心针：Fire OS 系统仍将长期存在，未来还会发布新设备",
+      "link": "https://www.ithome.com/0/941/367.htm",
+      "summary": "\nIT之家 4 月 20 日消息，据德媒 Golem 今天报道，亚马逊计划，未来所有新发布的 Fire TV Stick 电视棒都将运行 Vega OS 自研系统，并且目前没有计划为老设备推送 Vega ，引发老用户担心原有的 Fire OS 是否被抛弃。\n\n不过亚马逊今天为老用户们打下“定心针”，确认运行 Fire OS 的旧款设备将持续获得定期更新，并且未来还会发布搭载 Fire OS 的 F...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-20 14:25:56",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "绿联推出新款 45W 氮化镓单 USB-C 接口充电头：支持 PD 3.2 AVS，79 元",
+      "link": "https://www.ithome.com/0/941/366.htm",
+      "summary": "\nIT之家 4 月 20 日消息，绿联旗下新款指尖湃 45W 充电头现已在京东上架，该充电头支持 PD 3.2 协议，具备 SPR AVS 电压档位，定价为 99 元，首发价 79 元。\n\n该充电头重量约 49.5g，采用圆润 R 角设计，顶部采用透明面板装饰，提供可折叠插脚，提供单个 USB-C 接口，采用了华源智信 HYC3688H 合封氮化镓电源方案，同时搭配创新 AirPyra 堆叠技术设...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-20 14:25:33",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "鸿蒙智行全新一代问界 M9 汽车官宣行业首发双百万像素全彩智慧投影大灯、一镜双投影院等配置",
+      "link": "https://www.ithome.com/0/941/365.htm",
+      "summary": "\nIT之家 4 月 20 日消息，鸿蒙智行 AITO 汽车官方微博刚刚宣布，全新一代问界 M9 系列汽车行业首发双百万像素全彩智慧投影大灯、手握祥云创新门把手设计、创新一镜双投影院等配置。\n双百万像素全彩智慧投影大灯\n\n\n手握祥云创新门把手设计\n\n创新一镜双投影院\n\n据IT之家此前报道，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 4 月 17 日公布全新一代问界 M9 系列三...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-20 14:25:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
+      "link": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
+      "summary": "Cyberdefenses could be exposed faster than fixes could be deployed....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-20 14:21:40",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/lock-anthropic-500x500.jpg"
+    },
+    {
+      "title": "华为 WATCH GT6 系列智能手表获鸿蒙 HarmonyOS 6.1.0.117 版本升级，新增微运动等功能",
+      "link": "https://www.ithome.com/0/941/364.htm",
+      "summary": "\nIT之家 4 月 20 日消息，在今日的华为 Pura 系列及全场景新品发布会上，华为公布了鸿蒙 HarmonyOS 6.1 升级计划。新版本已开启陆续推送，覆盖手机、平板、电脑、手表等设备。\n\n目前，华为 WATCH GT6 系列智能手表今日也开启了鸿蒙 HarmonyOS 6.1 版本的升级（版本号为：HarmonyOS 6.1.0.117），新增“梵星绮梦”表盘、微运动及录音机功能。IT之...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-20 14:18:06",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
+      "link": "https://36kr.com/p/3775059219792648?f=rss",
+      "summary": "\n大公司：\n  天齐锂业：一季度净利润同比预增1530.31%—1818.01%\n  36氪获悉，天齐锂业披露业绩预告，预计2026年一季度归属于上市公司股东的净利润为17亿元—20亿元，同比增长1530.31%—1818.01%。\n  盛屯矿业：一季度净利润10.2亿元，同比增长250.4%\n  36氪获悉，盛屯矿业披露一季报，公司2026年一季度实现营业收入93.54亿元，同比增长65.08%...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-04-20 14:14:13",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "消息称苹果 iOS 27 抛弃 iPhone 11 / Pro / Max 及 SE 2 等手机",
+      "link": "https://www.ithome.com/0/941/363.htm",
+      "summary": "\nIT之家 4 月 20 日消息，博主 @刹那数码 发文，透露苹果 iOS 27 将不再支持 iPhone 11 / Pro / Max 及 iPhone SE 2，而“iPhone 12 还能再战”。\n\n参考此前爆料，苹果 iOS 27 将主要聚焦于稳定性，除苹果最终兑现其人工智能相关承诺外，新增功能较为有限。\n具体变更方面，iOS 27 将新增主屏幕快捷开关，用户可通过该开关撤销和重做对主屏幕...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-20 14:11:54",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "纺织印染龙头拟收购算力服务公司烽云信息；电力工控企业拟收购吉宏股份参股公司；【并购一线】",
+      "link": "https://www.tmtpost.com/7960549.html",
+      "summary": "4月20日最新并购信息及价值分析。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-20 14:04:17",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rivian’s factory hit by tornado ahead of R2 launch",
+      "link": "https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/",
+      "summary": "Nobody was hurt after an EF-1 tornado hit the part of the factory where the R2 SUV is supposed to be built....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-20 13:47:51",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Elden Ring movie hits theaters in March 2028",
+      "link": "https://www.theverge.com/entertainment/914818/elden-ring-movie-date-cast",
+      "summary": "It's going to be a little while before The Lands Between is realized in movie form. Bandai Namco just confirmed that the live-action Elden Ring movie, which was announced last year, is expected to hit...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-20 13:25:40",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "继Harness之后，“龙虾”JiuwenClaw率先开启“Coordination Engineering”时代",
+      "link": "https://www.qbitai.com/2026/04/403751.html",
+      "summary": "把多Agent协同玩明白了...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-04-20 13:00:10",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vampire Survivors’ new spinoff switches genres but keeps the good vibes",
+      "link": "https://www.theverge.com/games/913410/vampire-survivors-new-spinoff-switches-genres-but-keeps-the-good-vibes",
+      "summary": "When Vampire Survivors first exploded onto the scene, it was pretty much all I could think about. The formula of jumping into runs, taking on thousands of enemies, and becoming absurdly overpowered ke...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-20 13:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "This pasta sauce wants to record your family",
+      "link": "https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps",
+      "summary": "As if there weren't already enough devices listening in on everything being said in your home, Prego, the pasta and pizza sauce brand, is releasing a device designed to record everything said around t...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-20 13:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
+      "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
+      "summary": "The pasta-sauce company has partnered with the nonprofit StoryCorps on a device designed to record family conversations around the table and save them for all time....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-20 13:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/69e162684f4f8c52a7b1a820/master/pass/Prego-AI-Dinner-Bot-Gear-Prego_ConnectionKeeper-5.jpg"
+    },
+    {
+      "title": "空悬企业时驾科技获头部车企MPV车型独家定点 | 早期项目",
+      "link": "https://36kr.com/p/3775008761004549?f=rss",
+      "summary": "\n36氪获悉，国产空气悬架供应商时科技，已拿下某头部车企MPV车型的独家定点，项目将在今年四季度SOP（交付）。36氪了解到，这款车定位中大型MPV市场，是中国MPV界的标杆车型。\n  时驾科技创始人乌伟民告诉36氪：“企业花了很大精力打入这款车的供应链，因为MPV最突出的卖点之一就是舒适性，这款车尤甚。空悬对用户体验的主要影响正体现在舒适性上，因而拿下这款车的独家定点，意味着时驾科技在空悬的舒适...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-04-20 12:47:19",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "Huawei beats Samsung and Apple to market with the first wide foldable",
+      "link": "https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability",
+      "summary": "Huawei has launched its passport-style foldable in China, ahead of similar devices said to be coming from Apple and Samsung. That makes the Pura X Max the first wide foldable phone that's actually ava...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-20 12:19:19",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+      "link": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In Feb...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-04-20 12:10:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "DJI’s latest power station is proof that good things come in mini packages",
+      "link": "https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison",
+      "summary": "As an avid vanlifer, I have to carefully curate everything I carry in order to eke out every square inch of storage I can to support life off the grid for weeks at a time. That's why I jumped at the c...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-20 12:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "启明系入主天迈科技百日，火速注入自投曾拟IPO标的 | 并购一线",
+      "link": "https://www.tmtpost.com/7960381.html",
+      "summary": "这本质上是一次将自身已投资产，通过刚刚取得的上市平台进行证券化的“内部腾挪”。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-20 11:50:27",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y46jytg3.png"
+    },
+    {
+      "title": "Vercel 确认遭入侵：第三方 AI 工具成突破口，黑客索要 200 万美元赎金",
+      "link": "https://www.oschina.net/news/434713",
+      "summary": "云开发平台Vercel近日披露一起安全入侵事件。该公司确认，攻击者通过第三方AI工具Context.ai的Google Workspace OAuth应用获取了初始访问权限，进而入侵内部系统。与此同时，一名自称\"ShinyHunters\"的黑客声称正在暗网论坛出售窃取的数据，并向Vercel索要200万美元赎金。 Vercel是全球知名的云开发平台，以Next.js React......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-20 11:38:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "年报“暴雷”VS一季报“炸裂”：中炬高新的“反转叙事”含金量几何？ | 看财报",
+      "link": "https://www.tmtpost.com/7960224.html",
+      "summary": "一面是晦暗的过去，另一面是刺眼的未来。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-20 11:09:58",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/0526f06c59fe47e4acb09846b209e15b_1776683401.png"
     },
     {
       "title": "We Love the Bose QuietComfort Ultra 2, Especially at $50 Off",
@@ -58,15 +443,81 @@
       "thumbnail": "https://media.wired.com/photos/69e2e91f715d3176493cfd7d/master/pass/Snag-a-Great-Deal-on-the-Best-Noise-Canceling-Earbuds.jpg"
     },
     {
-      "title": "猛士汽车 | 华为乾崑联合设计：智能越野新车首发八大黑科技，含定制版鸿蒙座舱、乾崑智驾等",
-      "link": "https://www.ithome.com/0/941/316.htm",
-      "summary": "\nIT之家 4 月 20 日消息，今天上午，猛士汽车春季焕新发布会如期举行。猛士汽车官方表示，要从“造最强新能源越野车”全面转向“造最懂用户新能源越野车”。\n\n此次发布会上，猛士汽车重点介绍了与华为乾崑的合作。猛士将和华为乾崑深度合作，从“产品共创”全面升级为“全维共创”。IT之家从猛士汽车官方获悉，新车将首发八大智能越野黑科技，打造“含华量”最高的智能越野车：\n\n量产最高线束 896 线激光雷达...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "走出隐秘家族办公室，蔡崇信的全球资本版图",
+      "link": "https://www.tmtpost.com/7956899.html",
+      "summary": "蔡崇信的商业版图。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-20 11:06:14",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2rt43q5whyt3.png"
+    },
+    {
+      "title": "宁德时代的1291亿季报，和一个被放下的故事",
+      "link": "https://www.tmtpost.com/7959023.html",
+      "summary": "宁德时代还是那个“赚钱机器”，但它悄悄改了扩张的逻辑。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-20 11:05:56",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/654f316f711550e645dcefb13e992746_1776683160.png"
+    },
+    {
+      "title": "格力VS海信：“真铜实料”引发的空调商战",
+      "link": "https://www.tmtpost.com/7959369.html",
+      "summary": "一场舆论战背后的商战。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-20 11:05:19",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/cd43cefc18e3d24ca509f53a90295565_1776683122.png"
+    },
+    {
+      "title": "胖东来自有品牌：突破自营渠道的品牌化之路",
+      "link": "https://www.tmtpost.com/7959838.html",
+      "summary": "胖东来自有品牌，已经不仅属于“胖东来”。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
       "pubDate": "2026-04-20 11:05:13",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/61619d2acc978511ae879defaa6abf2a_1776683119.jpg"
+    },
+    {
+      "title": "DeepSeek融资，梁文锋的“现实主义”转身",
+      "link": "https://www.tmtpost.com/7959921.html",
+      "summary": "理想需要标价，要钱更要人心...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-20 11:05:07",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/675859f3.png"
+    },
+    {
+      "title": "7亿担保压身，莱普科技的科创板IPO打几分？",
+      "link": "https://www.tmtpost.com/7960041.html",
+      "summary": "科创板“硬科技指标”关山难越。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-20 11:05:01",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/c33406484db388ca8257c3c4a82e3011_1776683105.png"
+    },
+    {
+      "title": "对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实",
+      "link": "https://www.tmtpost.com/7960107.html",
+      "summary": "超节点、Token工厂、电力出海、推理优化。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-20 11:04:56",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/6874be45d0fbd2ee9287ef2fa0b2500e_1776683102.jpg"
     },
     {
       "title": "Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support",
@@ -91,58 +542,14 @@
       "thumbnail": "https://media.wired.com/photos/69e1401ea5e5befd53e0b86f/master/pass/Culture_TechCEOsThinkAIWillLetThemBeEverywhereatOnce.jpg"
     },
     {
-      "title": "华为超空间内存技术适配计划公布：Mate X7 系列预计 6 月推送",
-      "link": "https://www.ithome.com/0/941/315.htm",
-      "summary": "\nIT之家 4 月 20 日消息，华为官方今天公布“超空间内存技术”适配计划，Mate 80 系列升级到鸿蒙 HarmonyOS 6.1.0.117 及以上可支持。\nIT之家附上适配情况如下：\n\n\n机型\n适配情况\n\n\n手机：Mate 80 系列\n升级至 HarmonyOS 6.1.0.117 及以上版本后可支持\n\n\n手机：Mate X7 系列\n预计 2026 年 6 月开始逐步推送，具体推送时间,...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "通义实验室推出 Fun-ASR1.5，“方言工业级可用”模型",
+      "link": "https://www.oschina.net/news/434699",
+      "summary": "通义实验室宣布正式推出 Fun-ASR1.5，实现了「方言工业级可用」的语音识别大模型。 Fun-ASR1.5 基于统一的大模型架构，单模型即可无缝覆盖 30 种语言、汉语七大方言体系及 20+ 地方口音，古诗词吟诵也能精准转写。测试显示，典型方言场景字错误率（CER）相对下降 56.2%。目前已有 5 种方言准确率突破 90%，15 种超过 80......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-04-20 10:58:27",
+      "pubDate": "2026-04-20 10:06:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "索尼 SIE 前总裁吉田修平自曝：曾因不服从 CEO 吉姆 · 瑞恩而被调岗",
-      "link": "https://www.ithome.com/0/941/314.htm",
-      "summary": "\nIT之家 4 月 20 日消息，据游戏媒体 EuroGamer 今天报道，索尼 SIE 前总裁吉田修平最近在 Alt: Games 大会表示，他曾经因为不听时任 CEO 吉姆 · 瑞恩的要求而被“调岗”。\n\n▲ 图源：EuroGamer吉田修平表示，他其实和吉姆是同一代游戏人，从 PS1 时期就认识彼此：“我和吉姆从 PS1 时代就一起成长，你不会想让朋友成为你的下属”。\n时间到了 2019 年...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-20 10:47:01",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "内存价格上涨成本扛不住：华为余承东称手机定价压力较大，后期可能涨价",
-      "link": "https://www.ithome.com/0/941/312.htm",
-      "summary": "\nIT之家 4 月 20 日消息，在今天下午的华为 Pura 系列及全场景新品发布会上，Pura 90 系列、Pura X Max 等新机正式发布。易烊千玺作为 Pura 代言人也来到了发布会现场，并与余承东展开了互动。\n\nIT之家注意到，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东还在发布会现场谈到了内存涨价一事。他表示，现在新手机定价压力很大，成本上涨很多，后面扛不住了也可能...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-20 10:30:58",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "三星晶圆代工合作伙伴 GAONCHIPS 完成 1XPU + 4HBM 先进封装验证",
-      "link": "https://www.ithome.com/0/941/311.htm",
-      "summary": "\nIT之家 4 月 20 日消息，三星晶圆代工设计解决方案合作伙伴 GAONCHIPS 上周宣布其完成了 1ASIC + 4HBM 异构集成的技术验证，为首款 2.5D 先进封装产品的今年夏季量产打下了基础。\n\nIT之家了解到，GAONCHIPS 测试芯片采用了三星电子的 I-Cube S 技术。这一方案类似台积电的 CoWoS，应用了硅中介层 (Si Interposer) 结构。GAONCHI...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-20 10:20:03",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "《戴森球计划》Steam 国区 56 元，发行商 Gamirror Games 开启八周年特卖活动",
-      "link": "https://www.ithome.com/0/941/310.htm",
-      "summary": "\nIT之家 4 月 20 日消息，发行商 Gamirror Games 昨天开启八周年特卖活动，多款游戏平史低，截至 5 月 3 日，促销页链接如下：\nhttps://store.steampowered.com/news/group/33788459/view/563648694026502519\n\nIT之家附平史低作品如下（Steam 国区）：\n\n《戴森球计划》：56 元\n《文字化化》：原价 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-20 10:18:08",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -168,6 +575,28 @@
       "thumbnail": ""
     },
     {
+      "title": "老牌开源项目该不该接受 AI 代码？",
+      "link": "https://my.oschina.net/u/4487475/blog/19585524",
+      "summary": "对于是否接受由 AI 生成的代码，开源界的 OG 们似乎分成了两大派别。...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-20 09:56:34",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "HarmonyOS 6.1.0(23) Release 版本更新速览，关键技术特性抢先看！",
+      "link": "https://www.oschina.net/news/434695",
+      "summary": "概述： 今天，HarmonyOS 6.1.0(23) Release 版本正式发布！本次版本更新聚焦系统能力增强、创新场景升级以及开发工具体验优化，带来多项关键能力更新，为开发者打造更高质量应用提供坚实支撑，进一步提升整体开发效率。 从系统能力到创新特性，再到工具链升级，HarmonyOS持续优化开发体验，让应用开发更加高效，用户体验......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-20 09:55:20",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "英特尔：CPU的痛就像送外卖",
       "link": "https://www.qbitai.com/2026/04/403757.html",
       "summary": "发布AI高静本Plus...",
@@ -181,7 +610,7 @@
     {
       "title": "营销情怀、剧情不通，为什么《安魂曲》依旧好评如潮？| 36氪游戏",
       "link": "https://36kr.com/p/3774966004892416?f=rss",
-      "summary": "\n文丨贝果树\n  编辑丨果脯\n  发售初期，《生化危机9：安魂曲》曾以9.5的用户评分登顶Metacritic“用户评分游戏”的榜单。\n  \n  Metacritic榜单\n  这似乎是史上最佳的一部生化危机——即使是广受好评的《生化危机4：重制版》和《生化危机2：重制版》，评分也只有9.0和8.9。发售第二十天，《安魂曲》的销量突破了600万份，是《生化危机》系列历史上最快达到这一销量的作品。\n ...",
+      "summary": "\n文丨贝果树\n  编辑丨果脯\n  发售初期，《生化危机9：安魂曲》曾以9.5的用户评分登顶Metacritic“用户评分游戏”的榜单。\n  \n  Metacritic榜单\n  这似乎是史上最佳��一部生化危机——即使是广受好评的《生化危机4：重制版》和《生化危机2：重制版》，评分也只有9.0和8.9。发售第二十天，《安魂曲》的销量突破了600万份，是《生化危机》系列历史上最快达到这一销量的作品。\n...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
@@ -212,6 +641,17 @@
       "thumbnail": "https://media.wired.com/photos/68cd64eec5c73ba1c6338fb8/master/pass/Mix%20and%20Match%20Your%20Mattress's%20Build%20With%20the%20Best%20Hybrid%20Mattress.png"
     },
     {
+      "title": "调问更新 4.3~4.17：新版重磅上线+生产力跃升，AI 与高级逻辑引擎和模板中心重构+19 项功能优化与 BUG 修复",
+      "link": "https://www.oschina.net/news/434682",
+      "summary": "调问自开源以来一直坚持前后端所有代码 100% 开源💯，助力企业建设属于自己的问卷调研系统👏。 🔥 官网地址：https://www.diaowen.net 🔥 在线服务：https://www.surveyform.cn 🔥 源码下载：https://gitee.com/wkeyuan/DWSurvey 这段时间调问网在马不停蹄的对新版本进行测试和优化，最新版本我们对页面进行了......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-20 09:35:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "谁能通过真实世界考验？ATEC2026发起具身智能“图灵测试”",
       "link": "https://www.qbitai.com/2026/04/403753.html",
       "summary": "",
@@ -223,14 +663,14 @@
       "thumbnail": ""
     },
     {
-      "title": "GoPro’s new Mission cameras are priced beyond most weekend athletes",
-      "link": "https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices",
-      "summary": "GoPro is pricing its new Mission 1 and Mission 1 Pro cameras at $599.99 and $699.99, respectively, each discounted by $100 if you subscribe to its ecosystem - fine for professional filmmakers, but a t...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-20 09:04:39",
-      "category": "other",
+      "title": "上海 AI 实验室推出 ViraHInter 模型",
+      "link": "https://www.oschina.net/news/434674",
+      "summary": "上海人工智能实验室（上海AI实验室）、复旦大学、上海交通大学医学院附属瑞金医院及上海市病毒研究院联合团队推出 ViraHInter —— 一款融合蛋白序列与结构双模态的AI预测模型，不用开展湿实验就能预判出病毒将“劫持”哪些人体蛋白。将抗病毒药物研发从逐个病毒应对的模式，推进到针对多病毒共性宿主因子的系统化靶点发......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-20 09:09:41",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -278,6 +718,17 @@
       "thumbnail": ""
     },
     {
+      "title": "jsoup 1.22.2 发布，Java HTML 解析器",
+      "link": "https://www.oschina.net/news/434661/jsoup-1-22-2-released",
+      "summary": "jsoup 1.22.2 现已发布，对库进行了多项修复和改进。它使遍历 DOM 时编辑 DOM 的操作更加可预测，使用更新的元素和更佳的文本边界更新了默认的 HTML 标签定义，并提高了解析和 HTTP 传输的可靠性。此版本还修复了清理、流解析、XML 文档类型处理和 Android 打包方面的一些特殊情况。 改进 扩展并明确了NodeTraversor在N......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-20 08:32:36",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "Mythos架构被22岁小伙“逆推”开源了！MoE和注意力借鉴DeepSeek",
       "link": "https://www.qbitai.com/2026/04/403708.html",
       "summary": "整合了公开研究和目前对Claude Mythos架构的主流推测...",
@@ -311,6 +762,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Qwen3.6-Max-Preview 发布",
+      "link": "https://www.oschina.net/news/434641",
+      "summary": "继 Qwen3.6-Plus 发布之后，阿里今日发布 Qwen3.6-Max-Preview。相比 Qwen3.6-Plus，本次预览版带来了更强的世界知识和指令遵循能力，以及在多项基准上显著提升的智能体编程表现。 Qwen3.6-Max-Preview 在 SWE-bench Pro、Terminal-Bench 2.0、SkillsBench、QwenClawBench、QwenWebBenc...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-20 07:52:33",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "Flink Agents 0.3 Roadmap 解读",
       "link": "https://my.oschina.net/u/2828172/blog/19585439",
       "summary": "最近，Flink Agents 发布了 0.2.1 版本，并展示了一个基于该框架构建的 Flink 作业智能运维 Agent，充分展现了其在事件驱动领域的潜力。但更令人兴奋的是，社区已经启动了 0.3 版本的规划讨论，其中涉及的不少功能让我倍感期待。...",
@@ -333,17 +795,6 @@
       "thumbnail": ""
     },
     {
-      "title": "没拿VC一分钱，武汉诞生2000亿独角兽",
-      "link": "https://www.tmtpost.com/7959685.html",
-      "summary": "一根光纤，裂变出万亿市值群 。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-20 06:49:00",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5hyjtng3.png"
-    },
-    {
       "title": "1.6MB 表情包被使用 24 万次生成 377GB 冗余数据，Discourse 平台遭遇 Linux 文件系统瓶颈",
       "link": "https://www.oschina.net/news/434620",
       "summary": "一张体积仅1.6MB的《老友记》GIF表情包，在开源社区平台Discourse上被使用246173次后，竟生成了377GB的冗余备份数据，并因突破Linux ext4文件系统的硬链接数量上限而导致备份机制失效。这一颇具戏剧性的技术故障，揭示了大规模社交平台在文件去重与存储优化方面面临的深层挑战。 这张表情包出自经典美剧《老友记》第九季......",
@@ -355,94 +806,6 @@
       "thumbnail": ""
     },
     {
-      "title": "VASSAL Engine 3.7.21 发布，开源棋牌游戏构建引擎",
-      "link": "https://www.oschina.net/news/434617/vassal-3-7-21-released",
-      "summary": "VASSAL Engine 3.7.21 版本现已发布。VASSAL 是一个游戏引擎，用于在线构建棋盘游戏和纸牌游戏，构建的游戏可在 Internet 上或通过电子邮件实时运行。VASSAL Engine 可在所有平台上运行，并且是免费的开源软件。具体更新内容包括： IMPORTANT 如果你使用的是 MacOS 14，请确保你使用的是 14.4 或更高版本，以避免 MacOS ......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-20 06:38:36",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "具身智能公司开始积极「进厂」打工",
-      "link": "https://www.tmtpost.com/7959655.html",
-      "summary": "工业场景率先成为机器人从实验室、表演舞台走向实际工作场景的突破口。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-20 06:32:00",
-      "category": "robot",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/4e1ddc58048b6911dcef723618f820bf_1776664183.jpg"
-    },
-    {
-      "title": "DeepSeek 启动首次外部融资，估值超 100 亿美元",
-      "link": "https://www.oschina.net/news/434610",
-      "summary": "2026年4月17日，据外媒The Information报道，中国大模型独角兽DeepSeek（深度求索）正启动成立以来的首次外部股权融资。这一转变标志着这家曾长期坚持\"自我供血\"的技术黑马，正式加入全球AI资本竞赛。 据多位知情人士透露，DeepSeek此次融资目标估值不低于100亿美元（约合680亿元人民币），计划募集不少于3亿美元（约20.......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-20 06:25:36",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI斩杀线，Anthropic还要制造多少条？",
-      "link": "https://www.tmtpost.com/7959461.html",
-      "summary": "传统软件公司还有活路吗？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-20 06:17:00",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/758163f20be34cd4b38bbb7c8ecb1d5c_1776664154.jpg"
-    },
-    {
-      "title": "Debian 项目新任领导人选举结果揭晓",
-      "link": "https://www.oschina.net/news/434601",
-      "summary": "2026 年 Debian 项目领导人选举结果已揭晓。原本的 Debian 项目负责人 Andreas Tille 在任期届满后，选择不再寻求连任 。 作为唯一的候选人，Sruthi Chandran 在没有竞争对手的情况下，在完成法定人数的投票程序后当选为新的 Debian Project Leader (DPL)。新任期将于 2026 年 4 月 21 日开始。 Sruthi Chandran...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-20 06:12:44",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "梁文锋的当务之急",
-      "link": "https://www.tmtpost.com/7959453.html",
-      "summary": "真实对价里包含了什么？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-20 06:09:00",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/2aa4ea6fbd347e981983c786fd717dd1_1776664139.png"
-    },
-    {
-      "title": "又一个AI赛道爆发，暴涨300%，有商家年入千万",
-      "link": "https://www.tmtpost.com/7959400.html",
-      "summary": "机器人赛道最先跑出的细分品类，治好了“人宠分离焦虑”。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-20 06:02:00",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/92708a41cea11663d58166c5a486bfa8_1776664113.jpg"
-    },
-    {
-      "title": "AI芯片初创公司，进入“斩杀线”？",
-      "link": "https://www.tmtpost.com/7959344.html",
-      "summary": "99进25，这场淘汰赛，谁能活到最后?...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-20 05:55:00",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t43y546hjyhtg3.png"
-    },
-    {
       "title": "艾梵达Aveda押注“微酵护发”，雅诗兰黛集团加码高端护发赛道｜最前线",
       "link": "https://36kr.com/p/3774625128481539?f=rss",
       "summary": "\n在护发市场逐步从“修饰效果”转向“长期修护”的背景下，近日，雅诗兰黛集团（Estée Lauder Companies）旗下护发品牌艾梵达（Aveda）在上海研发中心发布以“微酵科技”为核心的新一轮产品与技术方向，并借此强化其在高端沙龙护发赛道的差异化定位。\n  此次对外展示围绕一款名为“奇迹水光油”（Miraculous Oil High-Shine Hair Concentrate）的护发精...",
@@ -452,61 +815,6 @@
       "pubDate": "2026-04-20 05:53:44",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "挑落茅台的A股新王，为何诞生在陕西？",
-      "link": "https://www.tmtpost.com/7957602.html",
-      "summary": "“茅台退位，源杰登基。”...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-20 05:50:00",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t43y54htrtg3.png"
-    },
-    {
-      "title": "Kubeflow Trainer v2.2 发布",
-      "link": "https://www.oschina.net/news/434593",
-      "summary": "Kubeflow 团队正式宣布推出 Trainer v2.2 版本。v2.2 版本的发布进一步彰显了团队致力于拓展 Kubeflow Trainer 生态系统的决心——通过对 JAX、XGBoost 和 Flux 的原生支持，更好地满足开发者们的实际需求，同时提升TrainJob的可观测性。 v2.2版本的主要亮点包括： 为 JAX 和 XGBoost 的运行环境提供顶级支持，在 Kubern.....",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-20 05:48:49",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "传统赛道卷无可卷，万豪们开始集体卷“养生”",
-      "link": "https://www.tmtpost.com/7959343.html",
-      "summary": "更多跨界玩家将加入。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-20 05:47:54",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/24531c91034bb23d0656aea9241cd211_1776664077.jpg"
-    },
-    {
-      "title": "阿里AI赛马：高德不想只当背景板",
-      "link": "https://www.tmtpost.com/7959278.html",
-      "summary": "高德“途途”走在马拉松赛场边缘，想赢的是另一个赛场。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-20 05:47:39",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/ac43caeb4e97976ffc94a1e118202804_1776664063.png"
-    },
-    {
-      "title": "两大巨头财报戳破四大真相：种植牙行业真的变天了",
-      "link": "https://www.tmtpost.com/7959294.html",
-      "summary": "控费、加速本地化、押注数字化生态和绑定大型DS0口腔连锁，成为种植牙巨头们的重要任务。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-20 05:39:15",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/4c8c9d8728eecabb1afafc921db7ef8c_1776663563.jpg"
     },
     {
       "title": "20亿美金苏度科技具身首秀即大招！0真机数据，zero-shot，跑出98%首次抓取成功率",
@@ -533,22 +841,11 @@
     {
       "title": "地产一哥业绩“大洗澡”，舍利润保现金流",
       "link": "https://36kr.com/p/3774684111634953?f=rss",
-      "summary": "\n地产行业持续下行，即使第一梯队阵营也承受了巨大压力。从销售巅峰期连续下降五年之后，连龙头上市房企，也必须在“保利润”和“保现金流”之间二选一。\n  4月17日晚间，连续三年销售额稳居行业第一的保利发展公布了2025年成绩单：\n  \n全年销售额2530亿元，连续三年稳居行业第一；\n   营业收入3081.44亿元，同比微降1.13%；\n   归母净利润大幅下滑79.31%，仅剩10.35亿元；\n ...",
+      "summary": "\n地产行业持续下行，即使第一梯队阵营也承受了巨大压力。��销售巅峰期连续下降五年之后，连龙头上市房企，也必须在“保利润”和“保现金流”之间二选一。\n  4月17日晚间，连续三年销售额稳居行业第一的保利发展公布了2025年成绩单：\n  \n全年销售额2530亿元，连续三年稳居行业第一；\n   营业收入3081.44亿元，同比微降1.13%；\n   归母净利润大幅下滑79.31%，仅剩10.35亿元；\n...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-04-20 04:47:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fabric.js 7.3.1 发布，JavaScript Canvas 库",
-      "link": "https://www.oschina.net/news/434564/fabric-js-7-3-1-released",
-      "summary": "Fabric.js 7.3.1 已经发布。Fabric.js 是一款简单而强大的 JavaScript Canvas 库，在 HTML5 Canvas 元素之上提供了互动的对象模型，同时还包含 Canvas-to-SVG 解析器。 使用 Fabric.js 可以创建和填充画布上的对象，从简单的几何图形到成百上千路径组成的复杂图形。可以通过鼠标轻松的移动、缩放和旋转这些对象，修改它们......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-20 03:21:27",
       "category": "other",
       "thumbnail": ""
     },
@@ -564,61 +861,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Apache Maven 3.9.15 发布，项目管理和构建工具",
-      "link": "https://www.oschina.net/news/434559/maven-3-9-15-released",
-      "summary": "Apache Maven 3.9.15 现已发布。Apache Maven 是一个项目管理和构建工具。基于项目对象模型（POM）的概念， Maven 可以从中心位置管理项目的构建、报告和文档。 具体更新内容包括： Documentation updates 在文档中使用新的 Maven logos（#11938） document modelVersion 仅支持的值：4.0.0（#11809） ...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-20 03:01:41",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "C++ Web 框架 paozhu 1.9.6 发布",
-      "link": "https://www.oschina.net/news/434553/paozhu-1-9-6-released",
-      "summary": "全球领先的C++ web框架paozhu，本次为常规更新，修复了ssl握手bug和清除连接的bug 改进了获取ip方式，针对各种攻击机器人做了优化。 稳定性得到了很大提升。 加入了微信小程序支付例子 paozhu特性。 :white_check_mark: 1. 自带json编解码不用第三方库，标准json支持 :white_check_mark: 2. 支持多域名网站 :white_check....",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-20 02:44:46",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "Flink 实时计算 x SLS 存储下推：阿里云 OpenAPI 网关监控平台实践",
-      "link": "https://my.oschina.net/u/3874284/blog/19481822",
-      "summary": "任何接口的波动都可能影响客户的生产业务，因此必须建立全方位的指标监控 体系，并配套及时的告警能力，以确保高可用性。...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-20 02:40:32",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
-      "link": "https://36kr.com/p/3773892499096068?f=rss",
-      "summary": "\n作者 | 张子怡\n  编辑 | 袁斯来\n  智能派的联合创始人兼副总经理陈波变了一个人。\n  三年前，你见到他，会觉得这人张扬到有些轻狂。陈波对于智能派产品和能力有绝对自信，至于对手，”没什么了不起”。\n  三年后，他告诉我们：有些事会尽力而为，如果几年后做不出想要的成绩，让更有能力的人来接管业务——甚至会引入职业经理人。\n  在“创始人崇拜”盛行的创投圈，这是一个让人震动的决定，却也有迹可循。...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-04-20 02:00:10",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
-      "link": "https://36kr.com/p/3774502008963841?f=rss",
-      "summary": "\n文｜邱晓芬\n  编辑｜苏建勋\n  《智能涌现》独家获悉，自变量机器人已经于三月底至四月初完成近20亿元B轮融资，领投方为小米战投和红杉中国。\n  不久前，美团、阿里和字节分别在A轮、A+轮、A++轮领投或独投自变量机器人。截至目前，自变量已成为国内唯一一家同时被四家互联网大厂投资的具身智能企业。\n  对此，自变量方面暂无回应。\n  小米战投在具身智能机器人领域已落子，近两年公开的投资项目包括纬钛...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-04-20 01:42:44",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
       "title": "OpenAI’s existential questions",
       "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
       "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company....",
@@ -626,28 +868,6 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-04-19 21:24:06",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Blue Origin successfully reused its New Glenn rocket",
-      "link": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
-      "summary": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-19 20:28:52",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloud development platform Vercel was hacked",
-      "link": "https://www.theverge.com/tech/914723/vercel-hacked",
-      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was b...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-19 19:54:52",
       "category": "ai",
       "thumbnail": ""
     },
@@ -674,17 +894,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Robots beat human records at Beijing half-marathon",
-      "link": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
-      "summary": "The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-19 18:44:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
       "link": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
       "summary": "Blue Origin's reused first stage hit its targets, but New Glenn's upper stage did not....",
@@ -696,92 +905,15 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271539021-500x500.jpg"
     },
     {
-      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-      "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "How Engineers Kick-Started the Scientific Method",
+      "link": "https://spectrum.ieee.org/francis-bacon-scientific-method",
+      "summary": "\nIn 1627, a year after the death of the philosopher and statesman Francis Bacon, a short, evocative tale of his was published. The New Atlantis describes how a ship blown off course arrives at an unkn...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-04-19 16:30:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part. ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-19 16:01:00",
+      "pubDate": "2026-04-19 13:00:02",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
-      "link": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
-      "summary": "Over the past several years, Nothing’s budget-centric subsidiary, CMF, has built a reputation for producing attractive, inexpensive products with features often reserved for gadgets that cost twice th...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-19 14:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Stars My Destination is classic proto-cyberpunk",
-      "link": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
-      "summary": "This might feel like a somewhat obvious recommendation to some, but it flew under my radar until now. Alfred Bester's The Stars My Destination (originally published as Tiger! Tiger! in the UK) is a 19...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-19 14:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cracks are starting to form on fusion energy’s funding boom",
-      "link": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
-      "summary": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-19 12:51:10",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
-      "link": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
-      "summary": "Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming. Its Q and V series are amo...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-19 12:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The future of local TV news has taken a Trumpian turn",
-      "link": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more stories on Big Tech versus politics in Washington, DC, follow Tina Nguyen and read Regulator. ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-19 12:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
-      "link": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
-      "summary": "It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-19 11:45:38",
-      "category": "space",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-francis-bacon-cornelis-drebbel-and-salomon-de-caus-with-images-of-a-ship-gears-a-model-of-the-universe-and.png?id=65539363&width=1245&height=700&coordinates=0%2C16%2C0%2C17"
     },
     {
       "title": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like",
@@ -839,17 +971,6 @@
       "thumbnail": ""
     },
     {
-      "title": "大模型架构的下半场",
-      "link": "https://www.qbitai.com/2026/04/403515.html",
-      "summary": "面向大模型深度扩展的Flash Depth Attention与混合深度注意力...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-04-19 10:12:10",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The 11 Best Fans to Buy Before It Gets Hot Again (2026)",
       "link": "https://www.wired.com/story/the-best-fans-2026/",
       "summary": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room....",
@@ -859,83 +980,6 @@
       "pubDate": "2026-04-19 10:00:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/69e2e66fc95c45da36013963/master/pass/The-Best-Fans-to-Buy-Before-It-Gets-Hot-Again.jpg"
-    },
-    {
-      "title": "Our Favorite Apple Watch Has Never Been Less Expensive",
-      "link": "https://www.wired.com/story/apple-watch-series-11-deal-april-2026/",
-      "summary": "Our top Apple Watch recommendation fluctuates in price. If you're in the market, now's a good time to buy....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-19 09:39:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69e2defc1f0301c943c55ddb/master/pass/The-Best-Apple-Watch-Is-Back-to-Its-Cheapest-Price.jpg"
-    },
-    {
-      "title": "The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot",
-      "link": "https://www.wired.com/gallery/best-pet-cameras/",
-      "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-19 09:03:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69e2d81939c62e0b45b3e304/master/pass/The-Best-Pet-Cameras-of-2026.jpg"
-    },
-    {
-      "title": "Tesla brings its robotaxi service to Dallas and Houston",
-      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-18 21:37:15",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The RAM shortage could last years",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages cou...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-18 21:08:45",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "VC Ron Conway says he has a ‘rare form of cancer’",
-      "link": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
-      "summary": "Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-18 20:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
-      "link": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
-      "summary": "Jorge L. Alonso, a federal district court judge for the Northern District of Illinois, said that the Trump Administration violated the First Amendment when it pressured Facebook and Apple to remove IC...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-18 16:42:25",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cheap stuff that doesn’t suck, take 3",
-      "link": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
-      "summary": "From fancy OLED TVs to robot vacuums with arms, we tend to cover a lot of cool stuff here at The Verge that, unfortunately, often costs as much as a month’s rent (or more). But with the ongoing tariff...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-18 15:33:00",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "Great white sharks are overheating",
@@ -951,7 +995,7 @@
     {
       "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
       "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
-      "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"...",
+      "summary": "Grinex says needed hacking resources \"available exclusively to... unfriendly states.\"...",
       "source": "Ars Technica",
       "sourceKey": "arstechnica",
       "region": "us",
@@ -991,28 +1035,6 @@
       "pubDate": "2026-04-17 18:31:48",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/electric-piggy-bank-25k-500x500.jpg"
-    },
-    {
-      "title": "Satellite and drone images reveal big delays in US data center construction",
-      "link": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
-      "summary": "Data centers face construction delays and energy bottleneck as resistance grows....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-17 18:08:25",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Drone-thermal-image-of-Garland-data-center-500x500.jpg"
-    },
-    {
-      "title": "Amazon won’t release Fire Sticks that support sideloading anymore",
-      "link": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/",
-      "summary": "The two newest Fire Sticks block apps from outside of Amazon's store....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-17 17:42:42",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/about-amazon-hero-fire-tv-stick-hero-option-2-amazon-news-jp-041026-500x500.jpg"
     },
     {
       "title": "Train-to-Test scaling explained: How to optimize your end-to-end AI compute budget for inference",
@@ -1068,6 +1090,17 @@
       "pubDate": "2026-04-17 14:06:00",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Designing Broadband LPDA-Fed Reflector Antennas With Full-Wave EM Simulation",
+      "link": "https://content.knowledgehub.wiley.com/efficient-design-and-simulation-of-lpda-fed-parabolic-reflector-antennas/",
+      "summary": "\nA practical guide to designing log-periodic dipole array fed parabolic reflector antennas using advanced 3D MoM simulation — from parametric modeling to electrically large structures.\nWhat Attendees ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-17 14:00:50",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/wipl-d-logo.png?id=26851496&width=980"
     },
     {
       "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
@@ -1136,6 +1169,17 @@
       "thumbnail": ""
     },
     {
+      "title": "IEEE Entrepreneurship Connects Hardware Startups With Investors",
+      "link": "https://spectrum.ieee.org/ieee-entrepreneurship-hardware-startups-investors",
+      "summary": "\nRoughly 90 percent of hard tech startups fail due to funding constraints, longer R&amp;D timelines for developing hardware, and the complexity of manufacturing their products, according to a number o...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-16 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/groups-of-people-seated-together-at-several-tables-inside-of-a-large-meeting-hall.jpg?id=65559941&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
+    },
+    {
       "title": "Making AI operational in constrained public sector environments",
       "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
       "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, ...",
@@ -1169,15 +1213,81 @@
       "thumbnail": ""
     },
     {
-      "title": "Why having “humans in the loop” in an AI war is an illusion",
-      "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-      "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
+      "title": "Stealth Signals Are Bypassing Iran’s Internet Blackout",
+      "link": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+      "summary": "\nOn 8 January 2026, the Iranian government imposed a near-total communications shutdown. It was the country’s first full information blackout: For weeks, the internet was off across all provinces whil...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-04-16 12:00:00",
+      "pubDate": "2026-04-15 13:00:02",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-photo-collage-of-a-woman-in-a-hijab-protests-in-iran-a-satellite-satellite-dishes-and-the-words-you-are-not-connected-to-t.png?id=65521125&width=1245&height=700&coordinates=0%2C779%2C0%2C779"
+    },
+    {
+      "title": "Crypto Faces Increased Threat From Quantum Attacks",
+      "link": "https://spectrum.ieee.org/quantum-safe-crypto",
+      "summary": "\nThe race to transition online security protocols to ones that can’t be cracked by a quantum computer is already on. The algorithms that are commonly used today to protect data online—RSA and elliptic...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-15 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-pixel-art-resembling-a-padlock-and-token.jpg?id=65520763&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
+    },
+    {
+      "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
+      "link": "https://spectrum.ieee.org/openai-engineer-sarang-gupta",
+      "summary": "\nLike many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday lif...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-14 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-adult-indian-man-smiling-with-his-arms-crossed.png?id=65519413&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "What It’s Like to Live With an Experimental Brain Implant",
+      "link": "https://spectrum.ieee.org/bci-user-experience",
+      "summary": "\nScott Imbrie vividly remembers the first time he used a robotic arm to shake someone’s hand and felt the robotic limb as if it were his own. “I still get goosebumps when I think about that initial co...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-14 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-close-up-shows-a-man-seated-in-a-wheelchair-attached-to-the-top-of-his-head-are-two-devices-each-with-a-cable-extending-away.jpg?id=65504719&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Squishy Photonic Switches Promise Fast Low-Power Logic",
+      "link": "https://spectrum.ieee.org/soft-photonics",
+      "summary": "\nPhotonic devices, which rely on light instead of electricity, have the potential to be faster and more energy efficient than today’s electronics. They also present a unique opportunity to develop dev...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-13 12:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-micropipette-piercing-through-a-hemisphere-shaped-membrane-to-inject-a-droplet-at-its-core.jpg?id=65506297&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Working With More Experienced Engineers Can Fast-Track Career Growth",
+      "link": "https://spectrum.ieee.org/using-feedback-engineering",
+      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-10 18:49:00",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+    },
+    {
+      "title": "Remembering Gus Gaynor: A Devoted IEEE Volunteer",
+      "link": "https://spectrum.ieee.org/remembering-gus-gaynor",
+      "summary": "\nGerard “Gus” Gaynor, a long-serving IEEE volunteer and former engineering director at 3M, died on 9 March. The IEEE Life Fellow was 104.\nReaders of The Institute might remember Gus from his 2022 prof...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-09 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-white-high-school-boy-lowering-a-radio-systems-needle-onto-a-vinyl-record.jpg?id=65492955&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     }
   ]
 }
