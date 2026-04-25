@@ -1,7 +1,40 @@
 {
-  "updateTime": "2026-04-25T21:56:36.365Z",
+  "updateTime": "2026-04-25T23:58:48.668Z",
   "total": 117,
   "news": [
+    {
+      "title": "Win11 资源管理器部分界面滚动卡顿，微软官方给出解释",
+      "link": "https://www.ithome.com/0/943/559.htm",
+      "summary": "\nIT之家 4 月 26 日消息，Windows 11 文件资源管理器图库视图和主页视图的滚动十分流畅，但奇怪的是，其余文件夹和目录在滚动时却卡顿、有阶梯感。如今，微软给出了官方解释。\n\n微软采用全新框架重构了主页视图和图库视图，这也是这两个视图滚动顺滑的原因。不过，文件资源管理器的其他部分尚未完成迁移，因为还有几项重要的实用功能需要优先适配，暂时阻碍了升级进程。\n好在微软已经注意到了这个问题，但...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-25 23:09:17",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI 推出 GPT-5.5 生物安全漏洞赏金计划，提供 2.5 万美元奖励",
+      "link": "https://www.ithome.com/0/943/558.htm",
+      "summary": "\nIT之家 4 月 26 日消息，4 月 23 日，OpenAI 启动针对 GPT-5.5 的生物安全漏洞赏金计划，邀请研究人员寻找能突破“五道生物安全挑战题”的通用越狱方法。\n\n计划概览\n\n测试范围：仅限 Codex Desktop 中的 GPT‑5.5 模型。\n挑战任务：找出一个通用的越狱提示词，使其在干净的对话环境中成功回答全部五道生物安全问题，且不触发任何内容审核机制。\n奖励：\n\n首个通过...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-25 23:06:32",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic 搭建了一个 AI 智能体交易测试平台",
+      "link": "https://www.ithome.com/0/943/557.htm",
+      "summary": "\nIT之家 4 月 26 日消息，在近期一项实验中，人工智能公司 Anthropic 搭建了一个二手交易市场，由智能体分别扮演买家和卖家，针对真实商品达成交易，并使用真实货币结算。\n\n该公司承认，这项名为交易计划（Project Deal）的测试仅为试点实验，参与者为 69 名自愿报名的公司员工。每名员工获得 100 美元（IT之家注：现汇率约合 684.7 元人民币）预算（以礼品卡形式发放），可...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-25 22:57:47",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
@@ -33,7 +66,7 @@
       "region": "us",
       "pubDate": "2026-04-25 19:20:15",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/20250325_NSF_HQ_0162.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "An influx of used EVs could drive down prices",
@@ -44,7 +77,7 @@
       "region": "us",
       "pubDate": "2026-04-25 18:25:23",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-1962771709.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "OpenAI CEO apologizes to Tumbler Ridge community",
@@ -77,7 +110,7 @@
       "region": "cn",
       "pubDate": "2026-04-25 16:13:59",
       "category": "chip",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260426/v2_0e54c7c94ef44e418bfc934976759e9c@517825446_oswg1565166oswg1135oswg757_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
@@ -88,7 +121,7 @@
       "region": "cn",
       "pubDate": "2026-04-25 16:11:41",
       "category": "other",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260426/v2_bddb809efb6f484eba7e8335ef9a1e1f@517825446_oswg890145oswg1142oswg761_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Why Cohere is merging with Aleph Alpha",
@@ -198,7 +231,7 @@
       "region": "us",
       "pubDate": "2026-04-25 15:03:53",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/www.shudder.com_play_9499b48e6f443f77.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Why Tokyo is the most important tech destination of 2026",
@@ -242,28 +275,6 @@
       "region": "us",
       "pubDate": "2026-04-25 15:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/shargehandson.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "新机太多发不完，消息称佳能 EOS R7 Mark II 相机发布推迟",
-      "link": "https://www.ithome.com/0/943/544.htm",
-      "summary": "\nIT之家 4 月 25 日消息，消息源 Canon Rumors 前天发文称，佳能 EOS R7 Mark II 半画幅无反相机可能不会在今年发布。\n\nIT之家在此援引 Canon Rumors，许多人对 EOS R7 Mark II 发布时间的预测基于 FCC 认证记录。文件中部分信息被标记为“暂时保密”，有效期至 2026 年 6 月 16 日。但这个时间大约是 EOS R6 V 的发货日期...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-25 14:59:34",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "美国地方法院驳回 Masimo 针对 Apple Watch 禁售令的申诉",
-      "link": "https://www.ithome.com/0/943/543.htm",
-      "summary": "\nIT之家 4 月 25 日消息，Masimo 针对 Apple Watch 专利侵权的长期诉讼再遇挫折。\n美国哥伦比亚特区地方法院文件显示，Masimo 对美国国际贸易委员会（USITC）的投诉将被“有偏见驳回”（dismissed with prejudice）。在此之前，USITC 已拒绝恢复对 Apple Watch 的禁售令。\n\n根据当地时间 4 月 24 日公布的文件，Masimo 针...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-25 14:59:32",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -278,17 +289,6 @@
       "thumbnail": ""
     },
     {
-      "title": "消息称微软 Azure Linux 将重新基于 Fedora 构建，应用 x86_64-v3 微架构提升性能",
-      "link": "https://www.ithome.com/0/943/542.htm",
-      "summary": "\nIT之家 4 月 25 日消息，据科技媒体 Phoronix 今天报道，微软自研的 Azure Linux 操作系统目前用于 Azure、WSL（IT之家注：适用于 Linux 的 Windows 子系统）等领域。然而目前有消息称，微软计划对该系统进行重大改造，将其基于 Fedora 构建。\n\n作为参考，Azure Linux（原 CBL-Mariner）本身是一个基于 RPM 的 Linux ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-25 14:50:07",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "The Govee smart lamp brightened up my room, and then my life",
       "link": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
       "summary": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two ...",
@@ -297,7 +297,7 @@
       "region": "us",
       "pubDate": "2026-04-25 13:30:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Xbox’s weirdest studio is on a roll",
@@ -308,7 +308,7 @@
       "region": "us",
       "pubDate": "2026-04-25 13:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/assets_2026_01_1769113739_05_MakeItUnique.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "两个福建男人，一场全球抢矿大战",
@@ -341,7 +341,7 @@
       "region": "us",
       "pubDate": "2026-04-25 12:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Sub2_Two-Seasons-Two-Strangers.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The most exciting laptop I’ve seen in forever",
@@ -352,7 +352,7 @@
       "region": "us",
       "pubDate": "2026-04-25 12:00:00",
       "category": "space",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-125.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
@@ -385,7 +385,7 @@
       "region": "cn",
       "pubDate": "2026-04-25 11:15:26",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260425/v2_bc182706165341f89a4d74bf3b0755d1@5920579_oswg482514oswg890oswg594_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "The US gets the worst phones",
@@ -396,7 +396,7 @@
       "region": "us",
       "pubDate": "2026-04-25 11:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268491_The_US_gets_the_worst_phones_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Palantir employees are talking about company's \"descent into fascism\"",
@@ -660,7 +660,7 @@
       "region": "cn",
       "pubDate": "2026-04-25 01:10:38",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260425/v2_e7449a939a2842bbb390a7c420de400a@6221844_oswg302736oswg773oswg635_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
@@ -726,7 +726,7 @@
       "region": "us",
       "pubDate": "2026-04-24 20:45:58",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "FCC: Router ban includes portable hotspots, but not phones with hotspot features",
@@ -858,7 +858,7 @@
       "region": "cn",
       "pubDate": "2026-04-24 15:38:53",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260424/v2_0a83286021a6432f84c13b47dd7f1af6@5510391_oswg175209oswg673oswg1019_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
@@ -869,7 +869,7 @@
       "region": "cn",
       "pubDate": "2026-04-24 14:21:58",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260424/v2_36b466e342ea453980572f8dc80e53f2@577536001_oswg1307253oswg3984oswg2656_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Claude Code + DeepSeek V4-Pro 真实评测：除了贵，没别的毛病",
@@ -902,7 +902,7 @@
       "region": "us",
       "pubDate": "2026-04-24 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/02/europa.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
@@ -968,7 +968,7 @@
       "region": "cn",
       "pubDate": "2026-04-24 10:09:31",
       "category": "chip",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260424/v2_04b4a6abff254467af9b92033ed2d471@517825446_oswg965793oswg1080oswg1958_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "支持 Hermes Agent 与 MongoDB 管理，1Panel v2.1.9 版本发布",
@@ -1144,7 +1144,7 @@
       "region": "us",
       "pubDate": "2026-04-23 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/05/AP24106836358581-social.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Will fusion power get cheap? Don’t count on it.",
@@ -1177,7 +1177,7 @@
       "region": "us",
       "pubDate": "2026-04-22 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/09_20_JFM_MIT_TheDownload.webp?w=2127"
+      "thumbnail": ""
     },
     {
       "title": "AI needs a strong data fabric to deliver business value",
@@ -1188,7 +1188,7 @@
       "region": "us",
       "pubDate": "2026-04-22 10:05:06",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/SAP-article-iStock-480794780.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Building an Interregional Transmission Overlay for a Resilient U.S. Grid",
@@ -1221,7 +1221,7 @@
       "region": "us",
       "pubDate": "2026-04-22 10:00:00",
       "category": "other",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MJ26-front-dl_dispatch.png?w=636"
+      "thumbnail": ""
     },
     {
       "title": "There is no nature anymore",
@@ -1232,7 +1232,7 @@
       "region": "us",
       "pubDate": "2026-04-22 10:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=1012"
+      "thumbnail": ""
     },
     {
       "title": "What to Consider Before You Accept a Management Role",
