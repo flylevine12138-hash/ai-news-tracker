@@ -1,7 +1,51 @@
 {
-  "updateTime": "2026-04-29T16:47:19.628Z",
+  "updateTime": "2026-04-29T18:17:23.179Z",
   "total": 107,
   "news": [
+    {
+      "title": "All the evidence unveiled so far in Musk v. Altman",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-29 18:03:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ubuntu’s AI plans have Linux users looking for a ‘kill switch’",
+      "link": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+      "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux dist...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-29 17:32:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+      "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+      "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-29 17:23:52",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69f11e18364b858d165e91bf/master/pass/SenseTime-AI-Models-Chinese-Chips-Business-2154581485.jpg"
+    },
+    {
+      "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
+      "link": "https://36kr.com/p/3788151000751364?f=rss",
+      "summary": "\n文｜周鑫雨 王毓婵\n  编辑｜杨轩\n  解读DeepSeek V4的技术报告，是这几天AI行业最狂热的集体活动。\n  V4很强吗？在工程优化的维度中，答案是毋庸置疑的。过去，大家信奉“Scaling Law的暴力美学”——也就是靠堆更多优质算力、更大参数规模来提升模型性能。而V4走的是一条完全不同的路，它定义了一种“模型训练的克制美学”：\n  它不靠疯狂堆算力和参数，而是通过一系列组合优化和重构...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-04-29 17:07:22",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_f323208e3d7f405883a280e4a85c355c@5783683_oswg513782oswg1080oswg627_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
     {
       "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
       "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
@@ -27,13 +71,24 @@
     {
       "title": "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government",
       "link": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/",
-      "summary": "On Wednesday, Pursuit announced a $22 million seed round led by Mike Rosengarten, the co-founder of OpenGov with out big-name VCs participating....",
+      "summary": "On Wednesday, Pursuit announced a $22 million seed round led by Mike Rosengarten, the co-founder of OpenGov, with big-name VCs participating....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-04-29 16:20:02",
       "category": "other",
       "thumbnail": ""
+    },
+    {
+      "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it",
+      "link": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
+      "summary": "Framework charges nearly double for the 12GB version of the mobile RTX 5070....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-29 16:06:28",
+      "category": "chip",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/geforce-rtx-50-series-laptop-hero-af360-p@2x-500x500.jpg"
     },
     {
       "title": "Motorola just revealed the Razr Fold’s price and hoo boy",
@@ -44,7 +99,7 @@
       "region": "us",
       "pubDate": "2026-04-29 16:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DSC03509_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The new Razr Ultra is still the best-looking phone out there",
@@ -55,7 +110,7 @@
       "region": "us",
       "pubDate": "2026-04-29 16:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DSC03413_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The Moto Razr and Razr Plus are victims of shrinkflation",
@@ -66,7 +121,7 @@
       "region": "us",
       "pubDate": "2026-04-29 16:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DSC03500_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Google Photos launches an AI try-on feature for clothes you already have",
@@ -77,18 +132,29 @@
       "region": "us",
       "pubDate": "2026-04-29 16:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB353_GOOGLE_PHOTOS_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
-      "title": "Motorola's New Razr Folding Phones Command a Higher Price and Few Upgrades",
+      "title": "Motorola’s New Razr Folding Phones Command a Higher Price With Few Upgrades",
       "link": "https://www.wired.com/story/motorola-razr-2026-folding-phones/",
-      "summary": "Say hello (Moto) to price hikes on all three of Motorola's latest Razr flip phones....",
+      "summary": "Say hello (Moto) to price hikes on all three of Motorola’s latest Razr flip phones....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-04-29 16:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/69f0e07b54b5e4ced7a0a17c/master/pass/motorola%20razr%20ultra%20-%202026_%20Lifestyle%20Imagery_0042.jpg"
+    },
+    {
+      "title": "Professional school grads from diverse classes get higher salaries",
+      "link": "https://arstechnica.com/science/2026/04/professional-school-grads-from-diverse-classes-get-higher-salaries/",
+      "summary": "Study authors say courts should reconsider rulings in light of this new evidence....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-04-29 15:55:55",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1374727807-500x500.jpg"
     },
     {
       "title": "Microsoft is giving its Xbox employees an Xbox email address",
@@ -99,7 +165,7 @@
       "region": "us",
       "pubDate": "2026-04-29 15:43:24",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
@@ -110,7 +176,7 @@
       "region": "us",
       "pubDate": "2026-04-29 15:35:32",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Roku’s $3 streaming service, Howdy, reaches 1M subs, per recent report",
@@ -132,7 +198,7 @@
       "region": "us",
       "pubDate": "2026-04-29 15:14:53",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/ELDEN-RING-NIGHTREIGN-DeepOfNight-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "FOMO is why enterprises pay for GPUs they don't use — and why prices keep climbing",
@@ -176,18 +242,7 @@
       "region": "us",
       "pubDate": "2026-04-29 15:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13175211/acastro_180927_1777_uber_0001.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Google TV is getting a dedicated row for YouTube Shorts",
-      "link": "https://www.theverge.com/tech/920354/google-tv-youtube-shorts-row-update",
-      "summary": "Google is making it easier to jump into watching YouTube Shorts on its TV devices without having to open the dedicated YouTube app. The Google TV homepage will soon introduce a new \"Short videos for y...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-29 15:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-TV-YouTube-Shorts-row.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "How Trump Weaponized the DOJ Division That Kept Elections Fair",
@@ -210,17 +265,6 @@
       "pubDate": "2026-04-29 14:58:44",
       "category": "ai",
       "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/fa8c0b46-5a66-4898-ae59-b33ffa9667e9.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "Tumbler Ridge families are suing OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
-      "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-29 14:47:57",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2260765297.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Valve 为 Steam Deck 推送稳定版更新，新增远程下载等多项功能",
@@ -440,7 +484,7 @@
       "region": "us",
       "pubDate": "2026-04-29 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/11/biometric-face-copy.jpg?w=3000"
     },
     {
       "title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
@@ -520,17 +564,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach-500x500.jpeg"
     },
     {
-      "title": "Adidas Adizero Adios Pro Evo 3 Shoe Review: World Record Breaker",
-      "link": "https://www.wired.com/review/adidas-adizero-pro-evo-3/",
-      "summary": "I ran in Sabastian Sawe’s world-record-breaking running shoe. It’s fast, but only if you can maintain your locked-in form for 26 miles....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-29 11:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69f14b9fe50c55ffd1028715/master/pass/Sabastian%20Sawe_London%20Marathon_07.jpg"
-    },
-    {
       "title": "Your Phone Notifications Reveal More Than You Realize. Here’s How to Lock Them Down",
       "link": "https://www.wired.com/story/phone-notifications-reveal-more-than-you-realize-how-to-lock-them-down/",
       "summary": "A recent case shows law enforcement can see incoming Signal messages by searching an iPhone, even after the Signal app has been deleted. Here’s what to know, and how to protect yourself....",
@@ -540,6 +573,17 @@
       "pubDate": "2026-04-29 11:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/69ebc2fb8bd883f99bb0f0e5/master/pass/Forensic-Searches-Can-Expose-Deleted-Signal-Messages-Gear-2264943495.jpg"
+    },
+    {
+      "title": "Adidas Adizero Adios Pro Evo 3 Shoe Review: World Record Breaker",
+      "link": "https://www.wired.com/review/adidas-adizero-pro-evo-3/",
+      "summary": "I ran in Sabastian Sawe’s world-record-breaking running shoe. It’s fast, but only if you can maintain your locked-in form for 26 miles....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-29 11:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69f14b9fe50c55ffd1028715/master/pass/Sabastian%20Sawe_London%20Marathon_07.jpg"
     },
     {
       "title": "未来实拍电影还存在吗？AI给影视人的恐惧与自由",
@@ -606,17 +650,6 @@
       "pubDate": "2026-04-29 10:31:37",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "‘The Damage Is Massive’: How the Justice Department Dismantled Its Voting Rights Section",
-      "link": "https://www.wired.com/story/the-justice-department-has-destroyed-its-voting-rights-section/",
-      "summary": "There were around 30 attorneys in the DOJ’s Voting Section on the day of Donald Trump’s second inauguration. Three months later, all but two were gone. Now the election deniers are in control....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-29 10:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69f14b43423c2e71c99af5dd/master/pass/Justice-Department-Has-Destroyed-Its-Voting-Rights-Section-Politics.jpg"
     },
     {
       "title": "被斥为“骗子”，他却摘得诺奖、图奖、WDFT科学突破奖— 记AI教父辛顿",
@@ -971,17 +1004,6 @@
       "thumbnail": "https://img.36krcdn.com/hsossms/20260427/v2_a99141ff7e9e419a97d9c1934c6a0752@5809365_oswg919744oswg2000oswg1500_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
-      "title": "前米哈游高管创业，AI 原生增长 Agent LeapMind Growth 获 CMC 资本领投",
-      "link": "https://36kr.com/p/3786123369094405?f=rss",
-      "summary": "\n\n  2026 年 4 月 29 日，上海讯 ——AI 原生增长 Agent LeapMind Growth 今日宣布完成天使 + 轮融资，由 CMC 资本领投。本轮融资将主要用于核心产品 GrowthGPT 的研发迭代、产研团队扩充及早期市场拓展。\n  LeapMind Growth 成立于 2025 年 4 月，由前米哈游全球用户增长负责人、前快手增长策略中心负责人马如平（Rubin）创立，...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-04-29 01:00:00",
-      "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260428/v2_0d36eda714704fb8b30f027b15cb071a@5023078_oswg961892oswg2560oswg1440_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
-    },
-    {
       "title": "How to build custom reasoning agents with a fraction of the compute",
       "link": "https://venturebeat.com/orchestration/how-to-build-custom-reasoning-agents-with-a-fraction-of-the-compute",
       "summary": "\nTraining AI reasoning models demands resources that most enterprise teams do not have. Engineering teams are often forced to choose between distilling knowledge from large, expensive models or relyin...",
@@ -1037,28 +1059,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-500x500-1758212997.jpg"
     },
     {
-      "title": "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
-      "link": "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
-      "summary": "Civil liberty concerns spur FAA to revise drone no-fly zones near ICE vehicles....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-28 19:37:09",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/powderhorn_jan_10-500x500.jpg"
-    },
-    {
-      "title": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
-      "link": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
-      "summary": "Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-04-28 18:01:36",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2272048837-500x500-1777400750.jpg"
-    },
-    {
       "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
       "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s futu...",
@@ -1067,7 +1067,7 @@
       "region": "us",
       "pubDate": "2026-04-28 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Mitvirus_color.webp?w=2127"
     },
     {
       "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
@@ -1144,7 +1144,7 @@
       "region": "us",
       "pubDate": "2026-04-27 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/martincic-greatcarbonvalley-16x19-1.jpg?w=3000"
     },
     {
       "title": "Three reasons why DeepSeek’s new model matters",
@@ -1166,7 +1166,7 @@
       "region": "us",
       "pubDate": "2026-04-24 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/02/europa.jpg?w=3000"
     },
     {
       "title": "Health-care AI is here. We don’t know if it actually helps patients.",
