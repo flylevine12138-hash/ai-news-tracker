@@ -1,7 +1,348 @@
 {
-  "updateTime": "2026-04-29T03:57:38.201Z",
+  "updateTime": "2026-04-29T06:32:29.580Z",
   "total": 107,
   "news": [
+    {
+      "title": "4 万/月，STF 资助开源维护者参与国际标准制定",
+      "link": "https://www.oschina.net/news/437585",
+      "summary": "德国主权技术基金 Sovereign Tech Fund (STF) 在过去几年中为开源软件项目和维护者提供了重要的资金支持。 时至今日，STF 宣布即将启动一项 Sovereign Tech Standards 计划，以支持开源维护者参与标准制定，并提升 IETF、W3C 和 ISO 的互操作性。申请截止日期为2026 年 5 月 19 日。 开源维护者拥有丰富的广泛应用技术的......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-29 06:27:19",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI 模型正式登陆 AWS：GPT-5.5、Codex 等前沿能力通过 Amazon Bedrock 向企业开放",
+      "link": "https://www.oschina.net/news/437584",
+      "summary": "2026 年 4 月 28 日，在 \"What's Next with AWS\" 活动中，AWS 与 OpenAI 宣布扩大合作 ——OpenAI 正式将其前沿模型和开发工具向 AWS 平台开放集成。这意味着 AWS 企业客户将能够通过熟悉的 Amazon Bedrock 统一 API，直接调用 OpenAI 的 GPT-5.5、GPT-5.4 等最新模型，以及 Codex 编程代理等能力。这一举...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-29 06:15:46",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Gradle 9.5.0 发布",
+      "link": "https://www.oschina.net/news/437583/gradle-9-5-0-released",
+      "summary": "Gradle 9.5.0 现已发布。Gradle 是一个基于 Apache Ant 和 Apache Maven 概念的项目自动化构建工具，支持依赖管理和多项目，类似 Maven，但比之简单轻便。它使用一种基于 Groovy 的特定领域语言来声明项目设置，而不是传统的 XML。 此版本改进了诊断和报告功能，在错误和报告中加入了任务来源信息，有助于快速定位失败任......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-29 06:15:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "结束与微软独家合作，OpenAI 模型接入亚马逊 AWS",
+      "link": "https://www.ithome.com/0/944/915.htm",
+      "summary": "\nIT之家 4 月 29 日消息，当地时间 4 月 28 日，在亚马逊云科技（Amazon Web Services，简称 AWS）新品发布会上，AWS 宣布携手 OpenAI，将 OpenAI 最新大模型接入 Amazon Bedrock，在 Amazon Bedrock 上线 Codex 代码 Agent，并推出由 OpenAI 赋能的 Amazon Bedrock 托管 Agent（以上功能...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-29 06:13:26",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "摩托罗拉 Moto G87 手机渲染图曝光：2 亿像素主摄、天玑 6000 系列芯片",
+      "link": "https://www.ithome.com/0/944/912.htm",
+      "summary": "\nIT之家 4 月 29 日消息，消息源 @Evleaks 今天（4 月 29 日）在 X 平台发布推文，分享了一组渲染图，展示了摩托罗拉即将推出的 Moto G87 手机。\n外观方面，该机沿用了摩托罗拉家族式设计语言，机身背面左上角设有方形相机岛，内部安置了一颗 2 亿像素主摄。正面配备圆角平面显示屏，机身右侧设有音量键与电源键，左侧为 SIM 卡槽，底部则保留了麦克风、USB-C 接口及扬声器...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-29 06:09:01",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "紫光展锐 × Unity 中国联合发布舱驾一体解决方案，基于 A7870、A8880 芯片平台打造",
+      "link": "https://www.ithome.com/0/944/909.htm",
+      "summary": "\nIT之家 4 月 29 日消息，紫光展锐今日发文宣布，其在 2026 北京国际车展期间与 Unity 中国联手，正式发布基于紫光展锐 A7870、A8880 芯片平台的轻量级舱驾一体渲染解决方案。\n\n据介绍，本次联合发布的方案通过 Unity 中国团结引擎深度优化，在紫光展锐 A7870、A8880 等旗舰级车规芯片赋能下，成功实现了高画质多屏智驾交互与车模车控 3D 可视化渲染。\n\nIT之家注...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-29 06:07:37",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "联想预热 YOGA 一体机与迷你主机新品，即将上市",
+      "link": "https://www.ithome.com/0/944/908.htm",
+      "summary": "\nIT之家 4 月 29 日消息，联想 (Lenovo) YOGA 官方今日发布预热，表示其 YOGA 32 一体机与迷你主机新品即将上市。\n\n从联想今年已发布的产品来看，这里提到的应该是也称为 Yoga AIO 32IPH11 的 Yoga AIO i Aura Edition (32\", 11) 一体机和 Yoga Mini 01IPH11 迷你主机，两款产品的共性是具备光效组件。\n\n其中前者...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-29 06:07:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软 Win11 更新已触及 5GB，累积机制和 AI 组件成推手",
+      "link": "https://www.ithome.com/0/944/902.htm",
+      "summary": "\nIT之家 4 月 29 日消息，科技媒体 Windows Latest 今天（4 月 29 日）发布博文，报道称 Windows 11 系统的月度累积更新体积已触及 5GB，调查显示 AI 组件虽有影响，但主因是“累积更新”机制与打包策略。\n\n作为对比，微软在 2024 年 Windows 11 系统更新的体积仅为 300MB 左右，而现在更新体积正急剧膨胀，在微软更新目录中的月度累积更新包已频...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:59:15",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "ILSpy 10.0.1 发布",
+      "link": "https://www.oschina.net/news/437582/ilspy-10-0-1-released",
+      "summary": "ILSpy 是一个开源的 .NET 反编译工具。ILSpy 10.0.1 现已发布，此版本基于.NET 10.0。 具体更新内容如下： Bug fixes Fix #3723：导航到 Metadata -&gt; Tables -&gt; 00 Module node 时抛出 InvalidCastException 异常 Fix #3718：点击 01 TypeRef 表中的 Resolutio...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:58:41",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "北京市场监管局约谈雅迪、爱玛、九号、小牛等 8 家电动自行车企业及销售代理，明确两落实五严禁",
+      "link": "https://www.ithome.com/0/944/897.htm",
+      "summary": "\nIT之家 4 月 29 日消息，据北京市市场监督管理局分享，2026 年以来，北京市市场监管部门通过暗访暗查、突击夜查、溯源追查、检验检测等多种手段，严厉打击电动自行车超标改装违法行为。\n\n针对专项整治行动中发现的典型问题，北京市市场监管局近日对雅迪、爱玛、台铃、九号、小牛、小刀、新日、绿源 8 家电动自行车生产企业及其在京销售代理企业开展警示约谈，明确“两落实、五严禁”要求：\n\n严格落实质量安...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:50:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AIDA64 v8.30 发布：支持英特尔 Nova Lake、AMD Zen 6 处理器，新增实时帧数监测",
+      "link": "https://www.ithome.com/0/944/896.htm",
+      "summary": "\nIT之家 4 月 29 日消息，FinalWire 于 4 月 28 日发布了系统诊断与基准测试工具 AIDA64 的最新版本 v8.30。\n本次更新最主要的看点是提前引入对英特尔下一代处理器 Nova Lake 以及 AMD Zen 6 架构 Medusa APU 的初步支持，同时对 AMD EXPO 1.2 内存配置文件提供了支持。\n\n英特尔 Nova Lake 预计于今年年底公布，并在 C...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:50:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "有了“芯”，“脑”在哪：苹果造芯30年，求脑15年",
+      "link": "https://www.tmtpost.com/7971083.html",
+      "summary": "2026年春天，两件事在苹果同时发生：撑起Apple Silicon的两个人被推到权力顶端，下一代AI却要接到Google的Gemini。本文把它们放回更长的时间纵深——三十多年的造芯路，十五年的求脑路。一边“芯”已铸成，一边“脑”犹在路上。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:45:21",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/mms_upload_image/2026/04/20260428202737364.jpeg"
+    },
+    {
+      "title": "2026北京车展：外资退守，中资进击，中国汽车进入“主场时代”",
+      "link": "https://www.tmtpost.com/7971203.html",
+      "summary": "38万平方米，1451台展车，181台全球首发——这组数字放在任何一届车展，都足以称叹。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:45:19",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/y54htrg3.png"
+    },
+    {
+      "title": "系 AI 误报：微软回应称 4 月 Win11 更新未引发大规模黑屏死机",
+      "link": "https://www.ithome.com/0/944/895.htm",
+      "summary": "\nIT之家 4 月 29 日消息，针对近期关于 Windows 11 四月累积更新 KB5083769 导致大规模黑屏死机（BSOD）和“死亡循环”（death loops）的报道，微软经调查证实这些均为缺乏证据的“AI 生成劣质内容”。\n近期网络上涌现大量关于 Windows 11 四月累积更新 KB5083769 导致严重系统故障的报道，声称该更新会引发黑屏死机和无限重启。\n微软通过科技媒体 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:40:26",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "联想拯救者“邀请”黑鲨、红魔、ROG 一起开黑，新一代 Y70 手机 5 月 19 日发布",
+      "link": "https://www.ithome.com/0/944/894.htm",
+      "summary": "\nIT之家 4 月 29 日消息，联想拯救者手机官方微博今日发出邀请，询问黑鲨游戏手机、红魔游戏手机和 ROG 游戏手机是否一起开黑。\n\n事实上，国内的游戏手机市场已经历一次“洗牌”：黑鲨已数年没有推出手机新品，最近一款为黑鲨 5 游戏手机，发售不到一年便已下架；今年 1 月，华硕董事长施崇棠在“AI 领航”主题岁末联欢晚会上直言“手机业务一定会继续服务好原有客户，但不会再推出新的机种。”\n目前还...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:36:13",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "华硕无畏 14 酷睿版 2026 轻薄本上架：搭载英特尔酷睿 Ultra 5 325，5999 元起",
+      "link": "https://www.ithome.com/0/944/892.htm",
+      "summary": "\nIT之家 4 月 29 日消息，华硕无畏 14 酷睿版 2026 已上架京东，搭载英特尔酷睿 Ultra 5 325 处理器、1TB 固态硬盘，16GB 内存版本 5999 元，32GB 内存版 6999 元。\n作为参考，搭载酷睿 Ultra 7 356H 处理器、32GB 内存、1TB 固态硬盘的无畏 Pro14 酷睿版 2026 最低价 6499 元，现价 7799 元。\n京东华硕无畏 14...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:22:59",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "旅游找搭子，没遇到Links，骗子倒不少",
+      "link": "https://www.tmtpost.com/7971080.html",
+      "summary": "高端的猎手以猎物的形式出现...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:03:05",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/23r4grhtngh3.png"
+    },
+    {
+      "title": "百度职级合并背后：一场用组织效率换技术落地的变革",
+      "link": "https://www.tmtpost.com/7970999.html",
+      "summary": "百度以5-12级职级体系取代沿用二十年的T/P/E标签，让年轻人挑大梁、向一线放权——这是一场迟来的组织对战略的响应，赌的是用组织效率换技术落地。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:03:02",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/mms_upload_image/2026/04/20260428193058245.png"
+    },
+    {
+      "title": "政策底来了，牧原温氏们还需要等多久",
+      "link": "https://www.tmtpost.com/7971580.html",
+      "summary": "最高层为什么要专门点名“稳定生猪价格”？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:03:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/23r4grhtngh3.png"
+    },
+    {
+      "title": "国产车规芯片，走入深水区",
+      "link": "https://www.tmtpost.com/7970900.html",
+      "summary": "车规芯片的竞争，不只是算力的狂欢。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:02:59",
+      "category": "chip",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/28/7edccd02387fec7eaa53b39c35d57df9_1777372656.jpeg"
+    },
+    {
+      "title": "主播接连出走，但东方甄选更能赚钱了？",
+      "link": "https://www.tmtpost.com/7970869.html",
+      "summary": "卖货的公司不谈理想主义...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-29 05:02:56",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/453654uujhg3.png"
+    },
+    {
+      "title": "20% Off LG Promo Code &amp; Coupons | May 2026",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-29 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png"
+    },
+    {
+      "title": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+      "link": "https://www.qbitai.com/2026/04/410937.html",
+      "summary": "全网开源，即刻可用...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-04-29 04:27:03",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+      "link": "https://www.qbitai.com/2026/04/410791.html",
+      "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-04-29 04:20:49",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」",
+      "link": "https://www.qbitai.com/2026/04/410738.html",
+      "summary": "十分钟干完一周活...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-04-29 04:12:02",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
+      "link": "https://www.qbitai.com/2026/04/410772.html",
+      "summary": "GPT-5.5马上也能用了...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-04-29 04:10:59",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "一个以知识沉淀为核心的产品，在Agent时代真的有不可替代的价值吗？",
+      "link": "https://www.tmtpost.com/7971686.html",
+      "summary": "腾讯ima-copilot模式最新评测，从龙虾到知识大脑：当Agent会干活之后，我们还需要什么？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-29 04:09:00",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/fca575885143c2d1e32160c1a6d243fa_1777435772.png"
+    },
+    {
+      "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
+      "link": "https://36kr.com/p/3787376553876737?f=rss",
+      "summary": "\n作者｜乔钰杰\n  编辑｜袁斯来\n  4月28日，未来宇航在雄安新区举行FX锋行系列空间飞行器发布会，并同步举行商业航天生态供应链合作伙伴签约仪式。\n  此次发布的FX“锋行”系列，是国内首个服务卫星组网和在轨业务的商业飞行器。面向300kg至4000kg级任务需求，重点突破高精度姿轨控、柔性化承载与快速轨道响应等关键技术，强调低成本、高可靠与快响应能力。其定位不仅是单一飞行器产品，也是支撑在轨服...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-04-29 04:00:21",
+      "category": "space",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260429/v2_d76ff7e03b5649dab384d01aa666c3ca@5920579_oswg653714oswg932oswg626_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+    },
+    {
+      "title": "Warp CEO 揭秘开源决策：AI Agent 时代，人类管理智能体舰队共建终端工具",
+      "link": "https://www.oschina.net/news/437581",
+      "summary": "近日，知名 AI 终端工具 Warp 正式宣布全面开源，其客户端代码库已在 GitHub 上公开。Warp 创始人 Zach Lloyd 在 X 平台发布长文，详细阐述了此次开源背后的战略思考 —— 这不仅是一次代码开放，更是对 \"AI 代理时代软件开发模式\" 的一次大胆探索。OpenAI 作为创始赞助商，为 Warp 的代理式管理工作流提供了 GPT 模型支......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-29 03:36:31",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "岗位被 AI 替代怎么办？杭州发布指引",
+      "link": "https://www.oschina.net/news/437580",
+      "summary": "岗位被AI替代怎么办？人工智能浪潮下，劳动者该怎样保护自身合法权益？近期，浙江省杭州市中级人民法院为这些困扰企业与劳动者的热点问题给出了清晰的法律指引。 4月28日，浙江省杭州市中级人民法院召开杭州法院劳动人事争议审判工作新闻发布会，会上发布了《杭州法院劳动人事争议审判工作白皮书（2021—2025）》和《杭州......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-29 03:33:35",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Warp 终端全面开源：获 OpenAI 赞助，Rust 代码占比 98% 的 AI 驱动开发环境",
+      "link": "https://www.oschina.net/news/437579",
+      "summary": "近日，知名 AI 终端工具 Warp 正式宣布全面开源，其客户端代码库已在 GitHub 上公开。这一消息在开发者社区引发热烈反响 ——Warp 不仅是一个功能强大的现代化终端，更是一个由 AI 驱动的智能开发环境。值得注意的是，OpenAI 作为该开源项目的创始赞助商，为 Warp 的代理式管理工作流提供了 GPT 模型支持。 Warp 自诞生以......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-04-29 03:26:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "搭载华为智驾，奥迪「6系」电车上市，售价30.98万元起｜最前线",
       "link": "https://36kr.com/p/3769086884528640?f=rss",
@@ -11,7 +352,7 @@
       "region": "cn",
       "pubDate": "2026-04-29 03:17:59",
       "category": "auto",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260429/v2_84737b9a411f4f0b9583c43c960bf3c2@5809365_oswg239122oswg2880oswg1620_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "Firefox 150.0.1 发布",
@@ -25,6 +366,17 @@
       "thumbnail": ""
     },
     {
+      "title": "记忆大模型MemoraX AI完成千万美金种子轮融资，L2F光源创业者基金、钟鼎资本联合领投 | 融资速递",
+      "link": "https://www.tmtpost.com/7970234.html",
+      "summary": "资金将主要用于Agentic RL（智能体强化学习）算法的迭代与工程化落地，以及内生记忆模块的产品化开发。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-29 03:13:39",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/0c042ab66bccd8088cc04b3585edea56_1777432421.jpg"
+    },
+    {
       "title": ":fire: Java Solon v3.10.4 发布",
       "link": "https://www.oschina.net/news/437577/solon-3-10-4-released",
       "summary": "OpenSolon 开源框架！（也称：Solon） OpenSolon 是新一代，Java 企业级应用开发框架。从零开始构建（No Java-EE），有灵活的接口规范与开放生态。采用商用友好的 Apache 2.0 开源协议，是“杭州无耳科技有限公司”开源的根级项目，是 Java 应用开发的生态基座（可替换美国博通公司的 Spring 生态）。 追求： 快速、小巧......",
@@ -34,6 +386,28 @@
       "pubDate": "2026-04-29 03:10:00",
       "category": "other",
       "thumbnail": ""
+    },
+    {
+      "title": "吨级重载新纪元开启｜大咖机器人全球首发“吨级重载机器马”",
+      "link": "https://www.qbitai.com/2026/04/410732.html",
+      "summary": "覆盖安防巡检、消防救援、工程基建、智能物流、民生养老、个人出行等六大核心场景...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-04-29 03:06:21",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "红孩儿给孙悟空写了一封信",
+      "link": "https://www.tmtpost.com/7971412.html",
+      "summary": "全文绝口不提大疆二字。  但逐字细读便知，这封写给资本市场的信，字里行间句句对标大疆、暗里博弈。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-04-29 03:04:47",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r2thrhrgr3.png"
     },
     {
       "title": "How one venture firm is investing in an increasingly fragmented world",
@@ -47,28 +421,6 @@
       "thumbnail": ""
     },
     {
-      "title": "GPD G2 显卡扩展坞搭载 PCIe Gen4 ×8 MCIO，内置 800W 电源",
-      "link": "https://www.ithome.com/0/944/816.htm",
-      "summary": "\nIT之家 4 月 29 日消息，GPD 现已在其官网上线 GPD G2 显卡扩展坞页面，对这款同时配备 USB4 v2 和 MCIO 接口的产品进行了详细介绍。\n\nGPD G2 拥有铝镁合金机身，内置 800W 功率 ATX 3.1 金牌 92+% 转换效率电源，提供单组 12V-2×6 输出并随附双 PCIe 8-Pin 转接线。其配备的 MCIO 接口为 PCIe Gen4 ×8 规格，US...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:59:02",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/b2e8853d-33dc-4c04-a2ff-3171a91ff608.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "谷歌 Pixel 11 系列手机 Tensor G6 芯片爆料：7 核 CPU，沿用 5 年前 GPU",
-      "link": "https://www.ithome.com/0/944/815.htm",
-      "summary": "\nIT之家 4 月 29 日消息，科技媒体 Wccftech 昨日（4 月 28 日）发布博文，报道称在 Tensor G6 芯片（有望今年 8 月随 Pixel 11 系列手机登场）上，谷歌将沿用 2021 年发布的 PowerVR CXT-48-1536 GPU。\nIT之家援引博文介绍，PowerVR CXT-48-1536 GPU 可追溯到 2021 年，意味着谷歌 2026 年的旗舰芯片将...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:57:54",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/daadab77-f431-42b7-bd56-f1d2401b23f3.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "老铺黄金还不是爱马仕",
       "link": "https://36kr.com/p/3787296465427464?f=rss",
       "summary": "\n作者 | 谢芸子\n  编辑 |  张帆\n  老铺黄金在同一天披露了两组让同行“艳羡”的财报数据。\n  2025年全年，老铺黄金销售业绩达到313.75亿元，同比增长220.3%；营收273.03亿元，同比增长221%。按非国际财务报告标准，公司经调整净利润为50.29亿元，同比增长234.9%。\n  公司将业绩暴增的原因归于三方面：一是品牌影响力的持续扩大，形成了绝对的市场优势；二是产品的推新与...",
@@ -77,40 +429,7 @@
       "region": "cn",
       "pubDate": "2026-04-29 02:57:01",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 年中国网络文明大会 5 月 19 日举办，将发布《人工智能应用伦理安全指引（1.0 版）》",
-      "link": "https://www.ithome.com/0/944/814.htm",
-      "summary": "\nIT之家 4 月 29 日消息，国务院新闻办公室于 2026 年 4 月 29 日（星期三）上午 10 时举行新闻发布会，请中央网信办（国家网信办）副主任牛一兵，广西壮族自治区党委常委、宣传部部长陈奕君介绍 2026 年中国网络文明大会有关情况，并答记者问。\n\nIT之家从国务院新闻办公室官网文字实录获悉，2026 年中国网络文明大会将于 5 月 19 日至 20 日在广西壮族自治区南宁市举办，会...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:56:56",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/84ef88c5-19e3-4009-b5df-af61c725954f.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "我国 2025 全年词元累计调用量约 21100 万亿",
-      "link": "https://www.ithome.com/0/944/813.htm",
-      "summary": "\nIT之家 4 月 29 日消息，《全国数据资源调查报告（2025 年）》今天在第九届数字中国建设峰会上发布。报告显示，我国数据资源正以更大力度，赋能人工智能创新发展。\n\n数据显示，2025 年，全国日均词元调用量从年初的超万亿增长到年末的 100 万亿，呈现指数级增长；全年词元累计调用量达到约 21100 万亿。\n据IT之家了解，在今年 3 月下旬，国家数据局局长刘烈宏曾表示，Token“词元”...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:56:55",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/9c5c979b-fc58-404f-aae0-61a2144cc967.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto"
-    },
-    {
-      "title": "吉利银河星舰 7 EV 纯电 SUV 官宣：Flyme Auto 系统加持，续航达 605km",
-      "link": "https://www.ithome.com/0/944/812.htm",
-      "summary": "\nIT之家 4 月 29 日消息，吉利银河官方今日公布了全新的银河星舰 7 EV 纯电车型，并放出了一组官方图。\n作为参考，已经上市的 2026 款吉利银河星舰 7 EM-i 车型官方指导价 10.18~12.98 万元，限时指导价 9.58~12.38 万元，预计纯电版本也不会差太多。\n\n作为银河“星舰系列”首款纯电车型，银河星舰 7 纯电版已完成工信部申报，新车搭载 60.2kWh 和 68....",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:55:22",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/bdc317be-9564-4124-9b07-2333bc9f9fe7.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260429/v2_883fa7a270174bc48b2350e0750474e4@394564713_oswg12323oswg939oswg263_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "TimescaleDB 2.26.4 发布，基于 PostgreSQL 的时序数据库",
@@ -124,134 +443,13 @@
       "thumbnail": ""
     },
     {
-      "title": "AI如何革新育种领域? 生物育种与AI赋能实战培训班火热报名",
-      "link": "https://www.oschina.net/news/437575",
-      "summary": "尊敬的各位农学与生物学科研工作者、育种家： 当前，人工智能正深刻改变着知识生产、数据分析与科研应用的方式。“人工智能+生物育种”的核心在于两个字：一是“融”，二是“变”。是将AI深度融入育种的全要素与全过程，推动科研范式从“经验依赖”向“数据驱动”的系统性转变。 然而，在现实中，许多一线的育种工作者正......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
+      "title": "银河通用LDA定义全域数据利用范式，跨本体世界动作大模型开启具身GPT-2时刻",
+      "link": "https://www.qbitai.com/2026/04/410653.html",
+      "summary": "开启具身规模化时代...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-04-29 02:48:27",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "重生 1930，AI 能自己发明出计算机吗？",
-      "link": "https://my.oschina.net/u/4487475/blog/19614229",
-      "summary": "AI 到底是学会了推理，还是只是背下了互联网上的所有答案？现在有人试图验证这个问题。...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:41:34",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Valve 坦言受运输成本上涨影响，Steam Controller 手柄售价高于内部预期",
-      "link": "https://www.ithome.com/0/944/811.htm",
-      "summary": "\nIT之家 4 月 29 日消息，在接受 Polygon 媒体采访时，Valve 硬件工程师史蒂夫 · 卡尔达利（Steve Cardinali）坦言，受内存短缺和物流成本攀升影响，因此决定提前发布 Steam Controller 游戏手柄。\nValve 于 2025 年发布游戏手柄 Steam Controller、游戏 PC 主机 Steam Machine 和 VR 头显 Steam Fr...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:41:19",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/00bd8a72-e755-4c66-b958-78684ab7fdbb.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "京东快递“小红箱”全国上线，手机碰一碰就能寄特产行李",
-      "link": "https://www.ithome.com/0/944/810.htm",
-      "summary": "\nIT之家 4 月 29 日消息，京东快递今日宣布在全国 80 个文旅城市完成“小红箱”智能寄递设备部署，全面覆盖景区、酒店、交通枢纽等出行核心场景，通过将 NFC（近场通信）技术与快递服务融合，进一步升级“轻松行”服务，提升五一假期出行体验。\n\n据介绍，京东快递“小红箱”核心依托 NFC 技术，实现秒碰秒寄。游客只需打开手机 NFC 功能轻碰“小红箱”，便可快速完成领券、下单、寄件全流程操作，无...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:40:04",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/f483e7fe-ba76-4829-a3ff-b7c5ae0eedac.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "Anthropic Claude Code 大幅涨价：从预估每日 6 美元翻倍至 13 美元",
-      "link": "https://www.ithome.com/0/944/806.htm",
-      "summary": "\nIT之家 4 月 29 日消息，据多个媒体报道，Anthropic 近期在没有发布公告的情况下，悄悄将其 Claude Code 的 token 成本翻倍。\n\n根据 Claude Code 官网的最新说明，“在企业部署中，每个开发者每个活跃日的平均成本约为 13 美元，90% 的用户每日成本低于 30 美元。每个开发者每月的成本约为 150-250 美元（现汇率约合 1027 - 1712 元人...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:38:24",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/03f5ac32-b314-4185-9aad-cd7841ec27a8.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "经典游戏《冒险岛》怀旧服官网上线，本作宣称将还原初期地图、职业与任务",
-      "link": "https://www.ithome.com/0/944/804.htm",
-      "summary": "\nIT之家 4 月 29 日消息，由 NEXON 开发，盛趣游戏代理运营的经典游戏《冒险岛》怀旧服今日官宣官方网站已正式上线。\n\n游戏官方表示，所有官方公告、版本动态、游戏攻略及活动信息，均将通过该官网统一发布。此外，官方举报平台也将尽快推出，届时如发现私服、外挂，以及传播虚假消息的 QQ 群、微信群等，均可通过该平台进行举报与反馈。\n据介绍，《冒险岛》怀旧服，是官方推出的首个怀旧服，游戏宣称忠实...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:35:08",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/44e33ec5-9aa8-4b0d-8831-4dbd32dce56b.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "韶音 OpenDots 2 耳夹耳机预售：IP57、杜比音效，1298 元",
-      "link": "https://www.ithome.com/0/944/803.htm",
-      "summary": "\nIT之家 4 月 29 日消息，韶音官方今日宣布，OpenDots 2 耳夹耳机开启预售，到手价 1298 元。\n\n韶音 OpenDots 2 耳夹耳机升级柔韧钛片，优化宽厚比，动钛弧自带 9g 预紧力，采用不对称弧形设计；内置 11.8mm 对称双单元，失真相比上一代优化 70%；搭载全新升级杜比音效。\n\n韶音 OpenDots 2 耳夹耳机有白金缮、黑芒星、银雪松三种颜色可选；不区分左右耳，...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:33:13",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/310f58b4-9751-4df7-9309-62863c91897e.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代",
-      "link": "https://my.oschina.net/u/4806939/blog/19614189",
-      "summary": "NEO-unify 架构彻底摒弃了主流的拼接式，去除了视觉编码器（VE）和变分自编码器（VAE），重新构建了统一的表征空间，并且深入融入每一层计算中，从而实现从模态集成向原生统一的范式跨越。 SenseNova U1 系列模型能够将语言与视觉信息作为统一的复合体直接建模，实现语言和视觉信息的高效协同，让理解与生成能力同步增强......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:20:28",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "商汤开源日日新 SenseNova U1",
-      "link": "https://www.oschina.net/news/437571",
-      "summary": "商汤科技宣布推出并开源日日新 SenseNova U1系列原生理解生成统一模型。基于商汤于今年三月份自主研发的 NEO-unify 架构，在单一模型架构上统一了多模态理解、推理与生成。 根据介绍，NEO-unify架构彻底摒弃了主流的拼接式，去除了视觉编码器（VE）和变分自编码器（VAE），重新构建了统一的表征空间，并且深入融入每一层......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-29 02:04:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "HOW 2026 圆桌访谈：开源链接世界，共建共治共享",
-      "link": "https://www.oschina.net/news/437570",
-      "summary": "以开源之道，见致远之志。4 月 27 日，HOW 2026 中国数据库开源发展峰会暨 PostgreSQL 高峰论坛于济南盛大开幕。主会场上，全球 PostgreSQL 顶尖智囊在此交付了一场高密度的思想接力：从 PostgreSQL 联合创始人 Bruce Momjian 深入“AI 战壕”的前线战报，到中国计算机学会会士、常务理事、数据库专委会主任周傲英勾勒出......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-29 01:57:32",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "一文说清楚分层架构",
-      "link": "https://my.oschina.net/xiandafu/blog/19612393",
-      "summary": "软件架构中，如果只能保留俩个最重要的架构模式，那必须是分层架构和流水线架构，如果你构建或者分析一个已有系统的时候，不知道从何处入手，可以先尝试从分层架构或者流水线架构入手。...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-29 01:54:40",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "禅道命令行 ZenTao-CLI 发布，自带原厂 Skills 辅助，让项目管理效率翻倍",
-      "link": "https://www.oschina.net/news/437568",
-      "summary": "你是否希望在AI Agents中直接使用禅道？现在，通过安装禅道CLI即可轻松实现！ 禅道推出了全新的ZenTao-CLI工具，它不仅是一个命令行工具，更是连接AI与研发管理数据的桥梁。 通过安装该技能， 可利用AI Agent（如Cursor、Claude Code等）直接查询项目进度、分析Bug风险、甚至自动生成需求文档。CLI技能会利用ZenTao-CLI工......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-04-29 01:50:47",
+      "pubDate": "2026-04-29 02:23:06",
       "category": "ai",
       "thumbnail": ""
     },
@@ -264,10 +462,10 @@
       "region": "cn",
       "pubDate": "2026-04-29 01:00:33",
       "category": "auto",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260427/v2_a99141ff7e9e419a97d9c1934c6a0752@5809365_oswg919744oswg2000oswg1500_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
-      "title": "前米哈游高管创业，AI 原生增长 Agent LeapMind Growth 获 CMC 资本领投",
+      "title": "前米哈游高管创业，AI 原生增长 Agent LeapMind Growth 获 CMC 资本领��",
       "link": "https://36kr.com/p/3786123369094405?f=rss",
       "summary": "\n\n  2026 年 4 月 29 日，上海讯 ——AI 原生增长 Agent LeapMind Growth 今日宣布完成天使 + 轮融资，由 CMC 资本领投。本轮融资将主要用于核心产品 GrowthGPT 的研发迭代、产研团队扩充及早期市场拓展。\n  LeapMind Growth 成立于 2025 年 4 月，由前米哈游全球用户增长负责人、前快手增长策略中心负责人马如平（Rubin）创立，...",
       "source": "36氪",
@@ -275,7 +473,7 @@
       "region": "cn",
       "pubDate": "2026-04-29 01:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260428/v2_0d36eda714704fb8b30f027b15cb071a@5023078_oswg961892oswg2560oswg1440_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "独家对谈｜兴辉时代创始人高兴辉，90后小镇女孩离开教培大厂，三年创造2亿GMV的倔强人生",
@@ -286,7 +484,7 @@
       "region": "cn",
       "pubDate": "2026-04-29 00:57:36",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260428/v2_d406189332844b8a841c4265a717b64a@5509299_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "小米双模型正式开源！MiMo-V2.5-Pro无中断肝出“macOS”：54个应用全开、浏览器真能冲浪",
@@ -319,7 +517,7 @@
       "region": "cn",
       "pubDate": "2026-04-29 00:11:35",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260429/v2_3f37c710474d432fbfabb49db006e708@5667365_oswg129397oswg1080oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "How to build custom reasoning agents with a fraction of the compute",
@@ -353,17 +551,6 @@
       "pubDate": "2026-04-28 23:31:53",
       "category": "other",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2272606742.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "【钛晨报】中共中央政治局召开会议，分析研究当前经济形势和经济工作；中国自2026年5月1日起对所有非洲建交国实施零关税；阿联酋决定自5月1日起退出OPEC和OPEC+",
-      "link": "https://www.tmtpost.com/7971170.html",
-      "summary": "百度发全员信通知职级体系大调整；国家数据局新设两大组织，推进数据基础设施与数据标准建设；马斯克起诉OpenAI OpenAI上市计划或遇重创；消息称Meta为撤销收购Manus做准备，腾讯等投资者计划配合；网信部门依法查处“剪映”App等生成合成内容标识违法问题网站平台...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-28 23:20:00",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/a340e34ed6c3479715a1be2232ba47f2_1777390091.jpg"
     },
     {
       "title": "Elon Musk appeared more petty than prepared",
@@ -751,17 +938,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dekalb-500x500.jpg"
     },
     {
-      "title": "Colorado's Anti-Repair Bill Is Dead",
-      "link": "https://www.wired.com/story/colorado-anti-repair-bill-is-dead/",
-      "summary": "Colorado has led the US on legislation that ensures people can fix their stuff. Manufacturers tried to claw back that control but ultimately failed—for now....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-28 14:09:44",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69f0bb9ac0d93fdec80b23e6/master/pass/GettyImages-179663566.jpg"
-    },
-    {
       "title": "A billion miles in less than a decade: GM's Super Cruise reaches a milestone",
       "link": "https://arstechnica.com/cars/2026/04/gms-super-cruise-passes-a-billion-driven-miles-since-2017/",
       "summary": "The hands-free, eyes-on driver assist only works on geofenced highways....",
@@ -773,28 +949,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Ars-Technica-Cadillac-Optiq-26-500x500.jpg"
     },
     {
-      "title": "透过财报看古井贡酒韧性：主动谋变，穿越周期",
-      "link": "https://www.tmtpost.com/7971166.html",
-      "summary": "始终坚持“品质求真、品行求善、品牌求美”的长期主义路线。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-28 13:55:30",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/2891a1a3a5b92a868f47a1584e591886_1777384533.jpg"
-    },
-    {
-      "title": "自动驾驶重卡的“iPhone时刻”来了",
-      "link": "https://www.tmtpost.com/7970665.html",
-      "summary": "一个由AI、机器人与开放生态共同构筑的未来运输基础设施，正在加速到来。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-28 12:50:18",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/5c901a06ad65124cbde960c643abc611_1777380621.png"
-    },
-    {
       "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
       "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s futu...",
@@ -803,7 +957,7 @@
       "region": "us",
       "pubDate": "2026-04-28 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Mitvirus_color.webp?w=2127"
     },
     {
       "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
@@ -839,61 +993,6 @@
       "thumbnail": ""
     },
     {
-      "title": "大模型的“保质期”比牛奶还短",
-      "link": "https://www.tmtpost.com/7970694.html",
-      "summary": "大模型定价如“过山车”。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-28 10:53:18",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t43y546hjyhtg3.png"
-    },
-    {
-      "title": "关于英伟达 L4 和物理 AI，吴新宙回应一切",
-      "link": "https://www.tmtpost.com/7970417.html",
-      "summary": "L4 确实已经越来越近了。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-28 10:52:46",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/42353.png"
-    },
-    {
-      "title": "长盛轴承，等待下一个“宇树时刻”",
-      "link": "https://www.tmtpost.com/7970666.html",
-      "summary": "业绩撑底，等待“机器人期权”兑现时刻。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-28 10:52:35",
-      "category": "robot",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/913f89d29758079199c4ac0ff3581489_1777373559.png"
-    },
-    {
-      "title": "卖了九年“算法”，营收还在3亿线：零点有数能被AI救赎吗？",
-      "link": "https://www.tmtpost.com/7970644.html",
-      "summary": "年营收9年未过4亿，拐点何时来？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-28 10:38:18",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/bb2630fd296a9597218cd037631b2fe9_1777372702.png"
-    },
-    {
-      "title": "2026年，资本正“沿着产业集群”给AI公司定价",
-      "link": "https://www.tmtpost.com/7970692.html",
-      "summary": "北“模型+应用”，南“具身+硬件”。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-28 10:38:13",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/fe94ca0c7f14df1aa70fb80be5c92df8_1777372697.png"
-    },
-    {
       "title": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用",
       "link": "https://www.qbitai.com/2026/04/410450.html",
       "summary": "助力更多企业与个人低门槛迈入AI时代...",
@@ -916,28 +1015,6 @@
       "thumbnail": ""
     },
     {
-      "title": "一个Token引爆的千亿神话",
-      "link": "https://www.tmtpost.com/7949068.html",
-      "summary": "80%以上的毛利率、行业第一的份额、快5亿个3D模型构筑的数据壁垒，这不是靠讲故事就能堆出来的。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-28 09:54:19",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/35513f32b42e97e5e3ea4874f577232a_1777370064.jpg"
-    },
-    {
-      "title": "资本押注“可玩版抖音”，为何中国公司都选择出海？",
-      "link": "https://www.tmtpost.com/7970648.html",
-      "summary": "从拼传播到拼留存，内容同质化待解。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-04-28 09:54:13",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/04/8e5225839b8743ebef632350697ecda3_1777370057.jpg"
-    },
-    {
       "title": "独家对谈｜缘启智慧CEO邓江，一个80后银行码农出身的AI医疗创业者",
       "link": "https://36kr.com/p/3786252394945795?f=rss",
       "summary": "\n\n  图源：公众号「职场Bonus」（ID：ZhiChangHongLi）\n  今年三月，《职场Bonus》报道了前百川智能商业化合伙人邓江加入北电数智的消息。没想到不到半年后，他出来创业了。\n  如今，他是AI医疗大模型新晋创业者邓江，是「缘启智慧」公司的创始人兼CEO邓江。在他低调开张的节骨眼上，我们联系到了这位技术背景的金融老兵，期待他能分享自己在风口上跨越、历险、不断前进的职业故事，以及...",
@@ -946,73 +1023,7 @@
       "region": "cn",
       "pubDate": "2026-04-28 09:12:04",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor 9秒删库搞崩公司，然后…写了份检讨",
-      "link": "https://www.qbitai.com/2026/04/410317.html",
-      "summary": "Cursor也是流年不利了...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-04-28 08:54:21",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "阿里视频模型 HappyHorse 开启灰测，悟空已率先接入",
-      "link": "https://www.qbitai.com/2026/04/410314.html",
-      "summary": "面向企业用户定向启动客户共创...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-04-28 08:31:02",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI真能搞钱了！这家公司把大模型玩成闭环赚钱机器",
-      "link": "https://www.qbitai.com/2026/04/410294.html",
-      "summary": "跑通AI盈利正循环，还教你躺着用Agent赚钱。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-04-28 07:21:21",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
-      "link": "https://www.qbitai.com/2026/04/410183.html",
-      "summary": "为期三天的第20届中国投资年会·年度峰会圆满落幕...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-04-28 07:06:34",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "GTC2026 全球流量大会（深圳）圆满收官：25000+出海人到场，11月4-5日，我们上海见！",
-      "link": "https://www.qbitai.com/2026/04/410077.html",
-      "summary": "下一站，上海见，新加坡见！...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-04-28 06:58:04",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "全球化成主旋律，中国企业如何乘风破局 | GTC首日干货汇总",
-      "link": "https://www.qbitai.com/2026/04/409879.html",
-      "summary": "大会首日入场总人数 16000+，当日入场总人次 25000+。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-04-28 06:52:21",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260428/v2_d51688d254db4669862ba4e40789471f@5509299_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
@@ -1023,18 +1034,7 @@
       "region": "cn",
       "pubDate": "2026-04-28 03:53:31",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
-      "link": "https://36kr.com/p/3785730095127817?f=rss",
-      "summary": "\nTOP3大新闻\n  DeepSeek 输入缓存降价\n  多家美国廉价航空公司寻求政府资金纾困\n  东方甄选回应大量用户申请退会员\n  穿西装开空调太费电，日本东京鼓励公务员穿短裤\n  印度移动支付平台MobiKwik获央行批准\n  TOP3大事件\n  国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定\n  据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-04-28 00:04:02",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260428/v2_41259c11fd99473aa19919d91dec8194@6221844_oswg864228oswg1080oswg718_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
@@ -1122,7 +1122,7 @@
       "region": "us",
       "pubDate": "2026-04-27 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/martincic-greatcarbonvalley-16x19-1.jpg?w=3000"
     },
     {
       "title": "Three reasons why DeepSeek’s new model matters",
@@ -1144,7 +1144,7 @@
       "region": "us",
       "pubDate": "2026-04-24 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/02/europa.jpg?w=3000"
     },
     {
       "title": "Health-care AI is here. We don’t know if it actually helps patients.",
@@ -1166,7 +1166,7 @@
       "region": "us",
       "pubDate": "2026-04-23 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/05/AP24106836358581-social.jpg?w=3000"
     },
     {
       "title": "Will fusion power get cheap? Don’t count on it.",
