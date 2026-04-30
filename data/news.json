@@ -1,7 +1,238 @@
 {
-  "updateTime": "2026-04-30T17:27:24.860Z",
-  "total": 107,
+  "updateTime": "2026-04-30T19:42:51.848Z",
+  "total": 117,
   "news": [
+    {
+      "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites",
+      "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
+      "summary": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-30 19:36:53",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "summary": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-30 19:27:41",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
+      "link": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+      "summary": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the X...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-30 19:14:23",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
+      "link": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+      "summary": "Meta says it may be forced to pull Facebook, Instagram, and WhatsApp from New Mexico if the attorney general gets his way. The state is demanding a host of changes that the company says are impossible...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-30 19:05:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "With Saros, Housemarque makes a case for doing next-gen games differently",
+      "link": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
+      "summary": "It is generally frowned upon to care too much about appearances. We have a lot of little aphorisms discouraging this - books and their covers, beauty being skin deep, style over substance, that sort o...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-30 19:00:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "All the evidence unveiled so far in Musk v. Altman",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-30 19:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
+      "link": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
+      "summary": "The perpetually struggling EV company made the payments while being investigated by the SEC. That four-year probe was ultimately closed in March....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-30 18:56:59",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+      "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-30 18:54:54",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69f2663444afef60af143aae/master/pass/Uncanny-Valley-Musk-v-Altman-Business-2272923137.jpg"
+    },
+    {
+      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+      "link": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+      "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to s...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-04-30 18:42:50",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "One tool call to rule them all? New open source Python tool RunPod Flash eliminates containers for faster AI dev",
+      "link": "https://venturebeat.com/infrastructure/one-tool-call-to-rule-them-all-new-open-source-python-tool-runpod-flash-eliminates-containers-for-faster-ai-dev",
+      "summary": "\nRunpod, the high-performance cloud computing and GPU platform designed specifically for AI development, today launched a new open source, MIT licensed, enterprise-friendly Python programming tool cal...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-04-30 18:31:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-30 18:20:03",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "MAGA Is Confused About ‘Animal Farm’",
+      "link": "https://www.wired.com/story/maga-is-confused-about-animal-farm/",
+      "summary": "The new film is the latest adaptation of George Orwell’s novel. Based on the critiques coming from right-wing influencers, it seems few of them fully grasp the book’s message....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-30 18:19:28",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/69f38b6f4dca8ba9c1579a77/master/pass/MAGA-Confused-About-Animal-Farm-Culture-0700__0300_0090__main__compositing__v006_2k.jpg"
+    },
+    {
+      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
+      "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-30 18:16:57",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-30 18:03:57",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red ta...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-30 17:53:53",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Xbox owners can now disable Quick Resume for specific games",
+      "link": "https://www.theverge.com/games/921504/xbox-update-quick-resume-disable",
+      "summary": "Microsoft has released a new Xbox update that adds a bunch of new features, including the ability to disable Quick Resume for individual games. Quick Resume, which lets you swap between your games wit...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-04-30 17:51:26",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-30 17:46:54",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed",
+      "link": "https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/",
+      "summary": "Why the terms “smart bed,” \"adjustable mattress,\" and “adjustable frame” are not interchangeable, and how to avoid an expensive mistake....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-30 17:42:52",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/683e41777a72d53a3adfb36f/master/pass/Adjustable%20Mattress%20vs.%20Adjustable%20Frame.png"
+    },
+    {
+      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
+      "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-30 17:41:14",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/master/pass/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg"
+    },
+    {
+      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+      "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-04-30 17:30:39",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69f3851f013dbae7ce7c178e/master/pass/security_chatgpt_GettyImages-2271059989.jpg"
+    },
+    {
+      "title": "TikTok’s new ‘Campus Hub’ features college group chats and feeds",
+      "link": "https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/",
+      "summary": "The new hub features dedicated college group chats and personalized feeds designed to help students stay connected with their campus communities, even while they’re away for the summer....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-04-30 17:24:49",
+      "category": "other",
+      "thumbnail": ""
+    },
     {
       "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
       "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
@@ -124,28 +355,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Gemini is rolling out to cars with Google built-in",
-      "link": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
-      "summary": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promise...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-30 16:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Here’s how the new Microsoft and OpenAI deal breaks down",
-      "link": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
-      "summary": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, an...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-30 16:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Writer launches AI agents that can act without prompts, taking on Amazon, Microsoft and Salesforce",
       "link": "https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce",
       "summary": "\nWriter, the enterprise AI agent platform backed by Salesforce Ventures, Adobe Ventures, and Insight Partners, today launched event-based triggers for its Writer Agent platform, enabling AI agents to ...",
@@ -179,17 +388,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Uber taps Hertz to clean, charge, and fix its Lucid Motors robotaxis",
-      "link": "https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/",
-      "summary": "Hertz is creating a new affiliate company called \"Oro Mobility\" to provide fleet management solutions \"across a range of mobility segments.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-30 15:55:28",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "加州新规：警察能给无人驾驶汽车开罚单了",
       "link": "https://www.ithome.com/0/945/750.htm",
       "summary": "\nIT之家 4 月 30 日消息，据外媒 The Verge 报道，今年 7 月 1 日起，自动驾驶车辆在加州也不能再免罚了。\n加州机动车辆管理局本周公布新规，今后如果自动驾驶汽车出现交通违法，执法部门可以向车企发出“自动驾驶车辆违规通知”。据IT之家了解，适用情形包括闯红灯、遇到校车未按规定停车等。\n\n这项新规出台前，自动驾驶出租车已经多次因为交通违法视频引发关注，也卷入过多起安全调查。特斯拉的...",
@@ -198,17 +396,6 @@
       "region": "cn",
       "pubDate": "2026-04-30 15:45:41",
       "category": "auto",
-      "thumbnail": ""
-    },
-    {
-      "title": "Now California’s cops can give tickets to driverless cars",
-      "link": "https://www.theverge.com/transportation/921290/california-driverless-vehicles-traffic-tickets",
-      "summary": "Autonomous vehicles roving California's roads will no longer be immune to traffic tickets starting on July 1st. New regulations announced by the California DMV this week allow law enforcement to give ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-30 15:37:53",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -231,28 +418,6 @@
       "region": "cn",
       "pubDate": "2026-04-30 15:35:09",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "After working on the Vision Pro, this AR veteran is going back to phones",
-      "link": "https://www.theverge.com/column/921101/ar-mobile-pixi",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Mark Drummond was working on t...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-30 15:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
-      "link": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
-      "summary": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-30 15:29:49",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -297,50 +462,6 @@
       "region": "cn",
       "pubDate": "2026-04-30 15:16:41",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dental practice software maker fixes bug that exposed patients’ medical records",
-      "link": "https://techcrunch.com/2026/04/30/dental-practice-software-maker-fixes-bug-that-exposed-patients-medical-records/",
-      "summary": "The security bug is now fixed, but the patient who found it said it was challenging to alert the software company about the issue....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-30 15:15:41",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "$100 Nintendo gift cards are $20 off at Newegg today",
-      "link": "https://www.theverge.com/gadgets/921157/100-nintendo-gift-cards-are-20-off-at-newegg-today",
-      "summary": "Nintendo eShop gift cards can be used to buy games, apparel, and even hardware or accessories from its online storefront. No matter what you want to get, you can save a fairly substantial amount by pu...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-30 15:15:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Subnautica 2 launches soon after lengthy legal dispute",
-      "link": "https://www.theverge.com/games/920668/subnautica-2-early-access-release-date-unknown-worlds-krafton",
-      "summary": "After some protracted legal drama, Subnautica 2 is finally about to launch. The game, which is currently Steam's most-wishlisted title and was caught up in a dispute between top executives at develope...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-04-30 15:15:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "X announces a rebuilt ad platform powered by AI",
-      "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
-      "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-30 15:14:55",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -399,6 +520,28 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-500x500.jpg"
     },
     {
+      "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
+      "link": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
+      "summary": "\nTransforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-30 14:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
+    },
+    {
+      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+      "link": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+      "summary": "\nThis article is brought to you by DAIMON Robotics.\nThis April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-30 13:22:51",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&width=1245&height=700&coordinates=0%2C83%2C0%2C83"
+    },
+    {
       "title": "More than half of all  Polymarket \"long shot\" bets on military action pay off",
       "link": "https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/",
       "summary": "Sensitive information and the prediction markets can be a winning combination....",
@@ -408,28 +551,6 @@
       "pubDate": "2026-04-30 13:16:04",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/polymarket-500x500.jpg"
-    },
-    {
-      "title": "Spotify introduces verified artist badges to help distinguish humans from AI",
-      "link": "https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/",
-      "summary": "Spotify looks for an identifiable artist presence both on and off platform, like concert dates, merch, and linked social accounts on their artist profile....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-30 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Netflix wants you to watch ‘Clips,’ its TikTok-like vertical video feed",
-      "link": "https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/",
-      "summary": "Netflix is redesigning its mobile app and introducing Clips, a vertical video feed intended to help users discover new content by sharing highlights from original Netflix programming....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-30 13:00:00",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "集权、搞AI、出海，小红书一夜之间撕掉“慢公司”标签",
@@ -451,17 +572,6 @@
       "region": "us",
       "pubDate": "2026-04-30 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/12/TechReview_PassiveHouse_2.jpg?w=3000"
-    },
-    {
-      "title": "Meta says its business AI now facilitates 10 million conversations a week",
-      "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-      "summary": "Meta said over 8 billion advertisers have used at least one of its GenAI tools...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-30 12:08:45",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -472,17 +582,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-04-30 12:04:32",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Instagram cracks down on content aggregators",
-      "link": "https://techcrunch.com/2026/04/30/instagram-restricts-reach-of-content-aggregators-in-new-crackdown/",
-      "summary": "The update targets content aggregators that don't post original content and instead simply re-upload others' posts....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-04-30 12:00:00",
       "category": "other",
       "thumbnail": ""
     },
@@ -517,7 +616,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 11:32:16",
       "category": "energy",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_b53a066976c949b2a81679b89fd9c678@16805102_oswg437973oswg740oswg700_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Goal Zero Yeti 1500 Power Station Review (2026): More Power, Better Chemistry",
@@ -584,28 +683,6 @@
       "pubDate": "2026-04-30 11:00:31",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-3-500x500.jpg"
-    },
-    {
-      "title": "Use Gmail’s ‘Manage Subscriptions’ Tool to Cut Down on Inbox Clutter",
-      "link": "https://www.wired.com/story/gmail-manage-subscriptions-cut-down-on-inbox-clutter/",
-      "summary": "Find and remove newsletter subscriptions more easily using Gmail’s built-in tools for organizing bulk emails....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-30 11:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69f26ef47af1530ce0577331/master/pass/Gear_GmailsTooltoCutDownonInboxClutter_1080x1080.jpg"
-    },
-    {
-      "title": "This Summer, the American Water Crisis Becomes Real",
-      "link": "https://www.wired.com/story/the-summer-the-american-water-crisis-turned-real/",
-      "summary": "Concern over water access are poised to consume summer in the US, as crises in Corpus Christi and across the Colorado River threaten to boil over....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-30 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69f269ec8cf66a0c9e7824ca/master/pass/Water-Wars-Will-Consume-America-Science.jpg"
     },
     {
       "title": "Netomi raises $110 million as Accenture and Adobe bet on AI for customer service",
@@ -682,7 +759,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 10:34:03",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_9df2ac4e2fa840fc94c23ce544499edc@5654145_oswg1665815oswg1912oswg1134_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "巅峰集结，FBIF2026首日回顾！全球食品高层共探破局之路",
@@ -693,29 +770,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 10:31:29",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "EufyMake E1 UV Printer Review (2026): Add 3D Texture to Mugs, Magnets, and More",
-      "link": "https://www.wired.com/review/review-eufymake-e1-uv-printer/",
-      "summary": "The UV printer lets you customize on almost anything, but it basically needs its own bedroom and probably can’t make rent....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-30 10:31:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69f2cf7881fb648f865d7efc/master/pass/Review--EufyMake-E1-UV-Printer.jpg"
-    },
-    {
-      "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
-      "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
-      "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-04-30 10:30:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69e001589ad6824ca991b3a5/master/pass/culture_revenge_porn_ai_lawsuit.jpg"
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_a6d569c964664956a1348db983c73fb4@6381723_oswg178648oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Wireshark 4.6.5 发布，最强开源网络数据包分析器",
@@ -806,15 +861,15 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r3t43gret3.png"
     },
     {
-      "title": "Motorola Moto G Stylus 2026 Review: Better Pen, Higher Price",
-      "link": "https://www.wired.com/review/motorola-moto-g-stylus-2026/",
-      "summary": "The Moto G Stylus doesn't quite match its peers, but it has niche features you won't find on most phones....",
-      "source": "Wired",
-      "sourceKey": "wired",
+      "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
+      "link": "https://events.bizzabo.com/860041",
+      "summary": "\nLaboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help ove...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-04-30 10:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69f2aa2622f1025fb08ff865/master/pass/Motorola-Moto-G-Stylus-2026-SOURCE-Julian-Chokkattu(1).jpg"
+      "pubDate": "2026-04-30 10:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/comsol-logo.png?id=27157944&width=980"
     },
     {
       "title": "从扫地机到火箭车，追觅在硅谷造了一场“瞬息全宇宙”",
@@ -825,7 +880,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 09:33:41",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_ed1e6b909ce34244b7149b3d0ba769e6@2057308263_oswg1525405oswg1148oswg766_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
@@ -847,7 +902,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 09:11:22",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_7b4c133699b4458fbff7bbdfc281858a@5899452_oswg143779oswg1080oswg1925_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
@@ -869,7 +924,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 08:56:58",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_5363ac077496458c837477c37e734630@337187376_oswg587683oswg1473oswg936_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁",
@@ -946,7 +1001,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 07:28:06",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_646d7c02c8b04a88bbcf5a821fb67ab7@6381723_oswg432028oswg900oswg480_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
@@ -1023,7 +1078,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 02:13:18",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_cd07ad3f5b6d4ca5b6446ba926038e60@5895246_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
@@ -1033,17 +1088,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-04-29 21:14:06",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The retrieval rebuild: Why hybrid retrieval intent tripled as enterprise RAG programs hit the scale wall",
-      "link": "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall",
-      "summary": "\nSomething shifted in enterprise RAG in Q1 2026. VB Pulse data spanning January through March tells a consistent story: the market stopped adding retrieval layers and started fixing the ones it alread...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-04-29 20:06:21",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1100,7 +1144,7 @@
       "region": "us",
       "pubDate": "2026-04-29 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/11/biometric-face-copy.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "It’s time to make a plan for nuclear waste",
@@ -1114,6 +1158,39 @@
       "thumbnail": ""
     },
     {
+      "title": "Better Hardware Could Turn Zeros into AI Heroes",
+      "link": "https://spectrum.ieee.org/sparse-ai",
+      "summary": "\nWhen it comes to AI models, size matters.\nEven though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-28 18:03:40",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-gradient-artwork-of-a-stylized-robot-head-with-circuits-and-binary-code-patterns.jpg?id=65862907&width=1245&height=700&coordinates=0%2C760%2C0%2C761"
+    },
+    {
+      "title": "The Chip That Made Hardware Rewriteable",
+      "link": "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
+      "summary": "\nMany of the world’s most advanced electronic systems—including Internet routers, wireless base stations, medical imaging scanners, and some artificial intelligence tools—depend on field-programmable ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-28 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/die-photo-of-an-integrated-circuit-with-an-8-by-8-array.jpg?id=66633028&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
+    },
+    {
+      "title": "“Entanglement: A Brief History of Human Connection”",
+      "link": "https://spectrum.ieee.org/entanglement-poem",
+      "summary": "\nIt started with word, cave, and storytelling,A line scratched on stone walls:“Meet me when the young moon rises.”The first protocol for connection.\nCoyote tales, forbidden scripts,Medieval texts hidd...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-28 14:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-hands-typing-on-a-laptop-keyboard-in-warm-earthy-tones.jpg?id=66480652&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
       "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
       "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s futu...",
@@ -1122,7 +1199,7 @@
       "region": "us",
       "pubDate": "2026-04-28 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/05/Mitvirus_color.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
@@ -1147,6 +1224,17 @@
       "thumbnail": ""
     },
     {
+      "title": "What Makes eVTOL Motors Different Than EV Motors?",
+      "link": "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
+      "summary": "\nElectric vehicles, whether they’re cars on the road or electric vertical take-off and landing (eVTOL) aircraft, are built around similar electric motors. But there are vital differences including com...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-27 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-man-stands-in-a-busy-open-plan-office-environment.png?id=65579658&width=1245&height=700&coordinates=0%2C0%2C0%2C1"
+    },
+    {
       "title": "Rebuilding the data stack for AI",
       "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
       "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI ...",
@@ -1158,6 +1246,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Engineering Collisions: How NYU Is Remaking Health Research",
+      "link": "https://spectrum.ieee.org/nyu-health-research",
+      "summary": "\nThis sponsored article is brought to you by NYU Tandon School of Engineering.\nThe traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-27 12:45:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/two-scientists-in-lab-coats-working-at-a-fume-hood-in-a-chemistry-laboratory.jpg?id=65590061&width=1245&height=700&coordinates=0%2C260%2C0%2C261"
+    },
+    {
       "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
       "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chin...",
@@ -1166,18 +1265,29 @@
       "region": "us",
       "pubDate": "2026-04-27 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/martincic-greatcarbonvalley-16x19-1.jpg?w=3000"
+      "thumbnail": ""
     },
     {
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that hel...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
+      "title": "Modeling and Simulation Approaches for Modern Power System Studies",
+      "link": "https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/",
+      "summary": "\nThis webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid integr...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-04-24 21:40:58",
+      "pubDate": "2026-04-27 10:00:01",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/mathworks-logo-with-3d-wave-symbol-and-text-mathworks.png?id=26851519&width=980"
+    },
+    {
+      "title": "Yong Wang Turns Information Into Insights",
+      "link": "https://spectrum.ieee.org/yong-wang-data-visualization",
+      "summary": "\nWhen Yong Wang recently received one of the highest honors for early-career data visualization researchers, it marked a milestone in an extraordinary journey that began far from the world’s technolog...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-24 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-chinese-man-speaking-into-a-podium-microphone-while-on-stage.png?id=65835863&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     }
   ]
 }
