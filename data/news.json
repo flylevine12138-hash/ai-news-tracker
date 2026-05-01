@@ -1,11 +1,66 @@
 {
-  "updateTime": "2026-05-01T19:20:59.829Z",
+  "updateTime": "2026-05-01T21:00:53.002Z",
   "total": 117,
   "news": [
     {
+      "title": "200,000 MCP servers expose a command execution flaw that Anthropic calls a feature",
+      "link": "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit",
+      "summary": "\nAnthropic created the Model Context Protocol as the open standard for AI agent-to-tool communication. OpenAI adopted it in March 2025. Google DeepMind followed. Anthropic donated MCP to the Linux Fou...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-01 20:35:46",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
+      "link": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
+      "summary": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched—but many machines remain at risk....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-01 20:30:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69f5021d405a1c77b2d2b80b/master/pass/security_linux_getty_2.jpg"
+    },
+    {
+      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+      "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+      "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-01 20:25:28",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69f14b40d98ff026bfabf317/master/pass/Made-In-China-Super-PAC-Backed-By-OpenAI-Palantir-Paying-TikTok-Influencers-Business.jpg"
+    },
+    {
+      "title": "All the evidence revealed so far in Musk v. Altman",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-01 19:14:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ubuntu infrastructure has been down for more than a day",
+      "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+      "summary": "The outage has hampered communication concerning a critical vulnerability that gives root....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-01 19:12:26",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-500x500-1777661362.jpg"
+    },
+    {
       "title": "This Eye-Catching Indoor Garden Is 20 Percent Off Right Now",
       "link": "https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/",
-      "summary": "Lettuce Grow's Farmstand is sure to impress, and it's 20 percent off for Mother's Day....",
+      "summary": "Lettuce Grow’s Farmstand is sure to impress, and it’s 20 percent off for Mother’s Day....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
@@ -231,7 +286,7 @@
       "region": "us",
       "pubDate": "2026-05-01 15:54:01",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Mustafa_forweb.png"
     },
     {
       "title": "安伯尼克 Anbernic 掌机 RG Rotate 更多信息公布：3.5 英寸 720×720 旋屏，87.99 美元起",
@@ -264,7 +319,7 @@
       "region": "us",
       "pubDate": "2026-05-01 15:31:09",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Davidson_square.png"
     },
     {
       "title": "Is your Purosangue SUV not sharp enough? Ferrari has you covered.",
@@ -363,17 +418,6 @@
       "region": "cn",
       "pubDate": "2026-05-01 14:37:16",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Some of Xteink’s credit card-sized e-readers are losing their best feature",
-      "link": "https://www.theverge.com/tech/921552/xteink-x3-x4-e-reader-third-party-crosspoint-firmware-usb-blocked",
-      "summary": "The Xteink X4 and X3 are excellent alternatives to Kindles and Kobos if you want an e-reader that's as easy to slip into your pocket - just not out of the box. Both devices come with stock firmware th...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-01 14:24:54",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -498,17 +542,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Rocket Report: Falcon Heavy is back; Russia's Soyuz-5 finally debuts",
-      "link": "https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/",
-      "summary": "Two launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-01 12:39:03",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/fh_viasat_streak-500x500.jpg"
-    },
-    {
       "title": "The Download: a new Christian phone network, and debugging LLMs",
       "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and g...",
@@ -517,7 +550,7 @@
       "region": "us",
       "pubDate": "2026-05-01 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/08/Mountain_Pass_thumb.jpg?w=3000"
     },
     {
       "title": "17 Best Graduation Gifts That Aren't Totally Cringe (2026)",
@@ -583,7 +616,7 @@
       "region": "cn",
       "pubDate": "2026-05-01 10:26:42",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260501/v2_b9869a69adf74325b92d2816495cb653@5679941_oswg807488oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing",
@@ -605,18 +638,7 @@
       "region": "us",
       "pubDate": "2026-05-01 10:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection",
-      "link": "https://www.wired.com/story/osteoarthritis-joint-damage-single-injection-treatment/",
-      "summary": "Osteoarthritis has no cure, but researchers have developed new therapies that help aging or damaged joints repair themselves in a matter of weeks....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-01 09:30:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69dd443e58ef52d6977d6dd8/master/pass/cartilago.jpg"
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/tank_testing_04.jpg?w=2514"
     },
     {
       "title": "闻泰科技*ST背后：争夺安世半导体控制权之鉴",
@@ -650,17 +672,6 @@
       "pubDate": "2026-05-01 09:00:44",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?",
-      "link": "https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/",
-      "summary": "YouTube’s search and recommendation algorithms are driving children to Russian-language content even when they seek out videos in Kyrgyz, creating a cultural shift that concerns some parents....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-01 09:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69ea5ff5aa364ad0224c15a7/master/pass/YouTube-Promoting-Russian-Language-Videos-in-Kyrgyzstan-Business.jpg"
     },
     {
       "title": "Trump’s mass firing just dealt another blow to American science",
@@ -781,7 +792,7 @@
       "region": "cn",
       "pubDate": "2026-05-01 02:52:49",
       "category": "space",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260501/v2_7ce0abde07f642388bb0e78fdad6744d@5920579_oswg544743oswg1080oswg581_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -905,17 +916,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Claude Code, Copilot and Codex all got hacked. Every attacker went for the credential, not the model.",
-      "link": "https://venturebeat.com/security/six-exploits-broke-ai-coding-agents-iam-never-saw-them",
-      "summary": "\nOn March 30, BeyondTrust proved that a crafted GitHub branch name could steal Codex’s OAuth token in cleartext. OpenAI classified it Critical P1. Two days later, Anthropic’s Claude Code source code s...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-04-30 16:30:01",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
       "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
       "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a mo...",
@@ -968,7 +968,7 @@
       "region": "us",
       "pubDate": "2026-04-30 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/12/TechReview_PassiveHouse_2.jpg?w=3000"
     },
     {
       "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
@@ -1001,7 +1001,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 11:32:16",
       "category": "energy",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_b53a066976c949b2a81679b89fd9c678@16805102_oswg437973oswg740oswg700_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "「Why MoonBit 」第一期——Singularity Note AI 学习助手",
@@ -1067,7 +1067,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 10:34:03",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_9df2ac4e2fa840fc94c23ce544499edc@5654145_oswg1665815oswg1912oswg1134_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "巅峰集结，FBIF2026首日回顾！全球食品高层共探破局之路",
@@ -1078,7 +1078,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 10:31:29",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_a6d569c964664956a1348db983c73fb4@6381723_oswg178648oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Wireshark 4.6.5 发布，最强开源网络数据包分析器",
@@ -1122,7 +1122,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 09:33:41",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_ed1e6b909ce34244b7149b3d0ba769e6@2057308263_oswg1525405oswg1148oswg766_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
@@ -1144,7 +1144,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 09:11:22",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_7b4c133699b4458fbff7bbdfc281858a@5899452_oswg143779oswg1080oswg1925_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
@@ -1166,7 +1166,7 @@
       "region": "cn",
       "pubDate": "2026-04-30 08:56:58",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_5363ac077496458c837477c37e734630@337187376_oswg587683oswg1473oswg936_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁",
@@ -1210,7 +1210,7 @@
       "region": "us",
       "pubDate": "2026-04-29 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/11/biometric-face-copy.jpg?w=3000"
     },
     {
       "title": "Better Hardware Could Turn Zeros into AI Heroes",
