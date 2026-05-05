@@ -1,7 +1,84 @@
 {
-  "updateTime": "2026-05-05T21:08:30.719Z",
+  "updateTime": "2026-05-05T23:00:44.556Z",
   "total": 117,
   "news": [
+    {
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "summary": "Altara’s AI aims to diagnose failures and help speed up R&amp;D by unifying  data siloed across spreadsheets and legacy systems....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-05 22:57:41",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
+      "link": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
+      "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-05 22:31:57",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it",
+      "link": "https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner",
+      "summary": "\nJust two months ago, researchers at the Data Intelligence Lab at the University of Hong Kong introduced CLI-Anything, a new state-of-the-art tool that analyzes any repo’s source code and generates a ...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-05 22:09:32",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google Home’s Gemini AI can handle more complicated requests",
+      "link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will imp...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-05 21:46:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
+      "link": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
+      "summary": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-05 21:41:32",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Panthalassa-ocean-computing-node-with-multiple-people-500x500.jpg"
+    },
+    {
+      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "link": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would a...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-05 21:18:23",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "As crypto cools, a16z crypto raises a $2.2B fund",
+      "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
+      "summary": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-05 21:15:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "Telehealth Abortion Is Still Possible Without Mifepristone",
       "link": "https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/",
@@ -12,6 +89,17 @@
       "pubDate": "2026-05-05 21:05:40",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/69f8fcb7473a4d48b2c52f3f/master/pass/Medication-Abortion-Providers-Say-They're-Not-Pausing-Treatment-Science-2203851948.jpg"
+    },
+    {
+      "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
+      "link": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+      "summary": "State says chatbot claimed to practice medicine, gave invalid license number....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-05 20:58:56",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/robot-hand-stethoscope-500x500-1778013498.jpg"
     },
     {
       "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
@@ -223,28 +311,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The new AirPods Max 2 are already on sale for $40 off",
-      "link": "https://www.theverge.com/gadgets/923396/airpods-max-2-echo-dot-smart-speaker-deal-sale",
-      "summary": "In terms of pricing, the original AirPods Max remained stubbornly high even years after their debut, which made them hard to recommend over the Bose QC Ultra or Sony’s XM series headphones unless you ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-05 16:01:34",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-05 15:49:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Bionic Tech Must Prove Itself Beyond the Lab",
       "link": "https://spectrum.ieee.org/assistive-technology",
       "summary": "\nI first met Robert Woo in 2011, during his third time walking in a powered exoskeleton. The architect had been paralyzed in a construction accident four years earlier, but he was determined to get ba...",
@@ -253,7 +319,7 @@
       "region": "us",
       "pubDate": "2026-05-05 15:45:33",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-seated-man-in-a-robotic-suit-smiles-at-a-seated-woman-holding-a-laptop.png?id=65559767&width=1245&height=700&coordinates=0%2C269%2C0%2C269"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-seated-man-in-a-robotic-suit-smiles-at-a-seated-woman-holding-a-laptop.png?id=65559767&width=1200&height=800&coordinates=0%2C165%2C0%2C165"
     },
     {
       "title": "How do you design a $30,000 electric pickup? Inside Ford's skunkworks.",
@@ -276,28 +342,6 @@
       "pubDate": "2026-05-05 15:34:33",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/69f9b6532fd3684a9959eb80/master/pass/TDWP2-19956_R2_19964_r%20(2).jpg"
-    },
-    {
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "summary": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-05 15:31:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
-      "link": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
-      "summary": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-05 15:20:24",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "Charlize Theron is a bewitching Circe in Odyssey trailer",
@@ -342,17 +386,6 @@
       "pubDate": "2026-05-05 15:01:27",
       "category": "ai",
       "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/11/49e3c3c3-5ece-4eb9-bb3b-fc680292d666.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "Orchid, the buzzy Tame Impala synth, is back in a gorgeous clear colorway",
-      "link": "https://www.theverge.com/gadgets/920264/orchid-tame-impala-synth-clear-colorway-arctic-telepathic-instruments",
-      "summary": "The Telepathic Instruments Orchid has been unavailable for a few months now. But a new batch is ready to drop on May 11th for $649, and the company is celebrating with a limited edition clear Orchid: ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-05 15:00:00",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "创维“G27Q MAX”27 英寸显示器发售：2K 220Hz QD-Mini LED，999 元",
@@ -495,7 +528,7 @@
       "region": "us",
       "pubDate": "2026-05-05 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Craig-at-pool-surface-1_R1-mobile-edited-1.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home",
@@ -529,17 +562,6 @@
       "pubDate": "2026-05-05 11:32:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/69f9008178155c0aab3cdc1f/master/pass/Review%20Murena%20Tablet%20top%20art%20052026%20SOURCE%20Murena.jpg"
-    },
-    {
-      "title": "Why Reddit blocked my daily visit to its mobile website",
-      "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
-      "summary": "Reddit REALLY wants you to use its app....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-05 11:20:08",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-500x500.jpg"
     },
     {
       "title": "The iPhone That Never Was",
@@ -696,17 +718,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/42353.png"
     },
     {
-      "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
-      "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
-      "summary": "\"To be clear: Notepad++ has never released a macOS version.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-04 21:38:37",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.50.42-PM-500x500-1777928501.png"
-    },
-    {
       "title": "Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
       "link": "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions",
       "summary": "\nAmerican Express (Amex) is building a system that lets AI agents shop and pay on behalf of users — but right now it’s only within its own payment network, and still involves a black box that could hi...",
@@ -748,7 +759,7 @@
       "region": "us",
       "pubDate": "2026-05-04 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/men-in-hard-hats-posing-together-at-a-miniature-solar-farm-amongst-a-dense-jungle-environment.jpg?id=66678170&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+      "thumbnail": "https://spectrum.ieee.org/media-library/men-in-hard-hats-posing-together-at-a-miniature-solar-farm-amongst-a-dense-jungle-environment.jpg?id=66678170&width=1200&height=800&coordinates=62%2C0%2C63%2C0"
     },
     {
       "title": "Week one of the Musk v. Altman trial: What it was like in the room",
@@ -770,7 +781,7 @@
       "region": "us",
       "pubDate": "2026-05-04 13:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Cover-MIT_MayoClinic_V12_03192026.png?w=1556"
+      "thumbnail": ""
     },
     {
       "title": "五月，适合想清楚一件事｜幕启",
@@ -781,7 +792,7 @@
       "region": "cn",
       "pubDate": "2026-05-04 12:41:30",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260504/v2_5ef3b16f1e4e43169a275cb124e3bc5d@5509299_oswg3314242oswg1690oswg1671_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
@@ -792,7 +803,7 @@
       "region": "us",
       "pubDate": "2026-05-04 11:08:34",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&width=1245&height=700&coordinates=0%2C83%2C0%2C83"
+      "thumbnail": "https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&width=1200&height=800&coordinates=0%2C16%2C0%2C17"
     },
     {
       "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
@@ -803,7 +814,7 @@
       "region": "cn",
       "pubDate": "2026-05-04 09:49:40",
       "category": "other",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260504/v2_777b0af85c5d47b2b0a2702bc4a57c99@5654145_oswg184920oswg720oswg1179_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "“DeepSeek版Claude Code”，Github 2.3k星",
@@ -902,7 +913,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 14:14:23",
       "category": "other",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_c73963edc9ec4e6e841697057f5666db@517825446_oswg114935oswg600oswg592_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
@@ -924,7 +935,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 13:01:36",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_c6300bc769d849d4ad2f85382d7cde0d@5783683_img_gif?x-oss-process=image/quality,q_80"
+      "thumbnail": ""
     },
     {
       "title": "周杰伦伙伴，要被卖了",
@@ -935,7 +946,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 09:37:20",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_bf67b6f28a8247679c68b9f7cf9f7a25@5579416_oswg407782oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "茶颜悦色 , 装不下去了",
@@ -946,7 +957,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 08:06:53",
       "category": "other",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_95c539d85cd94dc8a62ceaab7563b937@5579416_oswg292232oswg1080oswg1762_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "又一算力独角兽，冲击IPO",
@@ -968,7 +979,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 06:52:34",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_8d710b3a2ed241d59c0263113445c899@5579416_oswg57692oswg826oswg434_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
@@ -990,7 +1001,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 03:24:44",
       "category": "auto",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_f3e91652b72c47dd9b038b44dea46162@5579416_oswg151399oswg1080oswg1441_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "技术日报｜mattpocock 技能库六连榜总量突破 5.2 万，Warp 终端三连榜逼近 5.2 万星",
@@ -1037,17 +1048,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives.",
-      "link": "https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives",
-      "summary": "\nThe scaffolding layer that developers once needed to ship LLM applications — indexing layers, query engines, retrieval pipelines, carefully orchestrated agent loops — is collapsing. And according to ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-01 18:01:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Cyber-Insecurity in the AI Era",
       "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
       "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s...",
@@ -1056,7 +1056,7 @@
       "region": "us",
       "pubDate": "2026-05-01 15:54:01",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Mustafa_forweb.png"
+      "thumbnail": ""
     },
     {
       "title": "Operationalizing AI for Scale and Sovereignty",
@@ -1067,7 +1067,7 @@
       "region": "us",
       "pubDate": "2026-05-01 15:31:09",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Davidson_square.png"
+      "thumbnail": ""
     },
     {
       "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
@@ -1100,7 +1100,7 @@
       "region": "us",
       "pubDate": "2026-05-01 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/08/Mountain_Pass_thumb.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
@@ -1122,7 +1122,7 @@
       "region": "us",
       "pubDate": "2026-05-01 10:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/tank_testing_04.jpg?w=2514"
+      "thumbnail": ""
     },
     {
       "title": "Trump’s mass firing just dealt another blow to American science",
@@ -1177,7 +1177,7 @@
       "region": "us",
       "pubDate": "2026-04-30 14:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&width=1200&height=800&coordinates=0%2C208%2C0%2C209"
     },
     {
       "title": "「Why MoonBit 」第一期——Singularity Note AI 学习助手",
@@ -1243,7 +1243,7 @@
       "region": "us",
       "pubDate": "2026-04-28 18:03:40",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-gradient-artwork-of-a-stylized-robot-head-with-circuits-and-binary-code-patterns.jpg?id=65862907&width=1245&height=700&coordinates=0%2C760%2C0%2C761"
+      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-gradient-artwork-of-a-stylized-robot-head-with-circuits-and-binary-code-patterns.jpg?id=65862907&width=1200&height=800&coordinates=0%2C656%2C0%2C657"
     },
     {
       "title": "The Chip That Made Hardware Rewriteable",
@@ -1254,7 +1254,7 @@
       "region": "us",
       "pubDate": "2026-04-28 18:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/die-photo-of-an-integrated-circuit-with-an-8-by-8-array.jpg?id=66633028&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
+      "thumbnail": "https://spectrum.ieee.org/media-library/die-photo-of-an-integrated-circuit-with-an-8-by-8-array.jpg?id=66633028&width=1200&height=800&coordinates=0%2C208%2C0%2C209"
     },
     {
       "title": "“Entanglement: A Brief History of Human Connection”",
@@ -1265,7 +1265,7 @@
       "region": "us",
       "pubDate": "2026-04-28 14:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-hands-typing-on-a-laptop-keyboard-in-warm-earthy-tones.jpg?id=66480652&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-hands-typing-on-a-laptop-keyboard-in-warm-earthy-tones.jpg?id=66480652&width=1200&height=800&coordinates=0%2C83%2C0%2C84"
     },
     {
       "title": "What Makes eVTOL Motors Different Than EV Motors?",
@@ -1276,7 +1276,7 @@
       "region": "us",
       "pubDate": "2026-04-27 13:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-man-stands-in-a-busy-open-plan-office-environment.png?id=65579658&width=1245&height=700&coordinates=0%2C0%2C0%2C1"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-man-stands-in-a-busy-open-plan-office-environment.png?id=65579658&width=1200&height=800&coordinates=125%2C0%2C126%2C0"
     },
     {
       "title": "Engineering Collisions: How NYU Is Remaking Health Research",
@@ -1287,7 +1287,7 @@
       "region": "us",
       "pubDate": "2026-04-27 12:45:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/two-scientists-in-lab-coats-working-at-a-fume-hood-in-a-chemistry-laboratory.jpg?id=65590061&width=1245&height=700&coordinates=0%2C260%2C0%2C261"
+      "thumbnail": "https://spectrum.ieee.org/media-library/two-scientists-in-lab-coats-working-at-a-fume-hood-in-a-chemistry-laboratory.jpg?id=65590061&width=1200&height=800&coordinates=0%2C0%2C0%2C0"
     }
   ]
 }
