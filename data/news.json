@@ -1,17 +1,116 @@
 {
-  "updateTime": "2026-05-04T22:08:50.658Z",
+  "updateTime": "2026-05-05T00:00:20.048Z",
   "total": 117,
   "news": [
     {
+      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual w...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-04 23:49:33",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
+      "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
+      "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-04 23:19:52",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69f8dc3d515a33a2efb30971/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockman-Testifies-Business-2273978244.jpg"
+    },
+    {
+      "title": "谷歌 Pixel 11 系列旗舰手机配置大曝光：Tensor G6 芯片、放弃三星基带，镜头模组有亮点",
+      "link": "https://www.ithome.com/0/946/331.htm",
+      "summary": "\nIT之家 5 月 5 日消息，一个最新的重大泄露揭示了谷歌 Pixel 11 系列旗舰手机几乎所有的重要细节，包括 Tensor G6 的详细解析、相机的一些硬件更新，以及“Pixel Glow”功能可能展示的位置。\nMystic Leaks 今日爆料了谷歌 Pixel 11 系列的配置，Tensor G6 芯片被曝将采用 1+4+2 配置，使用更新的 ARM C1 核心、PowerVR C 系...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-04 23:09:08",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "What the Spirit Airlines Implosion Means for Your Vacation",
+      "link": "https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/",
+      "summary": "The news isn’t good....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-04 23:00:55",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69f8eaab161caad6c9ecf4f6/master/pass/Whats-Going-On-With-Spirit-Airlines-Gear-2274151417.jpg"
+    },
+    {
+      "title": "消息称索尼 Alpha 7R VI 全画幅相机支持预拍摄，拥有全新菜单布局",
+      "link": "https://www.ithome.com/0/946/330.htm",
+      "summary": "\nIT之家 5 月 5 日消息，据 Sony Alpha Rumors 当地时间 5 月 4 日发文透露，索尼将在伦敦时间 5 月 13 日下午 3 点（北京时间晚上 10 点）发布 Alpha 7R VI（A7R6）全画幅无反相机，同时这款新品的更多信息被曝光：\n\n支持每秒 30 张连拍\n具有预拍摄功能\n拥有全新的菜单布局\n适配新一代更高容量的索尼电池\n\n博主表示，考虑到新机使用了更高分辨率的 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-04 22:59:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 iOS 27 将支持创建自定义钱包通行证，电影票、健身卡都能添加",
+      "link": "https://www.ithome.com/0/946/329.htm",
+      "summary": "\nIT之家 5 月 5 日消息，据彭博社的马克 · 古尔曼（Mark Gurman）今日报道，苹果正在开发一项功能，将允许用户从电影票、音乐会通行证和健身房会员卡等物品的扫描中生成数字通行证。\n\n该选项将称为“Create a Pass（创建通行证）”，它将连接 Wallet 钱包应用与不兼容该应用的通行证。用户将能够在 Wallet 应用中点击“+”按钮，然后扫描通行证或票券上的二维码（如果有的...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-04 22:50:06",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+      "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+      "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-04 22:21:32",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
+      "link": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+      "summary": "Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's own...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-04 22:11:17",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24090211/STK171_VRG_Illo_7_Normand_ElonMusk_07.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
       "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. It's relationship with OpenAI is deep and rich....",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-05-04 21:53:21",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+      "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+      "summary": "\"To be clear: Notepad++ has never released a macOS version.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-04 21:38:37",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.50.42-PM-500x500-1777928501.png"
     },
     {
       "title": "What to Know About Sony’s $7.85 Million PlayStation Settlement",
@@ -388,17 +487,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "G-Power 推出双涡轮强化版宝马 M5：近千匹马力，堪比初代布加迪威龙",
-      "link": "https://www.ithome.com/0/946/321.htm",
-      "summary": "\nIT之家 5 月 4 日消息，原厂状态下，现款的宝马 M5 已经可以输出 717 马力和 1000 牛 · 米扭矩。据外媒 Carscoops 今日报道，G-Power 又在这个基础上进一步大幅提升了原车动力。\n\nG-Power 将这套改装方案命名为 G5M Bi-Turbo。车辆换装新的下排气管，配备 200 目运动催化转化器和全新排气系统。发动机中冷器也进行了升级，同时加入 Eventuri...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-04 15:39:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
       "link": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
       "summary": "Acorn lets organizations build and run their own online communities using decentralized tech, with custom feeds, moderation, and analytics tools....",
@@ -406,17 +494,6 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-05-04 15:33:01",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "消息称 Pixel 11 手机无缘“谷歌版 Face ID”，红外人脸解锁仍未达发布状态",
-      "link": "https://www.ithome.com/0/946/320.htm",
-      "summary": "\nIT之家 5 月 4 日消息，据外媒 Android Authority 今晚报道，2024 年一度有消息称，谷歌考虑为 Pixel 11 系列加入红外人脸解锁。今年 2 月，爆料称一套内部代号为“Project Toscana”的高级人脸解锁系统已在 Pixel 手机和 Chromebook 上进入用户体验测试阶段，解锁速度可以达到 iPhone Face ID 的水平。\n此前关于红外人脸解锁...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-04 15:21:30",
       "category": "other",
       "thumbnail": ""
     },
@@ -465,17 +542,6 @@
       "thumbnail": "https://media.wired.com/photos/69f3b2974c4a83683f43ca9b/master/pass/Security_DHSDemandedLocationData_1080x1080_02.jpg"
     },
     {
-      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "summary": "Virginia and Washington, D.C. paused the data collection and sharing, after Bloomberg's investigation found their health insurance marketplaces were sharing users' information with advertisers....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-04 14:30:23",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Dara Khosrowshahi on replacing Uber drivers — and himself — with AI",
       "link": "https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service",
       "summary": "Today, I’m talking with Uber CEO Dara Khosrowshahi. It’s become something of an annual tradition to have Dara join us in the studio when he comes to New York for Uber’s big GO-GET event every year, an...",
@@ -487,28 +553,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_Khosrowshahi_Uber_2026.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Tesla hits Musk’s threshold for ‘safe unsupervised’ driving",
-      "link": "https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk",
-      "summary": "We've crossed yet another one of Elon Musk's self-driving thresholds. Tesla's fleet of vehicles using the company's Full Self-Driving (Supervised) system has driven over 10 billion miles, according to...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-04 14:28:01",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2220873080.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "被“AI 教父”辛顿“判死刑”十年后，美国放射科医生平均年薪达 57.1 万美元",
-      "link": "https://www.ithome.com/0/946/318.htm",
-      "summary": "\nIT之家 5 月 4 日消息，据《财富》杂志 4 月报道，2016 年，“AI 教父”杰弗里 · 辛顿在多伦多一场机器学习会议上预言，AI 很快会终结放射科医生这一职业。\n辛顿当时甚至表示，人们应该停止培训新的放射科医生，因为在 5 年内，最多 10 年内，AI 完成同类任务的表现会超过人类医生，这一点“完全显而易见”。“如果你是一名放射科医生，你就像那只已经冲出悬崖边缘、但还没有往下看的郊狼。...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-04 14:27:44",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible",
       "link": "https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/",
       "summary": "Metalenz’s Polar ID face-scanning technology works even when the camera is hidden under the display....",
@@ -518,17 +562,6 @@
       "pubDate": "2026-05-04 14:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/69f4d1a5af4056c62e8f1ff7/master/pass/Gear_ThisCompanyHasFiguredOutaWaytoHideFaceID.jpg"
-    },
-    {
-      "title": "GameStop makes $56 billion offer to acquire eBay",
-      "link": "https://www.theverge.com/games/922935/gamestop-ebay-bid",
-      "summary": "GameStop has made an offer to acquire eBay for $56 billion, which comes as part of GameStop CEO Ryan Cohen's plan to transform the online marketplace into a \"legit competitor to Amazon,\" he tells The ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-04 13:46:24",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2170357000.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Trump administration cites national security in stalling 165 wind farms",
@@ -561,7 +594,7 @@
       "region": "us",
       "pubDate": "2026-05-04 13:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Cover-MIT_MayoClinic_V12_03192026.png?w=1556"
+      "thumbnail": ""
     },
     {
       "title": "五月，适合想清楚一件事｜幕启",
@@ -572,7 +605,7 @@
       "region": "cn",
       "pubDate": "2026-05-04 12:41:30",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260504/v2_5ef3b16f1e4e43169a275cb124e3bc5d@5509299_oswg3314242oswg1690oswg1671_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "存储、代工、设备龙头，集体杀入混合键合",
@@ -608,17 +641,6 @@
       "thumbnail": "https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&width=980"
     },
     {
-      "title": "Toyota built a $10 billion private utopia—what’s going on in there?",
-      "link": "https://arstechnica.com/cars/2026/05/inside-toyotas-10b-private-utopia-big-ideas-few-people-cameras-everywhere/",
-      "summary": "Woven City is a privacy nightmare but could be helpful to an OEM desperate to be more....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-04 11:00:31",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Official-Launch-1-500x500-1777295768.jpg"
-    },
-    {
       "title": "RFK Jr.’s New Podcast Is as Weird as You’d Expect",
       "link": "https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/",
       "summary": "The first two episodes of Robert F. Kennedy Jr.’s new podcast feature him discoursing on food with a reality-TV chef and, for some reason, Mike Tyson. Vaccines are not on the agenda....",
@@ -652,28 +674,6 @@
       "thumbnail": "https://media.wired.com/photos/69f429df405a1c77b2d2b103/master/pass/What-I-Packed-to-Run-80-Miles-Across-the-Italian-Apennines.jpg"
     },
     {
-      "title": "A Federal Worker Was Fired for Filming DOGE. Now She’s Running for Congress",
-      "link": "https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/",
-      "summary": "Alexis Goldstein, a former Consumer Financial Protection Bureau employee, was fired this year for recording DOGE’s incursion into the agency....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-04 10:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69f26f2b7af1530ce0577337/master/pass/pol_doge_GettyImages-1237229919.jpg"
-    },
-    {
-      "title": "Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It",
-      "link": "https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/",
-      "summary": "As young men pursue radical methods of “looksmaxxing,” young women are discovering a world of YouTube and TikTok videos that promise glow-ups through ASMR affirmations....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-04 10:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69f0015be132cf906f383483/master/pass/Listening-to-this-Podcast-will-Make-You-Beautiful-Culture.jpg"
-    },
-    {
       "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
       "link": "https://36kr.com/p/3794799114476809?f=rss",
       "summary": "\n近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。\n   \n  \n  豆包\n   \n  目前，尚未在豆包产品中看到相关的付费选项...",
@@ -682,7 +682,7 @@
       "region": "cn",
       "pubDate": "2026-05-04 09:49:40",
       "category": "other",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260504/v2_777b0af85c5d47b2b0a2702bc4a57c99@5654145_oswg184920oswg720oswg1179_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "一部“黑神话菩提”，“撕裂”红果AI短剧",
@@ -858,7 +858,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 14:14:23",
       "category": "other",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_c73963edc9ec4e6e841697057f5666db@517825446_oswg114935oswg600oswg592_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
@@ -880,7 +880,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 13:01:36",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_c6300bc769d849d4ad2f85382d7cde0d@5783683_img_gif?x-oss-process=image/quality,q_80"
+      "thumbnail": ""
     },
     {
       "title": "周杰伦伙伴，要被卖了",
@@ -891,7 +891,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 09:37:20",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_bf67b6f28a8247679c68b9f7cf9f7a25@5579416_oswg407782oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "茶颜悦色 , 装不下去了",
@@ -902,7 +902,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 08:06:53",
       "category": "other",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_95c539d85cd94dc8a62ceaab7563b937@5579416_oswg292232oswg1080oswg1762_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "又一算力独角兽，冲击IPO",
@@ -924,7 +924,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 06:52:34",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_8d710b3a2ed241d59c0263113445c899@5579416_oswg57692oswg826oswg434_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
@@ -946,7 +946,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 03:24:44",
       "category": "auto",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_f3e91652b72c47dd9b038b44dea46162@5579416_oswg151399oswg1080oswg1441_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "技术日报｜mattpocock 技能库六连榜总量突破 5.2 万，Warp 终端三连榜逼近 5.2 万星",
@@ -1023,7 +1023,7 @@
       "region": "us",
       "pubDate": "2026-05-01 15:54:01",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Mustafa_forweb.png"
+      "thumbnail": ""
     },
     {
       "title": "Operationalizing AI for Scale and Sovereignty",
@@ -1034,7 +1034,7 @@
       "region": "us",
       "pubDate": "2026-05-01 15:31:09",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Davidson_square.png"
+      "thumbnail": ""
     },
     {
       "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
@@ -1067,7 +1067,7 @@
       "region": "us",
       "pubDate": "2026-05-01 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/08/Mountain_Pass_thumb.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
@@ -1089,7 +1089,7 @@
       "region": "us",
       "pubDate": "2026-05-01 10:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/tank_testing_04.jpg?w=2514"
+      "thumbnail": ""
     },
     {
       "title": "Trump’s mass firing just dealt another blow to American science",
