@@ -1,7 +1,73 @@
 {
-  "updateTime": "2026-05-06T20:40:28.907Z",
-  "total": 107,
+  "updateTime": "2026-05-06T22:04:03.867Z",
+  "total": 117,
   "news": [
+    {
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-06 21:57:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-06 21:43:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Is xAI a neocloud now?",
+      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "summary": "xAI's real business may be more about building data centers than training AI models. ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-06 21:32:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
+      "link": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
+      "summary": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for “visual cues,” such as height and bone structure....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-06 21:24:18",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69fb7bd8844a933bdeb7fffe/master/pass/GettyImages-166419623.jpg"
+    },
+    {
+      "title": "Google shuts down Project Mariner",
+      "link": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+      "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page n...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-06 21:21:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+      "link": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
+      "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-06 20:39:16",
+      "category": "other",
+      "thumbnail": ""
+    },
     {
       "title": "How David Sacks crashed and burned in the White House",
       "link": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
@@ -11,7 +77,7 @@
       "region": "us",
       "pubDate": "2026-05-06 20:18:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2268643920.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Microsoft’s AI data center push is colliding with its clean power goals",
@@ -55,7 +121,7 @@
       "region": "us",
       "pubDate": "2026-05-06 19:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/tilepro_2024.webp?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
@@ -110,7 +176,18 @@
       "region": "us",
       "pubDate": "2026-05-06 18:05:13",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Verge_homepage_redesign_status.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
+    },
+    {
+      "title": "Learn What It Takes to Become a Cybersecurity Consultant",
+      "link": "https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant",
+      "summary": "\nCybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034, according to the U.S. Bureau of Labor Statis...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-05-06 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&width=2000&height=1500&coordinates=416%2C0%2C416%2C0"
     },
     {
       "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
@@ -132,7 +209,7 @@
       "region": "us",
       "pubDate": "2026-05-06 17:55:53",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2266727283.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast",
@@ -154,7 +231,7 @@
       "region": "us",
       "pubDate": "2026-05-06 17:34:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268437_The_Verges_2026_Mothers_Day_gift_guide_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
@@ -176,17 +253,6 @@
       "region": "us",
       "pubDate": "2026-05-06 17:22:19",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-06 17:20:34",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -242,7 +308,7 @@
       "region": "us",
       "pubDate": "2026-05-06 16:37:40",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Komplete-26-hero-no-logo.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The best beauty tech you can still grab in time for Mother’s Day",
@@ -253,7 +319,7 @@
       "region": "us",
       "pubDate": "2026-05-06 16:30:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25719693/247354_L_Oreal_ColorSonic_AKrales_0161.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots",
@@ -297,17 +363,6 @@
       "region": "us",
       "pubDate": "2026-05-06 16:07:43",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/nutribullet1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Chrome on Android now supports approximate instead of precise location sharing",
-      "link": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
-      "summary": "The new feature is a small win for Android users, as it gives them more control over how much location data they share with websites....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-06 15:54:06",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -318,17 +373,6 @@
       "sourceKey": "ithome",
       "region": "cn",
       "pubDate": "2026-05-06 15:50:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-06 15:49:39",
       "category": "ai",
       "thumbnail": ""
     },
@@ -344,17 +388,6 @@
       "thumbnail": "https://media.wired.com/photos/69fb5ce596ac6b501416fbb0/master/pass/Security_EvenCybercriminalsAreAnnoyedbyAISlop_v2.jpg"
     },
     {
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-06 15:46:38",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
       "link": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
       "summary": "Up to 3x the speed with no loss of quality—is it too good to be true?...",
@@ -364,17 +397,6 @@
       "pubDate": "2026-05-06 15:44:20",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-500x500.jpg"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-06 15:37:32",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "爱彼迎 CEO 切斯基：只负责“管人”的管理者将很快会被 AI 时代淘汰",
@@ -575,17 +597,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/R2_HERO_SHOT_SLATE_BLUEjpg_2880x1920_t2aluk-500x500.jpg"
     },
     {
-      "title": "7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle",
-      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
-      "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-06 12:35:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69fa5104ff6cb546e6cb5ead/master/pass/Update%20Best%20Digital%20Notebooks%20top%20art%20052026%20SOURCE%20Amazon-reMarkable.jpg"
-    },
-    {
       "title": "勤上股份募资账户遭续冻：跨境仲裁僵持背后，两年亏损5.7亿困局待解",
       "link": "https://www.tmtpost.com/7978326.html",
       "summary": "勤上股份的跨界“后遗症”仍未消除。...",
@@ -605,7 +616,7 @@
       "region": "us",
       "pubDate": "2026-05-06 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Tiger-Shark-with-biolog-package-M_Y-Sharkwater-2019-edited-1.jpg"
+      "thumbnail": ""
     },
     {
       "title": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
@@ -683,6 +694,17 @@
       "pubDate": "2026-05-06 10:04:43",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
+      "link": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
+      "summary": "\nA guide to ten technological components — from THz communications and AI/ML to reconfigurable intelligent surfaces — poised to define 6G wireless networks.\nWhat Attendees will Learn\n\nWhich frequencie...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-05-06 10:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-diamond-shaped-rs-emblem.png?id=66653989&width=980"
     },
     {
       "title": "DeepSeek 估值逼近 450 亿美元，国家大基金领投首轮外部融资",
@@ -792,7 +814,7 @@
       "region": "cn",
       "pubDate": "2026-05-06 07:31:54",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260506/v2_72572eab7cd8471dbed94cb59ee703ff@6371858_oswg80637oswg1080oswg496_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Firefox 质疑谷歌 LLM Prompt API 获开发者强烈支持的声明",
@@ -891,7 +913,7 @@
       "region": "cn",
       "pubDate": "2026-05-06 04:04:59",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260506/v2_633a71c912c141489d18b024096cfd59@517825446_oswg575616oswg1268oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全美最恶人」",
@@ -924,7 +946,7 @@
       "region": "cn",
       "pubDate": "2026-05-06 02:57:18",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260506/v2_189f8d00df654c51bb3dae95d814abd8@5920579_oswg249848oswg1080oswg680_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
@@ -935,7 +957,7 @@
       "region": "cn",
       "pubDate": "2026-05-06 01:34:20",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260430/v2_65198edee8ea4419a8f5001111b19825@6022551_oswg94880oswg1080oswg750_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
@@ -993,6 +1015,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Bionic Tech Must Prove Itself Beyond the Lab",
+      "link": "https://spectrum.ieee.org/assistive-technology",
+      "summary": "\nI first met Robert Woo in 2011, during his third time walking in a powered exoskeleton. The architect had been paralyzed in a construction accident four years earlier, but he was determined to get ba...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-05-05 15:45:33",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-seated-man-in-a-robotic-suit-smiles-at-a-seated-woman-holding-a-laptop.png?id=65559767&width=2000&height=1500&coordinates=0%2C81%2C0%2C82"
+    },
+    {
       "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
       "link": "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure",
       "summary": "\nAs AI model providers increasingly move downstream, launching products and agents for specific enterprise applications and sectors like finance, one big question still remains: how will said AI agent...",
@@ -1012,7 +1045,7 @@
       "region": "us",
       "pubDate": "2026-05-05 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Craig-at-pool-surface-1_R1-mobile-edited-1.jpg"
+      "thumbnail": ""
     },
     {
       "title": "A blueprint for using AI to strengthen democracy",
@@ -1024,6 +1057,17 @@
       "pubDate": "2026-05-05 09:00:00",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "IEEE Smart Village Is Helping to Electrify Rural Cameroon",
+      "link": "https://spectrum.ieee.org/ieee-smart-village-rei-cameroon",
+      "summary": "\nMore than 30 years ago, in the mountain village of Mbem in northwest Cameroon, the moon and stars in the night sky were the only light young Jude Numfor knew after the sunset. Electricity had not yet...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-05-04 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/men-in-hard-hats-posing-together-at-a-miniature-solar-farm-amongst-a-dense-jungle-environment.jpg?id=66678170&width=2000&height=1500&coordinates=166%2C0%2C167%2C0"
     },
     {
       "title": "Week one of the Musk v. Altman trial: What it was like in the room",
@@ -1045,7 +1089,7 @@
       "region": "us",
       "pubDate": "2026-05-04 13:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Cover-MIT_MayoClinic_V12_03192026.png?w=1556"
+      "thumbnail": ""
     },
     {
       "title": "五月，适合想清楚一件事｜幕启",
@@ -1056,7 +1100,18 @@
       "region": "cn",
       "pubDate": "2026-05-04 12:41:30",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260504/v2_5ef3b16f1e4e43169a275cb124e3bc5d@5509299_oswg3314242oswg1690oswg1671_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
+    },
+    {
+      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+      "link": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+      "summary": "\nThis article is brought to you by DAIMON Robotics.\nThis April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-05-04 11:08:34",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&width=2000&height=1500&coordinates=49%2C0%2C49%2C0"
     },
     {
       "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
@@ -1067,7 +1122,7 @@
       "region": "cn",
       "pubDate": "2026-05-04 09:49:40",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260504/v2_777b0af85c5d47b2b0a2702bc4a57c99@5654145_oswg184920oswg720oswg1179_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "“DeepSeek版Claude Code”，Github 2.3k星",
@@ -1111,7 +1166,7 @@
       "region": "cn",
       "pubDate": "2026-05-02 14:14:23",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260502/v2_c73963edc9ec4e6e841697057f5666db@517825446_oswg114935oswg600oswg592_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
@@ -1144,7 +1199,7 @@
       "region": "us",
       "pubDate": "2026-05-01 15:54:01",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Mustafa_forweb.png"
+      "thumbnail": ""
     },
     {
       "title": "Operationalizing AI for Scale and Sovereignty",
@@ -1155,7 +1210,7 @@
       "region": "us",
       "pubDate": "2026-05-01 15:31:09",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Davidson_square.png"
+      "thumbnail": ""
     },
     {
       "title": "The Download: a new Christian phone network, and debugging LLMs",
@@ -1166,7 +1221,7 @@
       "region": "us",
       "pubDate": "2026-05-01 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/08/Mountain_Pass_thumb.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
@@ -1177,7 +1232,62 @@
       "region": "us",
       "pubDate": "2026-05-01 10:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/tank_testing_04.jpg?w=2514"
+      "thumbnail": ""
+    },
+    {
+      "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
+      "link": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
+      "summary": "\nTransforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-30 14:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
+    },
+    {
+      "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
+      "link": "https://events.bizzabo.com/860041",
+      "summary": "\nLaboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help ove...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-30 10:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/comsol-logo.png?id=27157944&width=980"
+    },
+    {
+      "title": "Better Hardware Could Turn Zeros into AI Heroes",
+      "link": "https://spectrum.ieee.org/sparse-ai",
+      "summary": "\nWhen it comes to AI models, size matters.\nEven though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-28 18:03:40",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-gradient-artwork-of-a-stylized-robot-head-with-circuits-and-binary-code-patterns.jpg?id=65862907&width=2000&height=1500&coordinates=0%2C573%2C0%2C573"
+    },
+    {
+      "title": "The Chip That Made Hardware Rewriteable",
+      "link": "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
+      "summary": "\nMany of the world’s most advanced electronic systems—including Internet routers, wireless base stations, medical imaging scanners, and some artificial intelligence tools—depend on field-programmable ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-28 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/die-photo-of-an-integrated-circuit-with-an-8-by-8-array.jpg?id=66633028&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
+    },
+    {
+      "title": "“Entanglement: A Brief History of Human Connection”",
+      "link": "https://spectrum.ieee.org/entanglement-poem",
+      "summary": "\nIt started with word, cave, and storytelling,A line scratched on stone walls:“Meet me when the young moon rises.”The first protocol for connection.\nCoyote tales, forbidden scripts,Medieval texts hidd...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-04-28 14:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-hands-typing-on-a-laptop-keyboard-in-warm-earthy-tones.jpg?id=66480652&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
     }
   ]
 }
