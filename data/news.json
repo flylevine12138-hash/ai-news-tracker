@@ -1,9 +1,119 @@
 {
-  "updateTime": "2026-05-07T20:20:39.551Z",
-  "total": 117,
+  "updateTime": "2026-05-07T22:08:49.166Z",
+  "total": 107,
   "news": [
     {
-      "title": "Tesla Model Y is first car to meet new U.S. driver assistance safety benchmark",
+      "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+      "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+      "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboratio...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-07 21:49:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Disney looking to make a unified ‘super app,’ report says",
+      "link": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
+      "summary": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-07 21:40:10",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+      "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-07 21:37:20",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69fbb1dadb7daca60e4a6405/master/pass/Uncanny-Valley-Trump-AI-Regulation-Reversal-Politics-2273509289.jpg"
+    },
+    {
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "summary": "The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages. Students att...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-07 21:29:27",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro",
+      "link": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
+      "summary": "\nEvery LangChain pipeline your team hardcodes starts breaking the moment the query distribution shifts — and it always shifts. That bottleneck is what Sakana AI set out to eliminate.\nResearchers at Sa...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-07 21:23:46",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-07 21:02:11",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Hackers deface school login pages after claiming another Instructure hack",
+      "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+      "summary": "The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-07 20:59:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
+      "link": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/",
+      "summary": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-07 20:41:27",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Disable Google's Gemini in Chrome",
+      "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-07 20:31:57",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69fcafc792b22c38295c7ab7/master/pass/GettyImages-2229158788.jpg"
+    },
+    {
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-07 20:20:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
       "link": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
       "summary": "The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025....",
       "source": "TechCrunch",
@@ -14,13 +124,24 @@
       "thumbnail": ""
     },
     {
-      "title": "Perplexity’s Personal Computer is now available everyone on Mac",
+      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
       "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
       "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-05-07 19:57:59",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT-maker. The explanation? That Altman was...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-07 19:55:22",
       "category": "ai",
       "thumbnail": ""
     },
@@ -33,7 +154,7 @@
       "region": "us",
       "pubDate": "2026-05-07 19:39:22",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Why the Hantavirus Cruise Ship Outbreak Isn’t Likely to Become a Global Crisis",
@@ -55,7 +176,7 @@
       "region": "us",
       "pubDate": "2026-05-07 19:26:16",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
@@ -67,6 +188,17 @@
       "pubDate": "2026-05-07 19:21:21",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+      "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-07 19:18:16",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-500x500-1773169243.jpg"
     },
     {
       "title": "Bumble is getting rid of the swipe, CEO says",
@@ -88,28 +220,6 @@
       "region": "us",
       "pubDate": "2026-05-07 19:04:30",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/peakdesigneverydaybagzipp.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Tome, another Goodreads book-tracker rival, shuts down",
-      "link": "https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/",
-      "summary": "Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate their books, get recommen...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-07 18:38:58",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
-      "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
-      "summary": "Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-07 18:36:29",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -122,17 +232,6 @@
       "pubDate": "2026-05-07 18:29:54",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/69fb4744258cac2110bbbc75/master/pass/Buying%20a%20Webcam%20Won't%20Fix%20Your%20Video%20Calls%20top%20art%20052026%20SOURCE%20Amazon.jpg"
-    },
-    {
-      "title": "Hackers hack victims hacked by other hackers",
-      "link": "https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/",
-      "summary": "An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the vi...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-07 18:28:52",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs",
@@ -154,17 +253,6 @@
       "region": "us",
       "pubDate": "2026-05-07 18:06:01",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Kalshi doubles valuation in 5 months, hitting $22B",
-      "link": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
-      "summary": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-07 18:02:59",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -175,17 +263,6 @@
       "sourceKey": "theverge",
       "region": "us",
       "pubDate": "2026-05-07 18:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Jeff Bezos rep leaves Slate Auto’s board",
-      "link": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
-      "summary": "Melinda Lewison's departure raises questions about Bezos' support and involvement with the startup at a time when the Amazon founder is now apparently focused on robotics at his new startup, Project P...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-07 17:54:46",
       "category": "ai",
       "thumbnail": ""
     },
@@ -198,7 +275,7 @@
       "region": "us",
       "pubDate": "2026-05-07 17:40:50",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Did Microsoft just tease a new Xbox UI?",
@@ -209,12 +286,12 @@
       "region": "us",
       "pubDate": "2026-05-07 17:29:36",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxuiteaser.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
-      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
+      "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
       "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
-      "summary": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy....",
+      "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
@@ -234,26 +311,15 @@
       "thumbnail": "https://media.wired.com/photos/69f8a7c0ac1d3f3568b11850/master/pass/Best%20Mother's%20Day%20Deals%20top%20art%20052026%20SOURCE%20Google-All%20Clad-Ember.jpg"
     },
     {
-      "title": "DOGE’s Ethan Shaotran Is Now Running a Defense Tech Startup",
+      "title": "One of DOGE’s Young Engineers Is Now Running a Defense Tech Startup",
       "link": "https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/",
-      "summary": "In an email viewed by WIRED, Shaotran describes Blitz Industries as “a defense company backed by big names.”...",
+      "summary": "In an email viewed by WIRED, Ethan Shaotran describes Blitz Industries as “a defense company backed by big names.”...",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-05-07 16:21:08",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/69fbf925cd2dcdab157e8e64/master/pass/pol_DOGE_GettyImages-2202116482.jpg"
-    },
-    {
-      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-07 16:05:48",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "A hacker ran me over with a robot lawn mower",
@@ -264,29 +330,7 @@
       "region": "us",
       "pubDate": "2026-05-07 16:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/yarbo-lawnmower.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Inside the return of Xbox",
-      "link": "https://www.theverge.com/tech/925966/microsoft-return-to-xbox-town-hall-notepad",
-      "summary": "Two weeks ago there was a buzz in the air inside Microsoft's studio D building. Hundreds of Xbox employees gathered early on a Thursday morning, packed into the hallways and atrium, to hear from Xbox ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-07 16:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxlogo.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The future of Disney Plus is a confused mess",
-      "link": "https://www.theverge.com/streaming/925973/josh-damaro-disney-plus-disney-parks",
-      "summary": "Newly minted CEO Josh D'Amaro says that he wants to turn Disney Plus into \"the immersive, interactive digital centerpiece of the company.\" It used to be that people went to the movies or theme parks t...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-07 16:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Disney-Plus-STK080.webp?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "微信安卓版 8.0.72 最新官方内测版下载发布",
@@ -517,18 +561,7 @@
       "region": "us",
       "pubDate": "2026-05-07 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/RYCJ4H-edited.webp"
-    },
-    {
-      "title": "Sleep Number ComfortNext Lux Smart Bed: Redefining Support",
-      "link": "https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/",
-      "summary": "Sleep Number’s new model leans plush, but its smart support might convert even die-hard firmness fans....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-07 12:07:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69fb95f04f1f0e1f8189d986/master/pass/Review%20Sleep%20Number%20ComfortNext%20Lux%20Smart%20Bed%20top%20art%20052026%20SOURCE%20Julia%20Forbes.jpg"
+      "thumbnail": ""
     },
     {
       "title": "降价留客、爆款豪赌、AI续命：影视江湖大逃杀 | 行业风向标",
@@ -562,17 +595,6 @@
       "pubDate": "2026-05-07 11:41:02",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Best Printers for Any Home-Office Need (2026): Brother, HP, and More",
-      "link": "https://www.wired.com/gallery/best-printers/",
-      "summary": "Need to print labels, stickers, stacks of pages, color photos, or even a textured mug? I tested the best home printers, including ink-tank, cartridge, and laser options....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-07 11:33:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69fb3f2eff6cb546e6cb62f2/master/pass/Update%20Best%20Printers%20top%20art%20052026%20SOURCE%20Amazon.jpg"
     },
     {
       "title": "AI 编程 Agent 让写代码变便宜了，但真正的瓶颈从来都不是代码",
@@ -770,7 +792,7 @@
       "region": "us",
       "pubDate": "2026-05-07 09:04:50",
       "category": "other",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260505_IVF_embed1.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Electron 42.0.0 发布",
@@ -817,9 +839,9 @@
       "thumbnail": ""
     },
     {
-      "title": "Why AI breaks without context — and how to fix it",
-      "link": "https://venturebeat.com/orchestration/why-ai-breaks-without-context-and-how-to-fix-it",
-      "summary": "\nPresented by Zeta Global\n\nThe gap between what AI promises and what it delivers is not subtle. The same model can produce precise, useful output in one system and generic, irrelevant results in anoth...",
+      "title": "Anthropic Skill scanners passed every check. The malicious code rode in on a test file.",
+      "link": "https://venturebeat.com/security/anthropic-skill-scanners-passed-every-check-malicious-code-test-file",
+      "summary": "\nPicture this scenario: An Anthropic Skill scanner runs a full analysis of a Skill pulled from ClawHub or skills.sh. Its markdown instructions are clean, and no prompt injection is detected. No shell ...",
       "source": "VentureBeat",
       "sourceKey": "venturebeat",
       "region": "us",
@@ -828,9 +850,9 @@
       "thumbnail": ""
     },
     {
-      "title": "Anthropic Skill scanners passed every check. The malicious code rode in on a test file.",
-      "link": "https://venturebeat.com/security/anthropic-skill-scanners-passed-every-check-malicious-code-test-file",
-      "summary": "\nPicture this scenario: An Anthropic Skill scanner runs a full analysis of a Skill pulled from ClawHub or skills.sh. Its markdown instructions are clean, and no prompt injection is detected. No shell ...",
+      "title": "Why AI breaks without context — and how to fix it",
+      "link": "https://venturebeat.com/orchestration/why-ai-breaks-without-context-and-how-to-fix-it",
+      "summary": "\nPresented by Zeta Global\n\nThe gap between what AI promises and what it delivers is not subtle. The same model can produce precise, useful output in one system and generic, irrelevant results in anoth...",
       "source": "VentureBeat",
       "sourceKey": "venturebeat",
       "region": "us",
@@ -1004,28 +1026,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-500x500-1753478304.jpg"
     },
     {
-      "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
-      "link": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
-      "summary": "Trump forced to admit Biden was right on AI safety testing....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-06 21:20:14",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194583448-500x500-1778099315.jpg"
-    },
-    {
-      "title": "Learn What It Takes to Become a Cybersecurity Consultant",
-      "link": "https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant",
-      "summary": "\nCybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034, according to the U.S. Bureau of Labor Statis...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-05-06 18:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&width=2000&height=1500&coordinates=416%2C0%2C416%2C0"
-    },
-    {
       "title": "Market research is too slow for the AI era, so Brox built 60,000 identical 'digital twins' of real people you can survey instantly, repeatedly",
       "link": "https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly",
       "summary": "\nIn a world where a viral TikTok video can cause a brand to trend globally in mere hours, the traditional market research cycle — often spanning 12 weeks — is becoming a liability. \nThe lag between a ...",
@@ -1056,7 +1056,7 @@
       "region": "us",
       "pubDate": "2026-05-06 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Tiger-Shark-with-biolog-package-M_Y-Sharkwater-2019-edited-1.jpg"
+      "thumbnail": ""
     },
     {
       "title": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
@@ -1079,17 +1079,6 @@
       "pubDate": "2026-05-06 10:28:10",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
-      "link": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
-      "summary": "\nA guide to ten technological components — from THz communications and AI/ML to reconfigurable intelligent surfaces — poised to define 6G wireless networks.\nWhat Attendees will Learn\n\nWhich frequencie...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-05-06 10:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-diamond-shaped-rs-emblem.png?id=66653989&width=980"
     },
     {
       "title": "从二游到种田：米哈游《星布谷地》能否走出舒适圈",
@@ -1125,39 +1114,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model; researchers demand independent proof.",
-      "link": "https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof",
-      "summary": "\nA little-known Miami-based startup called Subquadratic emerged from stealth on Tuesday with a sweeping claim: that it has built the first large language model to fully escape the mathematical constra...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-05 23:30:14",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bionic Tech Must Prove Itself Beyond the Lab",
-      "link": "https://spectrum.ieee.org/assistive-technology",
-      "summary": "\nI first met Robert Woo in 2011, during his third time walking in a powered exoskeleton. The architect had been paralyzed in a construction accident four years earlier, but he was determined to get ba...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-05-05 15:45:33",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-seated-man-in-a-robotic-suit-smiles-at-a-seated-woman-holding-a-laptop.png?id=65559767&width=2000&height=1500&coordinates=0%2C81%2C0%2C82"
-    },
-    {
-      "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
-      "link": "https://spectrum.ieee.org/sardinia-renewable-energy-conflict",
-      "summary": "\n“Why are you here?” Fabrizio Pilo, an electrical engineer, asks me as we sit in an outdoor café near his home in Cagliari, an ancient city on the island of Sardinia. It’s a fair question. I’m a journ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-05-05 15:37:14",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/bucolic-landscape-featuring-pastureland-covered-in-stones-arranged-in-circular-and-straight-formations-and-nearby-wind-turbines.jpg?id=66686187&width=2000&height=1500&coordinates=0%2C28%2C0%2C29"
-    },
-    {
       "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
       "link": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the ...",
@@ -1166,7 +1122,7 @@
       "region": "us",
       "pubDate": "2026-05-05 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Craig-at-pool-surface-1_R1-mobile-edited-1.jpg"
+      "thumbnail": ""
     },
     {
       "title": "A blueprint for using AI to strengthen democracy",
@@ -1178,17 +1134,6 @@
       "pubDate": "2026-05-05 09:00:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "IEEE Smart Village Is Helping to Electrify Rural Cameroon",
-      "link": "https://spectrum.ieee.org/ieee-smart-village-rei-cameroon",
-      "summary": "\nMore than 30 years ago, in the mountain village of Mbem in northwest Cameroon, the moon and stars in the night sky were the only light young Jude Numfor knew after the sunset. Electricity had not yet...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-05-04 18:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/men-in-hard-hats-posing-together-at-a-miniature-solar-farm-amongst-a-dense-jungle-environment.jpg?id=66678170&width=2000&height=1500&coordinates=166%2C0%2C167%2C0"
     },
     {
       "title": "Week one of the Musk v. Altman trial: What it was like in the room",
@@ -1210,18 +1155,7 @@
       "region": "us",
       "pubDate": "2026-05-04 13:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Cover-MIT_MayoClinic_V12_03192026.png?w=1556"
-    },
-    {
-      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
-      "link": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-      "summary": "\nThis article is brought to you by DAIMON Robotics.\nThis April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-05-04 11:08:34",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&width=2000&height=1500&coordinates=49%2C0%2C49%2C0"
+      "thumbnail": ""
     },
     {
       "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
@@ -1243,51 +1177,7 @@
       "region": "us",
       "pubDate": "2026-05-01 15:54:01",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Mustafa_forweb.png"
-    },
-    {
-      "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
-      "link": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
-      "summary": "\nTransforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-04-30 14:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
-    },
-    {
-      "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
-      "link": "https://events.bizzabo.com/860041",
-      "summary": "\nLaboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help ove...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-04-30 10:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/comsol-logo.png?id=27157944&width=980"
-    },
-    {
-      "title": "Better Hardware Could Turn Zeros into AI Heroes",
-      "link": "https://spectrum.ieee.org/sparse-ai",
-      "summary": "\nWhen it comes to AI models, size matters.\nEven though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-04-28 18:03:40",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-gradient-artwork-of-a-stylized-robot-head-with-circuits-and-binary-code-patterns.jpg?id=65862907&width=2000&height=1500&coordinates=0%2C573%2C0%2C573"
-    },
-    {
-      "title": "The Chip That Made Hardware Rewriteable",
-      "link": "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
-      "summary": "\nMany of the world’s most advanced electronic systems—including Internet routers, wireless base stations, medical imaging scanners, and some artificial intelligence tools—depend on field-programmable ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-04-28 18:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/die-photo-of-an-integrated-circuit-with-an-8-by-8-array.jpg?id=66633028&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
+      "thumbnail": ""
     }
   ]
 }
