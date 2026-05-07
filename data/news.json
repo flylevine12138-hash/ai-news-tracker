@@ -1,7 +1,381 @@
 {
-  "updateTime": "2026-05-07T03:55:34.689Z",
+  "updateTime": "2026-05-07T06:45:16.348Z",
   "total": 117,
   "news": [
+    {
+      "title": "Vibe Coding 与 Agentic Engineering 的边界正在模糊",
+      "link": "https://www.oschina.net/news/437728",
+      "summary": "著名开发者Simon Willison近日发文坦言，随着AI编码代理可靠性不断提升，他曾明确区分的\"vibe coding\"与\"agentic engineering\"两个概念，在实践中正变得\"比我想象的更接近\"。 Willison对两者的定义一直很清晰：vibe coding指\"完全不关注代码，甚至可能不懂编程\"的用法，适合个人工具——\"如果有bug只伤害你自己，那就随意......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-05-07 06:31:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "国仪量子IPO：万亿国产替代“长坡厚雪”，终于等来一个破局者？",
+      "link": "https://www.tmtpost.com/7978850.html",
+      "summary": "上市显然不是终点，而是国仪量子巩固技术护城河，真正打破围剿、突破“卡脖子”的又一个新起点。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-07 06:28:45",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ant Design Pro v6.0.1 发布",
+      "link": "https://www.oschina.net/news/437726/ant-design-pro-6-0-1-released",
+      "summary": "Ant Design Pro v6.0.1 现已正式发布。这是 v6.0.0 发布后的首个补丁版本，修复了多个影响使用体验的问题，并新增了离线容错和语言切换增强。 新功能 离线友好的错误处理：chunk 加载失败时自动重试，网络断开时显示状态提示横幅，弱网环境下体验更可靠 (#11756) Header 语言切换增强：操作项从头像下拉菜单提取为顶部栏......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-05-07 06:27:04",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "最前线|将彩色打印与激光切割合二为一，xTool发布新品",
+      "link": "https://36kr.com/p/3798845086882820?f=rss",
+      "summary": "\n文｜张子怡\n  编辑｜袁斯来\n  36氪获悉，个人创意工具品牌xTool于今日正式发布其新款消费级激光创作工具——xTool M2彩色智能激光雕刻机。\n  在目前的消费级激光雕刻市场中，用户面临的一个核心痛点在于“机械加工与色彩表现”的脱节：传统的激光雕刻机擅长物理切割与灼烧成痕，但若要制作彩色作品，用户往往需要经历繁琐的手动涂色、转印或多台设备切换对位，过程既复杂又难以保证精度。\n  xToo...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-07 06:25:37",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "Doubao-Seed-2.0-lite 升级，支持全模态理解",
+      "link": "https://www.oschina.net/news/437725",
+      "summary": "Doubao-Seed-2.0-lite 宣布升级新版本，这是豆包大模型家族首款全模态理解模型，支持视频、图像、音频、文本原生统一理解，Agent、Coding 与 GUI 能力同步升级。 根据介绍，新版本的 Doubao-Seed-2.0-lite 继续在视觉理解能力上大幅提升，在物理（HiPhO）、医疗（MedXpertQA）等高阶学科推理上，表现大幅超越2月发布的 ......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-05-07 05:43:40",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Skymizer 公布 AI 推理解码加速器：单 PCIe AIC 可集成 384GB 内存",
+      "link": "https://www.ithome.com/0/947/147.htm",
+      "summary": "\nIT之家 5 月 7 日消息，中国台湾地区 AI IP 企业 Skymizer 近日发布了其推理解码阶段加速器芯片 HTX301，这款芯片可与负责预填充阶段的 GPU 结合加速推理结果输出，提升算力系统的利用率和整体能效。\n\nIT之家了解到，HTX301 基于该企业的 HyperThought 软硬件协同设计平台采用 LISA 语言指令集架构，专注带宽密集型负载。\n其采用了一种可扩展的设计方案，...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-07 05:39:23",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "雷克萨斯官宣纯电三排座 SUV 全新 TZ：车长 5.1 米、轴距 3.05 米、电池 95.82kWh",
+      "link": "https://www.ithome.com/0/947/146.htm",
+      "summary": "\nIT之家 5 月 7 日消息，雷克萨斯今日公布了纯电三排座 SUV 全新 TZ 车型，新车车长 5.1 米，轴距 3.05 米，配备 95.82kWh 大电池。\n\n官方表示，全新 TZ 延续雷克萨斯标志性设计语言，采用一体化纺锤形车身设计，搭配富有建筑设计感的几何图形语言；内饰表面广泛应用竹韵饰板、再生铝、生物基材质等环保材料。\n\n\n据介绍，全新 TZ 搭载 DIRECT 4 电子动态四驱系统，...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-07 05:38:00",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "31 年历史：微软承认 Win32 API 仍是 Win11 基石，生态黏性超预期",
+      "link": "https://www.ithome.com/0/947/145.htm",
+      "summary": "\nIT之家 5 月 7 日消息，微软 Azure 首席技术官马克 · 拉西诺维奇（Mark Russinovich）承认，源自 Windows 95 时代的 Win32 API 仍是 Windows 11 系统的核心基石，这一现状超出了公司早年的预期。\n\nIT之家注：Win32 API 是微软 Windows 操作系统的 32 位应用程序编程接口，核心部分随 1993 年发布的 Windows N...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-07 05:37:57",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "三星 One UI 8.5 正式版 5 月 11 日起全球更新，首批设备名单公布",
+      "link": "https://www.ithome.com/0/947/143.htm",
+      "summary": "\nIT之家 5 月 7 日消息，据 sammyguru 今日报道，经过数月的等待，三星终于开始推出 One UI 8.5 的稳定版本。该更新现已在韩国的 2025 年旗舰机型上线，包括 Galaxy S25 系列、Fold 7 和 Flip 7。\n该公司现已确认，One UI 8.5 从 5 月 11 日开始将进行更广泛的全球推送。同时，该公司还分享了一份首批将获得 One UI 8.5 的设备清...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-07 05:29:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软 Win11 预览版推进紧凑型任务栏，未来将支持拖拽调整高度",
+      "link": "https://www.ithome.com/0/947/142.htm",
+      "summary": "\nIT之家 5 月 7 日消息，消息源 @phantomofearth 于 5 月 4 日在 X 平台发布推文，指出在 Windows 11 Build 26300.8346 预览版中，微软回应用户的反馈，正在测试类似 Windows 10 系统的紧凑型任务栏特性。\n\n自从 2021 年发布以来，微软 Windows 11 系统缺失了诸多 Windows 10 系统核心特性，其中最受用户诟病的是无...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-07 05:26:04",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Five architects of the AI economy explain where the wheels are coming off",
+      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shor...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-07 05:25:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "游戏驿站 CEO“卖袜子”筹集 560 亿美元收购 eBay，账户被 eBay 永久停用",
+      "link": "https://www.ithome.com/0/947/141.htm",
+      "summary": "\nIT之家 5 月 7 日消息，美国电玩零售商游戏驿站（GameStop）首席执行官瑞安 · 科恩（Ryan Cohen）今日在社交平台发文透露，其 eBay 账户已被停用。\n根据他披露的截图，其 eBay 账户因存在可能危及 eBay 社区安全的行为已被永久停用。\n\n据IT之家此前报道，游戏驿站本月已向 eBay 提出无预警收购要约，总价约为 560 亿美元（IT之家注：现汇率约合 3821.8...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-07 05:17:46",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "消息称台系主板四大厂 2026 全年出货目标全线大幅下调，华硕首度面临千万片保卫战",
+      "link": "https://www.ithome.com/0/947/140.htm",
+      "summary": "\nIT之家 5 月 7 日消息，据台媒 DIGITIMES 今日报道，AI 需求爆发引发芯片产能排挤，存储与处理器（CPU）出现严重缺货涨价。PC 供应链人士透露，台系四大品牌主机板厂于 2025 年底所设下的 2026 全年出货目标全部下调，且几乎是“全线崩跌”。\n报道提到，华硕首度面临主板千万片保卫战，微星、技嘉确定跌破千万片大关，同比下滑约 25%，华擎跌幅预计将超过 3 成。\n\n此外，内存...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-07 05:06:25",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vimeo Promo Code: 40% Off This May 2026",
+      "link": "https://www.wired.com/story/vimeo-promo-code/",
+      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-07 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png"
+    },
+    {
+      "title": "Walmart Promo Codes: 65% Off",
+      "link": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-07 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg"
+    },
+    {
+      "title": "Groupon Promo Codes: 60% Off in May 2026",
+      "link": "https://www.wired.com/story/groupon-promo-code/",
+      "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-07 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg"
+    },
+    {
+      "title": "HP Discount Codes: 60% Off May 2026",
+      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-07 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png"
+    },
+    {
+      "title": "Maytag Promo Codes: 15% Off Appliances",
+      "link": "https://www.wired.com/story/maytag-promo-code/",
+      "summary": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-07 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png"
+    },
+    {
+      "title": "Target Promo Code: $50 Off | May 2026",
+      "link": "https://www.wired.com/story/target-promo-code/",
+      "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-07 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg"
+    },
+    {
+      "title": "Womanizer Coupons: Save 15% in May",
+      "link": "https://www.wired.com/story/womanizer-coupon/",
+      "summary": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-07 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png"
+    },
+    {
+      "title": "AT&amp;T Promo Codes and Bundle Deals: Save $50 in May",
+      "link": "https://www.wired.com/story/att-promo-code/",
+      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-07 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png"
+    },
+    {
+      "title": "泡泡玛特选择原谅，挡不住拓竹被“围攻”",
+      "link": "https://www.tmtpost.com/7978551.html",
+      "summary": "营收破百亿只是上半场的赛绩。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-07 04:34:53",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "九个月，韩国多出100家万亿公司",
+      "link": "https://www.tmtpost.com/7978547.html",
+      "summary": "韩国股市在短短九个月内新增100家万亿韩元市值公司，这一速度较过去的十年大幅提升，背后是AI驱动的存储芯片需求爆发和资本市场治理改革的双重作用。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-07 04:34:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "iQOO Pad6 Pro 平板、TWS 5i 无线耳机亮相，有望本月发布",
+      "link": "https://www.ithome.com/0/947/138.htm",
+      "summary": "\nIT之家 5 月 7 日消息，除了 iQOO 15T 新机外，iQOO 官方今日还官宣开启了 iQOO Pad6 Pro 平板和 iQOO TWS 5i 无线耳机的全渠道预约。官方预热海报顺势公布了两款新品的外观样式。\n\n\nIT之家注意到，有爆料称，iQOO Pad6 Pro 平板将搭载骁龙 8 Elite Gen5 处理器，提供 16GB+512GB 规格，并配备 13.2 英寸 4K LCD...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-07 04:26:19",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "穿越机、机器狗齐上阵，武警捕歼演练现场画面公开",
+      "link": "https://www.ithome.com/0/947/137.htm",
+      "summary": "\nIT之家 5 月 7 日消息，据央视新闻今日报道，武警第二机动总队某支队近日以实战为背景，在西南边陲某地域组织开展了一场有人和无人协同捕歼演练，提升部队在复杂环境下的制胜能力。\n\n演练以 2 名暴恐分子实施破坏后，藏匿于某废弃厂房为背景。接到任务后，官兵按照作战预案迅速完成战斗编组，立即向目标地域展开行动。\n指挥员根据侦察组现场回传情况研判部署，随后下达作战命令。侦察组通过无人机进行高空侦察。突...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-07 04:19:18",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "上汽 MG 4X 纯电 SUV 官宣 5 月 11 日开启盲订，搭载地平线博弈大模型和半固态电池",
+      "link": "https://www.ithome.com/0/947/135.htm",
+      "summary": "\nIT之家 5 月 7 日消息，上汽 MG 今日宣布，旗下纯电 SUV —— MG 4X 将在 5 月 11 日开启盲订。\n\n在此之前，上汽 MG 官方已经公布了 MG 4X SUV 的部分亮点。据介绍，新车将延续发光 LOGO 设计，支持 OPPO 智行生态互联，并搭载地平线博弈大模型和半固态电池（入门即享），续航 510 公里起。\n\n另据IT之家此前报道，工信部 3 月 13 日晚发布了第 4...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-07 04:16:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "硅谷 AI 研究员中国十日行：中国实验室更谦逊，美国充满零和博弈",
+      "link": "https://www.oschina.net/news/437724",
+      "summary": "近日，AI研究员Florian Brand随SAIL团队在中国AI实验室进行了约十天的访问，先后走访了月之暗面、小米、MiniMax、智谱、美团、阿里巴巴、蚂蚁百灵、魔搭社区、零一万物、宇树科技等机构。他在个人博客发表了题为《The vibes in China's AI labs》的观察手记，对比了中美两地AI研究文化的显著差异。 Brand最强烈的感受是中......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-05-07 03:55:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nonograph 作者谈为何将软件免费送给所有人 —— 拒绝订阅化与强制 AI",
+      "link": "https://www.oschina.net/news/437723",
+      "summary": "开源写作工具 Nonograph 的作者日前发表了一篇题为《写点软件，然后免费送给所有人》的博客，阐述了自己坚持免费、拒绝商业化的心路历程，并对当下互联网产品的 \"订阅化\" 与 \"AI 强制化\" 趋势提出了尖锐批评。 Nonograph 是一个免费开源的写作程序，作者透露其发布成本约为 600 美元（主要来自两次安全审查），而月托管费......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-05-07 03:41:59",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SOCAMM2，引爆内存圈",
+      "link": "https://www.tmtpost.com/7978295.html",
+      "summary": "SOCAMM2，AI存储的下一个抢跑者。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-07 03:32:47",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "这届赛博居民，烦透了毫无“人味儿”的AI作品",
+      "link": "https://www.tmtpost.com/7978366.html",
+      "summary": "“当均值变得廉价，例外才真正昂贵。”...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-07 03:32:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "硅谷大厂天才集体出逃，资本狂撒188亿美元",
+      "link": "https://www.tmtpost.com/7978328.html",
+      "summary": "硅谷离职创业潮...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-07 03:32:43",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "我们究竟还看不看得到2026年世界杯直播？",
+      "link": "https://www.tmtpost.com/7978720.html",
+      "summary": "FIFA这次真没把东亚观众当一回事，国内互联网平台的分销热情也很低。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-07 03:32:42",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "连续六周强劲去库存，铜市场发生了什么？",
+      "link": "https://www.tmtpost.com/7978311.html",
+      "summary": "中国社会库存创下十年同期新低...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-07 03:32:40",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI时代，三星怎么更猛了？",
+      "link": "https://www.tmtpost.com/7978472.html",
+      "summary": "AI 训练和推理不只是要 GPU，它还疯狂消耗HBM、高性能 DRAM、企业级 SSD。而三星恰好是全球最强的内存玩家之一。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-07 03:32:38",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "NGINX Kubernetes 开源路线图：2026 年上半年",
       "link": "https://www.oschina.net/news/437722",
@@ -10,6 +384,17 @@
       "sourceKey": "oschina",
       "region": "cn",
       "pubDate": "2026-05-07 03:31:07",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "蔚来技术下沉，乐道开始被检验",
+      "link": "https://www.tmtpost.com/7978857.html",
+      "summary": "乐道不只需要一台L90，它需要证明蔚来体系的规模化能力。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-07 03:30:46",
       "category": "other",
       "thumbnail": ""
     },
@@ -36,102 +421,14 @@
       "thumbnail": ""
     },
     {
-      "title": "消息称三星正研发 MH1 全息 3D 屏，苹果 Spatial iPhone 将首发",
-      "link": "https://www.ithome.com/0/947/108.htm",
-      "summary": "\nIT之家 5 月 7 日消息，消息源 @phonefuturist 昨日（5 月 6 日）在 X 平台发布推文，爆料称三星内部正在研发代号为 MH1（或 H1）的全息显示屏，预估苹果 Spatial iPhone 将首发亮相，标志着智能手机屏幕形态有望从传统 2D 向立体全息显示跨越。\n\n在技术方面，MH1 全息屏的核心在于集成“纳米结构全息层”，相比较传统 3D 显示，该技术结合眼球追踪功能，...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家",
+      "link": "https://www.qbitai.com/2026/05/413591.html",
+      "summary": "中国大模型的共同依赖...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-05-07 03:10:40",
+      "pubDate": "2026-05-07 02:46:50",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "群晖发布 RackStation 系列企业高性能存储新品，至高可扩展至 64 盘位",
-      "link": "https://www.ithome.com/0/947/107.htm",
-      "summary": "\nIT之家 5 月 7 日消息，群晖科技 (Synology) 昨日宣布在其 RackStation (RS) 系列企业高性能存储服务器中添加三款新品，即 RS6426xs+、RS4826xs+ 和 RS3626xs。\n这些机架级系统均基于英特尔至强 (Xeon) D-1700 系列 \"Ice Lake D\" 处理器。RS6426xs+ 本机 16 盘位、可扩展至 64 盘位，带宽 165K IO...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-07 03:10:17",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "首次全球青少年人工智能研习营将在杭州举办，23 个国家 27 支队伍参营",
-      "link": "https://www.ithome.com/0/947/106.htm",
-      "summary": "\nIT之家 5 月 7 日消息，教育部今日（5 月 7 日）在京召开发布会，介绍 2026 年世界数字教育大会的筹备情况。\n据央视新闻报道，中国教育国际交流协会秘书长、世界数字教育联盟联合秘书长杨军介绍，2026 世界数字教育大会前夕，秘书处收到近 40 个单位入盟申请，将择优吸纳优质单位，完善全球网络，增强国际代表性与专业支撑力。\n5 月 10 日至 14 日，联盟将首次在杭州举办全球青少年人工...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-07 03:00:38",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "IDC 预测：全球 DRAM、NAND 收入 2026 年分别增长 177% 和 138.5%",
-      "link": "https://www.ithome.com/0/947/105.htm",
-      "summary": "\nIT之家 5 月 7 日消息，IDC 在其当地时间 4 月 29 日的博客中表示，该机构预测 2026 年全球半导体收入将达到 1.29 万亿美元（IT之家注：现汇率约合 8.8 万亿元人民币），同比增幅达 52.8%；到 2030 年全产业收入将增长至 1.75 万亿美元（现汇率约合 11.94 万亿元人民币）。\n\n图源：Pexels随着 AI 的加速发展，存储器半导体正从周期性产品转变为关键...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-07 02:59:21",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "三星笔记本版 Exynos 2800 芯片曝光：1.4nm 十核 CPU、96MB SLC 缓存、Xclipse 980 GPU、支持路径追踪",
-      "link": "https://www.ithome.com/0/947/104.htm",
-      "summary": "\nIT之家 5 月 7 日消息，消息源 @SPYGO19726 昨日（5 月 6 日）在 X 平台发布推文，爆料称三星计划将 Exynos 2800 芯片引入到笔记本领域，打造一款 Chromebook 笔记本，不仅要和苹果 MacBook Neo 一样让手机芯片入驻笔记本，而且在性能方面剑指苹果 M7 系列芯片。\n消息称三星目前已经在 1.4nm 工艺上测试这款芯片，将采用  10 核 CPU ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-07 02:57:46",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "鸿蒙智行：问界 M7 Pro+ 车型已支持城区领航辅助 NCA 等功能",
-      "link": "https://www.ithome.com/0/947/103.htm",
-      "summary": "\nIT之家 5 月 7 日消息，鸿蒙智行官方今日宣布，问界 M7 Pro+ 车型已支持城区领航辅助 NCA 等功能。\n\n官方表示，问界 M7 Pro+ 车型搭载华为乾崑智驾 ADS 4 增强版，搭载行业首创舱内激光视觉，现已支持城区领航辅助等功能，从容应对复杂环岛、窄道会车等更多城市用车场景。\n\n据IT之家上月报道，问界 M7 Pro+ 车型 ADS 增强版高阶功能包限时优惠价 12000 元，现...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-07 02:54:01",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Culpium 称苹果 2026 年 MacBook Neo 笔记本产量目标翻倍至 1000 万台",
-      "link": "https://www.ithome.com/0/947/100.htm",
-      "summary": "\nIT之家 5 月 7 日消息，半导体产业分析平台 Culpium 最新研报指出，苹果公司已要求供应商上调 2026 年 MacBook Neo 产量目标，从最初的 500~600 万台，大幅提升至 1000 万台，从而缓解当前严重的供应短缺问题。\nIT之家援引博文报道，MacBook Neo 作为苹果最实惠的 MacBook 笔记本，市场表现强劲，目前交付等待时间已长达 4 周时间（点此前往苹果...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-07 02:43:34",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "驾培行业新国标落地，总台中国之声辟谣“科目二增至八项、难度翻倍”",
-      "link": "https://www.ithome.com/0/947/098.htm",
-      "summary": "\nIT之家 5 月 7 日消息，近日，“5 月 1 日驾考全面改革、科目二增至八项、难度翻倍”的说法在网络广泛流传。不少市民扎堆报名驾考，生怕新规实施后，考驾照更难。\n中央广播电视总台中国之声今日辟谣称，此次落地的是两项机动车驾驶员培训国家标准，针对驾校培训场地、教学车辆、收费管理等作出规范，并不是驾驶员考试新规。\n2026 年 5 月 1 日正式落地的并非驾考新规，而是市场监管总局修订发布的《机...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-07 02:41:31",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "iQOO 15T 新机全渠道预约开启，消息称将采用 Ultra 同款设计语言",
-      "link": "https://www.ithome.com/0/947/096.htm",
-      "summary": "\nIT之家 5 月 7 日消息，iQOO 手机官方今日宣布 iQOO 15T 全渠道预约开启。官方预热海报还公布了新机侧边外观样式。\n\n博主 @数码闲聊站 昨日发文透露，iQOO 15T 手机采用自家 Ultra 同款设计语言，使用透明风格方形摄像头模组，搭载同档唯一 6.83 英寸 2K 大直屏及首款 2 亿大底主摄。\n\n参考IT之家先前报道，还有消息称该机将搭载天玑 9500 处理器，屏幕刷新...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-07 02:37:57",
-      "category": "energy",
       "thumbnail": ""
     },
     {
@@ -146,17 +443,6 @@
       "thumbnail": ""
     },
     {
-      "title": "微软委托 Signal65 报告：Win11 笔记本比苹果 MacBook Neo 更有竞争力，续航长 56%",
-      "link": "https://www.ithome.com/0/947/094.htm",
-      "summary": "\nIT之家 5 月 7 日消息，微软委托第三方机构 Signal65 发布报告，指出相比较苹果 MacBook Neo，运行 Windows 11 的笔记本更有竞争力。\n报告指出，Windows 阵营在性价比上占据明显优势，起售价比 MacBook Neo 低 150 美元，且在 Procyon 办公生产力测试中表现更佳。\n\n第三方机构选取联想 IdeaPad Slim 3x、惠普 OmniBoo...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-07 02:32:02",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
       "title": "陈天桥旗下 MiroMind 宣布暂停中国服务，5 月 12 日起生效",
       "link": "https://www.oschina.net/news/437718",
       "summary": "5 月 6 日，由盛大集团创始人陈天桥创办的 AI 研究公司 MiroMind 向用户发送邮件，宣布旗下智能体服务 MiroThinker 将于 5 月 12 日起暂停向中国大陆、香港及澳门地区提供，恢复时间待定。公司已向第一财经证实该邮件的真实性。 根据邮件内容，此次服务暂停涉及 dr.miromind.ai 网页版与 MiroMind 移动应用，官方给出的理......",
@@ -164,61 +450,6 @@
       "sourceKey": "oschina",
       "region": "cn",
       "pubDate": "2026-05-07 02:24:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "马斯克宣布解散 xAI 更名为 SpaceXAI",
-      "link": "https://www.oschina.net/news/437717",
-      "summary": "在官宣与 Anthropic 建立新的计算合作伙伴关系的同时，埃隆·马斯克宣布解散 xAI，不再作为独立公司运营；并更名为 SpaceXAI 并入 SpaceX。 “xAI 将解散，不再作为独立公司运营，之后将只剩下 SpaceXAI，即 SpaceX 的 AI 产品。” 公告指出，SpaceXAI 与 Anthropic 签署了一项协议，将提供 Colossus 1 的使用权，Colos......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-05-07 02:17:46",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "JeeSite Skills - AI 时代的开发文档新体验",
-      "link": "https://www.oschina.net/news/437716",
-      "summary": "什么是 JeeSite Skills？ 你是否曾经遇到过这些问题： 面对海量的JeeSite文档，找不到想要的内容 询问 AI 助手时，得到的答案不准确或过时 每次都要手动搜索、翻阅文档，效率低下 AI 回答缺乏上下文，无法给出针对性的解决方案 现在，这一切都将成为历史！ 我们推出 JeeSite Skills —— 一套专为 AI Agent 设计的智能文......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-05-07 02:12:04",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "贝壳 AI 客服系统 v1.3.0 版本发布",
-      "link": "https://www.oschina.net/news/437715",
-      "summary": "更新内容 新增后台通知中心，支持通知列表、未读数刷新、实时事件推送和权限初始化，帮助运营人员及时感知会话、工单等关键事件。 强化 Web 与企业微信客服渠道接入，新增渠道用户 Token 密钥配置、JWT 访问演示、直达聊天链接和嵌入脚本复制能力，并优化 Widget SDK 与品牌资源。 优化外部客户与会话身份链路，按渠道统......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-05-07 01:59:18",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kyverno 1.18 发布",
-      "link": "https://www.oschina.net/news/437714/kyverno-1-18-released",
-      "summary": "Kyverno 1.18 现已发布，这是 Kyverno 在 CNCF 毕业后的首个版本。 本次发布进一步巩固了 Kyverno 作为 Kubernetes 原生策略引擎的定位，重点投入方向包括安全、CLI 能力以及策略引擎可靠性。同时，Kyverno 也在继续向基于 CEL 的策略类型演进，为未来的 Policy as Code 奠定基础。 Kyverno 1.18 带来了以下更新： 面向基.....",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-05-07 01:57:58",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "不是哥们，这年头 AI 也吸了？",
-      "link": "https://my.oschina.net/u/4487475/blog/19652249",
-      "summary": "AI 说的 “我很开心” 或 “我很痛苦”，到底是真的，还是在模仿人类说话？...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-05-07 01:48:10",
       "category": "ai",
       "thumbnail": ""
     },
@@ -267,20 +498,9 @@
       "thumbnail": ""
     },
     {
-      "title": "三星家电“割肉”，全球“一哥”折戟中国",
-      "link": "https://www.tmtpost.com/7978618.html",
-      "summary": "从巅峰到被卷出中国市场，三星家电的这次主动撤退，远不止是一次普通的商业撤离。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-07 00:08:03",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元",
       "link": "https://36kr.com/p/3798462137637892?f=rss",
-      "summary": "\n今日热点导览\n  小米汽车：新一代SU7上市仅48天，锁单已超过80000台\n  胖东来19名管理人员被降级，1名管理人员被免职\n  追觅俞浩：建议年轻人别炒股\n  五一档票��7.58亿元\n  三星电子借AI热潮市值突破1万亿美元\n  TOP3大新闻\n  三星宣布停止在中国大陆市场销售所有家电产品\n  5月6日，三星电子在官网发布公告称，为应对急剧变化的市场环境，经慎重研究，三星电子决定在中国...",
+      "summary": "\n今日热点导览\n  小米汽车：新一代SU7上市仅48天，锁单已超过80000台\n  胖东来19名管理人员被降级，1名管理人员被免职\n  追觅俞浩：建议年轻人别炒股\n  五一档票房7.58亿元\n  三星电子借AI热潮市值突破1万亿美元\n  TOP3大新闻\n  三星宣布停止在中国大陆市场销售所有家电产品\n  5月6日，三星电子在官网发布公告称，为应对急剧变化的市场环境，经慎重研究，三星电子决定在中国大...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
@@ -297,7 +517,7 @@
       "region": "us",
       "pubDate": "2026-05-06 23:37:02",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
@@ -309,17 +529,6 @@
       "pubDate": "2026-05-06 23:23:45",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/69fbb0898d34a433dee8f300/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Elon-Musk-Considered-Recruiting-Sam-Altman-to-Join-Tesla-AI-Lab-Business-2273123629.jpg"
-    },
-    {
-      "title": "【钛晨报】工信部批复首个卫星物联网业务商用试验；月之暗面将完成20亿美元新融资，估值破200亿美元；三星宣布停止在中国市场销售所有家电产品",
-      "link": "https://www.tmtpost.com/7978445.html",
-      "summary": "康宁与英伟达达成5亿美元股权融资协议，以深化长期合作伙伴关系；五粮液：五粮液集团拟增持金额30亿至50亿元；AMD：将2030年服务器市场规模预期从600亿美元上调至1200亿美元；SpaceX提议投入550亿美元在得州启动Terafab项目；DeepSeek被曝投后估值或达450亿美元？消息人士：双方确实在进行洽谈，但估值还未最终确认...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-06 23:20:00",
-      "category": "chip",
-      "thumbnail": ""
     },
     {
       "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
@@ -363,7 +572,7 @@
       "region": "us",
       "pubDate": "2026-05-06 22:07:46",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DirectSF_1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
@@ -440,7 +649,7 @@
       "region": "us",
       "pubDate": "2026-05-06 21:21:45",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/project-mariner-logo.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
@@ -473,7 +682,7 @@
       "region": "us",
       "pubDate": "2026-05-06 20:18:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2268643920.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Microsoft’s AI data center push is colliding with its clean power goals",
@@ -485,17 +694,6 @@
       "pubDate": "2026-05-06 19:57:31",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected",
-      "link": "https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/",
-      "summary": "As chaotic negotiations over the end of the Iran war continue, US negotiators think they have the framework for a deal in place. Now they just have to sell the president on it....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-06 19:32:03",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69fa657f143c6550fa96477c/master/pass/InnerLoop-Newsletter-Trump-Is-Hoping-Iran-Breaks-Before-He-Does-Politics.jpg"
     },
     {
       "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
@@ -517,18 +715,7 @@
       "region": "us",
       "pubDate": "2026-05-06 19:00:00",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-      "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-      "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-06 18:28:52",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69fb7a153d99bccc43e550bb/master/pass/Anthropic-SpaceX-Sign-Compute-Deal-Business-AP-25128659409640.jpg"
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/tilepro_2024.webp?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "How Elon Musk left OpenAI, according to Greg Brockman",
@@ -553,17 +740,6 @@
       "thumbnail": ""
     },
     {
-      "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-      "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
-      "summary": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to r...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-06 18:05:41",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "What we’re hearing about the new homepage",
       "link": "https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage",
       "summary": "We’ve been reading your feedback on the new homepage. All of it. The kind and encouraging comments, the brutal ones, the “actually this rules,” the “please undo this immediately,” the bug reports, the...",
@@ -572,7 +748,7 @@
       "region": "us",
       "pubDate": "2026-05-06 18:05:13",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Verge_homepage_redesign_status.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Learn What It Takes to Become a Cybersecurity Consultant",
@@ -583,18 +759,7 @@
       "region": "us",
       "pubDate": "2026-05-06 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&width=2000&height=1500&coordinates=416%2C0%2C416%2C0"
-    },
-    {
-      "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-      "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
-      "summary": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-06 18:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69fa72ee0e9ace3dc3d2824b/master/pass/AI-Lab-AI-Coming-For-Your-Brain-Business.jpg"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&width=1200&height=800&coordinates=155%2C0%2C156%2C0"
     },
     {
       "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
@@ -605,18 +770,7 @@
       "region": "us",
       "pubDate": "2026-05-06 17:55:53",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast",
-      "link": "https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/",
-      "summary": "A new NASA map shows how the sinking of Mexico City is uneven, with areas registering up to 2 centimeters per month....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-06 17:35:06",
-      "category": "space",
-      "thumbnail": "https://media.wired.com/photos/69fb47a73d99bccc43e54e5d/master/pass/Hundimiento%20Ciudad%20de%20M%C3%A9xico%20NASA.png"
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2266727283.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The 44 best last-minute Mother’s Day gift ideas for 2026",
@@ -627,7 +781,7 @@
       "region": "us",
       "pubDate": "2026-05-06 17:34:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268437_The_Verges_2026_Mothers_Day_gift_guide_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Here’s what Microsoft is offering long-serving employees to voluntarily retire",
@@ -638,7 +792,7 @@
       "region": "us",
       "pubDate": "2026-05-06 17:22:19",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
@@ -663,17 +817,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2016/08/eve-online-500x500-1778085020.jpg"
     },
     {
-      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
-      "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
-      "summary": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?...",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-06 16:51:12",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69fb5209385c877c8a520d3e/master/pass/GettyImages-2150494902.jpg"
-    },
-    {
       "title": "The animated version of the iconic \"Hello, world\" image reveals striking new details",
       "link": "https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/",
       "summary": "What's going on with those satellites, anyway?...",
@@ -693,7 +836,7 @@
       "region": "us",
       "pubDate": "2026-05-06 16:37:40",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Komplete-26-hero-no-logo.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots",
@@ -729,28 +872,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Claude-Managed-Agents-Blog-Followup-Dreaming-500x500-1778041631.png"
     },
     {
-      "title": "Hackers Hate AI Slop Even More Than You Do",
-      "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-06 15:49:12",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69fb5ce596ac6b501416fbb0/master/pass/Security_EvenCybercriminalsAreAnnoyedbyAISlop_v2.jpg"
-    },
-    {
-      "title": "光伏转型受阻，特高压铁塔龙头拟拟挂牌转让晶樱光电60%股权；东方证券合并重组上海证券预案出炉；【并购一线】",
-      "link": "https://www.tmtpost.com/7978518.html",
-      "summary": "5月6日最新并购信息及价值分析。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-06 15:19:47",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "The app store for robots has arrived: Hugging Face launches open-source Reachy Mini App Store with 200+ apps",
       "link": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
       "summary": "\nThere's an app for nearly every imaginable user and use case these days, but one thing they all have in common is that they're centered around one device: the smartphone.\nThat changes today as Huggin...",
@@ -759,50 +880,6 @@
       "region": "us",
       "pubDate": "2026-05-06 15:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Best Carry-On Suitcases (2026): Away, Rimowa, Tumi",
-      "link": "https://www.wired.com/story/best-carry-on-suitcases/",
-      "summary": "I feel about luggage carousels the same way I feel about head lice: avoid at all costs. These are the best carry-on suitcases for those who never want to check a bag again....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-06 14:13:19",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69fa67c416b465babf17a586/master/pass/AFK%20Best%20Carry-On%20Luggage%20top%20art%20052026%20SOURCE%20Amazon.jpg"
-    },
-    {
-      "title": "乌帕替尼“先发牌”到手，但华邦健康还有笔近亿税务旧账没算完",
-      "link": "https://www.tmtpost.com/7978415.html",
-      "summary": "一张新牌与一笔旧账。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-06 13:51:05",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "A Library Dedicated Solely to the Epstein Files Is Opening in New York",
-      "link": "https://www.wired.com/story/a-library-dedicated-solely-to-the-epstein-files-is-opening-in-new-york/",
-      "summary": "The Institute for Primary Facts has compiled more than 3.5 million pages of the Epstein files for public display at the newly opened Donald J. Trump and Jeffrey Epstein Memorial Reading Room....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-06 13:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69fa9204089c09f454b7db14/master/pass/Copy-of-Institute-of-Primary-Facts-Pop-Up-May-2026-3.jpg"
-    },
-    {
-      "title": "勤上股份募资账户遭续冻：跨境仲裁僵持背后，两年亏损5.7亿困局待解",
-      "link": "https://www.tmtpost.com/7978326.html",
-      "summary": "勤上股份的跨界“后遗症”仍未消除。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-06 12:24:34",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -828,17 +905,6 @@
       "thumbnail": ""
     },
     {
-      "title": "需求从工具转向结果，SaaS会死在重生的路上么？丨ToB产业观察",
-      "link": "https://www.tmtpost.com/7978077.html",
-      "summary": "所有SaaS公司都不得不重新回答三个根本问题：我们究竟在卖什么？我们为客户创造的价值该如何计量？我们的组织该如何重构以交付这种新价值？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-06 10:58:36",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "AI PPT，这次是真不用返工了",
       "link": "https://www.qbitai.com/2026/05/413296.html",
       "summary": "实测讯飞智文Vision Agent...",
@@ -846,50 +912,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-05-06 10:28:10",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "奥特曼食言了，但这次没人怪他",
-      "link": "https://www.tmtpost.com/7978179.html",
-      "summary": "当AI开始主动带货，一场比想象中更深刻的范式革命，正在悄然拉开序幕。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-06 10:04:57",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”",
-      "link": "https://www.tmtpost.com/7978166.html",
-      "summary": "如果说过去三年，AI行业的核心命题是“谁的模型最强”，那么从2026年开始，这个问题正在被替换为：谁能真正把AI卖进企业，并持续产生收入。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-06 10:04:53",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "赵明能享受到千里科技的推背感吗？",
-      "link": "https://www.tmtpost.com/7978188.html",
-      "summary": "三年增超17倍，千里科技的底气谁给的？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-06 10:04:48",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "3亿用户扛不住算力账单",
-      "link": "https://www.tmtpost.com/7978182.html",
-      "summary": "拥有3亿月活的国民级AI，扛不住收费了——那其他家大模型呢？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-06 10:04:43",
       "category": "ai",
       "thumbnail": ""
     },
@@ -993,7 +1015,7 @@
       "thumbnail": ""
     },
     {
-      "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
+      "title": "早期项目 | 德国宇航局工程师创业，��硬件开发进入“vibe时代”",
       "link": "https://36kr.com/p/3797224394284033?f=rss",
       "summary": "\n“传统工业软件太难用了。”\n  这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。\n  “AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”，Orthogonal想做的，是把“vibe”的方式带入硬件开发。\n  Orthogon...",
       "source": "36氪",
@@ -1022,17 +1044,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-05-06 00:22:35",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
-      "link": "https://36kr.com/p/3797041945304327?f=rss",
-      "summary": "\n今日热点导览\n  \n分析师称iPhone 18 Pro定价策略激进，起步价8999元 \n   胖东来郑州店注册成立，预计今年10月开业 \n   保时捷卖掉布加迪，预计2026年销量下滑至3万辆 \n   马斯克就推特持股披露诉讼与美证监会达成和解 \n   三星继承人已付清12万亿韩元遗产税\n  \nTOP 3 大新闻\n  豆包将在免费模式外新增付费订阅，官方回应\n  近日，豆包App Store页面...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-05 23:55:08",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1078,7 +1089,7 @@
       "region": "us",
       "pubDate": "2026-05-05 15:45:33",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-seated-man-in-a-robotic-suit-smiles-at-a-seated-woman-holding-a-laptop.png?id=65559767&width=2000&height=1500&coordinates=0%2C81%2C0%2C82"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-seated-man-in-a-robotic-suit-smiles-at-a-seated-woman-holding-a-laptop.png?id=65559767&width=1200&height=800&coordinates=0%2C165%2C0%2C165"
     },
     {
       "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
@@ -1122,7 +1133,7 @@
       "region": "us",
       "pubDate": "2026-05-04 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/men-in-hard-hats-posing-together-at-a-miniature-solar-farm-amongst-a-dense-jungle-environment.jpg?id=66678170&width=2000&height=1500&coordinates=166%2C0%2C167%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/men-in-hard-hats-posing-together-at-a-miniature-solar-farm-amongst-a-dense-jungle-environment.jpg?id=66678170&width=1200&height=800&coordinates=62%2C0%2C63%2C0"
     },
     {
       "title": "Week one of the Musk v. Altman trial: What it was like in the room",
@@ -1155,7 +1166,7 @@
       "region": "us",
       "pubDate": "2026-05-04 11:08:34",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&width=2000&height=1500&coordinates=49%2C0%2C49%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&width=1200&height=800&coordinates=0%2C16%2C0%2C17"
     },
     {
       "title": "“DeepSeek版Claude Code”，Github 2.3k星",
@@ -1165,17 +1176,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-05-04 06:09:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "link": "https://www.qbitai.com/2026/05/412080.html",
-      "summary": "瓜多到吃不完...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-05-03 09:43:20",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1243,7 +1243,7 @@
       "region": "us",
       "pubDate": "2026-04-30 14:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&width=1200&height=800&coordinates=0%2C208%2C0%2C209"
     },
     {
       "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
@@ -1265,7 +1265,7 @@
       "region": "us",
       "pubDate": "2026-04-28 18:03:40",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-gradient-artwork-of-a-stylized-robot-head-with-circuits-and-binary-code-patterns.jpg?id=65862907&width=2000&height=1500&coordinates=0%2C573%2C0%2C573"
+      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-gradient-artwork-of-a-stylized-robot-head-with-circuits-and-binary-code-patterns.jpg?id=65862907&width=1200&height=800&coordinates=0%2C656%2C0%2C657"
     },
     {
       "title": "The Chip That Made Hardware Rewriteable",
@@ -1276,7 +1276,7 @@
       "region": "us",
       "pubDate": "2026-04-28 18:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/die-photo-of-an-integrated-circuit-with-an-8-by-8-array.jpg?id=66633028&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/die-photo-of-an-integrated-circuit-with-an-8-by-8-array.jpg?id=66633028&width=1200&height=800&coordinates=0%2C208%2C0%2C209"
     },
     {
       "title": "“Entanglement: A Brief History of Human Connection”",
@@ -1287,7 +1287,7 @@
       "region": "us",
       "pubDate": "2026-04-28 14:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-hands-typing-on-a-laptop-keyboard-in-warm-earthy-tones.jpg?id=66480652&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-hands-typing-on-a-laptop-keyboard-in-warm-earthy-tones.jpg?id=66480652&width=1200&height=800&coordinates=0%2C83%2C0%2C84"
     }
   ]
 }
