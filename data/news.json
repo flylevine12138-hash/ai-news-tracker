@@ -1,7 +1,73 @@
 {
-  "updateTime": "2026-05-09T22:54:40.470Z",
+  "updateTime": "2026-05-09T23:56:00.528Z",
   "total": 117,
   "news": [
+    {
+      "title": "AMD 新技术可让 Linux 直接读取 CPU 最大频率，未来有望用于提升 Win11 系统调度能力",
+      "link": "https://www.ithome.com/0/948/384.htm",
+      "summary": "\nIT之家 5 月 10 日消息，Gazlog 发现，AMD 为 Linux AMD P-State 驱动提交了一项名为“CPPC HighestFreq”的新特性。\n该特性允许 CPU 通过固件直接向操作系统（预计也将应用于 Win11）报告每个核心最真实的最大加速频率，从而跳过操作系统频率估算环节。\n目前，Windows 和 Linux 等操作系统无法直接从固件读取 CPU 的加速频率信息，只...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-09 23:27:57",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/49d08cdc-9aa5-4677-ae50-98edf34c1aec.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "IT早报 0510：SK 海力士回应“员工人均奖金 610 万人民币”；多家车企辟谣“锁电”被约谈；曝 iPhone 18 Pro 灵动岛缩小 25%；DeepSeek 大范围开放“识图模式”...",
+      "link": "https://www.ithome.com/0/948/383.htm",
+      "summary": "\n“IT早报”时间，大家好，现在是 2026 年 5 月 10 日星期日，今天的重要科技资讯有：\n1、SK 海力士回应“员工人均奖金 610 万人民币”：无法预测，今明年度业绩尚未确定\nSK 海力士 5 月 9 日向第一财经回应称，由于今年与明年的年度业绩尚未确定，奖金规模也无法预测。该公司同时表示，已在总部层面建立了一套新制度，即以营业利润的 10% 作为资金来源，每年发放一次绩效奖金。&gt;...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-09 23:16:06",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/71483044-5f6a-4079-b3da-3854ab9fb2eb.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "美国加速 6G 频谱储备：NTIA 公布四大频段研究里程碑，7GHz 进度领先",
+      "link": "https://www.ithome.com/0/948/382.htm",
+      "summary": "\nIT之家 5 月 10 日消息，美国国家电信和信息管理局（NTIA）本周公布了其为 6G 开放新频谱的工作进展，四个不同频段的研究均在推进，其中 7GHz 频段进度最为领先。\n根据特朗普去年 12 月签署的“赢得 6G 竞赛”备忘录的指示，NTIA 主要负责研究并重配移动通信频谱。\n特朗普给予 NTIA 一年时间研究低段 7GHz 频段（7125MHz–7400MHz），同时探索将现有联邦用户迁...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-09 23:11:04",
+      "category": "space",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/578243a5-80bf-4526-9ab7-49e4eda07ffe.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "任天堂研发支出激增 23.7%，Switch 2 改款机型或在研发中",
+      "link": "https://www.ithome.com/0/948/381.htm",
+      "summary": "\nIT之家 5 月 10 日消息，据科技媒体 Notebookcheck 昨天报道，任天堂 2026 财年年报显示，其研发支出同比增长 23.7%，让外界认为改款 Switch 2 呼之欲出。\n\n在 2026 财年，任天堂的研发费用达到 1778 亿日元（IT之家注：现汇率约合 77.28 亿元人民币），相比 2025 财年的 1446 亿日元（现汇率约合 62.85 亿元人民币）增长 23.7%...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-09 23:10:57",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/76767862-5997-4f82-8ae0-907df00959f5.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "铭瑄推出 MS-MoDT 230H/205H D4 WIFI 主板，搭载酷睿 7 230H / 酷睿 5 205H 处理器",
+      "link": "https://www.ithome.com/0/948/380.htm",
+      "summary": "\nIT之家 5 月 10 日消息，据 Videocardz 今天报道，铭瑄现已推出两款主板产品 MS-MoDT 230H D4 WIFI、MS-MoDT 205H D4 WIFI，采用移动端处理器，专为 SFF 小型化主机、工作站、边缘计算设备打造。\n\nIT之家了解到，虽然这两款主板名字里带有“200H”但并不属于英特尔 Arrow Lake 平台，酷睿 7 230H 与酷睿 5 205H 均被官...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-09 22:49:51",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/a39d06b7-6b71-4fad-b53a-4be7d96e4515.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "78 岁中芯国际创始人张汝京最新发声：网上很多人执着于 2/3nm 尖端芯片是认知误区，80% 的市场不需要先进制程",
+      "link": "https://www.ithome.com/0/948/379.htm",
+      "summary": "\nIT之家 5 月 10 日消息，昨日，有着“中国半导体教父”之称的中芯国际创始人张汝京接受了《科创板日报》专访。年届 78 岁的他，仍为我国半导体产业发展与人才培育持续奔走。\n在接受采访前，张汝京刚从上海临港驱车约 5 小时抵达江苏扬州，此行是为了深入了解高邮市半导体产业发展情况，并实地走访了位于当地的矽谦高端 3D 电容项目建设现场以及江苏鑫沣尚先进材料科技有限公司生产车间。在考察过程中，张汝...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-09 22:46:43",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/6af18460-f973-4b45-b9e8-ed82890f8765.png?x-bce-process=image/format,f_auto"
+    },
     {
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
       "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -124,61 +190,6 @@
       "thumbnail": ""
     },
     {
-      "title": "预售 66.98 万元起，鸿蒙智行全新一代问界 M9 Ultimate 领世加长版申报",
-      "link": "https://www.ithome.com/0/948/374.htm",
-      "summary": "\nIT之家 5 月 9 日消息，工信部今晚发布了第 407 批《道路机动车辆生产企业及产品公告》新产品公示，鸿蒙智行全新一代问界 M9 Ultimate 领世加长版的“证件照”正式公开。\n\n\n\n这款新车外观设计延续现款 M9 语言，车窗外部运用镀铬饰条增添豪华感，还可选配“大饼”轮毂。其长宽高分别为 5402/2026/1845mm，轴距为 3236mm。\n新车搭载 2.0T 发动机作为增程器，最...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-09 14:39:29",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/25e15d02-ed9e-40df-9f0c-8b61f7eca11b.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "微信输入法 Windows 2.0.0/iOS 3.3.0 版发布，新增隔空传送",
-      "link": "https://www.ithome.com/0/948/373.htm",
-      "summary": "\nIT之家 5 月 9 日消息，微信输入法今日发布 Windows 2.0.0/iOS 3.3.0 版本，新增“隔空传送”，支持跨设备及面对面秒传图片和文件。\n\n\nIT之家注意到，该功能于本月初开启内测，本次更新为正式上线。新功能支持跨设备发送图片、视频和文件，除了可以给自己的关联设备“隔空传送”，还可以通过扫码建立连接，与其他人进行传送，无需流量。\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-09 14:35:43",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/03a254f5-ab5d-402c-a3f7-38a368054e37.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "广汽传祺硬派 SUV 越 7 申报：外观方正，可选“小书包”外挂备胎",
-      "link": "https://www.ithome.com/0/948/372.htm",
-      "summary": "\nIT之家 5 月 9 日消息，工信部今晚公布了第 407 批《道路机动车辆生产企业及产品公告》新产品公示，广汽传祺全新的硬派 SUV 车型 —— 越 7 的“证件照”现身。新车线条平直，配备了大尺寸保险杠和下包围，凸显硬朗结实风格。信息显示，新车可选激光雷达、后部备胎，以及牵引装置。\n\n\n\n该车长宽高分别为 4999 或 5045/2004 或 2030/1933 或 1916mm，轴距 290...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-09 14:20:01",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/d2e507da-93b7-493c-85b8-6eee7e5e0725.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "奕境 X9 申报图公布：东风、华为乾崑合作大六座 SUV",
-      "link": "https://www.ithome.com/0/948/371.htm",
-      "summary": "\nIT之家 5 月 9 日消息，工信部今晚发布第 407 批《道路机动车辆生产企业及产品公告》新产品公示，奕境 X9 申报图现身。该车尺寸为长 5301mm、宽 2015mm、高 1820mm，轴距为 3120mm。\n\n\n\nIT之家注意到，由东风汽车与华为乾崑联合打造的高端新能源品牌 —— 奕境汽车首次登陆 2026 北京国际车展，并带来旗下首款旗舰大六座 SUV—— 奕境 X9 的全球首秀。\n座...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-09 14:13:24",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/2dd2ca89-9e99-47f4-8dfc-b19abc2b894d.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "岚图追光 S 轿跑 SUV 现身工信部：搭华为 896 线四激光雷达、预计年中上市",
-      "link": "https://www.ithome.com/0/948/370.htm",
-      "summary": "\nIT之家 5 月 9 日消息，岚图追光 S 轿跑 SUV 目前已现身《道路机动车辆生产企业及产品公告》（第 407 批），该车即此前曝光的“FE”车型，搭载华为 896 线四激光雷达以及华为乾崑 ADS 5，将于年中迎来正式上市。\n\n该车整体富有肌肉感，提供 10 组贯穿风道，18 个风口以及双主动进气格栅。车身使用半隐藏式门把手，车尾配备了运动大尾翼。\n\n\n该车拥有共 32 颗感知硬件，包括 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-09 14:03:55",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/a0253ab1-80ed-4a12-bd1c-71117847c771.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "卖肛肠医院“瘦身”却遇爽约，马应龙近7000万净利预期落空",
       "link": "https://www.tmtpost.com/7982224.html",
       "summary": "一笔失败的交易背后，马应龙在剥离什么？...",
@@ -188,17 +199,6 @@
       "pubDate": "2026-05-09 14:01:55",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "比亚迪首款闪充插混 SUV 海狮 08 申报，定位海洋网大六座旗舰车型",
-      "link": "https://www.ithome.com/0/948/369.htm",
-      "summary": "\nIT之家 5 月 9 日消息，在今晚的第 407 批《道路机动车辆生产企业及产品公告》新产品公示列表中，比亚迪带来了首款闪充插混 SUV 车型 —— 海狮 08。\n\n\n\n这款新车先前已在 2026 北京车展首发亮相，定位大六座级别旗舰 SUV，轴距来到 3 米，还搭配了闪充、第二代刀片电池、云辇 A 双腔空悬、后轮转向、天神之眼 5.0 等配置。\n\n比亚迪海洋 8 系是全球首个全系搭载闪充技术的...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-09 14:01:36",
-      "category": "energy",
-      "thumbnail": "https://qimg.ithome.com/newfiles/2026/5/ff2a9f38-99a6-400b-9605-6509969cc2e0.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "These great digital gifts will arrive just in time for Mother’s Day",
@@ -693,7 +693,7 @@
       "region": "cn",
       "pubDate": "2026-05-09 02:54:40",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260509/v2_4beccf512b3a412ba3adb932ce11356d@1215450627_img_gif?x-oss-process=image/quality,q_80"
+      "thumbnail": ""
     },
     {
       "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
@@ -704,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-05-09 01:43:25",
       "category": "space",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260509/v2_8d6372e2f9a0498f83d8882f589dd5a4@5920579_oswg1826751oswg942oswg699_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
@@ -715,7 +715,7 @@
       "region": "cn",
       "pubDate": "2026-05-09 01:30:00",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260506/v2_cddc25888c0d4d36bc510573ca6ac0d3@6022551_oswg4134389oswg2048oswg2048_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
@@ -1056,7 +1056,7 @@
       "region": "cn",
       "pubDate": "2026-05-08 10:25:58",
       "category": "space",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260508/v2_75aa3e43915a4513bff713461938b436@577536001_oswg112335oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Here’s how technology transformed babymaking",
@@ -1100,7 +1100,7 @@
       "region": "cn",
       "pubDate": "2026-05-08 02:25:30",
       "category": "robot",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260508/v2_e72c55c3947a4695b89946466463fbc2@16805102_oswg916791oswg1080oswg587_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
@@ -1111,7 +1111,7 @@
       "region": "cn",
       "pubDate": "2026-05-08 01:45:14",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260508/v2_155ac27d93b04a7d807d32d142d1f961@5920579_oswg233155oswg1080oswg425_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
@@ -1122,7 +1122,7 @@
       "region": "cn",
       "pubDate": "2026-05-08 01:31:04",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20250922/v2_9c963489175c4a059a668aea4baa9d37@6022551_oswg345444oswg1332oswg930_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
