@@ -1,7 +1,51 @@
 {
-  "updateTime": "2026-05-12T20:43:44.999Z",
+  "updateTime": "2026-05-12T22:17:15.467Z",
   "total": 117,
   "news": [
+    {
+      "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
+      "link": "https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/",
+      "summary": "Famous for helping build Apple's iPhones, Foxconn just suffered another cyberattack, highlighting the perils of warehousing some of the world's most valuable data....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-12 21:52:05",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a037a64dff2f64d8823d02e/master/pass/security_foxconn_GettyImages-1615591933.jpg"
+    },
+    {
+      "title": "iOS 27 might add a lot more customization to the Camera app",
+      "link": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
+      "summary": "Apple's next iOS update could include something phone photographers have been waiting for: a lot more control over the Camera app. According to Bloomberg's Mark Gurman, the Camera app will be \"fully c...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-12 21:36:11",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "MAHA Keeps Being Weird as Hell About Fertility",
+      "link": "https://www.wired.com/story/maha-is-still-creepily-obsessed-with-your-fertility/",
+      "summary": "RFK Jr. and Mehmet Oz’s comments about teen sperm count and “underbabied” Americans at a recent women’s health event underscore the White House’s pronatalist agenda....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-12 20:38:52",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a025682593a5c732a2b699d/master/pass/MAHA-Keeps-Being-Weird-As-Hell-About-Fertility-Culture-2241476062.jpg"
+    },
+    {
+      "title": "Meta won’t let you block its AI account on Threads",
+      "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any tim...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-12 20:35:23",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "The Audemars Piguet x Swatch Collaboration Is Here for Real",
       "link": "https://www.wired.com/story/this-is-the-real-swatch-x-audemars-piguet-royal-pop-collaboration/",
@@ -23,6 +67,17 @@
       "pubDate": "2026-05-12 19:56:50",
       "category": "ai",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meta-teen-account-algorithm-topics-news.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
+      "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "summary": "A case study in why credentials are revoked before firings....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-12 19:12:07",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472540653-500x500-1778610364.jpg"
     },
     {
       "title": "谷歌安卓 17 新增系统验证功能：Pixel 10 等手机首发，识别恶意仿冒系统",
@@ -170,13 +225,24 @@
     {
       "title": "Musk mulled handing OpenAI to his children, Altman testifies",
       "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder....",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experie...",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-05-12 18:05:15",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
+      "link": "https://spectrum.ieee.org/ieee-connect-the-unconnected",
+      "summary": "\nGiven how integral the Internet has become to everyday tasks such as shopping, paying bills, and holding virtual meetings, it’s interesting that nearly 30 percent of the global population still has n...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-05-12 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-small-group-smiling-and-standing-behind-a-table-decorated-with-a-cloth-that-reads-ieee-5g-6g-innovation-testbed.jpg?id=66723229&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
     },
     {
       "title": "谷歌安卓推出 Pause Point：想刷短视频等分心 App 前先让你冷静 10 秒",
@@ -214,7 +280,7 @@
     {
       "title": "Anthropic warns investors against secondary platforms offering access to its shares",
       "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy...",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -276,6 +342,17 @@
       "pubDate": "2026-05-12 17:18:04",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/gamestop-store-1-500x500.jpg"
+    },
+    {
+      "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
+      "link": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
+      "summary": "\nThis sponsored article is brought to you by Ampace.\nAs AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-05-12 17:15:15",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/three-tall-white-ampace-battery-modules-on-display-stands-at-a-trade-show.jpg?id=66700587&width=1245&height=700&coordinates=0%2C73%2C0%2C73"
     },
     {
       "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
@@ -432,17 +509,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Android Show 2026: all the news and announcements",
-      "link": "https://www.theverge.com/tech/928624/android-show-2026-all-the-news-and-announcements",
-      "summary": "Google I/O is just days away, and that means it’s time for another Android Show event to unpack all the Android ecosystem highlights Google has in store.  The highlight of this year’s Android Show was...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-12 16:30:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRGSTKIO20262_v4.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "World Models: 10 Things That Matter in AI Right Now",
       "link": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
       "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology ...",
@@ -451,18 +517,7 @@
       "region": "us",
       "pubDate": "2026-05-12 16:22:15",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sam Altman takes the stand in trial against Elon Musk",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
-      "summary": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-12 16:05:20",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/01/Mat-Honan-1.png"
     },
     {
       "title": "Running Claude Code or Claude in Chrome? Here's the audit matrix for every blind spot your security stack misses",
@@ -517,7 +572,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 14:45:31",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/03c0c9c5178382fc0eec7bb6acda0d16_1778597134.png"
+      "thumbnail": ""
     },
     {
       "title": "原来Ilya还有70亿美元OpenAI股权",
@@ -550,7 +605,7 @@
       "region": "us",
       "pubDate": "2026-05-12 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/SoundofDataFinal1f-V-edited.jpeg"
     },
     {
       "title": "TypedMemory 开源发布：用 Java Record 重塑堆外内存操作体验",
@@ -583,7 +638,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 11:22:15",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/c8455578f9ba0f53b90bcd1f2203f0f3_1778584937.png"
+      "thumbnail": ""
     },
     {
       "title": "AI 的十二宗罪：一名软件工程师眼中的 AI 产业困境",
@@ -619,17 +674,6 @@
       "thumbnail": "https://media.wired.com/photos/69fa52db3e5215ee65d8169a/master/pass/050526-competitive-vagina-microbiome-reports.jpg"
     },
     {
-      "title": "Why Soccer Still Defies Statistical Analysis",
-      "link": "https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/",
-      "summary": "Sarah Rudd, who once ran analytics for Arsenal, made her name applying the tenets of probability theory to movements on the pitch. Even she admits not everything can be solved with data....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-12 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69fcf6c2610d324f0c175f34/master/pass/WhySoccerStillDefiesStatisticalAnalysis.jpg"
-    },
-    {
       "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
       "link": "https://36kr.com/p/3806179759496711?f=rss",
       "summary": "\n\n  \n  5月19日至20日，带上你的需求，\n  带上你的方案，我们在亦庄，不见不散。\n  \n  如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。 \n  从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找那...",
@@ -638,7 +682,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 10:52:40",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260512/v2_4591fd407c0b45c6bfb800052af42563@6381723_oswg418818oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "沃尔沃中国换帅，段建军接下最难一棒",
@@ -649,18 +693,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 10:32:43",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/3f9ed1a5f2dc4577d27c9a7d0df8c934_1778581964.png"
-    },
-    {
-      "title": "The Creators of ‘Hacks’ Really, Really, Really Hate AI",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-hacks-cocreators-paul-w-downs-lucia-aniello/",
-      "summary": "Ahead of the hit show’s finale, cocreators Paul W. Downs and Lucia Aniello talk about media consolidation, the perils of censorship, and why they find AI “deeply disturbing.”...",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-12 10:30:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a022dc9f2e1dd6d971cc177/master/pass/Big-Interview-UV-Interview-Hacks-Culture-2270505420.jpg"
+      "thumbnail": ""
     },
     {
       "title": "体验千问内淘宝后，我发现自己低估了AI购物",
@@ -671,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 10:23:11",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/051638d367c991229365ceac7cf81346_1778581396.jpg"
+      "thumbnail": ""
     },
     {
       "title": "千问重构淘宝，阿里“推翻”阿里",
@@ -682,7 +715,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 10:22:08",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/f641c936c3ddabbc0848437a68c89afb_1778581333.jpg"
+      "thumbnail": ""
     },
     {
       "title": "中标即投诉，投诉即废标，医疗设备集采乱象如何解？",
@@ -693,7 +726,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 10:22:03",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y4u65jyhtgr3.png"
+      "thumbnail": ""
     },
     {
       "title": "商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售",
@@ -737,7 +770,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 09:39:40",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2rt43q5whyt3.png"
+      "thumbnail": ""
     },
     {
       "title": "3000元手搓《爱死机》，这部国产AI短片为何能外网刷屏？",
@@ -748,7 +781,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 09:39:20",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/f5318153d7e23d8b49177eb280a29562_1778578809.jpg"
+      "thumbnail": ""
     },
     {
       "title": "沃尔沃需要吉利，但不能太像吉利",
@@ -759,7 +792,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 09:39:05",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/2ae7e828960c437186fe738174ce9d24_1778578749.jpg"
+      "thumbnail": ""
     },
     {
       "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
@@ -836,7 +869,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 07:58:00",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/798907d8c67f1b442ebcd5d8ff00aa77_1778570295.jpg"
+      "thumbnail": ""
     },
     {
       "title": "龙虾退烧后，荣耀给它造了一个宇宙",
@@ -935,7 +968,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 03:46:38",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260512/v2_6e2ed08cfc904464950fd0e766cb0eb7@6202862_oswg742908oswg1080oswg563_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
@@ -946,7 +979,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 02:11:24",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260512/v2_634f3c6e2fdd4424a84cc5b559b8738e@5920579_oswg471181oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "8点1氪丨美国总统特朗普：非常期待中国之行  ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
@@ -957,7 +990,7 @@
       "region": "cn",
       "pubDate": "2026-05-12 00:16:27",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260512/v2_d9ff8da7e8a6454ba6c947833858ef63@5667365_oswg10835oswg256oswg256_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例",
@@ -1004,17 +1037,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/A260907_large-1-500x500.jpg"
     },
     {
-      "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
-      "link": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
-      "summary": "FCC extends waiver allowing routers and drones to get patches for two more years....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-11 20:48:33",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/eero-wi-fi-router-500x500-1778529583.jpg"
-    },
-    {
       "title": "Three things in AI to watch, according to a Nobel-winning economist",
       "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economic...",
@@ -1045,7 +1067,7 @@
       "region": "us",
       "pubDate": "2026-05-11 13:33:06",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Capital-One-iStock-2208464815.jpg?w=1943"
     },
     {
       "title": "Innovation abounds in device charging",
@@ -1056,7 +1078,7 @@
       "region": "us",
       "pubDate": "2026-05-11 13:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Anker-iStock-2213447337.jpg"
     },
     {
       "title": "Implementing advanced AI technologies in finance",
@@ -1067,7 +1089,7 @@
       "region": "us",
       "pubDate": "2026-05-11 13:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/NetSuite-social-card.png"
     },
     {
       "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
@@ -1078,7 +1100,7 @@
       "region": "us",
       "pubDate": "2026-05-11 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/10/ND23-space-01b.jpg?w=3000"
     },
     {
       "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
@@ -1133,7 +1155,7 @@
       "region": "cn",
       "pubDate": "2026-05-11 06:59:01",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260511/v2_45abe9e6e11a4260adccea3884e45ea0@6310690_oswg3765504oswg2408oswg1702_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
     },
     {
       "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
@@ -1144,7 +1166,7 @@
       "region": "cn",
       "pubDate": "2026-05-11 02:38:17",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260511/v2_ac80c49b4a034756abd80b4d702057fc@1199336245_oswg1194087oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "8点1氪丨SK海力士回应“员工人均奖金达610万元”传闻；世界杯中国转播费从3亿美元腰斩到1.5亿；曝三星中国家电部门裁员补偿N+4，还送手机",
@@ -1155,7 +1177,7 @@
       "region": "cn",
       "pubDate": "2026-05-11 00:06:43",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260511/v2_1964c7db50654a27992c7c9d6510cc37@5667365_oswg79322oswg700oswg473_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
@@ -1199,7 +1221,7 @@
       "region": "us",
       "pubDate": "2026-05-08 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/04/5.-Hanusik-thumb.jpg?w=3000"
     },
     {
       "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
@@ -1266,28 +1288,6 @@
       "pubDate": "2026-05-04 11:08:34",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&width=1245&height=700&coordinates=0%2C83%2C0%2C83"
-    },
-    {
-      "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
-      "link": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
-      "summary": "\nTransforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-04-30 14:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
-    },
-    {
-      "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
-      "link": "https://events.bizzabo.com/860041",
-      "summary": "\nLaboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help ove...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-04-30 10:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/comsol-logo.png?id=27157944&width=980"
     }
   ]
 }
