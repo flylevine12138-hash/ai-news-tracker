@@ -1,27 +1,302 @@
 {
-  "updateTime": "2026-05-11T23:01:26.243Z",
+  "updateTime": "2026-05-12T03:51:42.819Z",
   "total": 117,
   "news": [
     {
-      "title": "苹果开发者 App 完成“液态玻璃”视觉重塑，新增多款 WWDC 2026 贴纸",
-      "link": "https://www.ithome.com/0/949/042.htm",
-      "summary": "\nIT之家 5 月 12 日消息，苹果今天还更新了 Apple Developer 应用，为其带来了 Liquid Glass 风格改版，并为开发者提供了多款可在 Messages 应用中使用的 WWDC 主题贴纸。\n\n重新设计的 Apple Developer 应用采用了全新的 Liquid Glass 风格图标，在保留部分旧版设计元素的同时，融入了半透明的 Liquid Glass 美学。\n\n...",
+      "title": "阿斯盾推出 Z68T 有线磁轴键盘：全碳纹机身，99 元起",
+      "link": "https://www.ithome.com/0/949/171.htm",
+      "summary": "\nIT之家 5 月 12 日消息，阿斯盾 (AUSDOM) 昨晚推出了主打全碳纹机身的 Z68T 有线磁轴键盘，提供标准 / 电竞 / 超竞三个版本，定价分别为 99 元 / 199 元 / 299 元。\n\n该系列键盘采用 65% 配列，表面为激光雕刻碳纹工艺，装饰有碳主体个性飘带。标准版和电竞版搭载本家云磁轴，超竞版则使用了来自正牌科电 (TTC) 的射手座磁轴。\n\n这款键盘标准版与另外两个版本...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-05-11 22:49:26",
+      "pubDate": "2026-05-12 03:38:54",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "苹果 macOS 26.5 Tahoe 新特性，Mac mini 等支持接通电源自动启动",
-      "link": "https://www.ithome.com/0/949/041.htm",
-      "summary": "\nIT之家 5 月 12 日消息，苹果公司昨日更新支持文档，在 macOS 26.5 Tahoe 系统中，针对部分 Mac mini、Mac Studio 和 iMac 设备，带来了更实用的电源控制功能。\n新功能集中在 Mac mini、Mac Studio 和 iMac，重点有两项：接入电源后自动开机，以及通过外部辅助配件控制关机或重启。\nIT之家援引苹果官方更新文档内容，在兼容的 Mac 设备...",
+      "title": "李想：理想做芯片不是烧钱跟风，希望把 AI 带进物理世界并给大家像苹果一样的体验",
+      "link": "https://www.ithome.com/0/949/170.htm",
+      "summary": "\nIT之家 5 月 12 日消息，理想汽车 CEO 李想今日晒出了理想汽车马赫 M100 自研芯片以及超算子板、主板等产品。\n\n谈到做芯片的原因时，李想表示，“有人觉得我们做芯片是为了做而做，质疑我们烧钱跟风，其实真不是。”\n李想称自研芯片，不是为了证明自身技术能力，而是为了让 AI 在物理世界能真正跑起来，用自研芯片解决当前供应商技术无法攻克的难题。不仅要做好自研芯片，还要布局更多底层核心技术。...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-05-11 22:48:54",
+      "pubDate": "2026-05-12 03:25:41",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "太空光伏迎“实战”检验：上海微系统所新型柔性单晶硅电池随天舟十号出征",
+      "link": "https://www.ithome.com/0/949/169.htm",
+      "summary": "\nIT之家 5 月 12 日消息，我国天舟十号货运飞船已于昨日成功发射，搭载 41 项在轨科学实验载荷奔赴中国空间站。据中国科学院上海微系统所今日分享，由该所科研团队自主研发的柔性封装单晶硅太阳电池，将开展空间环境在轨实验，为我国商业航天、太空算力及太空光伏产业奠定基础。\n\n据介绍，该电池针对空间应用，采用团队独创的柔性化加工技术，研制的柔性 p 型单晶硅异质结太阳电池，已获多项专利、发表 Nat...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-12 03:21:03",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "AMD 推出 vLLM-ATOM 插件，加速 DeepSeek、Kimi 等 AI 推理性能",
+      "link": "https://www.ithome.com/0/949/168.htm",
+      "summary": "\nIT之家 5 月 12 日消息，科技媒体 Wccftech 昨日（5 月 11 日）发布博文，报道称 AMD 推出 vLLM-ATOM 插件，在不改动现有 vLLM 命令、API 和工作流的前提下，提升 DeepSeek-R1、Kimi-K2 和 gpt-oss-120B 等大语言模型推理性能。\nIT之家注：vLLM 是面向大语言模型部署的开源推理框架，重点优化高并发服务场景下的吞吐和显存利用率...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-12 03:14:52",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Epic 官宣重新出发：新免费游戏活动即将展开，已有很多好公司对前任 E 宝抛出橄榄枝",
+      "link": "https://www.ithome.com/0/949/167.htm",
+      "summary": "\nIT之家 5 月 12 日消息，Epic 游戏商城今日发文官宣重新出发。官方表示，将与玩家们重新站在一起，同时新的免费游戏活动也即将展开。\n\n关注 Epic 的玩家们，抱歉让大家久等了！今天我们将再次出发，与玩家们重新站在一起，继续坚持大家欣赏 E 宝的那些优点，去关心每一个用户，倾听每一种声音，也希望不再辜负那些对 Epic 还有期待的朋友们。\n由衷地感谢你们一直以来的支持，新的免费游戏活动也...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-12 03:07:05",
       "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "热度不减：消息称三星上调 5 月 Galaxy S26 标准 / Ultra 手机产量计划",
+      "link": "https://www.ithome.com/0/949/161.htm",
+      "summary": "\nIT之家 5 月 12 日消息，韩媒 ZDNet Korea 昨日（5 月 11 日）发布博文，报道称三星上调了 5 月 Galaxy S26 标准版和 Galaxy S26 Ultra 的产量计划。\nIT之家援引博文介绍，标准版 Galaxy S26 的计划产量从 70 万部升至约 100 万部，Galaxy S26 Ultra 也从 100 万至 110 万部，提高到 120 万至 130 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-12 03:02:50",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "惠普星 Studio X 27 2026 一体机上市：\"PTL\" 处理器 + Neo:LED 屏",
+      "link": "https://www.ithome.com/0/949/160.htm",
+      "summary": "\nIT之家 5 月 12 日消息，HP（惠普）现已在电商平台上架星 (Omni) Studio X 27 2026 旗舰家用一体机，其基于第三代英特尔酷睿 Ultra 处理器 \"Panther Lake\"，同品牌同类别首发 Neo:LED 显示面板。\n星 Studio X 27 2026 现有四种配置，IT之家整理如下：\n\nUltra 9 386H + 32GB + 1TB（无独显）：12499 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-12 03:02:18",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "人形机器人即将“上户口”，湖北率先启动“数字身份证”登记",
+      "link": "https://www.ithome.com/0/949/159.htm",
+      "summary": "\nIT之家 5 月 12 日消息，据湖北日报今日报道，湖北人形机器人创新中心在全国率先启动人形机器人“数字身份证”登记，实现一机一码、全程可溯、权责可究。\n\n人形机器人“数字身份证”学名叫全生命周期身份 ID 认证，是机器人设备的专属唯一身份标识。它由国家码、企业码、产品型号码、序列号四部分组成，包括人形机器人生产主体、硬件参数、智能等级、出厂备案等关键信息。\n有了“数字身份证”，就能全程追溯机器...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-12 02:56:21",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "封号至 9999 年堪称史上最长：Playground 回应《极限竞速：地平线 6》游戏泄露事件",
+      "link": "https://www.ithome.com/0/949/158.htm",
+      "summary": "\nIT之家 5 月 12 日消息，微软发行、Playground Games 打造的开放世界竞速新作《极限竞速：地平线 6》将于 5 月 19 日中午 12 点发售，标准版价格 298 元，尊享版玩家可于 5 月 15 日抢先体验。\n距离正式发售仅剩一周，《极限竞速：地平线 6》PC 版遭遇了系列史上最严重的泄露事件。一款总容量高达 155GB、可供直接游玩的完整版游戏文件在网上流出，迅速引发业界...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-12 02:49:18",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "鸿蒙智行 / AITO App 更新 3.0.1.300 版本，新增支持华为 HarmonyOS 6 小艺语音控车",
+      "link": "https://www.ithome.com/0/949/157.htm",
+      "summary": "\nIT之家 5 月 12 日消息，由华为终端有限公司开发的车控 App“鸿蒙智行”和“AITO”分别在 5 月 9 日和 5 月 12 日迎来 3.0.1.300 版本更新。\n\n更新日志显示，鸿蒙智行 / AITO App 新增“HarmonyOS 6 小艺语音控车”，支持更丰富的控车方式。IT之家从华为官网了解到，此前 HUAWEI WATCH 4 系列手表就支持语音控车功能，具体能力可参考：\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-12 02:49:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "卖千万级核磁共振，利润率竟被“一把牙刷”吊打？拆解飞利浦的隐秘印钞机",
+      "link": "https://www.tmtpost.com/7984341.html",
+      "summary": "从2026年一季度财报看飞利浦这家百年巨头，如何在转型深水区寻找第二条增长曲线。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-12 02:15:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/a7d67d3c65faee6f51e439376159f3d9_1778551130.jpg"
+    },
+    {
+      "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+      "link": "https://36kr.com/p/3805672617959173?f=rss",
+      "summary": "\n作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。\n  熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同创立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-12 02:11:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Wi-Fi 8来了，企业无线网络价值坐标将被重构？",
+      "link": "https://www.tmtpost.com/7984452.html",
+      "summary": "Wi-Fi 8的价值重构，本质是无线技术对企业需求的精准回应。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-12 02:08:59",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/f318ab5e312df7322e93793c72125b0b_1778551743.png"
+    },
+    {
+      "title": "灵珠启动第二次内测：取消邀请码、全面接入DeepSeek V4",
+      "link": "https://www.tmtpost.com/7984458.html",
+      "summary": "首次内测至今的数据显示，用户的创作深度远超预期。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-12 02:07:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/23453.png"
+    },
+    {
+      "title": "火锅主业见顶，海底捞四面出击",
+      "link": "https://www.tmtpost.com/7984324.html",
+      "summary": "从单一火锅巨头向全域餐饮平台转身。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-12 02:07:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/25y46ujyhrtgr3.png"
+    },
+    {
+      "title": "数量只增3.8%，金额却暴涨99.6%：芯片出口不靠走量，靠涨价",
+      "link": "https://www.tmtpost.com/7984322.html",
+      "summary": "出口贸易增量只是表象，结构才是内核。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-12 02:01:00",
+      "category": "chip",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/fcda38868a7e80255711b6a262c62560_1778551108.jpg"
+    },
+    {
+      "title": "不必用梁文锋来测试AI大厂的“良心”",
+      "link": "https://www.tmtpost.com/7984316.html",
+      "summary": "不要捧杀梁文锋了。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-12 01:58:14",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/1345y24htrwfgn3.png"
+    },
+    {
+      "title": "《给阿嬷的情书》：3000万封侨批写就的顶级“中式浪漫”",
+      "link": "https://www.tmtpost.com/7984157.html",
+      "summary": "也是一封方言电影写给电影市场的“情书”。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-12 01:58:08",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/2ba7cd17eb326b0b94d78745843ad8f7_1778551093.jpg"
+    },
+    {
+      "title": "五一出行，导游被AI代替",
+      "link": "https://www.tmtpost.com/7983986.html",
+      "summary": "AI对生活方式的重构。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-12 01:53:00",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/bb730b0117026a1e3ddeff5a017f9e3b_1778548126.jpg"
+    },
+    {
+      "title": "平板电脑洗牌：华为联想狂飙，三星小米大跌",
+      "link": "https://www.tmtpost.com/7983977.html",
+      "summary": "存储涨价，平板也难熬。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-12 01:44:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/22e51b82c5cac869f7fe9372b60424ea_1778548114.jpg"
+    },
+    {
+      "title": "TikTok砸下250亿美元，全球大厂为何涌向东南亚建机房？",
+      "link": "https://www.tmtpost.com/7983979.html",
+      "summary": "加大东南亚基础设施布局。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-12 01:36:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/43t5y6jytfeb3.png"
+    },
+    {
+      "title": "8点1氪丨美国总统特朗普：非常期待中国之行  ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
+      "link": "https://36kr.com/p/3805557782486785?f=rss",
+      "summary": "\n今日热点导览\n  天舟十号货运飞船与空间站组合体完成交会对接\n  国家广播电视总局：4月经备案国产电视动画片51部、9659分钟\n  任天堂股价因Switch 2游戏前景不佳大幅下跌\n  千问与淘宝打通，正式上线AI购物\n  TOP3大新闻\n  美国总统特朗普：非常期待中国之行\n  外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问。\n...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-12 00:16:27",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-12 00:09:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例",
+      "link": "https://36kr.com/p/3804356346879495?f=rss",
+      "summary": "\n文｜胡香赟\n  编辑｜海若镜\n  在科幻电影《流浪地球2》中，拥有指数级运算能力的智能量子计算机“MOSS”，不仅能统筹起全世界的计算资源，支撑1万台“行星发动机”同步运转，还承载足“数字生命计划”那海量的、近乎无底洞般的计算需求，引发大众对量子计算机的无限遐想。这种曾经令人惊叹的科幻设定，如今已慢慢从实验室走向商业化落地。\n  按照“十五五规划纲要”，量子科技已被列入六大未来产业之一；市场层面...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-12 00:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+      "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+      "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-11 23:51:35",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a02504ee09a7c202c6b229b/master/pass/Model-Behavior-Musk-v-Altman-Ilya-Sutskever-Business-2275165628.jpg"
+    },
+    {
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-11 23:05:01",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-11 23:04:10",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -190,83 +465,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240006305-500x500.jpg"
     },
     {
-      "title": "苹果 iOS / iPadOS 15.8.8 正式版发布，修复通知意外保留问题",
-      "link": "https://www.ithome.com/0/949/040.htm",
-      "summary": "\nIT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 15.8.8 更新（内部版本号：19H422），本次更新距离上次发布正式版间隔 60 天。\n\n需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n本次更新主要面向 iPhone 6s（所有型号）、iPhone 7（所有型号...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-11 17:39:12",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 iOS / iPadOS 16.7.16 正式版发布，修复通知服务故障",
-      "link": "https://www.ithome.com/0/949/039.htm",
-      "summary": "\nIT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 16.7.16 更新（内部版本号：20H392），本次更新距离上次发布正式版间隔 60 天。\n\n需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n本次更新主要面向 iPhone 8、iPhone 8 Plus、iPhon...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-11 17:39:12",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 iPadOS 17.7.11 正式版发布，修复通知服务故障",
-      "link": "https://www.ithome.com/0/949/038.htm",
-      "summary": "\nIT之家 5 月 12 日消息，苹果今日向 iPad 用户推送了 iPadOS 17.7.11 更新，本次更新距离上次发布正式版间隔 357 天。\n\n需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n本次更新主要面向第二代 12.9 英寸 iPad Pro、10.5 英寸 iPad Pro 和第六代 iPad，修复通知服务故障。...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-11 17:39:11",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 watchOS 26.5 正式版发布，新增 Pride Luminance 彩虹表盘",
-      "link": "https://www.ithome.com/0/949/037.htm",
-      "summary": "\nIT之家 5 月 12 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.5 更新（内部版本号：23T570），本次更新距离上次发布正式版间隔 48 天。\n\n用户可通过运行 iOS 26.5 的 iPhone 上的 Apple Watch 应用，依次进入“通用”&gt;“软件更新”进行免费下载，也可直接在手表上的“设置”应用中启动更新。安装新系统时，Apple Wat...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-11 17:39:10",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 macOS 26.5 正式版发布",
-      "link": "https://www.ithome.com/0/949/035.htm",
-      "summary": "\n IT之家 5 月 12 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.5 更新（内部版本号：25F71），本次更新距离上次发布正式版间隔 32 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 \n 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 26 发布历史： \n2026...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-11 17:39:10",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 visionOS 26.5 正式版发布",
-      "link": "https://www.ithome.com/0/949/036.htm",
-      "summary": "\nIT之家 5 月 12 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.5 更新（内部版本号：23O471），本次更新距离上次发布正式版间隔 48 天。\n\n需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n根据官方说明，visionOS 26.5 仅包含错误修复和安全改进。建议所有 Vision P...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-11 17:39:10",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 iOS / iPadOS 26.5 正式版发布：新增端到端加密 RCS、全新彩虹壁纸和地图广告更新，欧盟地区为第三方设备开放 AirPods 式快速配对",
-      "link": "https://www.ithome.com/0/949/034.htm",
-      "summary": "\nIT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 26.5 更新（内部版本号：23F77），本次更新距离上次发布正式版间隔 19 天。\n同时，苹果还为无法运行 iOS 26 和 iPadOS 26 的旧设备推出了 iOS 15.8.8、iOS 16.7.16、iOS 18.7.9 以及 iPadOS 17.7.11 等对应安全更新。\n\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-11 17:39:09",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
       "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
       "summary": "Five-year old European military drone startup Helsing is close to raising another monster round....",
@@ -421,17 +619,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meari-baby-monitor-2.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "SpaceXAI 组建进行时，马斯克已提交商标注册申请",
-      "link": "https://www.ithome.com/0/949/033.htm",
-      "summary": "\nxAI 撤销后，新的 SpaceXAI 正在建立。\n美国专利部门网站显示，马斯克已经提交了 SpaceXAI 的商标注册申请。\n\nxAI 摇身一变，从独立公司变成了 SpaceX 的一部分。\n合并之后，马斯克对 AI 和太空基础设施的整合，也将进一步增强。\nSpaceXAI 成立进行时\n根据美国专利商标局的文件，SpaceX 已就 SpaceXAI 提交了两份商标申请。\n第一份明确指向太空算力方...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-11 15:58:28",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "7 of our favorite deals from Amazon’s Pet Days sale",
       "link": "https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale",
       "summary": "A big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I’m not spending anywhere near as much money on tech as I am on food, litter, and other...",
@@ -454,17 +641,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/forza2-500x438.jpg"
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-11 15:27:12",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "F1 set for another engine tweak in 2027, and what's this about V8s?",
       "link": "https://arstechnica.com/cars/2026/05/f1-set-for-another-engine-tweak-in-2027-and-whats-this-about-v8s/",
       "summary": "Rather than dig in, the sport is being proactive about fixing the problem....",
@@ -474,17 +650,6 @@
       "pubDate": "2026-05-11 15:20:09",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-130014339-1-500x500.jpg"
-    },
-    {
-      "title": "OPPO的代价：“本分”缺席的三天",
-      "link": "https://www.tmtpost.com/7984087.html",
-      "summary": "一条母亲节文案，在72小时内演变为一场风暴。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-11 14:54:08",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "NYT’s Wordle to become a TV game show",
@@ -517,29 +682,7 @@
       "region": "us",
       "pubDate": "2026-05-11 13:33:06",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "3000亿宠物市场“还远未到内卷的程度”，淘天宠物已孵化60多个过亿品牌",
-      "link": "https://www.tmtpost.com/7983869.html",
-      "summary": "线下宠物医院、门店不需额外开店，基于天猫旗舰店即可履约，售后标准按天猫服务要求执行。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-11 13:30:09",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "完全体线控底盘上车，智能汽车开始争夺“身体控制权”",
-      "link": "https://www.tmtpost.com/7983948.html",
-      "summary": "当智能电动车的座舱和智驾逐渐趋同，底盘正在成为新的差异化入口。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-11 13:05:07",
-      "category": "auto",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Capital-One-iStock-2208464815.jpg?w=1943"
     },
     {
       "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
@@ -553,17 +696,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
-      "link": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
-      "summary": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass and discounts from Logitech, SteelSeries, and other gaming brands....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-11 13:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Innovation abounds in device charging",
       "link": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
       "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and conne...",
@@ -572,7 +704,7 @@
       "region": "us",
       "pubDate": "2026-05-11 13:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Anker-iStock-2213447337.jpg"
     },
     {
       "title": "Implementing advanced AI technologies in finance",
@@ -583,29 +715,7 @@
       "region": "us",
       "pubDate": "2026-05-11 13:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "5亿元Pre-A轮融资，Vbot维他动力创消费级具身智能赛道纪录",
-      "link": "https://www.tmtpost.com/7983653.html",
-      "summary": "消费级具身智能单笔融资最大纪录。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-11 12:12:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "累计融资近10亿元，鹿明机器人连续完成A1及A2两轮融资",
-      "link": "https://www.tmtpost.com/7983576.html",
-      "summary": "把工业具身中锻炼的操作能力融入到鹿明全身VLA模型体系中。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-11 12:12:00",
-      "category": "robot",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/NetSuite-social-card.png"
     },
     {
       "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
@@ -616,18 +726,7 @@
       "region": "us",
       "pubDate": "2026-05-11 12:10:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Venmo’s biggest makeover in years comes at a very interesting time",
-      "link": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
-      "summary": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a stand-alone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has report...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-11 12:00:00",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/10/ND23-space-01b.jpg?w=3000"
     },
     {
       "title": "Papa Johns Is Getting Into Drone Delivery—but Not for Pizza",
@@ -639,17 +738,6 @@
       "pubDate": "2026-05-11 12:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/69fe7533c38185e25d3a130c/master/pass/AP_WingDrone_SR00023.JPG"
-    },
-    {
-      "title": "绿控传动：十年累亏1.18亿，应收账款暴增，“纸面盈利”难掩资金链危局｜IPO观察",
-      "link": "https://www.tmtpost.com/7983457.html",
-      "summary": "绿控传动2023-2025年公司营收自7.70亿元飙升至33.54亿元，净利润成功扭亏为盈至1.53亿元，但公司成立十余年来累计未弥补亏损超1.18亿元，历史亏损尚未消化。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-11 11:26:19",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
@@ -729,50 +817,6 @@
       "thumbnail": ""
     },
     {
-      "title": "滴普科技赵杰辉：记忆，是智能体的“灵魂”",
-      "link": "https://www.tmtpost.com/7983708.html",
-      "summary": "AI+产业深入落地，是一道经济学题——每一个 token 创造的生产力价值，能不能大于它消耗的算力成本。 而决定这道题如何算平的，也许不仅是模型——还有一个的变量：智能体的记忆机制。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-11 10:15:06",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "地球以外的算力，马斯克全都要",
-      "link": "https://www.tmtpost.com/7983748.html",
-      "summary": "马斯克放弃地面大模型，转身全力布局太空算力新赛道。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-11 10:13:36",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "字节砍掉30%的AI项目？背后的真假与焦虑",
-      "link": "https://www.tmtpost.com/7983671.html",
-      "summary": "真相是什么？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-11 10:12:48",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "大模型下半场：印奇向左，杨植麟向右",
-      "link": "https://www.tmtpost.com/7983355.html",
-      "summary": "同一个夜晚，两笔融资，两条截然不同的路。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-11 10:11:43",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "腾讯跟投阶跃星辰 25 亿美金融资",
       "link": "https://www.oschina.net/news/439165",
       "summary": "《科创板日报》消息称，老股东腾讯已跟投阶跃星辰新一轮融资。 上周有消息透露，阶跃即将完成25亿美金融资，并已拆除红筹架构，加速赴港IPO准备。据了解，早在阶跃B轮融资，腾讯就已进入其股东名单，并连续跟投。不久前，双方合作关系进一步深化。 腾讯云与阶跃签署战略合作，双方将整合阶跃基础大模型和腾讯系内容及应用......",
@@ -815,17 +859,6 @@
       "pubDate": "2026-05-11 10:00:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/69f9d07ab5498e5bcdc18e55/master/pass/WIRED-AnastasiaKraynyuk-HollywoodAI-01.gif"
-    },
-    {
-      "title": "Keyboard Shortcuts I Learned From My Cat",
-      "link": "https://www.wired.com/story/keyboard-shortcuts-i-learned-from-my-cat/",
-      "summary": "Every time my cat Mira walks across a keyboard, I learn a few new Mac and PC keyboard shortcuts I never knew about....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-11 09:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69fe53b0d3badf25979a2dbd/master/pass/Keyboard-Shortcuts-I-Learned-From-My-Cat-Gear-670342072.jpg"
     },
     {
       "title": "火山引擎发布 Agent Plan",
@@ -1070,39 +1103,6 @@
       "thumbnail": ""
     },
     {
-      "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
-      "link": "https://36kr.com/p/3801398177324550?f=rss",
-      "summary": "\n作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资。\n  北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。\n  电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-09 01:43:25",
-      "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
-      "link": "https://36kr.com/p/3797202414820359?f=rss",
-      "summary": "\n作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核心技术研发、新品矩阵打造和产品体验的迭代优化，以及生产体系与供应链能力建设。此前，公司已获得李泽湘教授旗下宁波...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-09 01:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-      "link": "https://36kr.com/p/3801348046151428?f=rss",
-      "summary": "\n整理｜Kris \n  今日热点导览\n  香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局\n  油价上调，加满一箱92号汽油将多花12.5元\n  钱江摩托否认“围剿张雪机车”\n  30条中日航线4月取消全部航班\n  SpaceX冲刺上市，资本开支飙升数百亿\n  TOP3大新闻\n  DeepSeek拟募资最高500亿元\n  据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-09 00:57:59",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
       "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
       "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman...",
@@ -1177,7 +1177,7 @@
       "region": "us",
       "pubDate": "2026-05-08 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/04/5.-Hanusik-thumb.jpg?w=3000"
     },
     {
       "title": "Here’s how technology transformed babymaking",
@@ -1210,7 +1210,7 @@
       "region": "us",
       "pubDate": "2026-05-07 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/RYCJ4H-edited.webp"
     },
     {
       "title": "Learn What It Takes to Become a Cybersecurity Consultant",
