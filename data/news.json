@@ -1,17 +1,182 @@
 {
-  "updateTime": "2026-05-14T17:59:37.230Z",
+  "updateTime": "2026-05-14T19:58:53.244Z",
   "total": 117,
   "news": [
     {
+      "title": "What happens when AI starts building itself?",
+      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-14 19:57:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
+      "link": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
+      "summary": "If you’ve been curious about Ray-Ban’s Meta smart glasses, right now they’re on sale in Meta’s biggest deal event outside Black Friday. As part of the company’s Summer Sale event, which runs through M...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-14 19:44:17",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-14 19:12:03",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-14 19:05:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
+      "summary": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-14 19:04:47",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a04db151416c79bb924987e/master/pass/Uncanny-Valley-Trump-China-Visit-Politics-2276002216.jpg"
+    },
+    {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-14 19:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Early Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+      "link": "https://www.wired.com/story/memorial-day-tech-deals-2026/",
+      "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-14 18:59:33",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/master/pass/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg"
+    },
+    {
+      "title": "Linux devs are fighting the new age-gated internet",
+      "link": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+      "summary": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platfor...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-14 18:58:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
+      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+      "summary": "Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-14 18:56:43",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "AMD promises to bring improved, hardware-backed FSR 4 upscaling to older Radeon GPUs",
+      "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
+      "summary": "FSR 4.1 running on RDNA3 or RDNA2 GPUs may take a bigger performance hit....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-14 18:55:54",
+      "category": "chip",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0772-500x500-1778782786.jpeg"
+    },
+    {
+      "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
+      "link": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
+      "summary": "Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-14 18:45:01",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-twitter-x-500x500-1778780947.jpg"
+    },
+    {
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-14 18:32:01",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg"
+    },
+    {
+      "title": "Claude Code's '/goals' separates the agent that works from the one that decides it's done",
+      "link": "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done",
+      "summary": "\nA code migration agent finishes its run, and the pipeline looks green. But several pieces were never compiled — and it took days to catch. That's not a model failure; that's an agent deciding it was ...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-14 18:12:38",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
       "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026/",
-      "summary": "It's one of the best times of the year to buy a mattress, and deals on our favorite models have already started....",
+      "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models have already started....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-05-14 17:45:21",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a0603633f6b307a9138c247/master/pass/Best%20Memorial%20Day%20Mattress%20Deals%20SOURCE%20MyGreenMattress%20Birch%20Naturepedic.jpg"
+    },
+    {
+      "title": "Use this map to find the data centers in your backyard",
+      "link": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+      "summary": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-14 17:40:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+      "link": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+      "summary": "Made-up therapy referrals, incorrect prescriptions among the common mistakes....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-14 17:28:43",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2171717851-500x500.jpg"
     },
     {
       "title": "Vaporware or not? Aptera assembles its first five validation models.",
@@ -27,7 +192,7 @@
     {
       "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
       "link": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
-      "summary": "Layoffs are \"not a savings-driven resutrcture,\" CFO says....",
+      "summary": "Layoffs are \"not a savings-driven restructure,\" CFO says....",
       "source": "Ars Technica",
       "sourceKey": "arstechnica",
       "region": "us",
@@ -49,7 +214,7 @@
     {
       "title": "OpenAI says hackers stole some data after latest code security issue",
       "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-      "summary": "OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen....",
+      "summary": "OpenAI said the damage was limited to the employees’ devices and did not affect user data nor its production systems, and none of its intellectual property was stolen....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -66,7 +231,7 @@
       "region": "us",
       "pubDate": "2026-05-14 16:22:49",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/SN2_Study_Mysterious_Lifeforms_4K.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "微星推出“MAG 276QP42”27 英寸显示器：2K 425Hz，2199 元",
@@ -88,7 +253,7 @@
       "region": "us",
       "pubDate": "2026-05-14 15:49:47",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/newxboxcontroller.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "国内首枚高校主导研制的面对称可回收液体火箭平台飞行试验成功，中大师生团队攻克垂直起降关键技术",
@@ -121,7 +286,7 @@
       "region": "us",
       "pubDate": "2026-05-14 15:46:04",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
@@ -165,7 +330,7 @@
       "region": "us",
       "pubDate": "2026-05-14 15:30:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK072_VRG_Illo_N_Barclay_1_netflix.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Americans do not want AI data centers in their backyards",
@@ -176,7 +341,7 @@
       "region": "us",
       "pubDate": "2026-05-14 15:24:53",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "三部门：企业要引导消费者正确使用车辆，不得进行夸大和虚假宣传",
@@ -209,7 +374,7 @@
       "region": "us",
       "pubDate": "2026-05-14 15:13:14",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Verge-Deals-Beats-Solo-4.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "油价居高不下，今年 4 月全球新能源汽车注册量 160 万辆同比再度增长",
@@ -234,17 +399,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Razer’s Blade 18 is getting a $500 price hike and a new Intel chip",
-      "link": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
-      "summary": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-14 15:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DSC_9281_R1.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "《汪汪队立大功大电影 3：勇闯恐龙岛》确认引进中国内地，今年暑期上映",
       "link": "https://www.ithome.com/0/950/641.htm",
       "summary": "\nIT之家 5 月 14 日消息，派拉蒙电影今日宣布，电影《汪汪队立大功》系列第三部《汪汪队立大功大电影 3：勇闯恐龙岛》确认引进，即将登上内地大银幕，今年暑期全球献映。\n\nIT之家注意到，影片讲述了一场突如其来的风暴，将汪汪队困在一座陌生的岛屿上，它们在这座岛上发现了众多恐龙，却对悄然靠近的危险毫无察觉，一场前所未有的挑战，正等待着它们。\n \n作为参考，《汪汪队立大功大电影》于 2022 年 1...",
@@ -265,17 +419,6 @@
       "pubDate": "2026-05-14 14:58:53",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "How companies weaponize the terms of service against you",
-      "link": "https://www.theverge.com/podcast/930342/brendan-ballou-companies-courts-forced-arbitration-lawsuits-scalia",
-      "summary": "Today, I’m talking with Brendan Ballou, founder of the Public Integrity Project and author of a new book, called When Companies Run the Courts, about the rise of forced arbitration. Brendan’s actually...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-14 14:30:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_0514.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Epic 喜加一：《The Telltale Batman Shadows Edition》免费领取",
@@ -309,72 +452,6 @@
       "pubDate": "2026-05-14 14:07:40",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "AMD’s FSR 4.1 upscaling tech is coming to older graphics cards",
-      "link": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
-      "summary": "AMD is bringing its FSR 4.1 upscaling tech to older graphics cards. In an announcement on X, Jack Huynh, AMD's head of computing and graphics, says FSR 4.1 will roll out to RDNA 3 GPUs in July, follow...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-14 14:06:48",
-      "category": "chip",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-14 14:01:14",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
-      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-      "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-14 14:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
-      "link": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
-      "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-14 14:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Uber to open 2 campuses in India to support product development, operations",
-      "link": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
-      "summary": "Uber plans to open two new engineering campuses with a capacity of nearly 10,000 people in India by the end of 2027....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-14 13:43:27",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dyson put a camera on its purifier so fresh air can follow you around the room",
-      "link": "https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy",
-      "summary": "Dyson has announced a new air purifying bladeless fan that's its first to incorporate an AI-powered camera for tracking the location of people in a room. Dyson already uses a mix of cameras and AI in ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-14 13:35:41",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/dysonfan1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Forecasters predict wildfires, floods, severe heatwaves from incoming El Niño",
@@ -418,7 +495,7 @@
       "region": "us",
       "pubDate": "2026-05-14 13:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Elastic-iStock-2224485239.jpg?w=1289"
     },
     {
       "title": "Establishing AI and data sovereignty in the age of autonomous systems",
@@ -429,7 +506,7 @@
       "region": "us",
       "pubDate": "2026-05-14 13:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/EDB-Report-2026-cover-FINAL.png"
     },
     {
       "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
@@ -451,7 +528,7 @@
       "region": "us",
       "pubDate": "2026-05-14 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/08/SO23_war-thumb.jpeg?w=2288"
     },
     {
       "title": "双胞胎兄弟被裁后删除 96 个政府数据库",
@@ -528,7 +605,7 @@
       "region": "cn",
       "pubDate": "2026-05-14 10:36:59",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260514/v2_99310d1ce0d541e884f00b41327e4176@5426566_oswg48626oswg843oswg589_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "腾讯，把AI塞入一切",
@@ -539,7 +616,7 @@
       "region": "cn",
       "pubDate": "2026-05-14 10:36:23",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260514/v2_9d525080d75f4e828079900c0a341ea6@10269314_oswg228045oswg1628oswg1424_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "东星医疗最大并购案：溢价三倍豪掷7.7亿，一口气把商誉堆到近10亿",
@@ -817,17 +894,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
-      "link": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
-      "summary": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where “everyone is unhappy.”...",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-14 09:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a05290e9fce16b06df70c32/master/pass/Meta-New-Reality-Record-High-Profits-Record-Low-Morale-Business-2261835380.jpg"
-    },
-    {
       "title": "The shock of seeing your body used in deepfake porn ",
       "link": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
       "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos ...",
@@ -836,7 +902,7 @@
       "region": "us",
       "pubDate": "2026-05-14 09:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Hoeckele-deepfake-02_5e2848.jpg?w=2000"
     },
     {
       "title": "黄仁勋基金会向 CoreWeave 购买 1.08 亿美元算力并捐赠给高校",
@@ -913,7 +979,7 @@
       "region": "cn",
       "pubDate": "2026-05-14 06:45:15",
       "category": "space",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260514/v2_dc8de1108f18429ba4a6fdbd54aac0b9@577536001_oswg26737oswg1080oswg418_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "03年创始人造火箭，40万做出原型发动机，选了一条没人走过的路｜产业专访",
@@ -924,7 +990,7 @@
       "region": "cn",
       "pubDate": "2026-05-14 06:42:23",
       "category": "space",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260514/v2_4ebbea3234324cadb49f5f00fa1db4b1@577536001_oswg57369oswg1080oswg677_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "亚历山大王回应一切：LeCun、Manus，“我的父母都是中国人”",
@@ -946,18 +1012,7 @@
       "region": "cn",
       "pubDate": "2026-05-14 05:16:08",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
-      "link": "https://www.wired.com/story/we-vibe-discount-code/",
-      "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-14 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png"
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260514/v2_220f63ff3f0d4352a9de7f2207d72dea@5623968_oswg169685oswg901oswg518_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司",
@@ -968,7 +1023,7 @@
       "region": "cn",
       "pubDate": "2026-05-14 02:13:54",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260514/v2_c6ed331b02ff41b4a35b0aaa4854eaa9@5452796_oswg200223oswg1080oswg556_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够",
@@ -990,7 +1045,7 @@
       "region": "cn",
       "pubDate": "2026-05-14 01:30:37",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260513/v2_a8ffac8f6d564abf9c9017907080d1a3@5836910_oswg70173oswg1080oswg565_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "独家对谈｜林琳：一位耶鲁MBA裸辞转行卖保险之后",
@@ -1001,7 +1056,7 @@
       "region": "cn",
       "pubDate": "2026-05-14 00:45:23",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260428/v2_d406189332844b8a841c4265a717b64a@5509299_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥",
@@ -1059,28 +1114,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skydweller-predawn-flight-500x500.jpg"
     },
     {
-      "title": "FCC angers small carriers by helping AT&amp;T and Starlink buy EchoStar spectrum",
-      "link": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
-      "summary": "Approval is no surprise after FCC chair pressured EchoStar to sell licenses....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-13 20:44:38",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-500x500.jpg"
-    },
-    {
-      "title": "Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA",
-      "link": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/",
-      "summary": "Distinct form of tooth protein in Homo erectus shows up in Denisovans—and us....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-13 20:27:54",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-500x500.jpeg"
-    },
-    {
       "title": "Frontier AI models don't just delete document content — they rewrite it, and the errors are nearly impossible to catch",
       "link": "https://venturebeat.com/orchestration/frontier-ai-models-dont-just-delete-document-content-they-rewrite-it-and-the-errors-are-nearly-impossible-to-catch",
       "summary": "\nAs large language models become more capable, users are tempted to delegate knowledge tasks where models process documents on their behalf and provide the finished results. But how far can you trust ...",
@@ -1092,28 +1125,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Foiled plot tried to sneak 49 lbs of cocaine into Australia via Xerox printers",
-      "link": "https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/",
-      "summary": "The drugs had an estimated worth of over $9 million USD....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-13 20:06:09",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-137777046-500x500-1778701441.jpg"
-    },
-    {
-      "title": "AI invades Princeton, where 30% of students cheat—but peers won't snitch",
-      "link": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
-      "summary": "Old \"honor code\" systems are under strain....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-13 19:47:24",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-128091999-500x500-1778700429.jpg"
-    },
-    {
       "title": "AI chatbots are giving out people’s real phone numbers",
       "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
       "summary": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a loc...",
@@ -1122,7 +1133,7 @@
       "region": "us",
       "pubDate": "2026-05-13 18:09:03",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Cropped_Paybox-Account-Reset-Without-Phone-Google-Gemini-2.jpg"
     },
     {
       "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
@@ -1144,7 +1155,7 @@
       "region": "us",
       "pubDate": "2026-05-13 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/06/Comp-13YS.jpg?w=2400"
     },
     {
       "title": "A plan to make drugs in orbit is going commercial",
@@ -1165,17 +1176,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-05-12 18:49:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI &amp; Google",
-      "link": "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google",
-      "summary": "\nAI that can see and understand what's happening in a video — especially a live feed — is understandably an attractive product to lots of enterprises and organizations. Beyond acting as a security \"wa...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-12 18:45:17",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1210,7 +1210,7 @@
       "region": "us",
       "pubDate": "2026-05-12 16:22:15",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/01/Mat-Honan-1.png"
     },
     {
       "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
@@ -1221,7 +1221,7 @@
       "region": "us",
       "pubDate": "2026-05-12 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/SoundofDataFinal1f-V-edited.jpeg"
     },
     {
       "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
