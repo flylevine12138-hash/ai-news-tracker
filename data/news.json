@@ -1,16 +1,203 @@
 {
-  "updateTime": "2026-05-20T15:40:48.283Z",
+  "updateTime": "2026-05-20T18:25:30.145Z",
   "total": 107,
   "news": [
     {
+      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
+      "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
+      "summary": "Airbnb will soon let you book luggage storage and car rental services on its app...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-20 18:14:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "I Gave My OpenClaw Agent a Physical Body",
+      "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+      "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-20 18:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a0ca4ce280901f1fa2a6d37/master/pass/AI-Lab-Rock-Em-Sock-Em-Vibe-Coded-Robots-Business.jpg"
+    },
+    {
+      "title": "How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak",
+      "link": "https://www.wired.com/story/climate-change-next-hantavirus-outbreak/",
+      "summary": "Climate change is helping create conditions that are driving the rodent boom—dubbed a ratada—in Argentina....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-20 17:59:16",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a0cab26e7ee87b3ed914a06/master/pass/How-Climate-Change-Made-Hantavirus-Outbreak-Possible-Science-2189447352.jpg"
+    },
+    {
+      "title": "Global EV market goes K-shaped as the U.S. gets left behind",
+      "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
+      "summary": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-20 17:34:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+      "link": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+      "summary": "Google's AI search evolution is accelerating at I/O 2026....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-20 17:31:04",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-search-500x500.jpg"
+    },
+    {
+      "title": "OpenAI barrels towards IPO that may happen in September",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-20 17:24:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub confirms 3,800 internal repos stolen through poisoned VS Code extension as supply chain worm hits Microsoft’s Python SDK",
+      "link": "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk",
+      "summary": "\nGitHub confirmed on May 20 that a poisoned VS Code extension installed on an employee’s device gave attackers access to roughly 3,800 internal repositories at the Microsoft-owned code storage and aut...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-20 17:21:49",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jeff Bezos, you were so close to making a good point",
+      "link": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
+      "summary": "\"Why is a nurse in Queens who makes $75,000 a year paying more than $1,000 a month in taxes?\" Bezos said Wednesday morning on CNBC. \"That's $1,000 that could help with rent, or groceries, or anything....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-20 17:10:31",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "You can now remix other people’s YouTube Shorts with AI",
+      "link": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+      "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when yo...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-20 16:41:40",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Samsung has a tentative deal with workers to avoid a memory chip strike",
+      "link": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
+      "summary": "More than 47,000 Samsung Electronics workers were gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike was set to start on Thursday ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-20 16:35:25",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2272034850.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer",
+      "link": "https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/",
+      "summary": "Attorney John Scola is representing a police officer who is suing over injuries allegedly sustained while working security at an MSG property in 2025....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-20 16:24:52",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a07a29943055fabd16c102c/master/pass/GettyImages-1765612191.jpg"
+    },
+    {
+      "title": "Xbox hires game industry analyst Matthew Ball to lead strategy",
+      "link": "https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire",
+      "summary": "Microsoft has recruited game industry analyst Matthew Ball as Xbox chief strategy officer. Ball publishes an annual state of video gaming report, which is a popular read across the game industry, and ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-20 16:03:21",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283723/STK048_XBOX_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "今日小满：微雨过，小荷翻，初夏至",
+      "link": "https://www.ithome.com/0/953/087.htm",
+      "summary": "\nIT之家 5 月 21 日消息，今天小满，二十四节气之一，也是夏季的第二个节气。\n小满节气意味着进入了大幅降水的雨季，雨水开始增多，往往会出现持续大范围的强降水。小满和雨水、谷雨、小雪、大雪等一样，都是直接反映降水的节气。小满反映了降雨量大的气候特征，正所谓“小满江河满”。另有解释是指北方夏熟作物的籽粒开始灌浆饱满，但还未成熟，只是小满，还未大满。\n\n小满的由来和传说\n《月令七十二候集解》：“四...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 16:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google Search’s AI evolution includes more ads",
+      "link": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+      "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you search for a product, Google's Gemini AI chatbot will surface relevant items and generate a \"custom explainer\" about wh...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-20 16:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/search-ads-ai.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Stability AI 推出音频模型 Stability Audio 3.0，可生成最长 6 分钟专业级歌曲",
+      "link": "https://www.ithome.com/0/953/086.htm",
+      "summary": "\nIT之家 5 月 20 日消息，据外媒 TechCrunch 今晚报道，AI 初创公司 Stability AI 推出全新音频生成模型家族 Stability Audio 3.0，其顶级版本据称可生成长达六分钟以上的专业级音乐。\nStability AI 此次共推出了四款不同规格的模型，分别为：45900 万参数的小型 XFS 与小型版、14 亿参数的中型版，以及 27 亿参数的大型版。其中，两...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 15:42:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anker’s travel-friendly Laptop Power Bank has returned to its best price of the year",
+      "link": "https://www.theverge.com/gadgets/934288/anker-laptop-power-bank-soundcore-sleep-a20-earbuds-deal-sale",
+      "summary": "Whether you’re heading out for a quick Memorial Day getaway or preparing for summer travel, a reliable power bank can come in handy when there’s no outlet in sight. Fortunately, Anker’s Laptop Power B...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-20 15:33:08",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Anker-Laptop-Power-Bank-Deal-Image.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "title": "Customers say Trump Mobile is leaking their personal information",
       "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
-      "summary": "Trump Mobile is leaking customers’ email and home addresses, but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their lea...",
+      "summary": "Trump Mobile is leaking customers’ email and home addresses but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leak...",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-05-20 15:28:55",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "美组织要求 FTC 对 Roblox 展开调查：是否强迫未成年人过度充钱",
+      "link": "https://www.ithome.com/0/953/085.htm",
+      "summary": "\nIT之家 5 月 20 日消息，据彭博社 20 日（今天）报道，美国两大儿童安全倡导团体“国家性剥削中心”“公平竞赛”近日联名致信美国联邦贸易委员会（FTC），敦促其对 Roblox 公司的游戏机制展开调查。两个团体指出，该平台涉嫌利用不良机制诱导、强迫未成年人过度消费。\n作为深受青少年追捧的游戏平台，Roblox 被指控违反消费者保护法规。上述团体在递交给 FTC 的联名信中指出，该平台向儿童...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 15:27:19",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -25,15 +212,15 @@
       "thumbnail": ""
     },
     {
-      "title": "618 大促 521 秒杀升级：小米 G100 智能门锁 358 元探底，30 秒速读攻略",
+      "title": "1 分钟速通 618·521 攻略：线上线下发票随手一抽都是钱，小米 G100 智能门锁 358 元探底",
       "link": "https://www.ithome.com/0/953/084.htm",
-      "summary": "\n618 预热小高潮 5 月 21 日再加码，有需求的小伙伴可以蹲点看看购物车哦 ~\n\n京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：点此抽红包\n淘宝 618 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包\n\n每天 10 秒领红包，蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~\n国补会场\n今年 ...",
+      "summary": "\n618 预热小高潮 5 月 21 日再加码，有需求的小伙伴可以蹲点看看购物车哦 ~\n\n京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：点此抽红包\n淘宝 618 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包\n\n每天 10 秒领红包，蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~\n保价\n京东一键“...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
       "pubDate": "2026-05-20 15:12:08",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/ded5eed3-27c2-4e0b-ba63-d2f407d09633.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "小米汽车：跑纽北是为了验证车辆在各种极端环境中的稳定性，打磨各种弯道性能",
@@ -44,7 +231,7 @@
       "region": "cn",
       "pubDate": "2026-05-20 15:10:02",
       "category": "auto",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/b041d4d8-59c5-4cb6-b713-00cfd1e57754.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "AI search startups are blowing up",
@@ -66,12 +253,12 @@
       "region": "cn",
       "pubDate": "2026-05-20 15:01:58",
       "category": "robot",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/89c4cb49-3e30-4cf9-a344-29b12513ae93.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "Stability AI releases a new audio model that can create six-minute songs",
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
       "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks...",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -88,10 +275,10 @@
       "region": "us",
       "pubDate": "2026-05-20 15:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268496_2026_Graduation_Gift_Guides_CVirginia_HS.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "It's Officially Election Season In Trumpworld",
+      "title": "It’s Officially Election Season in Trumpworld",
       "link": "https://www.wired.com/story/after-kentucky-the-trump-white-house-has-its-sights-on-these-primaries/",
       "summary": "With Trump nemesis Thomas Massie vanquished, Republican strategists are now eyeing races in Texas, California, and Maine....",
       "source": "Wired",
@@ -110,10 +297,10 @@
       "region": "cn",
       "pubDate": "2026-05-20 14:57:05",
       "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/94fba4b3-4938-46ed-8f72-d098a3b217e0.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "Man wins $835K after sheriff jailed him for a month over Charlie Kirk post",
+      "title": "Man jailed for posting Trump meme wins $835,000 settlement",
       "link": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
       "summary": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook....",
       "source": "Ars Technica",
@@ -132,7 +319,7 @@
       "region": "cn",
       "pubDate": "2026-05-20 14:45:01",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/883f44d8-b94d-43da-8284-e8c30ca8b332.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "松下 LUMIX Lab 应用 3.0.0 上线：支持编辑 RAW 文件、有线连接相机、固件更新等",
@@ -143,7 +330,7 @@
       "region": "cn",
       "pubDate": "2026-05-20 14:35:46",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/ffa602d1-37b0-48f3-899f-3fe0c1531334.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "【IT之家开箱】iQOO 15T 手机图赏：首发天玑 9500 Monster 旗舰芯，升级 8000mAh 电池",
@@ -154,7 +341,7 @@
       "region": "cn",
       "pubDate": "2026-05-20 14:32:07",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/18a32cdf-c604-4c66-a66b-0f2ea3324dbb.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "Russia's plan to advertise on rockets and spacecraft takes off",
@@ -168,26 +355,15 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/coffee-500x500.png"
     },
     {
-      "title": "《天国：拯救》开发商 Warhorse 官宣新作：《指环王》主题 RPG 游戏",
-      "link": "https://www.ithome.com/0/953/077.htm",
-      "summary": "\nIT之家 5 月 20 日消息，据外媒 VGC 今晚报道，《天国：拯救》开发商 Warhorse Studios 正式确认，一款以《指环王》中“中土世界”为背景的开放世界 RPG 已经进入开发阶段。“你们可能已经听过那些传闻了，现在也是时候公开我们正在制作的内容了。”\n\n除了全新的“中土世界”RPG 外，Warhorse 同时还宣布《天国：拯救》系列将推出新作。据IT之家了解，“中土世界”是 J...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-20 14:26:43",
+      "title": "A feature-packed MagSafe power bank is 20 percent off for Memorial Day",
+      "link": "https://www.theverge.com/gadgets/934553/anker-magsafe-power-bank-usbc-deal-sale-memorial-day",
+      "summary": "Having personally recently tested a bunch of MagSafe power banks for an upcoming piece, let me tell you that it’s tough to find a low-cost model that offers a bunch of features. Anker’s 10,000mAh Zolo...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-20 14:14:00",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/106ec083-a50d-4daa-9565-caaf4b5f371f.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "文石 Poke 7 系列 6 英寸电纸书阅读器开售：300PPI，1199 元起",
-      "link": "https://www.ithome.com/0/953/075.htm",
-      "summary": "\nIT之家 5 月 20 日消息，BOOX 文石 Poke 7 系列 6 英寸电纸书阅读器现已开售，售价 1199 元起：\n\nPoke 7：售价 1199 元\nPoke 7 Pro：售价 1399 元\n\n京东 BOOX 文石 Poke7 6 英寸电子书阅读器墨水屏 流沙 1199 元直达链接\n\n文石 Poke 7 有流沙（黄）、星晴（白）、倔强（蓝）三种颜色可选，重约 165g，厚约 6.75mm...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-20 14:13:24",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/432966/25/17256/28701/6a0a82a6F798e6a39/00833203207fe747.png"
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/zoloblack.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "It’s make or break time for AI labeling systems",
@@ -198,7 +374,7 @@
       "region": "us",
       "pubDate": "2026-05-20 14:12:54",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
@@ -223,17 +399,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Meta 启动 8000 人大规模裁员，赔偿方案曝光",
-      "link": "https://www.ithome.com/0/953/074.htm",
-      "summary": "\nIT之家 5 月 20 日消息，Facebook 母公司 Meta 员工担忧了整整一个月的裁员日终于到来。\n\nMeta 现有 7.8 万名员工，约一成人员已陆续收到裁员通知。据 Meta 人力资源主管珍妮尔 · 盖尔当地时间周一发给员工互助小组的内部备忘录显示，当地时间 5 月 20 日凌晨 4 点，公司分三批向全球不同地区员工下发了裁员通知。\n此次裁员预计削减约 8000 个岗位。据两名知情人...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-20 14:09:09",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/7/b6321fc4-703c-4c81-aa07-6f7679954c39.png?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "Trump Mobile may be leaking customer addresses",
       "link": "https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses",
       "summary": "Just as the T1 Phone is seemingly on the verge of release, Trump Mobile has been accused of insecurely storing customer data, leaving addresses and phone numbers vulnerable. The alleged leak has also ...",
@@ -242,7 +407,7 @@
       "region": "us",
       "pubDate": "2026-05-20 14:06:19",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/trump-mobile-t1-phone-video-packing-flag-stripes.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Insta360’s Mic Pro uses a three microphone array for improved recordings",
@@ -253,12 +418,12 @@
       "region": "us",
       "pubDate": "2026-05-20 14:04:42",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/insta3601.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
       "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-      "summary": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch. ...",
+      "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a compute...",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -267,25 +432,14 @@
       "thumbnail": ""
     },
     {
-      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
-      "link": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
-      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here....",
+      "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
+      "link": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
+      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-05-20 14:00:00",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trump is waging a silent war on legal immigration",
-      "link": "https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis",
-      "summary": "When the member states of the United Nations reviewed their Global Compact on Migration earlier this month, one country was conspicuously absent from the discussions: the United States. In a post on X...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-20 14:00:00",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -311,29 +465,7 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vizeo-gplv2-software-500x500.jpg"
     },
     {
-      "title": "GitHub says hackers stole data from thousands of internal repositories",
-      "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
-      "summary": "The code hosting giant GitHub said it was investigating a breach, but said there was no evidence of customer data theft....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-20 13:25:58",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "If Google can’t make AI agents useful, maybe no one can",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-      "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, th...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-20 13:24:22",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "‘Perfect Storm’: How Trump's Aid Cuts Are Fueling the Ebola Outbreak",
+      "title": "‘Perfect Storm’: How Trump’s Aid Cuts Are Fueling the Ebola Outbreak",
       "link": "https://www.wired.com/story/how-trumps-aid-cuts-are-fueling-the-ebola-outbreak/",
       "summary": "One health provider who works on the ground says that basic medical equipment like masks and hand sanitizers are in short supply due to funding cuts....",
       "source": "Wired",
@@ -366,40 +498,7 @@
       "thumbnail": ""
     },
     {
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "summary": "Figma's new AI assistant will be first available on Figma Design...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-20 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Quartermaster is building a maritime hive mind",
-      "link": "https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/",
-      "summary": "The Arlington, Virginia-based startup has raised $42 million to equip ships with sensors that blow the current AIS tech out of the water....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-20 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The biggest data center ever is becoming a huge problem in Utah",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
-      "summary": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Str...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-20 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Boston Metal gets a $75 million lifeline to produce critical metals",
+      "title": "Green steel startup Boston Metal is doubling down on critical metals",
       "link": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
       "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.   The company has been known largely for its efforts to clean ...",
       "source": "MIT Tech Review",
@@ -454,17 +553,6 @@
       "thumbnail": ""
     },
     {
-      "title": "‘It’s in the air’: Apple TV’s hottest new shows explore different sides of OnlyFans",
-      "link": "https://www.theverge.com/tech/934078/apple-tv-onlyfans-margo-maximum-pleasure-guaranteed",
-      "summary": "Apple TV is best known for its lineup of science fiction shows and feel-good sitcoms, but of late the streaming service has veered in a different direction. A pair of its current buzziest shows explor...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-20 12:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "618打了这么多年，今年京东终于换了张底牌",
       "link": "https://www.tmtpost.com/7995553.html",
       "summary": "以AI为内核的618背后，藏着京东的AI全链条野心。...",
@@ -489,7 +577,7 @@
     {
       "title": "How to Upgrade Weber and Kamado Joe Into Smart Grills",
       "link": "https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/",
-      "summary": "You don't need to buy a smart grill to make perfect meat. You can buy a dumb grill and send it to school with smart upgrades....",
+      "summary": "You don’t need to buy a smart grill to make perfect meat. You can buy a dumb grill and send it to school with smart upgrades....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
@@ -506,17 +594,6 @@
       "region": "cn",
       "pubDate": "2026-05-20 11:21:28",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Android 17 is getting its own version of Apple’s Handoff",
-      "link": "https://www.theverge.com/tech/934457/android-17-continue-on-handoff",
-      "summary": "Google is adding a new Android feature that resembles Apple's Handoff, allowing you to start a task on your Android phone and continue it right where you left off from a compatible tablet. \"Continue O...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-20 11:07:33",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -685,17 +762,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Election Officials Are Getting Ready for ICE to Show Up at the Polls",
-      "link": "https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms/",
-      "summary": "The Trump administration keeps threatening to send federal agents to oversee elections. State and local officials are preparing, and even gaming out what happens if they're arrested....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-20 10:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a05ea458888ff8e2bbc35f3/master/pass/GettyImages-1244618007.jpg"
-    },
-    {
       "title": "Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI",
       "link": "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai",
       "summary": "\nToday, Copenhagen-based healthcare AI Corti is launching Symphony for Speech-to-Text, a new generation of clinical-grade speech recognition models engineered specifically for real-time dictation, con...",
@@ -718,17 +784,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Data Brokers’ and AI Firms’ Opt-Out Forms Are Built to Fail, Report Finds",
-      "link": "https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/",
-      "summary": "A new study finds AI companies, defense firms, and dating apps are among 38 data collectors allegedly using manipulative design to confuse users while collecting their data....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-20 09:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a0d089bd351b6a9934944b7/master/pass/Security_DataBrokersandAIFirmsOpt-OutFormsAreBuilttoFailReportFinds_v2.jpg"
-    },
-    {
       "title": "Semi Design v2.98.0 发布，抖音企业级 UI 库",
       "link": "https://www.oschina.net/news/443289/semi-design-2-98-0-released",
       "summary": "Semi Design 是现代、全面、灵活的设计系统和 UI 库，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开箱即用的中后台解决方案，可用于快速搭建美观的 React 应用。 Semi Design v2.98.0 已发布，此版本带来如下更新内容： 【Feature】 新增@douyinfe/semi-vite-plugin包，提供......",
@@ -737,17 +792,6 @@
       "region": "cn",
       "pubDate": "2026-05-20 08:49:57",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Samsung workers set to strike at worst possible time",
-      "link": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
-      "summary": "More than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike is set to start on Thursday an...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-20 08:49:01",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -850,17 +894,6 @@
       "thumbnail": ""
     },
     {
-      "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
-      "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
-      "summary": "Google is completely revamping its search experience, and that doesn't stop at YouTube....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-20 05:45:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施",
       "link": "https://www.qbitai.com/2026/05/420651.html",
       "summary": "ATaaS 日均调用量近万亿...",
@@ -870,17 +903,6 @@
       "pubDate": "2026-05-20 05:29:57",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Dell Coupon Codes: 20% Off for May 2026",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-20 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg"
     },
     {
       "title": "长鑫科技更新招股书，碧桂园错失300亿",
@@ -951,7 +973,7 @@
     {
       "title": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
       "link": "https://36kr.com/p/3816885092910212?f=rss",
-      "summary": "\n今日热点导览\n  \n谷歌推出Gemini 3.5系列模型\n   洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元\n   巨力索具连续第二日跌停\n   前三星芯片负责人：明年内存将降价\n   自费流感疫苗也可使用医保报销\n   谷歌搜索宣布大改版，AI模式与代理助��全面嵌入\n  \nTOP 3 大新闻\n  DeepSeek回应用户“对话泄露”疑虑\n  5月19日，DeepSeek发布关于...",
+      "summary": "\n今日热点导览\n  \n谷歌推出Gemini 3.5系列模型\n   洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元\n   巨力索具连续第二日跌停\n   前三星芯片负责人：明年内存将降价\n   自费流感疫苗也可使用医保报销\n   谷歌搜索宣布大改版，AI模式与代理助手全面嵌入\n  \nTOP 3 大新闻\n  DeepSeek回应用户“对话泄露”疑虑\n  5月19日，DeepSeek发布关于&...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
@@ -1026,17 +1048,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
-      "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
-      "summary": "Plex says that it has considered getting rid of Lifetime Passes....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-19 19:52:01",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/plex-500x500.jpg"
-    },
-    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "link": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "summary": "\nThe reason enterprises have been slow to connect AI agents to internal APIs and databases isn't the models — it's the credentials. In most production deployments, the agent carries authentication tok...",
@@ -1044,17 +1055,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-05-19 19:45:24",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Google’s new AI agent can draft your emails, monitor your inbox and eventually spend your money",
-      "link": "https://venturebeat.com/technology/googles-new-ai-agent-can-draft-your-emails-monitor-your-inbox-and-eventually-spend-your-money",
-      "summary": "\nGoogle on Tuesday unveiled Gemini Spark, a personal AI agent designed to work around the clock — drafting emails, assembling documents, monitoring inboxes, and eventually making purchases — even when...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-19 17:45:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1070,9 +1070,9 @@
       "thumbnail": ""
     },
     {
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "summary": "\nFor a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On ...",
+      "title": "Google’s new AI agent can draft your emails, monitor your inbox and eventually spend your money",
+      "link": "https://venturebeat.com/technology/googles-new-ai-agent-can-draft-your-emails-monitor-your-inbox-and-eventually-spend-your-money",
+      "summary": "\nGoogle on Tuesday unveiled Gemini Spark, a personal AI agent designed to work around the clock — drafting emails, assembling documents, monitoring inboxes, and eventually making purchases — even when...",
       "source": "VentureBeat",
       "sourceKey": "venturebeat",
       "region": "us",
