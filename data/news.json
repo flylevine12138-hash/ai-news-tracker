@@ -1,11 +1,363 @@
 {
-  "updateTime": "2026-05-19T23:12:27.997Z",
+  "updateTime": "2026-05-20T04:13:35.648Z",
   "total": 107,
   "news": [
     {
+      "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
+      "link": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
+      "summary": "The era of ultra-high performance Mercedes EVs is here. The German automaker finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed from the automaker's XX concept tha...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-20 03:30:00",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/pre-media_26c0129_001.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "已修复：AMD 霄龙处理器 Fabricked 漏洞披露，100% 成功、可绕过 SEV-SNP",
+      "link": "https://www.ithome.com/0/952/673.htm",
+      "summary": "\nIT之家 5 月 20 日消息，来自苏黎世联邦理工大学的科研团队最新披露 Fabricked 漏洞，可以通过软件方式绕过 AMD 霄龙（EPYC）处理器的 SEV-SNP 机密计算保护机制。\nIT之家注：SEV-SNP 是 AMD 面向云端机密计算的安全机制，全称为 Secure Encrypted Virtualization with Secure Nested Paging。\n该机制通过内...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 03:08:22",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "阿里千问最强智能体模型 Qwen3.7-Max 发布",
+      "link": "https://www.ithome.com/0/952/670.htm",
+      "summary": "\nIT之家 5 月 20 日消息，阿里千问大模型今日正式发布 Qwen3.7-Max —— 面向智能体时代的新一代旗舰模型，即将通过 API 提供服务。Qwen3.7-Max 是阿里千问迄今最全面、最强大的智能体模型。\n千问大模型官方介绍称，Qwen3.7-Max 致力于成为全能的智能体基座 —— 无论是编写和调试代码、自动化办公流程，还是在跨越数百乃至数千步的长周期任务中持续自主执行，都能胜任。...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 03:06:54",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "国内首家商业火箭公司：航天科工火箭公司招聘财务副总监冲刺 IPO 上市",
+      "link": "https://www.ithome.com/0/952/663.htm",
+      "summary": "\nIT之家 5 月 20 日消息，航天科工火箭技术有限公司昨日发布招聘公告，其中包括财务副总监一职。\n该副总监将负责建立符合上市规范的财务制度和治理架构，牵头上市辅导财务专项工作，配合中介机构完成 IPO 财务核查与辅导验收，参与投资项目财务尽职调查与风险把控，负责内外部审计相关工作，推动财务数字化、业财融合体系建设，赋能经营决策、产品研发和市场拓展，并搭建高素质财务团队。\n\n在任职要求方面，候选...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 03:03:56",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "iQOO Pad6 Pro 平板官宣行业首发 4K 游戏 Live 截图，支持一键获取超清动态照片",
+      "link": "https://www.ithome.com/0/952/662.htm",
+      "summary": "\nIT之家 5 月 20 日消息，iQOO 手机官方今日宣布，iQOO Pad6 Pro 平板将行业首发 4K 游戏 Live 截图，支持一键获取 4K 超清动态照片。\n\nIT之家注意到，iQOO Pad6 Pro 平板将在 5 月 20 日 19:00 发布即开售，搭载 iQOO 15 同款骁龙 8 Elite Gen5 芯片性能调校、配备 4K 分辨率 144Hz 屏幕，支持 13 款原生 4...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 03:03:40",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "七彩虹推出 iGame B850M ULTRA-S / ULTRA-OC V14 主板",
+      "link": "https://www.ithome.com/0/952/661.htm",
+      "summary": "\nIT之家 5 月 20 日消息，七彩虹 (Colorful) 今日宣布推出两款 iGame ULTRA“嘻哈”系列黑色主板，分别是 iGame B850M ULTRA-S V14 和 iGame B850M ULTRA-OC V14，到手价分别为 1399 元和 1299 元。\n\n这两款主板均采用标准 micro-ATX 板型，支持 X3D AI 高帧模式；具备显卡和 M.2 快拆结构、Debu...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 02:58:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "能跳舞的人形机器人？逐际动力 LimX Luna 亮相，5 月 25 日发布",
+      "link": "https://www.ithome.com/0/952/660.htm",
+      "summary": "\nIT之家 5 月 20 日消息，逐际动力今日公布了一款 LimX Luna 全尺寸交互人形机器人，将在 5 月 25 日 16:00 逐际动力夏季新品发布会上推出。\n\n从海报可以看到，这款 LimX Luna 机器人姿态优雅，能够展示舞蹈动作，目前尚不清楚具体流畅度如何。\n据IT之家了解，逐际动力 LimX Dynamics 创立于 2022 年，全球总部位于深圳，是一家 AI 驱动的人形机器人...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 02:57:15",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OPPO Enco R5 半入耳无线耳机发售：279 元，支持双设备连接",
+      "link": "https://www.ithome.com/0/952/659.htm",
+      "summary": "\nIT之家 5 月 20 日消息，上个月曝光的 OPPO Enco R5 无线耳机已经上架京东并开售，京东首发价 279 元，但京东并未公布参数详情。\n京东 OPPO Enco R5 真无线耳机 券后 279 元领 20 元券\nIT之家注意到，这款型号为“ETEG1”的无线耳机上个月已经出现在中国电信终端产品库中，采用半入耳设计，提供霜月白配色。\n\n相关页面显示，OPPO Enco R5 无线耳机...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 02:56:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "长鑫科技更新招股书，碧桂园错失300亿",
+      "link": "https://36kr.com/p/3817039204139908?f=rss",
+      "summary": "\n地产行业内，曾有望跑出两家明星创投企业，一家是世纪金源，另一家是碧桂园。前者现在做得顺风顺水，收获一个又一个IPO，而碧桂园因为地产业务暴雷，需要大量资金保交楼，被迫中断了在科技领域的投资“大爆发”。\n  01\n  5月17日，计划登陆科创板的长鑫科技集团股份有限公司（以下简称：长鑫科技）更新了招股书。新招股书的财务数据显示，2026年第一季度，长鑫科技营收508亿元，同比增长719.13%；归...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-20 02:54:58",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "398 元小米米家长柄筋膜枪 3 上架：12kg 大推力 + 3 款按摩头可换，可灵活按摩多部位",
+      "link": "https://www.ithome.com/0/952/649.htm",
+      "summary": "\nIT之家 5 月 20 日消息，小米新推出的米家长柄筋膜枪 3 已经上架京东，将于 5 月 25 日开售，京东标价 398 元（IT之家注：此前众筹价 299 元）。\n京东米家小米长柄筋膜枪 3 健身按摩仪按摩器肩颈全身肌肉按摩不求人送父母筋膜枪推荐 329 元直达链接\n\n京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：点此抽红包\n淘宝 618 无门槛红包 面额至高 2688...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 02:47:03",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "HBO 新剧《绿灯军团》公开新先导预告：“最伟大的绿灯侠”哈尔 · 乔丹回归，今年 8 月开播",
+      "link": "https://www.ithome.com/0/952/648.htm",
+      "summary": "\nIT之家 5 月 20 日消息，DC 超级英雄新剧《绿灯军团》公开了新先导预告，本剧将于今年 8 月在 HBO Max 开播，首季共 8 集（预计 8 月 17 日起上线）。\n\n值得一提的是，被冠以“最伟大的绿灯侠”称号的哈尔 · 乔丹将在剧中出场，这也是该角色时隔多年再以真人形象重返荧幕，由凯尔 · 钱德勒饰演。另一位绿灯侠约翰 · 斯图尔特也将在本片登场，由亚伦 · 皮埃尔饰演。\n\n此次发布...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 02:46:30",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "智己 LS6 上汽一亿台限定版发布，换代车型第三季度上市",
+      "link": "https://www.ithome.com/0/952/647.htm",
+      "summary": "\nIT之家 5 月 20 日消息，智己汽车今日官宣，值上汽集团达成一亿辆汽车交付里程碑之际，推出 1 亿元补贴“上汽最强纯电 SUV”。\n智己 LS6 上汽一亿台限定版发布，全系标配“520 线超视域激光雷达 + 英伟达 Thor 芯片”，即日起限量发售 5000 台，6 月上旬开启交付。\n\nIT之家注意到，智己汽车还发布了车型换代安排及现款政策：\n一、车型换代时间\n智己 LS6、智己 L6：将于...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-20 02:41:30",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "理想新L9上市72小时：老车主复购占大头，仍需从“家庭”破圈",
+      "link": "https://36kr.com/p/3709756082466949?f=rss",
+      "summary": "\n文 | 徐蔡钰 编辑 | 李勤\n  “爆了，试驾根本约不上”，5月16至17日，理想新L9上市的首个周末，门店挤满了前来试驾的用户们。\n  这款在2022年首次面世的增程大六座SUV，发布了第四代车型。新L9分Ultra与Livis两种版本，起售价分别为45.98万元、50.98万元。\n  相较此前的年度改款，本次新L9的更新幅度更加显著：\n  全系标配72.7kWh电池，纯电续航达到420公里...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-20 02:24:46",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "传奇研究员 Karparthy 加入 Anthropic，你想知道的一切都在这里",
+      "link": "https://www.tmtpost.com/7994124.html",
+      "summary": "预训练迎来“大结局”？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-20 01:36:58",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/4a0239b863598e82a296db64906092eb_1779241022.png%20width="
+    },
+    {
+      "title": "双原生架构，不用错AI的关键",
+      "link": "https://www.tmtpost.com/7994209.html",
+      "summary": "说一个误解特别多的事儿。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-20 01:36:42",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r24qtgreshtg3.png"
+    },
+    {
+      "title": "做出百万台割草机器人后，未岚大陆CEO决定让自己变得“不重要”｜硬氪专访",
+      "link": "https://36kr.com/p/3814411349581316?f=rss",
+      "summary": "\n作者｜黄楠\n  编辑｜袁斯来\n  未岚大陆CEO任冠佼等了7年，等到了行业的爆发。\n  他还记得，2019年刚进入无边界智能割草机器人赛道，自己“只是觉得这个方向一定能火”。到2021年第一代产品推出时，他们也只敢确定，这是一个能做到10-20亿的行业。\n  直到2025年，增速超出他的预期。IDC数据显示，2025年全球无边界割草机器人出货量达到131.8万台，同比增长182.4%，占整个割草...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-20 01:30:00",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "Gemini 3.5 发布：谷歌用“价格砍半、速度4倍”逼竞争对手出局",
+      "link": "https://www.tmtpost.com/7994400.html",
+      "summary": "皮查伊：延迟至关重要。Gemini 3.5 背后的产品逻辑。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-20 01:28:00",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/4a0c737f3cfcaa48abc6c5cc2485f3da_1779240519.png%20alt="
+    },
+    {
+      "title": "被市场低估的，不止Google ？",
+      "link": "https://www.tmtpost.com/7993823.html",
+      "summary": "全模态的增长故事，已经走到了兑现的前夜？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-20 01:25:10",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/5tq354htr3.png"
+    },
+    {
+      "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
+      "link": "https://36kr.com/p/3816909945029760?f=rss",
+      "summary": "\n文｜王欣逸\n  编辑｜邓咏仪\n  36氪获悉，未来式智能（AutoAgents.ai）近日完成Pre-A轮融资，新进投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投，本轮融资主要用于算力投入、团队扩张以及新产品的生态建设运营。\n  未来式智能成立于2023年6月，专注于以智能体技术赋能知识工作者。核心团队来自达摩院、腾讯、字节跳动和谷歌。创始人兼CEO杨劲松曾在达摩院担任产...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-20 01:21:27",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
+      "link": "https://36kr.com/p/3816947890471812?f=rss",
+      "summary": "\n作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。\n  Chance AI成立于2025年，核心产品是全球第一款以摄像头为主要交互入口的AI产品——Visual Agent（视觉智能...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-20 01:20:43",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "振芯科技内斗不止：补选董事现场遭“围攻”，牵出凌晨换安保冲突｜直击股东会",
+      "link": "https://www.tmtpost.com/7994143.html",
+      "summary": "多年内斗何时休？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-20 01:08:47",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/cc25d6ea4bdd777d531822ee61c3c6f0_1779239334.jpg%20alt="
+    },
+    {
+      "title": "从912万到212万：保险代理人“大洗牌”背后",
+      "link": "https://www.tmtpost.com/7993771.html",
+      "summary": "两百万保险代理人的焦虑：熟人市场耗尽，客户在哪里？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-20 01:02:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/521a04c0936b0177aa1424b62551516a_1779237189.png%20width="
+    },
+    {
+      "title": "一向擅长赢的马斯克，这次输了",
+      "link": "https://www.tmtpost.com/7993788.html",
+      "summary": "真正的厮杀才刚刚开始。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-20 00:49:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/954091b5f7d9ebf9948ca3ede538abea_1779237108.jpg%20/%3E%3C/p%3E%3Cp%3E%E4%BD%86%E8%BF%99%E4%BA%9B%E9%83%BD%E4%B8%8D%E9%87%8D%E8%A6%81%E3%80%82%E5%9C%A8%E6%B3%95%E5%BE%8B%E9%9D%A2%E5%89%8D%EF%BC%8C%E6%97%B6%E6%95%88%E6%98%AF%E4%B8%80%E5%A0%B5%E6%97%A0%E6%B3%95%E7%BB%95%E8%BF%87%E7%9A%84%E5%A2%99%E3%80%82%3C/p%3E%3Cp%3E%E5%9C%A8%E5%BA%AD%E5%AE%A1%E7%BB%93%E6%9D%9F%E5%90%8E%EF%BC%8COpenAI%E7%9A%84%E9%A6%96%E5%B8%AD%E5%BE%8B%E5%B8%88William%20Savitt%E4%BA%A6%E5%9C%A8%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E4%B8%8A%E5%A3%B0%E8%AF%B4%EF%BC%8C%E2%80%9C%E8%BF%99%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E6%8A%80%E6%9C%AF%E6%80%A7%E5%86%B3%E5%AE%9A%EF%BC%8C%E8%80%8C%E6%98%AF%E5%AE%9E%E8%B4%A8%E6%80%A7%E5%86%B3%E5%AE%9A%E3%80%82%E4%BD%A0%E6%8F%90%E5%87%BA%E7%B4%A2%E8%B5%94%EF%BC%88%E7%9A%84%E6%97%B6%E9%97%B4%EF%BC%89%E5%A4%AA%E6%99%9A%E4%BA%86%EF%BC%8C%E4%B9%8B%E6%89%80%E4%BB%A5%E8%BF%99%E6%A0%B7%E5%81%9A%EF%BC%8C%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BD%A0%EF%BC%88%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%89%E5%9C%A8%E4%BF%9D%E7%95%99%E8%BF%99%E4%BA%9B%E7%B4%A2%E8%B5%94%EF%BC%8C%E4%BB%A5%E6%AD%A4%E4%BD%9C%E4%B8%BA%E6%97%A0%E6%B3%95%E5%9C%A8%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E4%B8%AD%E4%B8%8E%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E6%8A%97%E8%A1%A1%E7%9A%84%E6%AD%A6%E5%99%A8%E3%80%82%E2%80%9D%3C/p%3E%3Cp%3EWilliam%20Savitt%E7%94%9A%E8%87%B3%E6%AF%AB%E4%B8%8D%E5%AE%A2%E6%B0%94%E5%9C%B0%E8%AF%B4%EF%BC%8C%E2%80%9C%E9%99%AA%E5%AE%A1%E5%9B%A2%E7%9A%84%E8%A3%81%E5%86%B3%E5%86%8D%E6%AC%A1%E8%AF%81%E6%98%8E%EF%BC%8C%E8%BF%99%E5%9C%BA%E8%AF%89%E8%AE%BC%E6%9C%AC%E8%B4%A8%E4%B8%8A%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BC%AA%E5%90%9B%E5%AD%90%E8%AF%95%E5%9B%BE%E9%80%9A%E8%BF%87%E8%99%9A%E4%BC%AA%E6%89%8B%E6%AE%B5%E6%89%93%E5%87%BB%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%EF%BC%8C%E5%B9%B6%E6%8E%A9%E7%9B%96%E4%BB%96%E9%95%BF%E6%9C%9F%E4%BB%A5%E6%9D%A5%E5%AF%B9OpenAI%E9%94%99%E8%AF%AF%E9%A2%84%E6%B5%8B%E7%9A%84%E5%A4%B1%E8%B4%A5%E3%80%82%E2%80%9D%3C/p%3E%3Cp%3E%E5%90%8C%E6%97%B6%EF%BC%8CWilliam%20Savitt%E7%A7%B0%EF%BC%8C%E2%80%9C%E5%AF%B9%E7%BB%93%E6%9E%9C%E6%84%9F%E5%88%B0%E9%9D%9E%E5%B8%B8%E9%AB%98%E5%85%B4%EF%BC%8C%E6%88%91%E4%BB%AC%E5%AF%B9%E6%88%91%E4%BB%AC%E7%9A%84%E6%A1%88%E4%BB%B6%E9%9D%9E%E5%B8%B8%E6%9C%89%E4%BF%A1%E5%BF%83%E3%80%82%E2%80%9D%3C/p%3E%3Csection%3E%3Ch2%3E%3Cspan%3E%3Cspan%3E%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8D%E6%9C%8D%E8%BE%93%3C/span%3E%3C/span%3E%3C/h2%3E%3C/section%3E%3Cp%3E%E5%88%A4%E5%86%B3%E5%87%BA%E6%9D%A5%E5%90%8E%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%AF%B9%E6%AD%A4%E4%BA%8B%E7%9A%84%E8%AE%A8%E8%AE%BA%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96%E3%80%82%3C/p%3E%3Cp%3E%E5%BD%93%E7%84%B6%EF%BC%8C%E6%9B%B4%E5%A4%9A%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%80%92%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%8C%E4%BB%96%E7%9A%84%E6%A0%B8%E5%BF%83%E6%8C%87%E6%8E%A7%EF%BC%8C%E8%AE%A9%E4%BB%96%E8%B5%A2%E5%BE%97%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%A4%A7%E9%87%8F%E5%A3%B0%E6%8F%B4%E3%80%82%3C/p%3E%3Cp%3E2015%E5%B9%B4%E6%97%B6%EF%BC%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%AD%89%E4%BA%BA%E5%85%B1%E5%90%8C%E5%88%9B%E7%AB%8B%E4%BA%86OpenAI%EF%BC%8C%E5%AE%83%E8%A2%AB%E6%B3%A8%E5%86%8C%E4%B8%BA%E9%9D%9E%E8%90%A5%E5%88%A9%E7%BB%84%E7%BB%87%EF%BC%8C%E4%BD%BF%E5%91%BD%E9%9D%9E%E5%B8%B8%E6%98%8E%E7%A1%AE%EF%BC%8C%E2%80%9C%E4%B8%BA%E4%BA%BA%E7%B1%BB%E5%88%A9%E7%9B%8A%E5%BC%80%E5%8F%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%8C%E4%B8%8D%E5%8F%97%E5%95%86%E4%B8%9A%E5%88%A9%E7%9B%8A%E9%A9%B1%E4%BD%BF%E3%80%82%E2%80%9D%3C/p%3E%3Cp%3E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%EF%BC%8C%E5%BD%93%E5%88%9D%EF%BC%8C%E4%BB%96%E4%B9%8B%E6%89%80%E4%BB%A5%E6%8A%95%E5%85%A5%E7%BA%A63800%E4%B8%87%E7%BE%8E%E5%85%83%EF%BC%8C%E6%98%AF%E5%9F%BA%E4%BA%8EOpenAI%E5%B0%86%E2%80%9C%E4%B8%BA%E4%BA%BA%E7%B1%BB%E5%88%A9%E7%9B%8A%E2%80%9D%E5%BC%80%E5%8F%91AI%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E8%AE%A9%E4%BB%BB%E4%BD%95%E4%BA%BA%E8%87%B4%E5%AF%8C%E3%80%82%3C/p%3E%3Cp%3E%E5%BD%93%E7%84%B6%EF%BC%8C%E4%BA%8B%E6%83%85%E7%9A%84%E8%B5%B0%E5%90%91%E5%90%8E%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%B8%80%E4%BA%9B%E5%8F%98%E5%8C%96%EF%BC%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A6%BB%E5%BC%80%E4%BA%86OpenAI%E8%91%A3%E4%BA%8B%E4%BC%9A%E3%80%82%E9%9A%8F%E5%90%8E%EF%BC%8COpenAI%E6%88%90%E7%AB%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E8%90%A5%E5%88%A9%E6%80%A7%E5%AD%90%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%B9%B6%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E5%BE%AE%E8%BD%AF%E7%9A%84%E6%8A%95%E8%B5%84%E3%80%82%3C/p%3E%3Cp%3E%E6%AD%A4%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B%E4%BC%97%E6%89%80%E5%91%A8%E7%9F%A5%EF%BC%8C%E5%A6%82%E4%BB%8A%EF%BC%8COpenAI%E5%B7%B2%E7%BB%8F%E6%88%90%E9%95%BF%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%BC%B0%E5%80%BC%E7%BA%A68520%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%81%E8%AE%A1%E5%88%92IPO%E7%9A%84%E7%A7%91%E6%8A%80%E5%B8%9D%E5%9B%BD%E3%80%82%3C/p%3E%3Cp%3E2024%E5%B9%B4%EF%BC%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC%EF%BC%8C%E4%BB%96%E6%8C%87%E8%B4%A3%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%92%8C%E5%B8%83%E7%BD%97%E5%85%8B%E6%9B%BC%E2%80%9C%E5%81%B7%E7%AA%83%E4%BA%86%E4%B8%80%E4%B8%AA%E6%85%88%E5%96%84%E6%9C%BA%E6%9E%84%E2%80%9D%EF%BC%8C%E4%BB%96%E8%AE%A4%E4%B8%BA%EF%BC%8C%E5%A6%82%E4%BB%8A%E7%9A%84OpenAI%E8%BF%9D%E8%83%8C%E4%BA%86%E6%88%90%E7%AB%8B%E5%88%9D%E5%BF%83%EF%BC%8C%E8%80%8C%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%AD%89%E4%BA%BA%E9%AA%97%E5%8F%96%E4%BA%86%E4%BB%963800%E4%B8%87%E7%BE%8E%E5%85%83%E6%8D%90%E6%AC%BE%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%8A%A9%E5%8A%9B%E3%80%82%3C/p%3E%3Cp%3E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E8%BF%99%E5%9C%BA%E5%AE%98%E5%8F%B8%EF%BC%8C%E8%A2%AB%E5%B8%82%E5%9C%BA%E8%A7%86%E4%B8%BA%E5%86%B3%E5%AE%9AOpenAI%E4%B9%83%E8%87%B3%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A1%8C%E4%B8%9A%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%EF%BC%8C%E5%85%B3%E4%B9%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E5%BD%93%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%EF%BC%8C%E4%BB%A5%E5%8F%8A%E8%B0%81%E5%BA%94%E4%BB%8E%E4%B8%AD%E5%8F%97%E7%9B%8A%E3%80%82%3C/p%3E%3Cp%3E%3Cimg%20id="
+    },
+    {
+      "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
+      "link": "https://www.qbitai.com/2026/05/420531.html",
+      "summary": "AMD持续加码中国开发者生态建设...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-05-20 00:48:27",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "千亿“玻璃女王”周群飞港股扩军，巨腾国际跌超25%",
+      "link": "https://www.tmtpost.com/7994084.html",
+      "summary": "折价45%入主。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-20 00:43:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5yyjtng3.png"
+    },
+    {
+      "title": "宇树要和“老大哥”优必选学“进厂”吗？",
+      "link": "https://www.tmtpost.com/7994083.html",
+      "summary": "巨头向下扎根车厂，宇树向上批量造“高达”。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-20 00:31:07",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5hyjtngf3.png"
+    },
+    {
+      "title": "芯片下沉，AI硬件全面开花",
+      "link": "https://www.tmtpost.com/7993789.html",
+      "summary": "算力向下，AI硬件向上。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-20 00:28:06",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35yyjthg3.png"
+    },
+    {
+      "title": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
+      "link": "https://36kr.com/p/3816885092910212?f=rss",
+      "summary": "\n今日热点导览\n  \n谷歌推出Gemini 3.5系列模型\n   洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元\n   巨力索具连续第二日跌停\n   前三星芯片负责人：明年内存将降价\n   自费流感疫苗也可使用医保报销\n   谷歌搜索宣布大改版，AI模式与代理助手全面嵌入\n  \nTOP 3 大新闻\n  DeepSeek回应用户“对话泄露”疑虑\n  5月19日，DeepSeek发布关于&...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-20 00:20:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS nabs white hot gen AI media creation startup fal, becoming its preferred cloud provider",
+      "link": "https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider",
+      "summary": "\nGenerative AI’s rapid transition from text-based chatbots to high-fidelity media—spanning images, video, spatial 3D, and audio—has exposed a glaring bottleneck in the modern tech stack: infrastructur...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-20 00:06:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "当“躺平”、Gap被歧视，我们该如何度过奥德赛时期？ | 职场极端气候 ②",
+      "link": "https://36kr.com/p/3816045694098952?f=rss",
+      "summary": "\n\n  图源：公众号「有三思 U Sense」）\n  2026年2月，小红书博主橘一橙NiceFriend发布了一条视频。她在视频里把奥德赛时期定义为“对事业、情感以及身份认同产生强烈焦虑和迷茫的阶段”，将之概括为“成年人类的未成年”。这条视频获得10万+点赞，8.6万收藏。\n  “奥德赛时期”这个词并非中文原生。2007年，《纽约时报》专栏作家大卫·布鲁克斯发表了同名评论文章，借用荷马史诗中奥德...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-20 00:02:42",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
+      "link": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
+      "summary": "Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things like deliveries and sport...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-19 23:24:36",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257970_Pixel_Watch_4_AKrales_0441.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
+      "link": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
+      "summary": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-19 23:03:48",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/heroplex-logo-tv.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
       "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-      "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They're certainly not alone....",
+      "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
@@ -33,29 +385,7 @@
       "region": "us",
       "pubDate": "2026-05-19 22:16:02",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 iOS 27 新特性：系统级生成，自动给视频加字幕",
-      "link": "https://www.ithome.com/0/952/544.htm",
-      "summary": "\nIT之家 5 月 20 日消息，苹果公司昨日（5 月 19 日）发布博文，预告在 iOS 27 系统中，将推出“生成字幕”辅助功能。\n这项功能支持系统级实时生成字幕，从而解决社交媒体、相册及信息中个人视频无字幕的痛点，让用户在任何应用中都能看懂视频内容。\n\niPhone 视频播放字幕界面用户在观看社交媒体、相册或信息中的视频时，如果原视频没有提供字幕，iOS 27 系统将自动生成，此外为满足不同...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-19 22:11:53",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/8c0db43c-c23d-4b38-b0f5-c6b52554f67f.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "中通快递 2026 财年第一财季净利润 21.18 亿元，同比增长 5.70%",
-      "link": "https://www.ithome.com/0/952/543.htm",
-      "summary": "\n IT之家 5 月 20 日消息，中通快递今日发布 2026 财年（2026年 1月 1日～2026年 12月 31日）第一财季（2026年 1月 1日～2026年 3月 31日）报告：\n\n  营业总收入： 132.82 亿元，同比增长 22.00%     归母净利润： 21.18 亿元，同比增长 5.70%     经营现金流： 27.89 亿元，同比增长 18.03%     基本每股收益...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-19 22:08:00",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "We react to Google I/O 2026",
@@ -66,7 +396,7 @@
       "region": "us",
       "pubDate": "2026-05-19 21:48:26",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/20260519_VCthumb_v2.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Google just declared itself a contender in AI design at IO 2026",
@@ -110,7 +440,7 @@
       "region": "us",
       "pubDate": "2026-05-19 21:24:14",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lcimg-036c9a25-7169-4853-846e-94fd035c259f.jpeg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "How to use Google’s new AI agents to go beyond your standard searches",
@@ -148,7 +478,7 @@
     {
       "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
       "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-      "summary": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners....",
+      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -165,7 +495,7 @@
       "region": "us",
       "pubDate": "2026-05-19 21:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Google’s AI future demands trust — and your personal data",
@@ -176,7 +506,7 @@
       "region": "us",
       "pubDate": "2026-05-19 21:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Spider-Noir final trailer gives us a classic villain",
@@ -209,7 +539,7 @@
       "region": "us",
       "pubDate": "2026-05-19 20:25:09",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/jbl_charge6_flip7_1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Roundtables: Inside the Musk v. Altman Trial",
@@ -231,29 +561,18 @@
       "region": "us",
       "pubDate": "2026-05-19 20:13:14",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK268_TICKETMASTER_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
+      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
       "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-      "summary": "“By the end of this week, you and Sam will be the most hated men in America.”...",
+      "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waite...",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-05-19 20:11:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "谷歌安卓版 Find Hub 新增位置通知，共享位置联系人可触发到达或离开通知",
-      "link": "https://www.ithome.com/0/952/542.htm",
-      "summary": "\nIT之家 5 月 20 日消息，科技媒体 Android Authority 今天（5 月 20 日）发布博文，报道称谷歌正向安卓版 Find Hub 推送位置通知功能，让用户在对方已经共享位置后，接收到“到达某地”或“离开某地”的提醒。\nIT之家注：功能入口位于 People 页面，用户点开正在共享位置的联系人后，页面底部会出现“获取定位通知”按钮。用户进入后，可以选择只接收“到达”提醒、只接...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-19 20:09:25",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/bf33a110-4574-4952-b036-856e22f6c04a.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
@@ -267,17 +586,6 @@
       "thumbnail": "https://media.wired.com/photos/6a047ecbec98d3bd8037fdbe/master/pass/GettyImages-2215577882.jpg"
     },
     {
-      "title": "谷歌升级 AI Studio：文本直出原生安卓应用，打通测试全流程",
-      "link": "https://www.ithome.com/0/952/541.htm",
-      "summary": "\nIT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌为 Google AI Studio 加入原生安卓应用生成功能，用户可直接在浏览器里用文本提示创建应用。\n该功能面向两类人群：一类是希望加快原型验证的开发者，另一类是首次接触安卓开发的新手，而且输出的是可安装、可分享的完整安卓应用。\n\n技术实现方面，生成的应用采用 Kotlin（安卓开发语言）与 Jetpack ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-19 19:59:11",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/cbcf53bc-2e5a-425c-afec-541e1e682c1c.gif"
-    },
-    {
       "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
       "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
       "summary": "Plex says that it has considered getting rid of Lifetime Passes....",
@@ -287,28 +595,6 @@
       "pubDate": "2026-05-19 19:52:01",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/plex-500x500.jpg"
-    },
-    {
-      "title": "Ugreen’s new soccer ball-shaped tracker has up to 7 years of battery life",
-      "link": "https://www.theverge.com/tech/934101/ugreen-finetrack-2-mini-tracker-apple-find-my-soccer-ball",
-      "summary": "Ugreen has announced a new Apple Find My-compatible tracker with a novel design that limits where you can hide it, but greatly benefits battery life. Inspired by \"major football tournaments\" the compa...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-19 19:49:11",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "谷歌推出 Google Pics 应用：AI 生图加局部精细编辑",
-      "link": "https://www.ithome.com/0/952/540.htm",
-      "summary": "\nIT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌面向 Workspace 用户，推出 AI 图像生成与设计工具 Google Pics，主要用途包括制作活动邀请函、海报等视觉内容。\nIT之家附上演示视频如下：\n \n按照已披露的信息，这款产品目前先以网页应用形式上线，产品方向与 Canva 较为接近，核心卖点是把“生成图片”和“编辑设计”放进同一套流程里。\n\n用...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-19 19:49:05",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/932e8706-8e87-4f20-be62-10e760850acf.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
@@ -322,39 +608,6 @@
       "thumbnail": ""
     },
     {
-      "title": "谷歌推出 Ask Play：连续对话 AI 筛选应用与游戏",
-      "link": "https://www.ithome.com/0/952/539.htm",
-      "summary": "\nIT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌针对 Play 应用商店推出 Ask Play，希望把原本依赖列表翻找、评论筛选和反复试错的找应用流程，变成更自然的连续问答方式。\nAsk Play 能理解完整上下文，不仅能基于用户提出的首个需求搜索合适内容，还能继续补充限制条件，系统会把前后语义合并后再推荐应用。\n在谷歌官方给出的示例中，用户先找“无广告、无付...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-19 19:40:37",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/1bd50e0b-dcb5-43ec-9a95-b3ef8cc4db80.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "三星公布 One UI 9 的 Good Lock 兼容模块名单：兼容 16 个，7 个适配中",
-      "link": "https://www.ithome.com/0/952/538.htm",
-      "summary": "\nIT之家 5 月 20 日消息，三星昨日（5 月 19 日）发布公告，宣布 Good Lock 在 One UI 9 测试版中的兼容模块名单，方便 Galaxy S26 系列手机用户升级前判断现有自定义功能是否会受影响。\nIT之家注：Good Lock 是三星官方提供的一套深度定制工具集合，由多个独立模块组成，用户可借它修改锁屏、导航栏、主题、键盘、截图和多任务体验。\n针对这一问题，三星已在韩国...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-19 19:28:22",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "谷歌 Google TV 整合 Gemini：让 AI 提升内容发现、改善浏览交互",
-      "link": "https://www.ithome.com/0/952/537.htm",
-      "summary": "\nIT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌宣布借助 Gemini，为 Google TV 引入新的应用发现工具，帮助用户更容易找到新应用和可观看内容。\nIT之家注：这套能力建立在 2026 年 3 月已上线的 Google TV Gemini 功能之上，用户能借助它发现新的可观看内容。\n\n针对开发者，谷歌提供完善步骤优化应用适配，让用户能通过 Gemin...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-19 19:20:23",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/184114ca-df66-4d98-b52b-a42f032ac465.png?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
       "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
       "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini....",
@@ -364,28 +617,6 @@
       "pubDate": "2026-05-19 19:15:31",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "谷歌发布 Wear OS 7：智能手表续航最高提升 10%，新增 Gemini 智能入口",
-      "link": "https://www.ithome.com/0/952/536.htm",
-      "summary": "\nIT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌发布智能手表平台 Wear OS 7，新版本相比前代更聪明，也更高效，重点升级续航优化与智能交互体验。\n续航方面，谷歌官方表示从 Wear OS 6 升级到 Wear OS 7 的手表，电池续航最高可提升 10%。\n在智能方面，谷歌确认部分将在 2026 年发布的手表，将获得 Gemini Intelligenc...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-19 19:11:18",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/af06da51-c7bd-4fec-ba16-8bbba71291d8.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "谷歌发布 Antigravity 2.0：优化多智能体编程、新增定时任务",
-      "link": "https://www.ithome.com/0/952/535.htm",
-      "summary": "\nIT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌发布一组面向开发者的 AI 工具，包括 Antigravity 2.0 桌面应用、Antigravity CLI、可本地部署的 SDK，以及接入 Gemini API 的 Managed Agents。\n本次发布的核心产品是 Antigravity 2.0 桌面应用，核心定位从“面向开发者的智能体式 IDE”转向...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-19 19:02:02",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/ec134878-53f8-4823-bd26-226dd63b4188.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
@@ -421,17 +652,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/SynthID-1-500x500.jpg"
     },
     {
-      "title": "Kickstarter just killed its new mature content rules",
-      "link": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
-      "summary": "Last week, we noted Kickstarter's new content guidelines, which had some pretty weird new additions, including a prohibition on \"sexual pleasure,\" exempting \"sexual wellness products that are not desi...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-19 18:30:43",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
       "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
       "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025....",
@@ -465,17 +685,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-500x500.jpg"
     },
     {
-      "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
-      "link": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-      "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SU...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-19 18:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Google’s Genie world model can now simulate real streets with Street View",
       "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
       "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather chang...",
@@ -496,6 +705,17 @@
       "pubDate": "2026-05-19 17:51:30",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
+      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-19 17:45:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a0c9655fd46d3c726aa8789/master/pass/GettyImages-1946088999.jpg"
     },
     {
       "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
@@ -520,17 +740,6 @@
       "thumbnail": "https://media.wired.com/photos/6a0c9f6ca05e7a85645ca0a2/master/pass/Screenshot%202026-05-19%20at%201.33.39%E2%80%AFPM.png"
     },
     {
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
-      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-19 17:45:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a0c9655fd46d3c726aa8789/master/pass/GettyImages-1946088999.jpg"
-    },
-    {
       "title": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
       "link": "https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses/",
       "summary": "Here’s your first look at smart glasses coming from Warby Parker and Gentle Monster, powered by Google and Samsung’s XR platform....",
@@ -553,17 +762,6 @@
       "thumbnail": "https://media.wired.com/photos/6a0c6cfd9c99983d4686dc1a/master/pass/GettyImages-2215580727.jpg"
     },
     {
-      "title": "Google’s new AI agent can draft your emails, monitor your inbox and eventually spend your money",
-      "link": "https://venturebeat.com/technology/googles-new-ai-agent-can-draft-your-emails-monitor-your-inbox-and-eventually-spend-your-money",
-      "summary": "\nGoogle on Tuesday unveiled Gemini Spark, a personal AI agent designed to work around the clock — drafting emails, assembling documents, monitoring inboxes, and eventually making purchases — even when...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-19 17:45:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Google says Gemini 3.5 Flash can slash enterprise AI costs by more than $1 billion a year",
       "link": "https://venturebeat.com/technology/google-says-gemini-3-5-flash-can-slash-enterprise-ai-costs-by-more-than-1-billion-a-year",
       "summary": "\nGoogle unveiled Gemini 3.5 Flash at its annual I/O developer conference on Tuesday, a new artificial intelligence model that the company says shatters what had become a seemingly iron law of the AI i...",
@@ -578,6 +776,17 @@
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "summary": "\nFor a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On ...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-19 17:45:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s new AI agent can draft your emails, monitor your inbox and eventually spend your money",
+      "link": "https://venturebeat.com/technology/googles-new-ai-agent-can-draft-your-emails-monitor-your-inbox-and-eventually-spend-your-money",
+      "summary": "\nGoogle on Tuesday unveiled Gemini Spark, a personal AI agent designed to work around the clock — drafting emails, assembling documents, monitoring inboxes, and eventually making purchases — even when...",
       "source": "VentureBeat",
       "sourceKey": "venturebeat",
       "region": "us",
@@ -630,28 +839,6 @@
       "thumbnail": "https://media.wired.com/photos/6a0c7b88cffddde770352b0c/master/pass/GettyImages-2158701398.jpg"
     },
     {
-      "title": "债券市场迫使人们直面现实，特朗普无力阻止这一切",
-      "link": "https://www.tmtpost.com/7994059.html",
-      "summary": "尽管总统最新就与伊朗实现和平发表了表态，债券收益率仍然保持坚挺。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-19 14:21:57",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "一季度AI广告收入暴涨170%，B站：模型没有，广告管够",
-      "link": "https://www.tmtpost.com/7994018.html",
-      "summary": "B站至今没有拿得出手的AI模型和应用，但它硬生生地把自己解构成了“AI淘金热的卖水人”。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-19 14:09:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Understanding the modern cybercrime landscape",
       "link": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
       "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in i...",
@@ -660,29 +847,7 @@
       "region": "us",
       "pubDate": "2026-05-19 13:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "“果链”巨头拟收购巨腾国际约27.81%已发行股份；“纸尿裤材料大王”终止收购集成电路资产，公司股价20cm跌停【并购一线】",
-      "link": "https://www.tmtpost.com/7993330.html",
-      "summary": "5月19日最新并购信息及价值分析。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-19 12:49:49",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "“忽悠式”回购“翻车”，广汇能源与“新疆首富”仍在困局之中",
-      "link": "https://www.tmtpost.com/7993965.html",
-      "summary": "广汇系的业绩与信誉连环“雪崩”...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-19 12:49:11",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/HPE_VL_Backgrounds_HR_1920x1080_E.jpg?w=1920"
     },
     {
       "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
@@ -693,7 +858,7 @@
       "region": "us",
       "pubDate": "2026-05-19 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-12.34.42.png?w=1290"
     },
     {
       "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
@@ -704,29 +869,7 @@
       "region": "us",
       "pubDate": "2026-05-19 12:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "广州酒家拟发10亿可转债再启扩张，增收不增利困局待解",
-      "link": "https://www.tmtpost.com/7993857.html",
-      "summary": "80亿市值豪掷10亿扩产建网，毛利率连降下的第二次增长冒险。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-19 11:48:50",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "独家对话银河通用张直政：我们找到了VLA和世界模型的融合之路",
-      "link": "https://www.tmtpost.com/7993834.html",
-      "summary": "让各式模型路线兼容并蓄，使不同具身数据各尽其用。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-19 11:26:10",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Device_1.jpg?w=2667"
     },
     {
       "title": "AI 时代的“虚假生产力”——工具把人变成纯粹的输出管道",
@@ -828,17 +971,6 @@
       "thumbnail": ""
     },
     {
-      "title": "特朗普再次访华！6本书看懂中美会谈的关键",
-      "link": "https://www.tmtpost.com/7993651.html",
-      "summary": "来中美走向如何？这次访华对中美双方乃至世界的政治经济走向会产生哪些影响？从这6本书中，可以预瞻一些端倪。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-19 09:45:54",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Jellyfish 数据揭示：Token 消耗最高的工程师，10 倍成本仅换来 2 倍产能",
       "link": "https://www.oschina.net/news/442790",
       "summary": "\"Tokenmaxxing\"——用尽可能多的Token消耗来实现AI编程成功——正在成为一种流行趋势。但工程管理软件公司Jellyfish的最新数据给这个思路泼了一盆冷水：Token消耗最高的工程师，花费10倍的成本，产能增长却仅有2倍。 Jellyfish在2026年Q1分析了横跨200家公司、约12,000名开发者的数据，重点关注Token消耗与实际产出的关系......",
@@ -847,39 +979,6 @@
       "region": "cn",
       "pubDate": "2026-05-19 09:42:39",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "“搞钱”，才是Revolution千亿神话密码",
-      "link": "https://www.tmtpost.com/7993648.html",
-      "summary": "自IPO以来，其累积融资规模近76亿美元...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-19 09:38:51",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "前瞻2026丨即饮咖啡，走到“十字路口”？",
-      "link": "https://www.tmtpost.com/7993626.html",
-      "summary": "这次要“火”起来了？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-19 09:35:05",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "体面退场，或许也是三星手机最好的“归宿”",
-      "link": "https://www.tmtpost.com/7993646.html",
-      "summary": "三星手机，该不该退出？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-19 09:35:03",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -982,17 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
-      "link": "https://36kr.com/p/3814860909600261?f=rss",
-      "summary": "\n文｜王欣逸\n  编辑｜邱晓芬\n  一句话介绍\n  鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类从事高危、繁重、脏乱、重复（Deadly/Difficult/Dirty/Duplicate）的物理作业。\n  融资进展\n  近日，鲸跃动力已完成由星海图独家...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-19 02:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
       "link": "https://www.qbitai.com/2026/05/419597.html",
       "summary": "落地全球27城...",
@@ -1004,17 +1092,6 @@
       "thumbnail": ""
     },
     {
-      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
-      "link": "https://36kr.com/p/3805660478184966?f=rss",
-      "summary": "\n作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。\n  SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-19 01:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Here’s why Elon Musk lost his suit against OpenAI",
       "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
       "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat...",
@@ -1022,28 +1099,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-05-19 00:53:10",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生",
-      "link": "https://36kr.com/p/3815459487587847?f=rss",
-      "summary": "\n今日热点导览\n  \n瑞幸咖啡正式上线两款含酒精的特调饮品\n   京张高铁试点推出“自行车随身行”服务\n   马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术\n   韩国法院要求三星电子罢工行动不得影响产量\n   多家理财公司集中提前终止理财产品\n  \nTOP 3 大新闻\n  贾跃亭又拿到7000万美元投资\n  贾跃亭发布视频，宣布法拉第未来近期完成了7000万美元（现汇率约合4....",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-19 00:08:58",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
-      "link": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
-      "summary": "\nRedis built its name as the caching layer that kept web applications from collapsing under load. The problem it is targeting now has the same structure but is harder to solve: production AI agents fa...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-18 23:17:44",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1111,62 +1166,7 @@
       "region": "us",
       "pubDate": "2026-05-18 12:10:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
-      "link": "https://36kr.com/p/3814695536336387?f=rss",
-      "summary": "\n大公司：\n  索辰科技：物理AI业务目前尚处于布局初期\n  36氪获悉，索辰科技公告，公司股票于2026年5月14日至5月18日连续三个交易日内收盘价格涨幅偏离值累计达到30%，属于股票交易异常波动情形。公司近期实施的募投项目“物理合成数据核心技术基座构建与多领域场景示范应用项目”尚处于筹备阶段，若出现募集资金投资项目未能顺利实施、新技术开发进度不达预期、研发遭遇技术瓶颈甚至失败，将会对公司经营...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-18 11:11:14",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
-      "link": "https://www.qbitai.com/2026/05/419515.html",
-      "summary": "底层范式变了...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-05-18 10:26:46",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
-      "link": "https://36kr.com/p/3810598875307780?f=rss",
-      "summary": "\n作者｜兰杰 李晓霞\n  编辑｜乔芊\n  36氪独家获悉，据多位接近字节跳动人士消息，字节旗下的番茄小说正在推动AI动漫上院线。在这一过程中，会开放番茄小说平台头部IP的改编权限。\n  之于番茄小说，如何更好地挖掘平台上好IP的潜力和商业价值，是一个亟待解决的难题。\n  一方面，以文字形式为载体的IP内容，缺乏统一的视觉形象，使得平台上的IP难以有联名、衍生品等更丰富的变现形式。另一方面，AI漫剧...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-18 09:46:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验",
-      "link": "https://36kr.com/p/3814570248412677?f=rss",
-      "summary": "\n在智能手机行业普遍面临镜头模组日益凸出、机身内部堆叠空间受限的背景下，电竞旗舰由于其对散热和功耗的极端要求，往往表现出更为激进的工业设计。作为新一代的性能导向型产品，红魔11S Pro系列通过软硬件的垂直堆叠，试图在移动终端上探索更进一步的性能上限。以下我们将从设计、理论性能释放、以及实际软硬件体验三个维度，对其进行深度拆解。\n  &amp;amp;nbsp;\n  一、 外观设计：纯平后盖的内部...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-18 09:35:19",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-      "link": "https://36kr.com/p/3814408307711492?f=rss",
-      "summary": "\n进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问：\n  朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？\n  AI创业、AI融资如火如荼，属于我的机会又在哪里？\n  别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？\n  ……\n  到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？\n  如果你对这些问题还很模糊，不妨来...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-18 07:03:20",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/06/Lymph-Node-Chip-0709-1.jpg?w=2702"
     },
     {
       "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
