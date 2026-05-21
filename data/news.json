@@ -1,7 +1,18 @@
 {
-  "updateTime": "2026-05-21T16:19:56.441Z",
+  "updateTime": "2026-05-21T19:04:32.702Z",
   "total": 117,
   "news": [
+    {
+      "title": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
+      "link": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant",
+      "summary": "\nAI agents forget. Every time a coding assistant loses track of a debugging thread, or a data analysis agent re-ingests the same context it already processed, the team pays in latency, token costs, an...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-21 19:00:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "Enterprise AI agents keep failing because they forget what they learned",
       "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
@@ -14,7 +25,172 @@
       "thumbnail": ""
     },
     {
-      "title": "This young startup is taking on a fragrance industry that hasn’t changed in a almost half century",
+      "title": "Mustard Made Storage Lockers Are on a Rare Sale Through May 31",
+      "link": "https://www.wired.com/story/mustard-made-sale/",
+      "summary": "We love this brand’s stylish storage lockers, and there's a big sale on eight colors through the end of the month....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-21 18:22:40",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a0f2dd449ad09d6fc2535b1/master/pass/Mustard%20Made%20deals%20post%20top%20art%20052026%20SOURCE%20Mustard%20Made.jpg"
+    },
+    {
+      "title": "Bungie gives up on Destiny",
+      "link": "https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date",
+      "summary": "Bungie is moving on from Destiny 2. The studio announced Thursday that it's releasing the last major update for the game on June 9th as its focus \"turns towards a new beginning for Bungie.\" After that...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-21 17:48:34",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ss_5065e2bb5de91535dc5e390e27e391a8b9b367ee.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Palantir Held a Hack Week to Add New Controls to Software Used by ICE",
+      "link": "https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/",
+      "summary": "The hackathon, held to build user-auditing tools for Palantir customers, comes as the company struggles to address employee concerns over its relationship with ICE....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-21 17:44:42",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a0e2b7526c9e97a2b5443cb/master/pass/pol_palantir_GettyImages-2276544431.jpg"
+    },
+    {
+      "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+      "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+      "summary": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-21 17:41:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+      "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-21 17:30:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day",
+      "link": "https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale",
+      "summary": "If your summer plans involve spending any time outdoors, whether on the trail or at a pool party, a good portable Bluetooth speaker can go a long way. The latest Sonos Roam is built precisely for thos...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-21 17:27:16",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25457301/roam2_2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The Endless AI guitar pedal has potential",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+      "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-21 17:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268540_Polyend_Endles_TOBrien_0036.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Uber is deploying its own self-driving cars again, just not as robotaxis",
+      "link": "https://www.theverge.com/news/935204/uber-av-lab-self-driving-data-collection",
+      "summary": "Uber is putting its own autonomous vehicles back on the road as part of its new AV Lab project to collect data for its dozens of robotaxi partners. The cars will be fitted with all the sensors typical...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-21 16:59:45",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HI0DbbSbIAED_vm.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "This mechanical bird drops dead when your home’s air quality worsens",
+      "link": "https://www.theverge.com/tech/935292/birdie-pro-smart-air-monitor-kickstarter-crowdfunding",
+      "summary": "The original Birdie debuted in 2022 with a morbid-but-fun design - an air-quality monitor with a literal canary in a coal mine. When the CO2 in your home hit a certain level, a mechanical bird mounted...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-21 16:57:35",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/birdiepro1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Top Gun turns 40",
+      "link": "https://arstechnica.com/culture/2026/05/top-gun-turns-40/",
+      "summary": "Tony Scott's 1986 blockbuster and the 2022 sequel are the best recruitment tools the US Navy could hope for....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-21 16:42:43",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/topgun-LIST-500x500-1778530431.jpg"
+    },
+    {
+      "title": "MFA verifies who logged in. It has no idea what they do next.",
+      "link": "https://venturebeat.com/security/mfa-verifies-who-logged-in-it-has-no-idea-what-they-do-next",
+      "summary": "\nEvery MFA check passed. Every login was legitimate. The compliance dashboard was green across every identity control. And the attacker was already inside, moving laterally through Active Directory wi...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-21 16:30:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Americans can’t spot a deepfake, and that’s a business crisis, not just a consumer problem",
+      "link": "https://venturebeat.com/security/americans-cant-spot-a-deepfake-and-thats-a-business-crisis-not-just-a-consumer-problem",
+      "summary": "\nPresented by Veriff \n\nAmericans can’t reliably distinguish real from AI-generated content, and that’s not just a media literacy problem; it’s a direct threat to how businesses verify identity online....",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-21 16:30:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The cost of the smart home is going up",
+      "link": "https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue",
+      "summary": "Selling the smart home has been hard. Even Amazon has lost money in the space, despite putting hundreds of millions of Echo devices in people's homes. Google has also reportedly struggled to turn a pr...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-21 16:15:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0204.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Uh-oh, the International Space Station is leaking again",
+      "link": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
+      "summary": "\"This further confirms the wisdom of the current policy of retiring the ISS in 2030.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-21 16:07:17",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/International_Space_Station_after_undocking_of_STS-132-500x500.jpg"
+    },
+    {
+      "title": "Meta and Google get data from the app your boss uses to track you",
+      "link": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
+      "summary": "Hundreds of thousands of workplaces use software to monitor employees. Now, a new study has found that many of these tools share data not just with employers, but with digital advertising platforms an...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-21 16:03:05",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
       "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
       "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures. ...",
       "source": "TechCrunch",
@@ -49,7 +225,7 @@
     {
       "title": "Spotify is launching AI-generated remixes",
       "link": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-      "summary": "Spotify and Universal Music Group (UMG) announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on f...",
+      "summary": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add...",
       "source": "The Verge",
       "sourceKey": "theverge",
       "region": "us",
@@ -80,42 +256,20 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25378910/STK088_SPOTIFY_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
-      "link": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
-      "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-21 15:47:29",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "AI video is moving beyond clip slop",
-      "link": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growi...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-21 15:30:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-21-at-10.55.11AM.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Viture’s refurb Luma Pro smart glasses are more than half off at eBay",
-      "link": "https://www.theverge.com/gadgets/935236/viture-refurbished-smart-glasses-nintendo-switch-2-camera-deal-sale",
-      "summary": "Price is a big barrier for most people who’d like to try out smart glasses for gaming, watching movies, or using their computers. Many models are at $400 and up, but you can snag a refurbished pair of...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-21 15:29:18",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/viturelumapro.png?quality=90&strip=all&crop=0,0,100,100"
+      "title": "蔚来李斌：汽车行业材料成本压力非常大，将保持价格稳定",
+      "link": "https://www.ithome.com/0/953/667.htm",
+      "summary": "\nIT之家 5 月 21 日消息，今天（21 日）晚间，蔚来创始人、董事长、CEO 李斌在 2026 年一季度财报电话会上表示，今年整个原材料涨价，特别是内存芯片的涨价，对整个行业还是带来了非常大的压力。蔚来每辆车平均下来有一万以上的成本压力。\n李斌表示，蔚来会保持价格稳定，保持产品、服务的综合竞争力，且不会将“量”作为最主要的经营策略，保持量的合理增长。“单纯追求量不能带来毛利显著改善，所以我们...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-21 15:34:26",
+      "category": "chip",
+      "thumbnail": ""
     },
     {
       "title": "Spotify takes on Google’s NotebookLM with its new app",
       "link": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets...",
+      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -234,7 +388,7 @@
       "thumbnail": ""
     },
     {
-      "title": "自动驾驶车辆被困洪水，Waymo 暂停亚特兰大地区 Robotaxi 服务",
+      "title": "自动驾驶车辆因洪水被困，Waymo 暂停亚特兰大地区 Robotaxi 服务",
       "link": "https://www.ithome.com/0/953/661.htm",
       "summary": "\nIT之家 5 月 21 日消息，据外媒 TechCrunch 今晚报道，Waymo 宣布暂停亚特兰大和圣安东尼奥的 Robotaxi 运营服务，原因是无人驾驶出租车目前仍难以稳定应对暴雨和道路积水问题。\n当地时间周三，一辆 Waymo 无人驾驶出租车在亚特兰大一处严重积水路段行驶后被困，车辆最终在现场停留约一小时后才被拖离。Waymo 方面确认，涉事车辆当时并未载客，目前已经完成回收。在找到正式...",
       "source": "IT之家",
@@ -322,17 +476,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/23r4t35wethsff3.png"
     },
     {
-      "title": "雷军回应只公布锁单数据：去年小米 YU7 3 分钟大定超过 20 万辆，行业没有人信，觉得数据有问题",
-      "link": "https://www.ithome.com/0/953/652.htm",
-      "summary": "\nIT之家 5 月 21 日消息，据新浪科技今晚报道，在 YU7 GT 小米人车家全生态新品发布会后，小米集团董事长、CEO 雷军，小米集团副总裁、汽车部 CTO 胡峥楠，小米汽车部副总裁宋钢，小米汽车首席测试车手任周灿与媒体对话。\n被问及小米汽车为何只公布锁单数据，雷军表示，去年小米 YU7 3 分钟大定超过 20 万辆，行业没有人信，觉得数据有问题，后来就只公布锁单数据，这个是不能退的。\n提到...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-21 14:07:02",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
       "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
       "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots. ...",
@@ -344,50 +487,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
-      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-21 14:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
-      "link": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
-      "summary": "Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-21 14:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "I tested several cases for the Switch 2 and these are the best",
-      "link": "https://www.theverge.com/reviews/691319/best-switch-2-cases",
-      "summary": "You might find it kind of sad to put your hard-earned Switch 2 into a protective case. To me, it’s freeing. Sure, it can take away from the slick design. But using a case relieves me of the worry that...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-21 14:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/257824_buying_guide_switch_2_case_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Musk v. Altman: Much ado about nothing",
-      "link": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
-      "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-21 14:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_DCD_MuskvAltman.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "US government takes $2 billion equity stake in nine quantum computing firms",
       "link": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
       "summary": "Beneficiaries include startup backed by firm with links to the Trump family....",
@@ -397,17 +496,6 @@
       "pubDate": "2026-05-21 13:48:38",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM-500x500.png"
-    },
-    {
-      "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
-      "link": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-      "summary": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO fi...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-21 13:35:52",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Plug-in hybrids get plugged in more than you might think",
@@ -430,17 +518,6 @@
       "pubDate": "2026-05-21 13:33:42",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a0e0dd7a38dc9cb19f67138/master/pass/NY-LA-Teaming-Up-EVs-Gear-55281267645_f3b617d84a_b.jpg"
-    },
-    {
-      "title": "Netflix’s next great sci-fi show is set in a retirement community",
-      "link": "https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix",
-      "summary": "Four decades on, '80s-style science fiction adventures continue to exert their influence on modern film and TV. The idea of a group of kids teaming up to face an otherworldly threat has become a trope...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-21 13:30:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/The_Boroughs_n_S1_00_44_04_19R.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
@@ -663,17 +740,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/ad0101c7c061598c119f8d36e9efc431_1779359563.png"
     },
     {
-      "title": "‘Margo’s Got Money Troubles’ Won TV’s OnlyFans Wars",
-      "link": "https://www.wired.com/story/margos-got-money-troubles-won-tvs-onlyfans-wars/",
-      "summary": "Unlike Euphoria, the Apple TV show wants to humanize the experience of sex workers rather than catastrophize the extremes of the profession....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-21 10:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a0c8b83a05e7a85645ca012/master/pass/Margos-Got-Money-Troubles-Culture-010802.jpg"
-    },
-    {
       "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
       "link": "https://36kr.com/p/3818903062004870?f=rss",
       "summary": "\n\n   AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能，而是把“人等货”变成“货等人”。\n  \n  演讲拆解了AI从概念到产线的落地路径：用自动化中台打通全链路协同，让AI在研发设计、工程预测、供应链管理...",
@@ -782,17 +848,6 @@
       "pubDate": "2026-05-21 10:00:02",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/zeiss-logo-above-the-slogan-seeing-beyond-on-a-dark-curved-rectangle.png?id=66728517&width=980"
-    },
-    {
-      "title": "4chan’s Misogynist ‘Wizards’ Are Nudifying Women by Request",
-      "link": "https://www.wired.com/story/4chans-misogynist-wizards-are-nudifying-women-by-request/",
-      "summary": "As nonconsensual explicit deepfakes continue to proliferate online, entire communities are now collaborating on this digital form of sexual abuse....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-21 10:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a0dfaf4aa8901b570a24e37/master/pass/Culture_The4chanNudifyingWizards%20_v1.jpg"
     },
     {
       "title": "Climate tech companies are pivoting to critical minerals",
@@ -1037,17 +1092,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11pre1-500x500.jpg"
     },
     {
-      "title": "Google's Managed Agents API promises one-call deployment at the cost of execution layer control",
-      "link": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control",
-      "summary": "\nAt Google I/O, the company unveiled Managed Agents in its Gemini API — a service that promises to collapse weeks of agent deployment work into a single API call. It's also a sign that Google believes...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-20 22:26:11",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
       "link": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
       "summary": "Officials denied refusing entry, but dodged questions on why Americans didn't return....",
@@ -1070,17 +1114,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/1-PIA26771_Mars-crescent-pYdenxFS-500x500.jpg"
     },
     {
-      "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
-      "link": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
-      "summary": "\nCanadian AI lab Cohere made waves recently by announcing a merger with German AI startup Aleph Alpha, but now it has even more in store for enterprise builders around the globe: today, the firm co-fo...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-20 21:16:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Masters of the Universe final trailer brings the '80s nostalgia",
       "link": "https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/",
       "summary": "\"You are he who will restore peace to Eternia.\"...",
@@ -1092,17 +1125,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/heman1-500x500.jpg"
     },
     {
-      "title": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds",
-      "link": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds",
-      "summary": "\nLess than a week after completing the largest tech IPO of 2026, Cerebras Systems is making its most aggressive play yet to dominate the fast-growing AI inference market. On Monday, the Sunnyvale-base...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-20 19:59:22",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
       "link": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
       "summary": "The 0–60 time is impressive, the miles/kWh number even more so....",
@@ -1112,28 +1134,6 @@
       "pubDate": "2026-05-20 19:53:34",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/26C0129_030-500x500.jpg"
-    },
-    {
-      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
-      "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
-      "summary": "It could be one way to make your old PC play nicely with a high-end GPU....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-20 19:19:44",
-      "category": "chip",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0216-1-500x500.jpeg"
-    },
-    {
-      "title": "Google publishes exploit code threatening millions of Chromium users",
-      "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-      "summary": "Google publishes exploit code before patch, reported 42 months earlier, is fixed....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-20 19:10:36",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo-500x500.jpeg"
     },
     {
       "title": "Green steel startup Boston Metal is doubling down on critical metals",
