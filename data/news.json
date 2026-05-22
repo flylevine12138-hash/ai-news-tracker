@@ -1,11 +1,88 @@
 {
-  "updateTime": "2026-05-22T21:20:36.317Z",
+  "updateTime": "2026-05-22T23:09:41.794Z",
   "total": 117,
   "news": [
     {
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-22 23:03:33",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+      "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+      "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-22 22:55:57",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "Valid certificates, stolen accounts: how attackers broke npm's last trust signal",
+      "link": "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026",
+      "summary": "\nOn May 19, 633 malicious npm package versions passed Sigstore provenance verification. They were cleared by the system because the attacker had generated valid signing certificates from a compromised...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-22 22:21:34",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "First-generation Chromecast users stressed by devices suddenly failing",
+      "link": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+      "summary": "Google tells Ars it fixed the first-gen Chromecast bug....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-22 21:42:59",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-500x500-1779483051.jpg"
+    },
+    {
+      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
+      "link": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+      "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-22 21:37:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+      "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+      "summary": "FCC seeks opinions on whether ABC show's decisions are \"based on newsworthiness.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-22 21:10:46",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-500x500-1758655749.jpg"
+    },
+    {
+      "title": "Your AI agents need a terminal, not just a vector database",
+      "link": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
+      "summary": "\nWhen agentic workflows fail, developers often assume the problem lies in the underlying model’s reasoning abilities. In reality, the limited information provided by the retrieval interface is often t...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-22 21:05:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
       "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-      "summary": "You can now disco ball-ify your entire Pixel homescreen, says Google....",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -14,13 +91,24 @@
       "thumbnail": ""
     },
     {
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups ",
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups ",
       "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
       "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-05-22 20:40:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+      "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd s...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-22 20:39:54",
       "category": "ai",
       "thumbnail": ""
     },
@@ -99,7 +187,7 @@
       "region": "us",
       "pubDate": "2026-05-22 18:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Twelve-South-AirFly-Pro-2-lifestyle-image.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Before it comes down, what should be saved from the International Space Station?",
@@ -154,7 +242,7 @@
       "region": "us",
       "pubDate": "2026-05-22 17:27:08",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meta-forum-app-featured.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Soaring solar and a surge in hydro push more coal off the US grid",
@@ -176,18 +264,7 @@
       "region": "us",
       "pubDate": "2026-05-22 17:17:06",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_STK022_K_Radtke_Musk_Smiles.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
-      "link": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-      "summary": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-22 16:51:40",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276026044-500x500-1779465376.jpg"
+      "thumbnail": ""
     },
     {
       "title": "The best Memorial Day sales you can shop this weekend",
@@ -198,7 +275,7 @@
       "region": "us",
       "pubDate": "2026-05-22 16:50:38",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0103.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date",
@@ -209,7 +286,7 @@
       "region": "us",
       "pubDate": "2026-05-22 16:30:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Govee-Table-Lamp-2-Pro-Deal-Image.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Google appeals search monopoly ruling, says it won business ‘fair and square’",
@@ -220,7 +297,7 @@
       "region": "us",
       "pubDate": "2026-05-22 16:28:56",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST__STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
@@ -245,17 +322,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The Steam Controller’s “drop-in” charger almost started a fire for this owner",
-      "link": "https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/",
-      "summary": "Keep the charging puck’s exposed pins far away from anything metal....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-22 16:24:11",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/steampuck-500x500.jpg"
-    },
-    {
       "title": "Spotify’s AI bet: more of everything, less of what you want",
       "link": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
       "summary": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much....",
@@ -275,7 +341,7 @@
       "region": "us",
       "pubDate": "2026-05-22 16:17:54",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "You can no longer Google the word ‘disregard’",
@@ -287,17 +353,6 @@
       "pubDate": "2026-05-22 16:16:48",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
-      "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-      "summary": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-22 16:01:17",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "2099 元，中兴 G5 Pro 高性能版 5G 移动路由器 CPE 将于 5 月 28 日开售",
@@ -418,7 +473,7 @@
       "region": "us",
       "pubDate": "2026-05-22 14:48:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/LG-B5-OLED-TV-deal.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "美光弗州 1α DRAM 产线投产，保障美国 (LP) DDR4 内存供应",
@@ -440,7 +495,7 @@
       "region": "us",
       "pubDate": "2026-05-22 14:46:20",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Vrg_illo_trump_phone_np2.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "北汽极狐贝塔 S3 上市 2 小时新增大定 1 万 + 台，电池租用 5.98 万元起",
@@ -484,39 +539,6 @@
       "region": "cn",
       "pubDate": "2026-05-22 14:31:31",
       "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
-      "link": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-      "summary": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform and was evaluating whether it needs to notify customers....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-22 14:30:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "SpaceX files to go public, and the math requires a little faith",
-      "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-22 14:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta quietly launches a new Reddit-like app called Forum",
-      "link": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
-      "summary": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-22 14:24:16",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -605,7 +627,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 12:12:08",
       "category": "other",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_262e3efc1713407dbc75496e7136a9fd@5748245_oswg200802oswg1265oswg846_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
@@ -616,7 +638,7 @@
       "region": "us",
       "pubDate": "2026-05-22 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/06/GettyImages-892980170-crop.jpeg?w=3000"
     },
     {
       "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
@@ -737,7 +759,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 10:37:09",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_74a793fed1ca455a8bce877409f45e40@6381723_oswg71379oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Valve Steam Controller Review (2026): Wait for the Steam Machine",
@@ -751,7 +773,7 @@
       "thumbnail": "https://media.wired.com/photos/6a0b1a8f5b26f3e1da9832a7/master/pass/Steam%20Controller%20(3)top.jpg"
     },
     {
-      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大��",
+      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
       "link": "https://36kr.com/p/3820298219425924?f=rss",
       "summary": "\n\n   中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。\n  \n  江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成10...",
       "source": "36氪",
@@ -759,7 +781,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 10:23:21",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_a1ca8f4b24bf47fea0247adaa1235e49@6381723_oswg269247oswg1600oswg1067_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "B 站发布 2026 Q1 财报",
@@ -847,7 +869,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 08:57:09",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_6a7e57a5f6814ecd8796b49d2f2cf81b@6381723_oswg64374oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "让好项目，更早被看见",
@@ -858,7 +880,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 08:55:24",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_59e6f1f1286e410196bbf3050cfd0e03@5284654_oswg680475oswg1280oswg478_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "互联网底层基础设施构建者：一位高中女教师的代码改变了世界",
@@ -924,7 +946,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 07:58:39",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_4e052dc0b7f94da997a055104d50505c@6381723_oswg491451oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会",
@@ -935,7 +957,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 07:38:36",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_e151a6e19d87477eb9ce48cb616cc38a@6381723_oswg109820oswg1000oswg667_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "以场景为锚，以AI为翼：大健康产业的实践与突破| 2026AI Partner·北京亦庄AI+产业大会",
@@ -946,7 +968,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 07:32:35",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_bff9000e4e6b4c3db18e74f2f353872f@6381723_oswg799187oswg1269oswg847_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
@@ -1045,7 +1067,7 @@
       "region": "us",
       "pubDate": "2026-05-21 19:16:43",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Digital-paper-marble.jpeg"
     },
     {
       "title": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
@@ -1092,17 +1114,6 @@
       "thumbnail": ""
     },
     {
-      "title": "MFA verifies who logged in. It has no idea what they do next.",
-      "link": "https://venturebeat.com/security/mfa-verifies-who-logged-in-it-has-no-idea-what-they-do-next",
-      "summary": "\nEvery MFA check passed. Every login was legitimate. The compliance dashboard was green across every identity control. And the attacker was already inside, moving laterally through Active Directory wi...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-21 16:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
       "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
       "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex,...",
@@ -1111,18 +1122,7 @@
       "region": "us",
       "pubDate": "2026-05-21 14:30:45",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kore.ai launches Artemis AI agent platform, takes on Salesforce and ServiceNow",
-      "link": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce",
-      "summary": "\nKore.ai on Wednesday launched what amounts to a ground-up reinvention of its core technology: the Artemis edition of its Agent Platform, a system designed to let enterprises build, govern, and optimi...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-21 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/PXL_20260519_113915550.MP_.jpg?w=2987"
     },
     {
       "title": "The Download: online safety’s future and climate tech’s big pivot",
@@ -1133,7 +1133,7 @@
       "region": "us",
       "pubDate": "2026-05-21 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/06/AF-MIT-JUAREZ-MAR2023-029.jpeg?w=3000"
     },
     {
       "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
