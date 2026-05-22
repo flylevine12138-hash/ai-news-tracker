@@ -1,11 +1,275 @@
 {
-  "updateTime": "2026-05-22T14:51:51.887Z",
+  "updateTime": "2026-05-22T17:13:30.287Z",
   "total": 117,
   "news": [
     {
+      "title": "The best Memorial Day sales you can shop this weekend",
+      "link": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+      "summary": "Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar li...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-22 16:50:38",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date",
+      "link": "https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale",
+      "summary": "They say that Memorial Day marks the unofficial start of summer. I have my doubts given the less-than-balmy weather in many parts of the US this weekend, though that doesn’t mean it’s not an appropria...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-22 16:30:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google appeals search monopoly ruling, says it won business ‘fair and square’",
+      "link": "https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal",
+      "summary": "Google officially filed its appeal of the federal ruling deeming it an illegal search monopolist, arguing the decision \"crashed\" through legal guardrails. \"Google just prevailed in the marketplace fai...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-22 16:28:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
+      "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
+      "summary": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-22 16:28:06",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
+      "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
+      "summary": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-22 16:27:57",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "PSA: The Steam Controller’s magnetic charger can be a fire hazard",
+      "link": "https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/",
+      "summary": "Keep the charging puck’s exposed pins far away from anything metal....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-22 16:24:11",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/steampuck-500x500.jpg"
+    },
+    {
+      "title": "Spotify’s AI bet: more of everything, less of what you want",
+      "link": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
+      "summary": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-22 16:18:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Waymo suspends freeway driving amid safety concerns",
+      "link": "https://www.theverge.com/transportation/936129/waymo-freeway-suspend-atlanta-san-antonio-flood-pause",
+      "summary": "On Thursday, Waymo customers opened up the app and noticed something unusual: no more freeway service. Trips that would normally take a few minutes on the freeway were suddenly projected to last much ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-22 16:17:54",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "You can no longer Google the word ‘disregard’",
+      "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-22 16:16:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+      "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "summary": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-22 16:01:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "2099 元，中兴 G5 Pro 高性能版 5G 移动路由器 CPE 将于 5 月 28 日开售",
+      "link": "https://www.ithome.com/0/954/221.htm",
+      "summary": "\nIT之家 5 月 22 日消息，中兴 G5 Pro 高性能版 5G 移动路由器 CPE 将于 5 月 28 日开售，支持 5G-A 超高速网络。这款新品已开启预售，价格为 2099 元。\n\nIT之家从商品页面获悉，这款 CPE 支持 Wi-Fi 7，理论峰值下载速度可达 4.29Gbps；内置中兴官方流量卡，最高支持千兆速率；这款 CPE 搭载双 2.5G 网口，支持插卡上网和有线宽带上网两种方...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-22 15:54:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-22 15:37:15",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Routers vs. Modems: What You Need to Get Online",
+      "link": "https://www.wired.com/story/router-vs-modem/",
+      "summary": "Your modem and router are the dynamic duo you need to get online, so long as you don't mistake one for the other....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-22 15:14:37",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a0dfd9ddc47543f0fce9ed5/master/pass/Modem%20vs%20Router%20top%20art%20052026%20SOURCE%20Amazon.jpg"
+    },
+    {
+      "title": "鸿蒙智行全新一代问界 M9 系列旗舰 SUV 选配信息大公开，Ultimate 领世加长版大满配价格逼近百万",
+      "link": "https://www.ithome.com/0/954/220.htm",
+      "summary": "\nIT之家 5 月 22 日消息，华为官网再放“猛料”，公开了鸿蒙智行全新一代问界 M9 系列旗舰 SUV 选配信息。普通问界 M9 Max+ / Ultra 与问界 M9 Ultimate 独立开选，共计三款车型，并分五座、六座两种布局和增程、纯电两种动力（均为四驱）。\n\n▲ 图源：华为官网截图 | 问界 M9 Max+ / Ultra\n▲ 图源：华为官网截图 | 问界 M9 UltimateI...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-22 15:03:23",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Even If You Hate AI, You Will Use Google AI Search",
+      "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+      "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-22 15:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a0f3c884bfa87f10e0f1aa1/master/pass/Backchannel-Google-Search-Business-2276578156.jpg"
+    },
+    {
+      "title": "高德上线北京市养老服务地图，整合全市 1500 余家养老机构、社区驿站等设施信息",
+      "link": "https://www.ithome.com/0/954/219.htm",
+      "summary": "\nIT之家 5 月 22 日消息，高德地图官方公众号宣布：北京市民政局联合高德开发制作的北京市养老服务地图正式上线。该地图整合了全市养老机构、社区养老服务驿站等 1500 余家养老服务设施信息，全面展示机构位置、服务内容、联系方式等信息，为老年人及家属提供便捷高效的查询指引和出行导航服务。\nIT之家从官方获悉，目前用户打开高德地图 App，搜索“北京养老服务地图”，即可一键查看周边养老机构的位置、...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-22 14:54:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果股价再创新高，总市值站上 4.5 万亿美元",
+      "link": "https://www.ithome.com/0/954/218.htm",
+      "summary": "\nIT之家 5 月 22 日消息，今日美股开盘，苹果公司股价上涨 1.56%，报 309.74 美元 / 股，其总市值达到 4.5 万亿美元（现汇率约合 30.65 万亿元人民币）。\n\nIT之家注意到，进入 5 月之后，苹果股价连创新高。5 月 6 日，该公司创下 287.51 美元的收盘纪录。5 月 15 日，该公司股价收于 300.23 美元，首次站上 300 美元关口。\n根据苹果 2026 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-22 14:48:01",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card",
+      "link": "https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale",
+      "summary": "Best Buy’s Memorial Day sale includes a good deal on a massive OLED TV. The 77-inch LG B5 is down to $1,499.99 (originally $2,999.99), and the purchase includes a $200 Best Buy gift card. I’m a 55-inc...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-22 14:48:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "美光弗州 1α DRAM 产线投产，保障美国 (LP) DDR4 内存供应",
+      "link": "https://www.ithome.com/0/954/217.htm",
+      "summary": "\nIT之家 5 月 22 日消息，Micron（美光）当地时间今日宣布，其位于美国弗吉尼亚州 Manassas（马纳萨斯）的生产基地启动 1α (1-alpha) 工艺 DRAM 内存的生产，预计将于今年内实现量产。\n\n由于主要制造商的产能转移，DDR4 与 LPDDR4 市场正被迫快速利基化。而美光向其本土工厂引入用于 DDR4 生产的最先进制程 1α，保障了对美国汽车、国防、航空航天、工业、网...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-22 14:46:51",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Trump phone is not here",
+      "link": "https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. It's now been more than a week since Trump Mobile ann...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-22 14:46:20",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "北汽极狐贝塔 S3 上市 2 小时新增大定 1 万 + 台，电池租用 5.98 万元起",
+      "link": "https://www.ithome.com/0/954/216.htm",
+      "summary": "\nIT之家 5 月 22 日消息，北汽极狐刚刚宣布，极狐贝塔 S3 上市 2 小时新增大定 10000+ 台。\n\nIT之家从今晚发布会获悉，北汽极狐公布了三系格局：\n\n问道，代表方向与东方智慧\n阿尔法，代表技术与极致体验\n贝塔，代表普惠与越级价值\n\n\n\n贝塔系列首款产品极狐贝塔 S3 今晚正式上市，充电版 7.98 万元起，换电版电池租用 5.98 万元起。\n\n发布会时官方透露，预售订单突破 3 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-22 14:43:33",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
+      "link": "https://www.qbitai.com/2026/05/422811.html",
+      "summary": "虾的下半场才刚开始...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-05-22 14:42:54",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软 35 年老将优素福 · 迈赫迪宣布离职，最后一年将协助 Windows 适应 Agent 时代",
+      "link": "https://www.ithome.com/0/954/215.htm",
+      "summary": "\nIT之家 5 月 22 日消息，据《商业内幕》今日报道，在微软工作 35 年的资深高管优素福 · 迈赫迪将在下一财年结束后离开公司。2023 年至今，迈赫迪担任微软商业业务首席营销官。\n迈赫迪在备忘录中写道：“在微软度过 35 段非凡岁月后，我认为现在是开始规划下一段人生旅程的时候了。在这 35 年里，我经历了冒险、挑战、转型与创新。我将在下一个财年继续工作，帮助 Windows 适应 Agen...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-22 14:38:34",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "新款吉利星愿纯电小车将于 5 月 28 日上市：新增辅助泊车、哨兵模式",
+      "link": "https://www.ithome.com/0/954/214.htm",
+      "summary": "\nIT之家 5 月 22 日消息，吉利汽车宣布旗下新款星愿纯电小车将于 5 月 28 日上市，该车主要新增支持辅助泊车、哨兵模式，电池方面将搭载 35kWh 和 47kWh 电池包，纯电续航分别为 360km 和 460km。\n\n▲ 现款吉利星愿（下同）外观方面，新款吉利星愿整体设计基本延续在售车型。主要在翼子板处增加摄像头，使得车辆支持自动泊车以及哨兵模式。同时车辆还将换装全新样式的轮圈。\n\n内...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-22 14:31:31",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
       "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
       "link": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-      "summary": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform, and was evaluating whether it needs to notify customers....",
+      "summary": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform and was evaluating whether it needs to notify customers....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -25,6 +289,17 @@
       "thumbnail": ""
     },
     {
+      "title": "NASA undertakes major reorganization to reduce bureaucracy and move faster",
+      "link": "https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/",
+      "summary": "\"It is imperative to concentrate resources towards the highest priority objectives.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-22 14:28:42",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2218040220-500x500.jpg"
+    },
+    {
       "title": "Meta quietly launches a new Reddit-like app called Forum",
       "link": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
       "summary": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"...",
@@ -36,7 +311,18 @@
       "thumbnail": ""
     },
     {
-      "title": "Why would you disrespect your favorite artist with an AI remix?",
+      "title": "今年 4 月，中国品牌在欧洲电动汽车市场销量的占比首破 15%",
+      "link": "https://www.ithome.com/0/954/213.htm",
+      "summary": "\nIT之家 5 月 22 日消息，据彭博社 22 日（今天）报道，中国汽车品牌正在快速扩大欧洲市场份额。\nIT之家从数据中获悉，今年 4 月，中国车企在欧洲电动汽车市场的销量占比首次突破 15%。比亚迪、奇瑞等中国车企当月电动汽车销量同比增长超过一倍，达到 38281 辆。与此同时，中国品牌在整个欧洲汽车市场的份额也正在逼近 10%。\n过去几年，中国车企持续加速进入欧洲市场。一方面，欧洲本土厂商迟...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-22 14:20:26",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Spotify says its AI remix tool is for superfans, but I’m not convinced",
       "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
       "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of...",
       "source": "The Verge",
@@ -47,15 +333,15 @@
       "thumbnail": ""
     },
     {
-      "title": "OPPO Enco Air5s 耳机规格公布：3.9g 重量、三麦 AI 通话降噪，5 月 25 日发布",
-      "link": "https://www.ithome.com/0/954/211.htm",
-      "summary": "\nIT之家 5 月 22 日消息，OPPO Enco Air5s 耳机将于 5 月 25 日 18:00 发布，官方现已公布新品的主要规格。\n据介绍，这款新品采用暗夜黑、星光紫、月光白三款配色，3.9g 超轻机身，适配多种耳型，号称“半入耳也有好降噪”。新品支持旗舰级人声降噪算法、三麦 AI 通话降噪。\n此外，该产品还搭载 12mm 高解析巨形动圈、自适应听感优化、全设备空间音效。新品号称“安卓苹...",
+      "title": "全系降价后销量回升，消息称苹果 iPhone 17 系列手机中国区累积激活超 3 千万台",
+      "link": "https://www.ithome.com/0/954/212.htm",
+      "summary": "\nIT之家 5 月 22 日消息，据博主 @数码闲聊站 今日消息，在全系降价后，iPhone 17 系列销量回升，W20 期间完成了中国区激活销量 3000W+：\n\niPhone 17 Pro Max 累积激活 1320W+\niPhone 17 Pro 累积激活 780W+\niPhone 17 累积激活 916W+\n\n\n\n苹果 iPhone 17 Pro 系列机型 5 月 15 日在天猫、京东平台...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-05-22 14:11:22",
+      "pubDate": "2026-05-22 14:18:45",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/55f84567-d598-4cd3-9509-672954a32645.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
@@ -91,17 +377,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Boots Riley turns class struggle into comedy with I Love Boosters",
-      "link": "https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview",
-      "summary": "Before Boots Riley became the writer / director / musician behind Sorry to Bother You and I'm a Virgo, he was a young community organizer fighting for social justice as part of the Progressive Labor P...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-22 14:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Audio generation app Huxe, founded by former NotebookLM developers, shuts down",
       "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
       "summary": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month...",
@@ -110,39 +385,6 @@
       "region": "us",
       "pubDate": "2026-05-22 13:48:03",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The post-search Google era begins",
-      "link": "https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast",
-      "summary": "Google is many things, but most of the time it's a verb: It is what it is to search the internet for information. But what if it's an AI agent doing the searching? And it's doing it proactively? Witho...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-22 13:47:41",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "特斯拉 FSD 再次更名，中文名变为“特斯拉辅助驾驶”",
-      "link": "https://www.ithome.com/0/954/209.htm",
-      "summary": "\nIT之家 5 月 22 日消息，据IT之家网友反馈，特斯拉中国官网将 FSD 功能的中文名称调整为“特斯拉辅助驾驶”，价格依旧为 6.4 万元。\n据官方介绍，该功能包括「基础辅助驾驶」和「增强辅助驾驶」套件的全部功能。稍后推出特斯拉辅助驾驶功能。未来车辆将能够：在驾驶员极少干预的情况下完成绝大多数的驾驶任务。\n\nIT之家注意到，这并不是特斯拉 FSD 第一次在中国官网更名。去年 3 月，特斯拉中...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-22 13:46:29",
-      "category": "auto",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/c6b20928-4c2d-4ee0-976a-710683a0297e.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "五角大楼再度公布超 50 份外星人、UFO 等有关政府文件",
-      "link": "https://www.ithome.com/0/954/207.htm",
-      "summary": "\nIT之家 5 月 22 日消息，据 CCTV 国际时讯今晚报道，美国国防部今天（5 月 22 日）再度公布一批“与外星人、地外生命、不明空中现象以及不明飞行物（UFO）相关”的政府文件。\n此次公开的内容包括 50 多份此前被列为机密的视频及文件。美国国防部“全域异常解决办公室”称，经多轮调查，目前尚无证据显示这些事件“与外星生命有关”，但军方承认，许多案例仍“无法解释”。\n据IT之家此前报道，美...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-22 13:44:51",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -157,39 +399,6 @@
       "thumbnail": ""
     },
     {
-      "title": "华为“金牌客服”率先爆料：李小龙确认音悦家 App 支持民族乐器，应用内页面首曝",
-      "link": "https://www.ithome.com/0/954/208.htm",
-      "summary": "\nIT之家 5 月 22 日消息，在本周的华为鸿蒙办公新品技术沟通会上，华为自研音悦家 App 首发亮相，覆盖作曲、录音、编曲、混音四大数字音乐创作全流程核心场景，致力于打造出一款专业移动“音乐编创工作室”。\n\n有网友提出建议，认为华为应该多做点国产音乐乐器的产品。他表示，钢琴电子琴是西方的产物，中国有唢呐、笛、箫等多种乐器，没必要去附会国外的。\nIT之家注意到，被誉为“金牌客服”的华为终端 BG...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-22 13:31:51",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/7974347d-967d-4c14-824d-7ca9c03d335d.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1"
-    },
-    {
-      "title": "疑似华为 nova 16 系列手机外观曝光：依旧双筒镜组设计、新增类“天空之镜”渐变色",
-      "link": "https://www.ithome.com/0/954/206.htm",
-      "summary": "\nIT之家 5 月 22 日消息，目前一款采用类似“天空之镜”渐变色设计的手机已现身互联网平台。而据多位博主分享，该机或归属华为 nova 16 系列手机。画面显示，该机延续 nova 15 系列外观，镜组采用双筒设计。\n\n据IT之家今日早些时候报道，博主 @数码闲聊站 今日爆料称：“华为 nova 16 系列 6 月初发布，今年唯二逆势升配的线下拍照走量机，影像 / 性能 / 电池都加料了”。\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-22 13:19:17",
-      "category": "space",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/29a41102-4d00-461c-a590-01393d74509d.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "吉利银河星耀 7 正式上市：MAX 车型标配 e-AWD 智电四驱，限时 9.88 万-12.98 万元",
-      "link": "https://www.ithome.com/0/954/204.htm",
-      "summary": "\nIT之家 5 月 22 日消息，吉利银河星耀 7 今晚正式上市，新车在此前预售安排的版型基础上将多款配置升级为 MAX 四驱，售价区间为 10.88 万-13.98 万元。\n\n230km 两驱远航版：10.88 万元（IT之家注：限时优惠价在此基础上再减 1 万元，下同）\n220km MAX 四驱远航版：11.68 万元\n220km MAX 四驱领航版：12.68 万元\n220km MAX 四驱...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-22 13:17:06",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/1f93ae8c-492c-4610-90bd-21623b3c4a75.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "14.9克的AI眼镜，Moonix的极简硬件哲学｜AI Founder 请回答",
       "link": "https://www.tmtpost.com/7999418.html",
       "summary": "Moonix最大的优点就在于：它跟普通眼镜几乎没有任何区别。...",
@@ -198,50 +407,6 @@
       "region": "cn",
       "pubDate": "2026-05-22 13:16:29",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "成交价 11 万元，全球首款眼神交互仿生人“小月”成功拍出",
-      "link": "https://www.ithome.com/0/954/190.htm",
-      "summary": "\nIT之家 5 月 22 日消息，今日，来自松延动力的全球首款眼神交互仿生人“小月”上架京东拍卖平台进行拍卖。经过 49 次出价，最终以 110790 元成交。\n\n小月可实现 30 个高精准自由度与百种细腻微表情，核心仿生技术承袭春晚小品《奶奶的最爱》同款人形机器人，可以说是“蔡明”机器人的同门姊妹。\n这款仿生人“小月”官方名为  X-Head 1，采用仿生人头造型，重量 7.5kg，拥有 24 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-22 13:07:47",
-      "category": "robot",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/4a237d7e-760a-4201-9a2f-7fd2f2ed5f71.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "华为 MatePad 平板产品紧随畅享其后开更 HarmonyOS 6.1.0.125 版本，新增对单应用音量调节等功能",
-      "link": "https://www.ithome.com/0/954/189.htm",
-      "summary": "\nIT之家 5 月 22 日消息，继华为畅享 90 Pro Max 之后，目前 MatePad Edge、MatePad Mini 等平板也开启了鸿蒙 HarmonyOS 6.1.0.125 版本的推送（版本号后缀可能有所差异，以实际信息为准）。新版本同样带来了对单应用音量调节等功能。\n\n▲ IT之家图赏：华为 MatePad Edge 实拍IT之家整理华为平板产品线此次更新内容如下（综合多款平板...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-22 13:01:11",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/11/a9d4dce8-d840-4504-8d59-897a818144dd.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "The Boys limped through its last season, but made up for it with the finale",
-      "link": "https://www.theverge.com/entertainment/935482/the-boys-finale-review",
-      "summary": "It's hard existing in a world seemingly designed for the undeservingly powerful and painfully boring few. They have been gifted what many of us only dream of: the ability to effectively do whatever th...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-22 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "If I could only have one laptop for work and gaming, I’d get this one",
-      "link": "https://www.theverge.com/tech/935898/asus-rog-zephyrus-g14-2026-intel-nvidia-review",
-      "summary": "I've loved the Asus ROG Zephyrus G14 since it launched in 2020. I bought one for my wife after reading about how awesome it was on a little site called The Verge dot com. Since then, the G14 has gotte...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-22 13:00:00",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -254,17 +419,6 @@
       "pubDate": "2026-05-22 13:00:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4",
-      "link": "https://www.ithome.com/0/954/188.htm",
-      "summary": "\nIT之家 5 月 22 日消息，DeepSeek 官方今日宣布，DeepSeek-V4-Pro 模型 API 价格将于 2026 年 5 月 31 日结束 2.5 折优惠活动后，正式调整为原定价的 1/4。\n\nDeepSeek-V4-Pro 的 API 原价为：\n\n输入（缓存命中）：0.1 元 / 百万 Tokens\n输入（缓存未命中）：12 元 / 百万 Tokens\n输出：24 元 / 百万...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-22 12:58:06",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/9aeafc78-9bc6-463c-9d4e-f1390d913c53.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "概念炒到470亿，分红只有1分/股：远东股份是谁的盛宴？",
@@ -297,7 +451,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 12:12:08",
       "category": "other",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_262e3efc1713407dbc75496e7136a9fd@5748245_oswg200802oswg1265oswg846_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
@@ -308,7 +462,7 @@
       "region": "us",
       "pubDate": "2026-05-22 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/06/GettyImages-892980170-crop.jpeg?w=3000"
     },
     {
       "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
@@ -364,17 +518,6 @@
       "pubDate": "2026-05-22 11:20:43",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ-500x500.jpg"
-    },
-    {
-      "title": "Samsung’s memory chip employees negotiated $340,000 bonuses this year",
-      "link": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
-      "summary": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-22 11:05:25",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "The 13 Best Fans to Buy Before It Gets Hot Again (2026)",
@@ -443,17 +586,6 @@
       "thumbnail": "https://media.wired.com/photos/6a0f914d9e18cc3e8178a5a5/master/pass/GettyImages-2161734123%20copy.jpg"
     },
     {
-      "title": "Microsoft’s consumer marketing chief to leave next year",
-      "link": "https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving",
-      "summary": "Yusuf Mehdi, executive vice president and consumer chief marketing officer at Microsoft, is leaving the company after 35 years. Mehdi announced his departure in an internal memo on Thursday, noting th...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-22 10:57:07",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "谷歌强塞东西再惹众怒，这次是 IDE",
       "link": "https://my.oschina.net/u/4487475/blog/19678067",
       "summary": "Antigravity 2.0 版本发布的第二天，大量开发者打开电脑上的 Antigravity 时，发现他们用了几个月的 IDE 界面消失了，取而代之的是一个对话式提示框 —— 事先没有任何升级提醒，也没有给用户版本回退的选项。...",
@@ -495,7 +627,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 10:37:09",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_74a793fed1ca455a8bce877409f45e40@6381723_oswg71379oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "A hacker group is poisoning open source code at an unprecedented scale",
@@ -528,7 +660,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 10:23:21",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_a1ca8f4b24bf47fea0247adaa1235e49@6381723_oswg269247oswg1600oswg1067_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "B 站发布 2026 Q1 财报",
@@ -571,17 +703,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-05-22 10:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft is letting Office users remove an annoying Copilot button",
-      "link": "https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal",
-      "summary": "Microsoft is rolling out Office app updates next week that allow users to disable a floating Copilot button. The button appeared in Word, Excel, and PowerPoint in recent weeks, and floats above the bo...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-22 09:52:19",
       "category": "ai",
       "thumbnail": ""
     },
@@ -682,7 +803,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 08:57:09",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_6a7e57a5f6814ecd8796b49d2f2cf81b@6381723_oswg64374oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "让好项目，更早被看见",
@@ -693,7 +814,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 08:55:24",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_59e6f1f1286e410196bbf3050cfd0e03@5284654_oswg680475oswg1280oswg478_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "互联网底层基础设施构建者：一位高中女教师的代码改变了世界",
@@ -759,18 +880,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 07:58:39",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_4e052dc0b7f94da997a055104d50505c@6381723_oswg491451oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1"
-    },
-    {
-      "title": "追觅 Qi2 磁吸支架充电宝 219 → 131 元破冰新低，支持 iPhone 15W+ 手表充电",
-      "link": "https://www.ithome.com/0/953/954.htm",
-      "summary": "\n追觅去年 12 月推出 Air Power 17 磁吸移动充电宝，主打 15W Qi2 磁吸充电。\n5000mAh 8mm 123g，官方定价 219 元。\n按下方步骤下单，88VIP 凑单后可使用 200-25 元消费券，充电宝实付 151.4 元，评价晒单再返 20 元（详询客服），折合 131.4 元清仓好价。\n下方两款加入购物车，一起付款结算即可：\n点击下方卡片后 → 点击淘宝 App ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-22 07:56:52",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/a5e13ab8-a49d-4743-aff6-6330dade02cb.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会",
@@ -781,7 +891,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 07:38:36",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_e151a6e19d87477eb9ce48cb616cc38a@6381723_oswg109820oswg1000oswg667_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "以场景为锚，以AI为翼：大健康产业的实践与突破| 2026AI Partner·北京亦庄AI+产业大会",
@@ -792,7 +902,7 @@
       "region": "cn",
       "pubDate": "2026-05-22 07:32:35",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260522/v2_bff9000e4e6b4c3db18e74f2f353872f@6381723_oswg799187oswg1269oswg847_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
@@ -826,28 +936,6 @@
       "pubDate": "2026-05-22 06:38:04",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Nike Promo Codes and Discounts: 30% for May 2026",
-      "link": "https://www.wired.com/story/nike-promo-code/",
-      "summary": "Check out our deals for Nike this month, including 15% off select purchases....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-22 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg"
-    },
-    {
-      "title": "Chewy Promo Codes: $20 Off May 2026",
-      "link": "https://www.wired.com/story/chewy-promo-code/",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more May 2026 discounts....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-22 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg"
     },
     {
       "title": "顶流里最快！智谱，你是在「喷」代码吧",
@@ -905,28 +993,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
-      "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
-      "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-22 00:37:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
-      "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
-      "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-22 00:07:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code",
       "link": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code",
       "summary": "\nThe AI industry has fully entered the \"agent era,\" a paradigm where AI models do far more than generate text — they now actively plan, execute, and course-correct complex tasks over days rather than ...",
@@ -960,50 +1026,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-chatbot-icons-on-smartphone-1-500x500.jpg"
     },
     {
-      "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
-      "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
-      "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-21 21:39:03",
-      "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
-      "link": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
-      "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-21 21:13:23",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "AT&amp;T sues California in attempt to shut off old phone network",
-      "link": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/",
-      "summary": "AT&amp;T asks a court and the FCC to block California phone requirements....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-21 21:10:01",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/att-phone-500x500.jpg"
-    },
-    {
-      "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
-      "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
-      "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-21 21:00:42",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
       "title": "Roundtables: Can AI Learn to Understand the World?",
       "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
       "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo...",
@@ -1015,17 +1037,6 @@
       "thumbnail": ""
     },
     {
-      "title": "JWST maps the weather on a hot gas giant 700 light-years away",
-      "link": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
-      "summary": "The differences seen here could be throwing off how we study planetary atmospheres....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-21 19:26:03",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-1-500x500.jpeg"
-    },
-    {
       "title": "Scaling creativity in the age of AI",
       "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
       "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from ea...",
@@ -1034,7 +1045,7 @@
       "region": "us",
       "pubDate": "2026-05-21 19:16:43",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Digital-paper-marble.jpeg"
     },
     {
       "title": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
@@ -1100,7 +1111,7 @@
       "region": "us",
       "pubDate": "2026-05-21 14:30:45",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/PXL_20260519_113915550.MP_.jpg?w=2987"
     },
     {
       "title": "Kore.ai launches Artemis AI agent platform, takes on Salesforce and ServiceNow",
@@ -1122,7 +1133,7 @@
       "region": "us",
       "pubDate": "2026-05-21 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/06/AF-MIT-JUAREZ-MAR2023-029.jpeg?w=3000"
     },
     {
       "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
@@ -1176,17 +1187,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-05-21 09:36:23",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
-      "link": "https://www.qbitai.com/2026/05/422001.html",
-      "summary": "AI会放大“自嗨”，解药只有交付结果...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-05-21 09:27:25",
       "category": "ai",
       "thumbnail": ""
     },
