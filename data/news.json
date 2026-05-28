@@ -1,17 +1,127 @@
 {
-  "updateTime": "2026-05-28T21:11:20.308Z",
+  "updateTime": "2026-05-28T23:22:43.938Z",
   "total": 117,
   "news": [
     {
+      "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+      "link": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
+      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-28 23:01:52",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "十年研究新突破：科学家成功将固氮基因植入新菌株，减少化肥使用新路径",
+      "link": "https://www.ithome.com/0/956/828.htm",
+      "summary": "\nIT之家 5 月 29 日消息，华盛顿州立大学的一项新研究成功将根瘤菌中的固氮基因转移到其他无法固氮的菌株中，这一概念验证性发现为未来减少农作物对化肥的依赖开辟了新路径。\n\n小麦、玉米等主要作物需大量氮肥才能茁壮生长。但如果像豌豆和大豆那样，由细菌帮助它们直接从大气中获取氮元素，情况会怎样？\n华盛顿州立大学的研究人员识别出一组关键的基因簇，可以将其从固氮的根瘤菌转移到非固氮细菌中，这一突破意味着...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-28 22:58:03",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Opus 4.8 上线：提升 AI 编程可靠性，减少无依据结论",
+      "link": "https://www.ithome.com/0/956/827.htm",
+      "summary": "\nIT之家 5 月 29 日消息，Anthropic 今天（5 月 29 日）宣布推出旗舰新模型 Claude Opus 4.8，主打更强的智能体编程、多领域推理和知识工作能力。\n官方表示，相比较 Opus 4.7 模型，本次 Opus 4.8 更新幅度较小，在保持价格不变的情况下，主要提升编程、智能体、推理和知识工作等用户能感知的方面。\n\n能力层面，官方援引多家早期测试方反馈称，表示 Opus ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-28 22:52:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "首次亮相：央视揭秘军事智能“黑科技”机器獒",
+      "link": "https://www.ithome.com/0/956/826.htm",
+      "summary": "\nIT之家 5 月 29 日消息，据央视报道，在北京举行的第十一届中国（北京）军事智能技术装备博览会（即北京军博会）上，一系列以“机器獒”命名的国产地面无人装备首次全谱系亮相，引发广泛关注。\n本届军博会以“无人具身智能引领，指挥控制体系赋能”为主题，旨在推动新质生产力向新质战斗力高效转化。作为该领域的前沿观察平台，此次展出的“机器獒”并非简单孤立的地面作战单元，而是一套可依据任务需求灵活配置的开放...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-28 22:50:12",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "万兆宽带体验：实测显示 6G 终端原理样机系统下行峰值速率可达 10Gbps",
+      "link": "https://www.ithome.com/0/956/825.htm",
+      "summary": "\nIT之家 5 月 29 日消息，据新华社报道，中国电信研究院、中国电信股份有限公司湖北分公司联合中信科移动通信技术股份有限公司昨日在武汉开展 6G 终端原理样机系统下行峰速测试。结果显示，单台终端下行峰值速率达到 5Gbps，系统下行峰值速率可达 10Gbps，验证了 6G 技术吞吐量和频谱效率的巨大潜力。\n\n据报道，本次测试的 6G 试验系统由通感算智 6G 云化基站、超大规模 AAU（IT之...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-05-28 22:47:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "2027 Audi RS5 first drive: A performance PHEV with split personalities",
+      "link": "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
+      "summary": "Audi has developed an entirely new electric torque-vectoring rear differential....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-28 22:01:02",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/RS5Austria203-500x500.jpg"
+    },
+    {
+      "title": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5%",
+      "link": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
+      "summary": "\nTest-time scaling (TTS) has emerged as a proven method to improve the performance of large language models in real-world applications by giving them extra compute cycles at inference time. However, T...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-28 21:32:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "LLMs believe false statements even after explicit warnings that they're false",
+      "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+      "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-28 21:29:43",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-500x500.jpg"
+    },
+    {
+      "title": "The internet is being rebuilt for machines",
+      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-28 21:24:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
       "link": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
-      "summary": "\nMistral AI used its first-ever developer conference on Wednesday to announce a sweeping expansion into industrial manufacturing, a new inference data center south of Paris, and a rebranding of its co...",
+      "summary": "\nMistral AI used its inaugural conference on Wednesday to announce a sweeping expansion into industrial manufacturing, a new inference data center south of Paris, and a rebranding of its consumer-faci...",
       "source": "VentureBeat",
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-05-28 20:54:16",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-28 20:29:53",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg"
     },
     {
       "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
@@ -27,7 +137,7 @@
     {
       "title": "戴尔 2027 财年第一财季归母净利润 34.38 亿美元，同比增长 256%",
       "link": "https://www.ithome.com/0/956/824.htm",
-      "summary": "\n IT之家 5 月 29 日消息，戴尔今日发布 2027 财年（2026 年 2 月 1 日～2027 年 1 月 29 日）第一财季（2026 年 2 月 1 日～2026 年 5 月 1 日）报告：\n\n  营业总收入： 438.42 亿美元，同比增长 88.00%     毛利： 77.82 亿美元，同比增长 58.00%     毛利率：17.8%，同比下降 3.30%     归母净利润...",
+      "summary": "\nIT之家 5 月 29 日消息，戴尔今日发布 2027 财年（2026 年 2 月 1 日～2027 年 1 月 29 日）第一财季（2026 年 2 月 1 日～2026 年 5 月 1 日）报告：\n\n营业总收入： 438.42 亿美元，同比增长 88.00%\n毛利： 77.82 亿美元，同比增长 58.00%\n毛利率：17.8%，同比下降 3.30%\n归母净利润： 34.38 亿美元，同比增...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
@@ -80,9 +190,9 @@
       "thumbnail": ""
     },
     {
-      "title": "Asana acquires no-code agent-builder Stack AI",
+      "title": "Asana acquires no-code agent-builder StackAI",
       "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-      "summary": "Asana will incorporate Stack AI into its growing suite of AI workflow tools....",
+      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -289,50 +399,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Why Paris may be the most important AI city outside Silicon Valley",
-      "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
-      "summary": "Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-28 17:35:30",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
-      "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
-      "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-28 17:30:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
-      "link": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
-      "summary": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-28 17:10:10",
-      "category": "chip",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-arc-g-series-500x500.jpg"
-    },
-    {
-      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-      "link": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-      "summary": "Here’s why Anthropic and OpenAI are on board with Illinois safety testing....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-28 17:01:16",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1476750862-500x500-1779984827.jpg"
-    },
-    {
       "title": "Claude’s new model is more ‘honest’ when it messes up",
       "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
       "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making c...",
@@ -421,17 +487,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Steam Deck sells out in North America within 24 hours of price hike",
-      "link": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
-      "summary": "Europe, Australia, and Asia can still get it while the getting's good....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-28 15:43:41",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-500x500.jpg"
-    },
-    {
       "title": "《使命召唤：现代战争 4》官宣：首度登陆任天堂 Switch 2，10 月 23 日发售",
       "link": "https://www.ithome.com/0/956/822.htm",
       "summary": "\nIT之家 5 月 28 日消息，今年的《使命召唤》新作《使命召唤：现代战争 4》将成为现代战争系列首款放弃 PS4 和 Xbox One 的作品，只面向本世代硬件推出。\n《使命召唤：现代战争 4》将于 10 月 23 日周五全球发售，登陆 Xbox Series X|S、PlayStation 5、PC 和任天堂 Switch 2。开发商 Infinity Ward 确认，新作将延续更“硬派”“...",
@@ -487,50 +542,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Epic 喜加二：《孤星猎人》《Calico》游戏免费领取",
-      "link": "https://www.ithome.com/0/956/817.htm",
-      "summary": "\nIT之家 5 月 28 日消息，Epic 本周送出的游戏是《孤星猎人》《Calico》，下周送出的两款游戏待公布。\n领取链接：《孤星猎人》，《Calico》\nIT之家附《孤星猎人》游戏简介：\n孤星猎人是一款 Roguelike 强策略玩法的飞船对决游戏。作为一名宇宙赏金猎人，你将抓捕散布于星际间的在逃罪犯，通过“对波”这一独特的方式赢得战斗，收获悬赏奖励与假期时光。寻找宇宙宝物，自由搭配飞船部件...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-28 15:11:53",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "“用机器人取代餐厅人工岗位”梦碎，曾与达美乐合作的初创公司 Picnic 倒闭",
-      "link": "https://www.ithome.com/0/956/818.htm",
-      "summary": "\nIT之家 5 月 28 日消息，西雅图初创公司 Picnic 曾融资超过 5300 万美元，旨在开发用于取代餐厅人工岗位的机器人，还曾与披萨连锁巨头达美乐合作。然而据外媒 Futurism 当地时间 26 日报道，这样一家雄心勃勃的公司最终的命运竟是关闭。\n法律文件显示，Picnic 资不抵债后已经清算全部资产，所有知识产权也已出售给一名未披露身份的买家。\n\nPicnic 曾推出 Picnic ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-28 15:08:07",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "腾讯混元发布 Hy-Memory：打造记忆力超强的 Agent 第二大脑",
-      "link": "https://www.ithome.com/0/956/816.htm",
-      "summary": "\nIT之家 5 月 28 日消息，腾讯混元宣布正式推出 Hy-Memory。据介绍，这是一个专门为 Openclaw 这类长期协作型 Agent 设计的记忆插件，能真正成为 Agent 的“第二大脑”。\n官方称，Hy-Memory 用 6 层记忆框架 × System1/System2 双系统 × 演化链三层底牌，让 Agent 在长期使用中真正 \" 记得住、记得对、记得轻、更懂你 \"。\n在权威公...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-28 15:02:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "人类并非宇宙唯一：斯皮尔伯格全新科幻电影《揭秘日》定档 6 月 12 日上映",
-      "link": "https://www.ithome.com/0/956/815.htm",
-      "summary": "\nIT之家 5 月 28 日消息，环球影业今日宣布，史蒂文 · 斯皮尔伯格导演科幻巨制《揭秘日》定档 6 月 12 日上映。\n\n‘长达 79 年的谎言，必须结束！’ 一场危机四伏的揭秘行动，即将破局而出。\n\n影片围绕外星生命与人类社会的碰撞展开：气象主播玛格丽特（艾米莉 · 布朗特饰）突获超能力，与黑客丹尼尔（乔什 · 奥康纳饰）揭露政府掩盖的“外星人存在”真相，两人因此被影子政府追杀。\n\n一部关...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-05-28 15:00:48",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
       "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
       "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks....",
@@ -561,29 +572,7 @@
       "region": "cn",
       "pubDate": "2026-05-28 14:29:26",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "这只油田服务类股票才刚刚起步",
-      "link": "https://www.tmtpost.com/8006483.html",
-      "summary": "SLB——一家“面向能源的AI工厂”——也将从伊朗战后基础设施支出中受益。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-28 14:20:39",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "这家与特朗普有关联的无人机制造商，可能会拿到五角大楼合同，股价飙升29%",
-      "link": "https://www.tmtpost.com/8006479.html",
-      "summary": "据《华尔街日报》报道，Unusual Machines 是五角大楼已确定可能获得资金支持的公司之一。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-28 14:20:01",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/7b0c621b6af9bb392a7bb26524f44de9_1779978569.jpg"
     },
     {
       "title": "Snowflake绩后暴涨36%：AI拐点已至，还是数据云的又一次虚晃？",
@@ -594,7 +583,7 @@
       "region": "cn",
       "pubDate": "2026-05-28 14:09:32",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/99b52d6fd693d629aa6215a93a66e723_1779977376.png"
     },
     {
       "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
@@ -704,7 +693,7 @@
       "region": "cn",
       "pubDate": "2026-05-28 11:18:27",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/793919d90353a3df7e05acc5868e6977_1779967110.png"
     },
     {
       "title": "十年拉锯，五折清仓：跨国巨头割肉离场，*ST西发“赌命”接盘",
@@ -715,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-05-28 11:15:08",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/93320b95eee7e8d7db4c59ad3a03d032_1779966911.png"
     },
     {
       "title": "科氪 | 一天连签10所高校！京东养车构建产教融合型技师培育体系破解人才缺口难",
@@ -781,7 +770,7 @@
       "region": "cn",
       "pubDate": "2026-05-28 10:56:20",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/5365ccb584307a08be5fb4e321e918ef_1779965782.jpg"
     },
     {
       "title": "科学家们“造”了个新宇宙，却意外暴露了AI时代真正的瓶颈",
@@ -792,7 +781,7 @@
       "region": "cn",
       "pubDate": "2026-05-28 10:46:48",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/6da06c23b009efe0f6bfda56aa142745_1779965212.png"
     },
     {
       "title": "Canon EOS R6 Mark III Review: A Serious Upgrade",
@@ -847,7 +836,7 @@
       "region": "cn",
       "pubDate": "2026-05-28 10:23:51",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/5efc388993503c2ed2377a4975f2dd80_1779963835.jpg"
     },
     {
       "title": "宇树还没上市，王兴兴的宁波老乡已经赢麻了",
@@ -858,7 +847,29 @@
       "region": "cn",
       "pubDate": "2026-05-28 10:23:27",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/37070727d15570ed813607b9722d67eb_1779963811.png"
+    },
+    {
+      "title": "阿里京东美团被传抢朴朴，大厂还是放不下「买菜生意」？",
+      "link": "https://www.tmtpost.com/8004628.html",
+      "summary": "阿里京东美团被传抢朴朴，到底抢的是什么？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-28 10:23:19",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/8b483dbd462b15808279c47dac97b736_1779963803.png"
+    },
+    {
+      "title": "第一批逃离高温的人，已经在吉林住下了",
+      "link": "https://www.tmtpost.com/8006021.html",
+      "summary": "年轻人旅居，老年人康养，吉林全接了。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-28 10:22:06",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/675859f3.png"
     },
     {
       "title": "Understanding Phase Noise and Its Impact on RF System Performance",
@@ -1081,7 +1092,7 @@
       "thumbnail": "https://img.36krcdn.com/hsossms/20260527/v2_ceec3f8d0b7e48e58bd5ae26a542457c@242988687_oswg300462oswg741oswg450_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
-      "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+      "title": "8点1氪丨“高考期间AI���具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
       "link": "https://36kr.com/p/3828191630348934?f=rss",
       "summary": "\n今日热点导览\n  \n阿里员工十三薪将并入年终奖\n   曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方\n   微信小游戏月活跃用户超过5亿\n   聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争\n   SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温\n   长鑫科技科创板IPO获上市委会议通过\n  \nTOP 3大新闻\n  “高考期间AI工具将禁用”？豆包、元宝等...",
       "source": "36氪",
@@ -1101,17 +1112,6 @@
       "pubDate": "2026-05-27 23:00:49",
       "category": "ai",
       "thumbnail": "https://img.36krcdn.com/hsossms/20260527/v2_f806117f3fa1466cb1e99ba0a128cd64@242988687_oswg336625oswg554oswg312_img_000?x-oss-process=image/format,jpg/interlace,1"
-    },
-    {
-      "title": "MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost",
-      "link": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost",
-      "summary": "\nAmong the many Chinese AI companies and laboratories vying for market share and attention (no pun intended) on the global marketplace, MiniMax stands out for its commitment to providing frontier-leve...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-27 19:59:06",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
