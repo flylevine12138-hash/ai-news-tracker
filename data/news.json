@@ -1,7 +1,183 @@
 {
-  "updateTime": "2026-05-29T16:50:18.158Z",
+  "updateTime": "2026-05-29T19:36:14.347Z",
   "total": 117,
   "news": [
+    {
+      "title": "MIT's MeMo lets teams swap in a better LLM without retraining — and performance jumps 26%",
+      "link": "https://venturebeat.com/orchestration/mits-memo-lets-teams-swap-in-a-better-llm-without-retraining-and-performance-jumps-26",
+      "summary": "\nEnabling LLMs to acquire new knowledge after training remains a major hurdle for enterprise AI — current solutions are either too expensive, too slow, or constrained by context window limits.\nMeMo, a...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-05-29 19:28:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+      "summary": "Google's new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-29 19:07:46",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a19d3576c603cc05220330d/master/pass/Gear_HandsOnWithGeminiSparkGoogle%E2%80%99sAIAgentThatLivesinYourPhone_v1.jpg"
+    },
+    {
+      "title": "Acer’s launching a Linux handheld for streaming your PC games",
+      "link": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+      "summary": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC. Announced at Computex on ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-29 19:01:48",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-29 18:49:19",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Botnet of more than 17 million devices dismantled",
+      "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+      "summary": "The botnet was reportedly tied to a Russia-based residential proxy network....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-29 18:46:33",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6-500x500.jpg"
+    },
+    {
+      "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
+      "link": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
+      "summary": "About 1 in 5 cases were hospitalized and most of those developed complications....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-29 18:35:38",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-500x500.jpg"
+    },
+    {
+      "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+      "link": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
+      "summary": "\"The crown is a weight that crushes. You'll do things that spell death for all involved.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-29 18:21:44",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/dragon1-500x500.jpg"
+    },
+    {
+      "title": "Trump FCC warns all broadcasters to follow orders or be punished like ABC",
+      "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/",
+      "summary": "ABC says early renewal for all stations is unprecedented, has no legitimate purpose....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-29 18:09:43",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/abc-jimmy-kimmel-500x500-1780075122.jpg"
+    },
+    {
+      "title": "What happens when companies become too AI-pilled?",
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-29 17:57:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "DOJ sues states that rejected ICE requests for undercover license plates",
+      "link": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
+      "summary": "DOJ keeps accusing ICE monitoring sites of doxing, but evidence remains scarce....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-29 17:41:56",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2230548231-500x500-1780073932.jpg"
+    },
+    {
+      "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+      "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
+      "summary": "Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-05-29 17:39:04",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/master/pass/The-Best-Pool-Cleaning-Robots-of-2026.jpg"
+    },
+    {
+      "title": "Tech companies desperately want to film you doing chores",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get th...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-29 17:37:43",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-29 17:27:13",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+      "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+      "summary": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-05-29 17:03:39",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Verge’s 2026 high school graduation gift guide",
+      "link": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
+      "summary": "High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue their ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-29 17:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft delays Fable (again) to avoid GTA VI",
+      "link": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi",
+      "summary": "Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027. However, it will show a \"new lo...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-05-29 16:51:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
       "link": "https://www.wired.com/story/future-of-truth-ai-interview/",
@@ -12,6 +188,17 @@
       "pubDate": "2026-05-29 16:30:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6a173332faa2148b4ab454b6/master/pass/Business_AIBookAuthorUsedAItoWriteHisBook_v1.jpg"
+    },
+    {
+      "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
+      "link": "https://36kr.com/p/3830580716365449?f=rss",
+      "summary": "\n为助力千里科技成为“第二个华为”，吉利决定为它增添新的技术筹码。\n  36氪从多位产业人士处了解到，吉利中央研究院数百人的辅助驾驶团队，将在近期被整合入千里科技。目前，吉利研究院辅助驾驶团队，已有人收到了转移合同的通知。\n  有接近吉利的知情人士告诉36氪：“这轮整合后，吉利研究院辅助驾驶团队，被平移至千里智驾与极氪的合资公司千里浩瀚，千里浩瀚今后主要服务吉利这个核心客户。千里智驾可以将更多精力...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-29 16:28:31",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260530/v2_e0efe5c8943c4edd85c525ac1b39ca46@6215398_oswg41960oswg1080oswg335_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Pinterest cut AI costs 90% by gutting a frontier model's vision layer",
@@ -33,7 +220,18 @@
       "region": "us",
       "pubDate": "2026-05-29 16:21:22",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25503643/DSCF7817_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
+    },
+    {
+      "title": "Startup offers free home cleaning—if it can record it all for robot training",
+      "link": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+      "summary": "The latest twist in paying humans to wear head cameras for robot training data....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-29 16:16:14",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-9.24.24-AM-500x500.png"
     },
     {
       "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
@@ -45,6 +243,28 @@
       "pubDate": "2026-05-29 16:13:47",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "After years of stability, F1 reliability can no longer be taken for granted",
+      "link": "https://arstechnica.com/cars/2026/05/f1-in-2026-to-finish-first-first-you-have-to-finish/",
+      "summary": "Until recently, a driver had maybe a six in ten chance of finishing a race....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-29 16:03:28",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278023232-500x500.jpg"
+    },
+    {
+      "title": "连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线",
+      "link": "https://36kr.com/p/3830545234552452?f=rss",
+      "summary": "\n在中国美妆行业增长放缓、价格竞争加剧的背景下，越来越多品牌开始重新审视“可持续发展”这件事的商业意义。\n  5月26日，自然堂集团发布《2025年度可持续发展报告》，这是其连续第15年披露ESG相关内容。相比早期以公益、环保为主的企业社会责任叙事，今年的报告更强调“可量化”与“产业化”：包括首次按照科学碳目标倡议（SBTi）标准制定减碳路径、扩大范围三碳排放披露边界，以及将生物多样性、绿色原料、...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-05-29 16:02:16",
+      "category": "other",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260529/v2_caf93e953cbd43ef9c7ad38574e74fa6@5922386_oswg592802oswg587oswg391_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "Samsung Movingstyle Essential Review: A Screen on Wheels",
@@ -66,7 +286,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 15:27:28",
       "category": "auto",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/c6b20928-4c2d-4ee0-976a-710683a0297e.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1"
     },
     {
       "title": "宏碁推出多款游戏新品：两款笔记本、一款串流掌机，还有键盘、背包",
@@ -77,7 +297,18 @@
       "region": "cn",
       "pubDate": "2026-05-29 15:26:01",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/f345786e-1e06-45d4-ae1f-17ed3bd52210.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Severed sea cucumber appendages don't seem to die",
+      "link": "https://arstechnica.com/science/2026/05/severed-sea-cucumber-appendages-dont-seem-to-die/",
+      "summary": "They seem to reorganize their tissues and then just keep living....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-05-29 15:10:29",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240137437-500x500.jpg"
     },
     {
       "title": "开放麒麟 openKylin 3.0 Alpha1 预览版发布，系统底层架构整体翻新",
@@ -88,7 +319,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 15:01:12",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/70505bce-acaa-4ff0-92b4-de8bec8319c0.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "AI agents are entering their rebuild era as enterprises confront the reliability problem",
@@ -110,7 +341,7 @@
       "region": "us",
       "pubDate": "2026-05-29 15:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2248067783.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The Vatican’s Man Inside Anthropic",
@@ -132,7 +363,7 @@
       "region": "us",
       "pubDate": "2026-05-29 14:59:12",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/lenovo-legion-go-sean-hollister-verge-331A1087-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "航天英雄杨利伟：我国载人登月计划正常推进",
@@ -154,7 +385,7 @@
       "region": "us",
       "pubDate": "2026-05-29 14:46:58",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Anker-Zolo-Wireless-Charger-2-Pack.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "消息称千里科技将整合吉利辅助驾驶团队，剑指“第二个华为”",
@@ -165,7 +396,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 14:41:25",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/b1c2816b-29ef-4e2f-807c-2d7cb2541d80.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1"
     },
     {
       "title": "一汽大众 ID. AURA T6 登陆粤港澳车展，龙船特别版同步亮相",
@@ -176,7 +407,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 14:37:33",
       "category": "auto",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/56316d29-088e-4c23-a95b-7b5f72a0d7c6.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
@@ -198,7 +429,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 14:20:44",
       "category": "robot",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/09231ee8-675b-4ac8-b3a7-dceed533df2a.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
@@ -220,7 +451,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 14:13:38",
       "category": "robot",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2022/4/d612a258-250d-4852-908c-ad3413aaa709.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,t_100,g_7,y_14,x_14,a_0/format,f_auto"
     },
     {
       "title": "微信 8.0.74 for iOS 正式版更新，横屏通话 / 本机登录等大量功能灰度",
@@ -231,7 +462,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 14:03:41",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/e2651d81-1343-401e-a3a2-80d365d4d035.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
@@ -253,7 +484,7 @@
       "region": "us",
       "pubDate": "2026-05-29 14:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/FERRARI_LUCE_FRONT_3Q_V2_1X1_RGB_WEB_SOCIALS_198d4f59-b20a-454e-87de-59a8184b24fa.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "What would you be willing to put in your body?",
@@ -264,7 +495,7 @@
       "region": "us",
       "pubDate": "2026-05-29 14:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268551_Enhanced_Games_ALoius_0079.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Blue Origin Rocket Explodes in Fiery Setback",
@@ -276,6 +507,17 @@
       "pubDate": "2026-05-29 13:22:27",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a198bcf19d7dd93413aa792/master/pass/2193560373"
+    },
+    {
+      "title": "科创新源2.45亿控股东莞兆科，盈利压力凸显加码散热谋变 | 并购一线",
+      "link": "https://www.tmtpost.com/8007951.html",
+      "summary": "毛利连跌三年、Q1刚转亏，2.45亿现金加码散热业务急补短板。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-05-29 13:04:39",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/f2c2c8e7896a6ee89b77da3c44c0fb51_1780059882.png"
     },
     {
       "title": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site",
@@ -311,28 +553,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Backrooms is at the forefront of horror’s YouTube wave",
-      "link": "https://www.theverge.com/entertainment/938437/backrooms-youtube-kane-parsons-a12",
-      "summary": "Though YouTube has always been a place where up-and-coming artists could be discovered and make it big, in recent years the platform has become a launching pad for some of Hollywood's most exciting ne...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-29 13:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/H4A8380.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM",
-      "link": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs",
-      "summary": "Acer is aiming to take on the MacBook Neo more directly with a new Swift Air 14, a new 14-inch laptop that starts at $699. The laptop will use Intel's lower-cost Core Series 3 \"Wildcat Lake\" chips - e...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-29 13:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Acer-Swift-Air-14-SFA14-I31-Lifestyle-03.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic",
       "link": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
       "summary": "\"I hope that it makes it far enough away from the pad that it does not cause pad damage.\"...",
@@ -344,28 +564,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-2-Ascent-11-500x500.jpg"
     },
     {
-      "title": "Trump Mobile’s website still says the T1 Phone is ‘American-made’",
-      "link": "https://www.theverge.com/tech/939108/trump-mobile-t1-phone-website-american-made",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. As the phone's supposed launch continues, we noticed ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-29 12:30:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Vrg_illo_trump_phone_np2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Jony Ive’s funky Ferrari",
-      "link": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
-      "summary": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, su...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-05-29 12:25:12",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_052926_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "The Download: unlocking lithium and controlling Ebola",
       "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium ...",
@@ -374,7 +572,7 @@
       "region": "us",
       "pubDate": "2026-05-29 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/STScI-01GA76NYVXS4B1X63DBJJTYB3P.webp?w=1919"
+      "thumbnail": ""
     },
     {
       "title": "15 Best Wireless Chargers, All Tested and Reviewed (2026)",
@@ -462,7 +660,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 10:52:47",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/b32af915146acc705f94b2cded40b881_1780051943.jpg"
     },
     {
       "title": "Hangzhou-based Dexterous Robotic Hand Startup Raises Nearly RMB 1 Billion in Six Months",
@@ -473,7 +671,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 10:38:03",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/04579e9d3e934887591a095d4c38d4cb_1780051083.png"
     },
     {
       "title": "HP Omnibook 3 Review: Redefining the Budget Laptop",
@@ -485,17 +683,6 @@
       "pubDate": "2026-05-29 10:32:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a15cec9122d96f4e19bcf02/master/pass/Review%20HP%20Omnibook%203%20top%20art%20052026%20SOURCE%20Amazon.jpg"
-    },
-    {
-      "title": "These researchers would be in Africa fighting ebola—but Trump cut their funding",
-      "link": "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/",
-      "summary": "US Infectious diseases centers launched during COVID have lost their funding under Trump....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-29 10:30:40",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277596847-500x500.jpg"
     },
     {
       "title": "Physical Media Is Making a Comeback. The Next Console Generation Might Kill It",
@@ -517,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 10:26:46",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/05/500fef05bd0619c8f18e69bc0317120c_1780050410.png"
     },
     {
       "title": "国家大基金领投 DeepSeek，首轮融资投前估值 450 亿美元",
@@ -550,7 +737,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 10:15:43",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/05/20260529145123249712.jpg"
     },
     {
       "title": "尼泊尔的草，中国人的宝",
@@ -561,7 +748,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 10:15:40",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/05/20260529152645972942.jpg"
     },
     {
       "title": "160亿，深圳“四小龙”跑出首个IPO",
@@ -572,7 +759,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 10:15:38",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/05/20260529150303693951.jpg"
     },
     {
       "title": "435 万的法拉利Luce，撕掉超豪华遮羞布",
@@ -583,7 +770,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 10:15:35",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/05/20260529144527533993.jpg"
     },
     {
       "title": "浙江小县城“老头乐”，又要IPO了",
@@ -594,7 +781,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 10:15:29",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t43y546hjyhtg3.png"
     },
     {
       "title": "Anthropic发布Claude Opus 4.8，重点是：“我不会骗你”",
@@ -605,40 +792,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 10:15:26",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径",
-      "link": "https://www.tmtpost.com/8006538.html",
-      "summary": "提出时间缩微理论...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-05-29 10:15:06",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "GoRuck GR1 Review: Great For Travel, Rucking, the Gym, and More",
-      "link": "https://www.wired.com/story/the-goruck-gr1-is-a-rucking-great-pack/",
-      "summary": "Built like a tank, the endlessly capable GoRuck GR1 is as close to a do-it-all bag as you can get....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-29 10:02:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a17911ae20f062d1bff92ae/master/pass/Bag%20Week%20GoRuck%20GR1%20backpack%20top%20art%20052026%20SOURCE%20GoRuck.jpg"
-    },
-    {
-      "title": "Streamers Like Clavicular Are Humiliating OnlyFans Girls For Clout",
-      "link": "https://www.wired.com/story/streamers-like-clavicular-are-humiliating-onlyfans-girls-for-clout/",
-      "summary": "Sex workers appear on the livestreams of famous manosphere influencers to boost their followings—but often end up being degraded....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-05-29 10:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a15fcf394d6a20934e271e2/master/pass/Streamers-Exploiting-OnlyFans-Models-Culture.jpg"
+      "thumbnail": "https://images.tmtpost.com/uploads/mms_upload_image/2026/05/20260529130603834.png"
     },
     {
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
@@ -770,7 +924,7 @@
       "region": "cn",
       "pubDate": "2026-05-29 07:28:16",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/ca1ef576-742f-4f15-bafc-157c1e01cb70.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
@@ -872,17 +1026,6 @@
       "thumbnail": "https://img.36krcdn.com/hsossms/20260529/v2_5e6360830cc44c4080a147fff788a9bf@6208419_oswg156697oswg1080oswg972_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
-      "title": "The most spectacular rocket explosion since N1 just happened in Florida",
-      "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-      "summary": "New Glenn was due to play a starring role in NASA's Artemis Program....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-29 02:21:08",
-      "category": "space",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-On-Pad-2-500x500.jpg"
-    },
-    {
       "title": "36氪首发 | 李泽湘系投过的星空摄影设备品牌再获数百万美金融资，产品即将登陆众筹",
       "link": "https://36kr.com/p/3829705374098823?f=rss",
       "summary": "\n作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，星空原野（重庆）科技有限公司（以下简称“星空原野”）近日完成新一轮融资，由线性资本独家投资数百万美金，安可资本担任公司独家财务顾问。此前公司曾获明月湖国际智能产业科创基地（XbotPark 重庆）孵化基金，及重庆市种子投资基金投资。\n  星空原野成立于2024年，是一家聚焦星空摄影设备和智能影像解决方案的创新型科技企业。公司以星野摄影为切入点...",
@@ -916,50 +1059,6 @@
       "thumbnail": "https://img.36krcdn.com/hsossms/20260529/v2_c0ee8964300943b5a4c16d14e79e9b63@242988687_oswg153162oswg1080oswg659_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
-      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
-      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-29 00:44:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "半年访谈600+用户、获千万元融资，这名清华毕业生想把脑机“戴”进运动场｜早期项目",
-      "link": "https://36kr.com/p/3827323136004992?f=rss",
-      "summary": "\n文｜胡香赟\n  编辑｜海若镜\n  “运动场景中的脑状态监测，正在成为高水平训练和运动健康管理中的新需求。”创业两年，张昊天这样判断。\n  张昊天毕业于清华大学，研究生期间开始探索如何将脑机接口技术应用在C端场景。他坦言，自己最初也没想好具体的落地方向，研究过程中，团队陆续接触过一些运动类企业，发现“重视运动表现结果的场景，对大脑状态监测都存在一定需求”。\n  运动健康类可穿戴设备的需求其实早已得...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-29 00:30:00",
-      "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260527/v2_ee326ab61e7b4f10b024de9265a49777@5930287_oswg4369581oswg3200oswg2400_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
-    },
-    {
-      "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问",
-      "link": "https://36kr.com/p/3829622140593288?f=rss",
-      "summary": "\n今日热点导览\n  \n盒马APP可下单租地种菜？客服：正在小范围试点\n   追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流”\n   京东：未来5年培养10万名工程师\n   蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右\n   加密币集体下跌，加密币24小时超16万人爆仓\n  \nTOP 3大新闻\n  Anthropic新一轮融资后估值达9650亿美元，超越OpenAI，预计仍...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-05-29 00:15:27",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
-      "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
-      "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-29 00:14:35",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
       "link": "https://www.qbitai.com/2026/05/426314.html",
       "summary": "可以长时间执行任务，人类不用经常回来检查它的工作...",
@@ -969,28 +1068,6 @@
       "pubDate": "2026-05-28 23:57:47",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
-      "link": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
-      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-28 23:01:52",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "2027 Audi RS5 first drive: A performance PHEV with split personalities",
-      "link": "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
-      "summary": "Audi has developed an entirely new electric torque-vectoring rear differential....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-28 22:01:02",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/RS5Austria203-500x500.jpg"
     },
     {
       "title": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5%",
@@ -1004,28 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "title": "LLMs believe false statements even after explicit warnings that they're false",
-      "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-      "summary": "Fine-tuning tests show \"bias... toward confidently representing the claims as true.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-28 21:29:43",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-500x500.jpg"
-    },
-    {
-      "title": "The internet is being rebuilt for machines",
-      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-05-28 21:24:01",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
       "link": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
       "summary": "\nMistral AI used its inaugural conference on Wednesday to announce a sweeping expansion into industrial manufacturing, a new inference data center south of Paris, and a rebranding of its consumer-faci...",
@@ -1035,50 +1090,6 @@
       "pubDate": "2026-05-28 20:54:16",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-28 20:29:53",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg"
-    },
-    {
-      "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
-      "link": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
-      "summary": "There are strategies to improve healthcare, but US isn't trying them....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-28 20:18:54",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1143294153-1-500x500.jpg"
-    },
-    {
-      "title": "Researchers develop a new process to get lithium out of rocks",
-      "link": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
-      "summary": "If it scales up, it can help us diversify our sources of a key element....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-28 19:30:04",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1272885374-500x500.jpg"
-    },
-    {
-      "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
-      "link": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
-      "summary": "FBI: Googler who knew outcome of bets in advance made $1.2M profit on Polymarket....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-05-28 19:01:54",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/google-logo-500x500-1736450957.jpg"
     },
     {
       "title": "Anthropic's Claude Opus 4.8 is here with 3X cheaper fast mode and near-Mythos level alignment",
@@ -1100,7 +1111,7 @@
       "region": "us",
       "pubDate": "2026-05-28 18:01:00",
       "category": "other",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/vials.jpg?w=1646"
+      "thumbnail": ""
     },
     {
       "title": "How DeepSeek’s radical architecture is shattering Silicon Valley's token moat",
@@ -1110,17 +1121,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-05-28 16:57:24",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Are designers the new SWEs? Figma Make's new two-way GitHub integration turns designs into live, production code — with built-in governance",
-      "link": "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance",
-      "summary": "\nCloud design software company Figma is officially transforming its AI design assistant, Figma Make, from a prototyping sandbox into a live, visual software editor that connects natively to production...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-05-28 15:22:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1144,7 +1144,7 @@
       "region": "us",
       "pubDate": "2026-05-28 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/FF_01-2_web-edited.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Understanding Phase Noise and Its Impact on RF System Performance",
@@ -1199,7 +1199,7 @@
       "region": "us",
       "pubDate": "2026-05-27 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2022/06/JA22_animal-infra-01b.jpeg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Rethinking organizational design in the age of agentic AI",
@@ -1210,7 +1210,7 @@
       "region": "us",
       "pubDate": "2026-05-26 14:54:10",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-1-_-V2-1.png"
+      "thumbnail": ""
     },
     {
       "title": "What It Takes to Preserve Floppy Disks",
@@ -1232,7 +1232,7 @@
       "region": "us",
       "pubDate": "2026-05-26 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/06/20230509-MITSanders-0179-h.jpeg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
