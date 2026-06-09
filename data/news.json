@@ -1,9 +1,284 @@
 {
-  "updateTime": "2026-06-09T16:08:21.388Z",
+  "updateTime": "2026-06-09T19:21:37.033Z",
   "total": 117,
   "news": [
     {
-      "title": "US military claims first drone boat rescue of downed helicopter crew",
+      "title": "Nintendo is playing things too safe",
+      "link": "https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis",
+      "summary": "Tuesday's Nintendo Direct showcase felt like an important moment for the company. With the Switch 2 heading into its second holiday season, one in which the hardware will be even more expensive thanks...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-09 19:01:04",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Can tech companies learn to love cheaper AI models? ",
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-09 18:56:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
+      "link": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
+      "summary": "\"Artemis III will be an extraordinary demonstration of what is possible.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-09 18:42:19",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/artemis-3-1-500x500.jpg"
+    },
+    {
+      "title": "The Pros and Cons of Job Hopping as an Engineer",
+      "link": "https://spectrum.ieee.org/strategic-job-hopping",
+      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-09 18:25:12",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-09 18:04:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Computer Science Degree Isn’t Dead",
+      "link": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
+      "summary": "\n\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development com...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-09 18:02:32",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+    },
+    {
+      "title": "On-device AI agents hit a hard memory limit. Apple's new architecture routes around it.",
+      "link": "https://venturebeat.com/technology/on-device-ai-agents-hit-a-hard-memory-limit-apples-new-architecture-routes-around-it",
+      "summary": "\nOn-device AI models have stayed small because the entire weight set has to live in DRAM, capping practical parameter counts well below what server-side deployments use. Enterprise architects evaluati...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-09 17:49:06",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+      "link": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
+      "summary": "Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-09 17:40:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
+      "link": "https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale",
+      "summary": "Whether you’re shopping for Father’s Day or trying to keep your kids entertained over summer break, you don’t need to spend a fortune to get a great Fitbit right now. You can currently pick up the Fit...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-09 17:35:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "MacOS 27 Golden Gate: Top New Features",
+      "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
+      "summary": "Apple has announced the latest version of macOS. It’s all about the reintroduction of Siri, which is now accessible from anywhere on the Mac desktop....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-09 17:33:21",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a2849c20d6aa02c6a8cdf9e/master/pass/Apple-OS-27-updates-260608.jpg"
+    },
+    {
+      "title": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
+      "link": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever",
+      "summary": "\nAnthropic today launched two new AI models — Claude Fable 5 and Claude Mythos 5 — marking the company’s first broad release of the powerful “Mythos-class” AI capabilities it previously made available...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-09 17:19:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple wants Europe to blink",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
+      "summary": "It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to blam...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-09 17:13:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Screwworms in US: Human risk is low—but they can burrow through your skull",
+      "link": "https://arstechnica.com/health/2026/06/screwworms-in-us-human-risk-is-low-but-they-can-burrow-through-your-skull/",
+      "summary": "The chances are low, but not zero....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-09 17:09:10",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg"
+    },
+    {
+      "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
+      "link": "https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/",
+      "summary": "Apple took the wraps off iOS 27 at its WWDC event, and the iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-09 17:03:37",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a28233604cb8e65f7b969d3/master/pass/Siri%20AI%20Site%20Image%20SOURCE%20Apple.jpg"
+    },
+    {
+      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+      "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-09 17:00:46",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a270618e083d018dff70e49/master/pass/Anthropic-Dangerous-AI-Business-2261854833.jpg"
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-09 17:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic releases its first Mythos-class model Claude Fable ",
+      "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in softwa...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-09 17:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SwitchBot’s E Ink Weather Station is already 20 percent off",
+      "link": "https://www.theverge.com/gadgets/946753/switchbot-weather-station-jackery-explorer-deal-sale",
+      "summary": "We’re only a few days since the SwitchBot Smart E Ink Weather Station launched, and you can already save $25 on the smart home gadget. Visit Amazon and clip the on-page coupon to bring the price down ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-09 16:55:54",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rivian starts deliveries of its all-important R2 SUV",
+      "link": "https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/",
+      "summary": "Founder and CEO RJ Scaringe has called it \"maybe the most important thing we've launched to date.\"...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-09 16:46:08",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
+      "link": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
+      "summary": "Meta won't say why or whether it's coming back....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-09 16:31:10",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/zuck-500x500.jpg"
+    },
+    {
+      "title": "Apple’s foldable iPhone could be just around the corner",
+      "link": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
+      "summary": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-09 16:22:56",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "link": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "summary": "Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accuratel...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-09 16:13:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-09 16:09:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 款小鹏 MONA M03 汽车上线虚拟偶像「星瞳」语音彩蛋",
+      "link": "https://www.ithome.com/0/962/146.htm",
+      "summary": "\nIT之家 6 月 9 日消息，小鹏汽车官方今日宣布，2026 款小鹏 MONA M03 的「星瞳」语音彩蛋上线，正式进入车机语音包。\n\n据介绍，2026 款小鹏 MONA M03 汽车「星瞳」语音彩蛋覆盖了出发提醒、座椅按摩、舒享模式、小憩模式、下车带手机提醒、注意开门杀等场景。\n\nIT之家附 2026 款小鹏 MONA M03 车机语音包场景码如下：\n\n\n\n手机端：小鹏汽车 App → 推荐 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-09 15:59:21",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/494fb1ca-b81a-43b7-95ae-f098053ff781.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "一加 Turbo 6X 手机三色官图发布：搭载 144Hz LCD 护眼屏，6 月 10 日发布",
+      "link": "https://www.ithome.com/0/962/145.htm",
+      "summary": "\nIT之家 6 月 9 日消息，一加 Turbo 6X 系列手机已定档 6 月 10 日 14:30 正式发布，瞄准 1500 元档位。\n\nIT之家注意到，一加手机官方今日下午公布了一加 Turbo 6X 手机三色官图，包括「白里挑一」、「踏青云」和「星耀黑」。\n\n\n\n据介绍，一加 Turbo 6X 配备 144Hz LCD 护眼屏，支持无频闪护眼特性；内置 7000mAh 大电池，宣称“六年耐用...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-09 15:52:16",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/fdd45870-5a1e-446a-8256-5b2893bf61c7.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
       "link": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
       "summary": "US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz....",
       "source": "Ars Technica",
@@ -22,7 +297,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 15:44:28",
       "category": "robot",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/24f92836-185c-45ae-931e-5f5be539d78b.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "谷歌发布实时语音互译模型 Gemini 3.5 Live Translate：可识别 70 余种语言，谷歌翻译 App 就能用",
@@ -33,7 +308,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 15:33:16",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/065081e4-ccf2-4e56-b1c5-9b801eb296d1.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "微软 AI CEO 苏莱曼改口，收回“AI 将于 18 个月内取代大部分白领工作”言论",
@@ -44,7 +319,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 15:29:04",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/2/09370aa0-cdd7-4496-8ef8-38a907d5949d.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1"
     },
     {
       "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
@@ -66,7 +341,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 15:18:40",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/147ece18-4b4a-4c3d-9dcb-7a59a19e3fed.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "罗永浩谈苹果 iOS 27“挤牙膏”，称希望新 CEO 别再这样了",
@@ -77,7 +352,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 15:17:57",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/8abe282d-0c6c-4848-9d83-dac06a6b9926.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "任天堂直面会汇总：《王国之心 4》《塞尔达传说：时之笛 重制版》《勇者斗恶龙怪物仙境 4》《东方红魔乡》",
@@ -88,10 +363,10 @@
       "region": "cn",
       "pubDate": "2026-06-09 15:16:58",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/e7a895d9-7fcf-4dae-ad39-6850f73dab91.jpg?x-bce-process=image/format,f_auto"
     },
     {
-      "title": "High-severity vulnerability in Linux caused by a single errant character",
+      "title": "High-severity vulnerability in Linux caused by a single faulty character",
       "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
       "summary": "Use-after-free bug can be exploited to evade sandbox defenses....",
       "source": "Ars Technica",
@@ -132,7 +407,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 15:01:25",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/684c154e-c30f-4f8c-8da8-f6a2544dc8f4.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Meta will use your activity on other websites to personalize your feeds",
@@ -154,7 +429,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 14:57:31",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/0fec4115-3ad0-48fa-82fd-78cd24211837.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2",
@@ -190,28 +465,6 @@
       "thumbnail": ""
     },
     {
-      "title": "依旧碰一碰：华为钱包上线 HDC 2026 电子门票，激活后可代替身份证用于进入会场",
-      "link": "https://www.ithome.com/0/962/136.htm",
-      "summary": "\nIT之家 6 月 9 日消息，博主 @Adak封狼居胥 刚刚发文称，华为钱包上线了 HDC 2026 电子门票，激活后可代替身份证，使用手机 NFC 碰一碰进入大会会场。\n\n值得一提的是，华为似乎很喜欢碰一碰这种交互模式。早在 2018 年，华为就与银联合作推出了碰一碰支付技术，同年还在 MateBook 13 笔记本上带来了 HUAWEI Share 3.0 一碰传功能。后续，华为陆续带来了手...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-09 14:50:51",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "《任天堂 Switch 运动度假胜地》官宣，10 月 22 日发售",
-      "link": "https://www.ithome.com/0/962/135.htm",
-      "summary": "\nIT之家 6 月 9 日消息，《任天堂 Switch 运动度假胜地》（Nintendo Switch Sports Resort）今天在新一期直面会中亮相，登陆 Switch 2 平台。\n\nIT之家从发布会直播中获悉，《任天堂 Switch 运动度假胜地》是《Wii 运动度假胜地》的精神续作。新作主打体感玩法，收录拳击、乒乓球、射箭、网球、排球、保龄球、篮球、高尔夫、拇指摔跤、滑板、动力巡航、螺...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-09 14:49:40",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
       "link": "https://36kr.com/p/3846046471277059?f=rss",
       "summary": "\n“破坏公平，就该受到惩罚”，这几乎是所有人心中的共识。\n  但在聚集了数千万乃至上亿参与者的游戏竞技场里，作弊行为的边界却显得模糊。\n  在网络游戏领域，作弊有一个更广为人知的称呼：“开外挂”。它包含一切通过非官方允许的外部程序或硬件，获取超过正常玩家所拥有的信息与操作能力的行为。而在涉及游戏的场景中，外挂往往不包含在单机游戏里使用数据修改器，而是特指多人竞技游戏中的透视、自瞄等工具。\n  当下...",
@@ -220,18 +473,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 14:48:11",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple’s App Store rolls out personalized recommendations",
-      "link": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
-      "summary": "Apple will now recommend apps based on your downloads and behavior....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-09 14:30:17",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260609/v2_af3a7ced51f24d859d3f865ff2a46c84@16519798_oswg78298oswg1080oswg794_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Gold isn’t inert, it just has bodyguards protecting it",
@@ -243,17 +485,6 @@
       "pubDate": "2026-06-09 14:23:59",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1337410884-500x500.jpg"
-    },
-    {
-      "title": "Apple’s AI promises are finally, almost, sort of here",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
-      "summary": "Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be \"introducing new technologies and innovations that push the limits on what's poss...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-09 14:18:18",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Here's Audi's next Q7 SUV and US-only SQ7, now with an RS V8",
@@ -278,28 +509,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Everything you need to know about Prime Day 2026",
-      "link": "https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions",
-      "summary": "Amazon Prime Day 2026 is getting closer, and it’s possible you might have some questions about the sale. When does it start? Why is it in June instead of July? And, most importantly, when will the dea...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-09 14:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-      "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-09 13:47:25",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "内蒙跑通AI逆袭新解法",
       "link": "https://www.qbitai.com/2026/06/433565.html",
       "summary": "全行业的Token焦虑何解？...",
@@ -307,28 +516,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-06-09 13:40:54",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Nintendo Direct June 2026: All the news and trailers",
-      "link": "https://www.theverge.com/entertainment/945806/nintendo-direct-june-2026-trailers-news",
-      "summary": "After a week of video game news and trailers from PlayStation, Xbox, and most of the major publishers, Nintendo decided to follow things up with its next Nintendo Direct. And it came at an important m...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-09 13:40:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple’s best AI idea looks a lot like vibe coding",
-      "link": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
-      "summary": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-09 13:34:48",
       "category": "ai",
       "thumbnail": ""
     },
@@ -366,17 +553,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8097-500x500-1780966683.jpeg"
     },
     {
-      "title": "Apple dials down Liquid Glass, and the Mac looks way better for it",
-      "link": "https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on",
-      "summary": "MacOS 27 Golden Gate will usher in a bunch of changes to the Mac when it's released later this year, with its biggest new features revolving around Siri AI. But for now, using the first developer beta...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-09 13:04:39",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "First Drive: The 2027 Rivian R2 entirely changes the EV game",
       "link": "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/",
       "summary": "Rivian's second EV is the sub-$60,000 R2, and it was worth the wait....",
@@ -386,28 +562,6 @@
       "pubDate": "2026-06-09 13:00:46",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Ars-Technica-Rivian-R2-Pics-27-500x500.jpg"
-    },
-    {
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-      "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-09 13:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Rivian R2 is too much fun to let drive itself",
-      "link": "https://www.theverge.com/transportation/946398/rivian-r2-review-price-specs-ai-ev",
-      "summary": "Rivian may be all in on robotaxis and autonomy, but it's still got human drivers - and EV buyers - to win over. The pricey R1S SUV and R1T pickup brought Rivian A-list media attention and cult-hit sta...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-09 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Rivian R2 2026: Specs, Price, Availability",
@@ -450,17 +604,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-06-09 12:10:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "How an e-scooter founder raised $5 million to build space data centers",
-      "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-      "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-09 12:00:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -517,7 +660,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 10:51:58",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260609/v2_2aabb976b43e4d4b8268ffba9cfb0f80@577536001_oswg282210oswg844oswg562_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "ONLYOFFICE 协作空间 3.7 发布：支持文件生成 &amp;amp; 新增 AI 智能体提供商、更智能的表单、房间分组等",
@@ -707,17 +850,6 @@
       "thumbnail": "https://media.wired.com/photos/6a26d8e332a42fcf43081589/master/pass/DSC03793.jpg"
     },
     {
-      "title": "Meta Changed Its Speech Rules. Then Threats Against Politicians Skyrocketed",
-      "link": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
-      "summary": "New research finds that in the six months after Meta relaxed rules in the name of free speech, violent threats against lawmakers—including President Donald Trump—surged on Facebook....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-09 10:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a27d2a80d6aa02c6a8cda54/master/pass/Politics_ThreatsAgainstPoliticiansSkyrocketedAfterMetaChangedItsSpeechRules_v2.jpg"
-    },
-    {
       "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
       "link": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
       "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has lea...",
@@ -749,17 +881,6 @@
       "pubDate": "2026-06-09 09:32:54",
       "category": "chip",
       "thumbnail": ""
-    },
-    {
-      "title": "Exclusive: Get Bruvi’s Pod Coffee Maker for Nearly Half Off",
-      "link": "https://www.wired.com/story/bruvi-bv-01-deal-june-2026/",
-      "summary": "Use this WIRED-exclusive coupon code to get the best deal on this high-design machine and biodegradable pods....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-09 09:31:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a273119bc795aee26695dcf/master/pass/How-To-Get-My-Favorite-Pod-Coffee-Maker-and-Pods-for-Nearly-Half-Off.jpg"
     },
     {
       "title": "Semi Design v2.100.0 发布，抖音企业级 UI 库",
@@ -795,17 +916,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
-      "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
-      "summary": "The startup is one of many entering the RV space, but it's banking on a hybrid power system that can go far beyond campsites....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-09 09:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "我 VibeCoding 了一个 VibeCoding 工具",
       "link": "https://www.oschina.net/news/454854",
       "summary": "你说我搁这搁这呢？先别急，请看 VCR： 你看，我就说你没用过 VibeCoding 吧！现在我们程序员都用这个工具来提高工作效率，没用过你怎么找工作？ 好吧，快进到我再也不玩抽象了。今年以来 AI 工具的爆发确实解放了极大的生产力，自「开源中国 AI 提效部」成立以来，已经发掘了不少员工利用自己做的 AI 工具「摸鱼」的案例......",
@@ -836,7 +946,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 07:53:19",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260608/v2_92e9e2eea4bc411d9ddc3d5df15f4ef2@6392801_oswg48047oswg542oswg412_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
@@ -858,29 +968,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 06:19:43",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
-      "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
-      "summary": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-09 05:07:17",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "1Password Coupon: Score a Free Trial in June 2026",
-      "link": "https://www.wired.com/story/1password-coupon/",
-      "summary": "Save up to 28% on business and personal memberships with 1Password promo codes and deals....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-09 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png"
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260609/v2_f88e0d2302564aa4a8bad0ad8fbcc3c9@6208419_oswg1265553oswg1267oswg769_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
@@ -913,7 +1001,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 03:01:37",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260609/v2_65f27a9780bc4297b201bab93489339d@1199336245_oswg868869oswg1080oswg596_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "国产通用大模型第一梯队，来新人了？！",
@@ -946,18 +1034,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 01:58:22",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-09 01:56:48",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260609/v2_458d987c894d4f8f800f4ba688695d65@5920579_oswg457824oswg841oswg562_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
@@ -968,7 +1045,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 01:56:31",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260609/v2_fe26f604de9545618bfd4d9fb60763bd@5920579_oswg338483oswg1080oswg679_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "腾讯想让企业打开AI的方式只剩一个",
@@ -990,7 +1067,7 @@
       "region": "cn",
       "pubDate": "2026-06-09 01:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260608/v2_731b8aea554b4b50babbda456b601e17@5930287_oswg350533oswg693oswg694_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
@@ -1026,28 +1103,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
-      "link": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
-      "summary": "Mystery of GPS interference across Europe raises questions about Russian motives....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-08 21:56:28",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Cloud-free_Europe-500x500.jpg"
-    },
-    {
-      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
-      "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
-      "summary": "You'll need an M1 or better to run the next release of macOS....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-08 21:03:56",
-      "category": "chip",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apple-child-account-hero-260608-500x500-1780944935.jpg"
-    },
-    {
       "title": "The Agentic Reckoning: Enterprise AI organizations have a runtime problem, not a model problem — and most are building the wrong solution",
       "link": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem",
       "summary": "\nIn Q1 2026, VentureBeat's Pulse Research surfaced the “Governance Mirage”: the gap between the governance org charts enterprises had drawn and the control layers they had actually built. Forty-three ...",
@@ -1057,17 +1112,6 @@
       "pubDate": "2026-06-08 21:01:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
-      "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
-      "summary": "This promises to be a solid release for aging iPhones....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-08 20:55:58",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apple-Intelligence-Image-Playground-Messages-and-Contact-Poster-and-Lock-Screen-260608-500x500.jpg"
     },
     {
       "title": "IEEE Celebrates Technology’s Brightest Minds at Annual Event",
@@ -1132,28 +1176,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-06-07 16:00:20",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
-      "link": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
-      "summary": "\nFor three years, Microsoft's artificial intelligence story has been inseparable from OpenAI. The partnership — cemented by a cumulative investment exceeding $13 billion — gave Microsoft early access ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-05 22:55:38",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft's AI Futurist explains how he uses Copilot — and the real-world problems enterprises are solving with agents",
-      "link": "https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents",
-      "summary": "\nMicrosoft used its Build 2026 conference this week to push a clear message: agents are rapidly moving into production throughout enterprise systems, and the winning platform will be the one that give...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-05 19:31:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1266,28 +1288,6 @@
       "pubDate": "2026-06-01 11:06:01",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/five-workers-in-reflective-safety-gear-and-helmets-standing-in-an-underground-tunnel.jpg?id=66832214&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
-      "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
-      "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-      "summary": "\nIn 1987, Richard Greenhill, a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like ca...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-05-31 13:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
-      "title": "Poetry for Engineers: Cyborg Laboratory",
-      "link": "https://spectrum.ieee.org/poetry-for-engineers-cyborg-laboratory",
-      "summary": "\nThis is the place where you face yourself,the you that could be you with a fewdifferent parts, a pump for your heart,eyes off color, and fresh off the shelffake hair (a bit obvious), skin smoothed.Yo...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-05-30 15:13:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-1950s-businessman-with-modern-robotic-limbs-collaged-over-his-arm-and-leg.jpg?id=66831451&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     }
   ]
 }
