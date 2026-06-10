@@ -1,7 +1,249 @@
 {
-  "updateTime": "2026-06-10T16:40:27.300Z",
+  "updateTime": "2026-06-10T19:41:22.998Z",
   "total": 117,
   "news": [
+    {
+      "title": "Claude Fable won’t answer basic biology questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-10 18:43:34",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The Best USB-C Cables (2026): for Smartphones, Tablets, and Laptops",
+      "link": "https://www.wired.com/gallery/best-usb-c-cables/",
+      "summary": "Unravel the tangled world of cords and find the ones you need to charge your gadgets and transfer data....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-10 18:29:45",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a15c4762dca9ad4fc8c7307/master/pass/Best%20USB-C%20Cables%20top%20art%20052026%20SOURCE%20Amazon.jpg"
+    },
+    {
+      "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
+      "link": "https://spectrum.ieee.org/epics-in-ieee",
+      "summary": "\nThe EPICS (Engineering Projects in Community Service) in IEEE program, administered by IEEE Educational Activities, has launched the Excellent EPICS in IEEE Contributor Awards. The recognitions honor...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-10 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/four-men-tinkering-with-iot-parts-on-an-outdoor-table.jpg?id=66858524&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
+    },
+    {
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-10 17:45:11",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-10 17:38:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "MassMutual's AI strategy: 12-month contracts, 30% productivity gains, zero lock-in",
+      "link": "https://venturebeat.com/orchestration/massmutuals-ai-strategy-12-month-contracts-30-productivity-gains-zero-lock-in",
+      "summary": "\nEnterprise AI teams face a dilemma: The best models today might not be the best models a year from now. MassMutual's answer is to stop making long-term bets — and build infrastructure that can swap m...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-10 17:31:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "We managed to glean some interesting details about the Artemis III mission",
+      "link": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
+      "summary": "\"I was on the phone with Blue Origin leadership that night, all the next day, all through the weekend.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-10 17:31:13",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NHQ202604010037medium-500x500.jpg"
+    },
+    {
+      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suin...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-10 17:20:36",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+      "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-10 17:19:31",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277898840-500x500-1781109528.jpg"
+    },
+    {
+      "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
+      "link": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
+      "summary": "The media giant is pushing to expand its mobile and gaming business....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-10 17:13:02",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-10 17:07:35",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "You can just tell the Instagram algorithm what you want now",
+      "link": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+      "summary": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-10 17:06:10",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932740/acastro_STK070__02.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
+      "link": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
+      "summary": "The US military struck Iran again after an Iranian drone’s lucky midair strike....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-10 17:04:47",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apache-helicopters-Strait-of-Hormuz-500x500.jpeg"
+    },
+    {
+      "title": "Donald Trump Is Ready for Fight Night. So Are Donors",
+      "link": "https://www.wired.com/story/donald-trump-ufc-white-house-south-lawn/",
+      "summary": "The UFC event on the White House’s South Lawn is the president’s birthday gift to himself. Sources expect it to be a lobbying extravaganza....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-10 17:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a28ec015026ebbd8046b934/master/pass/politics_white_house_ufc.jpg"
+    },
+    {
+      "title": "Amazon’s Echo speakers can now help kids wind down and fall asleep",
+      "link": "https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace",
+      "summary": "Amazon has launched a new feature for its Echo and Echo Kids smart speakers called Sleep Studio that's designed to make the daily transition to bedtime more enticing for kids and less stressful for pa...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-10 16:54:17",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazonsleep1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
+      "link": "https://arstechnica.com/health/2026/06/bucking-rfk-jr-ob-gyns-release-vaccine-guidance-that-conflicts-with-cdc/",
+      "summary": "Thirteen other medical groups have already endorsed the independent schedule....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-10 16:52:36",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1232871329-500x500.jpeg"
+    },
+    {
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-10 16:50:23",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
+      "link": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
+      "summary": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-10 16:43:11",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 iPhone 18 标准版有望升级 12GB 内存，但代价是退回 M12+ 屏幕面板",
+      "link": "https://www.ithome.com/0/962/691.htm",
+      "summary": "\nIT之家 6 月 11 日消息，据科技媒体 Wccftech 今晚报道及行业分析师 Schrödinger 的消息，苹果在下一代 iPhone 18 标准版中面临产品策略权衡难题。\nSchrödinger 表示，为应对 DRAM 涨价带来的供应链成本压力，苹果正考虑在对 iPhone 18 Pro Max 进行涨价，而对于价格更敏感的 iPhone 18 标准版，苹果正面临“内存 or 屏幕”二...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-10 16:42:26",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/0ff5b524-8366-4722-8d47-cd950afc59b3.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Valve kills its retail gift card program due to scammers",
+      "link": "https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/",
+      "summary": "Move also cuts off a massive market of legit users who buy cards with physical cash....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-10 16:39:43",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/steamcard-500x500.jpg"
+    },
+    {
+      "title": "岚图泰山 X9 新车申报：六座纯电 SUV，采用三元锂离子蓄电池",
+      "link": "https://www.ithome.com/0/962/690.htm",
+      "summary": "\nIT之家 6 月 11 日消息，工信部发布第 408 批《道路机动车辆生产企业及产品公告》新产品公示，岚图泰山纯电动多用途乘用车完成申报（尾部字标可选“泰山 X9”）。\n\n该车为纯电动多用途乘用车，也就是我们常说的 SUV 车型，尺寸为 5230×2025×1817mm、轴距 3120mm，整备质量 2920kg，总质量 3370kg，采用 6 座布局，最高车速 200km/h。\n\nIT之家注意...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-10 16:23:36",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/b1616f2e-1569-4182-bbc7-083469f70fc6.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Sear...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-10 16:18:45",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "How memory tools can make AI models worse",
       "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
@@ -14,15 +256,37 @@
       "thumbnail": ""
     },
     {
-      "title": "鸿蒙 7 发布板上钉钉，华为 HDC 2026 开发者大会议题公布，将发布全新 UI design kit",
+      "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
+      "link": "https://arstechnica.com/cars/2026/06/2026-honda-prelude-review-we-need-more-affordable-coupes-like-this/",
+      "summary": "Honda's $42,000 hybrid coupe looks great, handles well, and gets 44 mpg....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-10 16:10:20",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026-Honda-Prelude-5-500x500-1781104659.jpg"
+    },
+    {
+      "title": "苹果 2026 年 Q1 市场份额全面扩张：iPad 营收市占率冲至 60%，iPhone 达 48%",
+      "link": "https://www.ithome.com/0/962/689.htm",
+      "summary": "\nIT之家 6 月 10 日消息，市场研究机构 Counterpoint 今日公布了最新的 2026 年第一季度《苹果硬件与服务收入（按细分领域和地区划分）》报告，苹果公司在多个产品类别中的全球市场份额均实现同比增长，其中 iPad 在营收份额上的领先优势进一步扩大。\n按营收份额来看，iPad 从市占率 54% 跃升至 60%；iPhone 从 43% 攀升至 48%；Apple Watch 从 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-10 15:59:52",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/da12d469-edd5-49e9-8d54-7431f0f32870.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "鸿蒙 7 发布已板上钉（dìng）钉：华为 HDC 2026 开发者大会议题公布，将带来全新 UI design kit",
       "link": "https://www.ithome.com/0/962/688.htm",
-      "summary": "\nIT之家 6 月 10 日消息，华为开发者大会 HDC 2026 官宣定档 6 月 12 日 ~14 日举行。本届 HDC 2026 将发布 HarmonyOS 全新版本、鸿蒙 AI 核心能力，以及生态全新成果等。\n\n华为官方此前预热信息从未正面提及全新版本的 HarmonyOS 具体命名，但细心的IT之家还是发现了关于下一代鸿蒙系统的“蛛丝马迹”。HDC 2026 官网议程板块显示，在 6 月...",
+      "summary": "\nIT之家 6 月 10 日消息，华为开发者大会 HDC 2026 官宣定档 6 月 12 日 ~14 日举行。本届 HDC 2026 将发布 HarmonyOS 全新版本、鸿蒙 AI 核心能力，以及生态全新成果等。\n\n华为官方此前预热信息从未正面提及全新版本 HarmonyOS 具体命名，但细心的IT之家还是发现了关于下一代鸿蒙系统的“蛛丝马迹”。HDC 2026 官网议程板块显示，在 6 月 ...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
       "pubDate": "2026-06-10 15:59:24",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/70dc4251-ee18-479f-b9b9-47ef0752570e.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Zest launches a restaurant discovery app powered by where people actually eat",
@@ -44,7 +308,7 @@
       "region": "cn",
       "pubDate": "2026-06-10 15:48:18",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/8866ee90-6954-4f5c-9d59-c7fb694146a5.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "荣耀小平板再曝：评估 8 英寸左右超高刷 OLED 屏 + 骁龙 8 Elite 系列芯片，或命名 WIN Pad Mini",
@@ -55,7 +319,7 @@
       "region": "cn",
       "pubDate": "2026-06-10 15:42:38",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/260295ea-a845-4bb9-bcfa-a9f3aa62d4ed.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
@@ -77,7 +341,7 @@
       "region": "cn",
       "pubDate": "2026-06-10 15:41:21",
       "category": "auto",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/73c77c65-7468-42d5-9aa0-01bca5115112.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "泰坦军团元战 G2785V 显示器开售：26.5 英寸 4K 165Hz QD-OLED 屏，政府补贴价 2999.7 元",
@@ -88,7 +352,7 @@
       "region": "cn",
       "pubDate": "2026-06-10 15:38:27",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/442870/29/11684/153290/6a211575Fac2e4ced/008332032019dc1d.png"
     },
     {
       "title": "百万年归宿：我国科学家主导发现全球最深最大鲸类化石群和鲸落",
@@ -99,7 +363,7 @@
       "region": "cn",
       "pubDate": "2026-06-10 15:26:49",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/7b533a7b-0303-4976-a482-1a80a72f7a32.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "智界 RX 登陆工信部新车公示，赵长江喊话要给出 SUV 在智能时代的新方向",
@@ -110,18 +374,7 @@
       "region": "cn",
       "pubDate": "2026-06-10 15:23:59",
       "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "毕业典礼频现“谈 AI 色变”，微软总裁史密斯呼吁行业必须回应公众担忧",
-      "link": "https://www.ithome.com/0/962/680.htm",
-      "summary": "\nIT之家 6 月 10 日消息，据彭博社 10 日（今天）晚间报道，近几周，2026 届毕业生已经用相当直接的方式表达了对 AI 的不满：多场毕业典礼上，只要演讲者开始宣传 AI 技术，台下就会响起嘘声。微软总裁布拉德 · 史密斯注意到了这种情绪。\n史密斯在接受采访时表示：“我认为，行业现在必须拿出应有的回应，证明自己能够以严肃、可信的方式回答人们关心的问题。”\n\n史密斯通过博客文章进一步阐述了...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-10 15:22:02",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/981cbd3d-fac1-4de6-97a4-72e621096304.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Why enterprise AI will be a major focus at VivaTech 2026",
@@ -131,28 +384,6 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-06-10 15:16:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "vivo X Fold6 折叠屏手机预热，支持联动电脑办公套件部署“龙虾”小 V Claw PC 版",
-      "link": "https://www.ithome.com/0/962/679.htm",
-      "summary": "\nIT之家 6 月 10 日消息，vivo X Fold6 折叠屏真机已曝光，新机定档 6 月发布，将带来全新的 OriginOS 6 Fold 系统，预计还会搭载天玑 9500 处理器。\n\nvivo 通信科技有限公司产品经理韩伯啸今日发布视频，再度预热这款新机。\n\n据韩伯啸透露，vivo X Fold6 将主打“AI 轻办公神器”这一卖点。除了一屏多用这一卖点外，该机还支持联动电脑 vivo 办...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-10 15:12:20",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果在全球多地下架 Vision Pro 旅行舱（收纳盒），中国官网已断货",
-      "link": "https://www.ithome.com/0/962/678.htm",
-      "summary": "\nIT之家 6 月 10 日消息，MacRumors 发现，苹果 Vision Pro 旅行舱目前已在全球多个市场地区的线上商店中下架，至少包括英国、日本、德国、法国、爱尔兰和香港。\n这些地区的苹果 Vision Pro 配件页面已不再列出该旅行舱，此前包含该产品的页面也已被完全移除，表明苹果至少在以上市场已将其停产且暂无恢复计划。\nIT之家注意到，在中国大陆和澳大利亚，其商品页面仍然存在，但产品...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-10 15:10:32",
       "category": "ai",
       "thumbnail": ""
     },
@@ -212,105 +443,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-10 14:31:30",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "ServiceNow tells customers a bug left some of their data exposed to the internet",
-      "link": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
-      "summary": "ServiceNow is used by thousands of enterprises to automate their internal processes, but says several customers had data accessed because of a security bug....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-10 14:13:02",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Valve is phasing out physical Steam gift cards due to scammers",
-      "link": "https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers",
-      "summary": "After over a decade, Steam will no longer sell physical gift cards in stores. In a support page spotted earlier by Windows Central, Valve says it will no longer restock its gift cards once they run ou...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-10 14:10:38",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK138_Stream_Kradtke_02.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Five questions for the duo behind The Pelley Minutes",
-      "link": "https://www.theverge.com/report/947472/five-questions-for-the-duo-behind-the-pelley-minutes",
-      "summary": "Websites are so back! Today's website worth visiting is The Pelley Minutes, a clever project that puts the career of longtime 60 Minutes correspondent Scott Pelley into perspective. The show may only ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-10 14:06:17",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2241234162.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The Social Reckoning trailer gives us our first look at Jeremy Strong as Zuck",
-      "link": "https://www.theverge.com/entertainment/947682/social-reckoning-trailer-aaron-sorkin-jeremy-strong-allen-white-facebook",
-      "summary": "Over 15 years after David Fincher and Aaron Sorkin's The Social Network premiered in theaters, Sony has released the first trailer for The Social Reckoning ahead of its theatrical release on October 9...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-10 14:02:44",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/zuck.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The AirPods Pro 3 are $179 at Walmart, their best-ever price",
-      "link": "https://www.theverge.com/gadgets/947719/airpods-pro-3-walmart-deal-sale",
-      "summary": "Ahead of Prime Day, Walmart is offering the best price we’ve seen yet on the Apple AirPods 3 wireless earbuds. Originally $249 (though commonly selling somewhere between $200 and $220), they’re $179 a...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-10 14:00:06",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0106.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "I’m relieved Siri AI isn’t trying to be a health coach",
-      "link": "https://www.theverge.com/column/947005/optimizer-siri-ai-wwdc-2026-health-coaches",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-10 14:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0034.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Google’s Nest Cam with Floodlight is selling at its lowest price yet",
-      "link": "https://www.theverge.com/gadgets/947264/google-nest-cam-floodlight-deal-sale",
-      "summary": "The Google Nest Cam with Floodlight is marked down to $179.99 ($100 off) at multiple retailers, including Amazon, Best Buy, Home Depot, and directly from Google. This weather-resistant outdoor camera ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-10 14:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23055509/jtuohy_211011_4898_0004.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "AT&amp;T is launching $3 ‘unlimited’ day passes for iPads",
-      "link": "https://www.theverge.com/tech/947574/att-unlimited-day-pass-ipad-data-plan",
-      "summary": "AT&amp;T has introduced a new \"Unlimited Day Pass\" cellular data offer for iPad users who need brief connectivity instead of signing up for a long-term plan. The day pass is available for $3 in the US...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-10 14:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/M5-iPad-Pro-1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
       "link": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
       "summary": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID....",
@@ -341,17 +473,6 @@
       "region": "cn",
       "pubDate": "2026-06-10 13:35:14",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-10 13:33:09",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -397,17 +518,6 @@
       "pubDate": "2026-06-10 13:02:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a288503bc576fffc167a2e6/master/pass/The-Best-Kindles-to-Take-Your-Library-Anywhere.jpg"
-    },
-    {
-      "title": "Insta360’s Luna Ultra 8K stabilized camera is now available in the US",
-      "link": "https://www.theverge.com/tech/947218/insta360-luna-ultra-dual-camera-stabilized-8k-telephoto-leica-us-availability-pricing",
-      "summary": "Following months of teases, leaks, a secretive debut at NAB 2026, and an initial launch in China, Insta360 finally announced global availability for its first handheld stabilized camera. The Luna Ultr...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-10 13:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/insta360lunaultra1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "We Are Crowd-Sourcing the Panopticon",
@@ -639,28 +749,6 @@
       "pubDate": "2026-06-10 10:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a2135e96a7879400ec43bf2/master/pass/WIRED-WC26-Cristian-Mera-Flock-Camera-Tracking.png"
-    },
-    {
-      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
-      "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
-      "summary": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-10 10:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a26f2821d5621d5724e9dd9/master/pass/Artificial-Intelligence-Sneaks-into-World-Cup-2279691552.jpg"
-    },
-    {
-      "title": "This World Cup, You Can Watch the Game From a Ref’s Point of View",
-      "link": "https://www.wired.com/story/world-cup-referee-body-cameras-live/",
-      "summary": "Referees for the 2026 World Cup will be wearing cameras positioned at their temples, allowing TV audiences to see a live view of the pitch from a vantage point they never have before....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-10 10:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a1fe8d3c06a838b3ae968be/master/pass/WIRED-WC26-Cristian-Mera-Referee-Cams.png"
     },
     {
       "title": "HeidiSQL 12.18 发布",
@@ -949,72 +1037,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-500x500.jpg"
     },
     {
-      "title": "Three key vital signs make up the \"urban pulse\" of a city",
-      "link": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
-      "summary": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-09 20:35:22",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/urbanpulse1-500x500.jpg"
-    },
-    {
-      "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
-      "link": "https://arstechnica.com/science/2026/06/__trashed-19/",
-      "summary": "Five peer-reviewed papers update the design and model its expected output....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-09 20:25:56",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1-500x500.jpeg"
-    },
-    {
-      "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
-      "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
-      "summary": "Netflix's response: \"Absurd.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-09 20:15:45",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1185995584-500x500.jpg"
-    },
-    {
-      "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
-      "link": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
-      "summary": "New frontier model refuses cybersecurity, biology, and chemistry queries....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-09 19:20:25",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1599973349-500x500-1781030396.jpg"
-    },
-    {
-      "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
-      "link": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
-      "summary": "Voice translations preserve speaker's tone, pacing, pitch—with SynthID watermarks for security....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-09 18:57:25",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-500x500.jpg"
-    },
-    {
-      "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
-      "link": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
-      "summary": "\"Artemis III will be an extraordinary demonstration of what is possible.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-09 18:42:19",
-      "category": "space",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/artemis-3-1-500x500.jpg"
-    },
-    {
       "title": "What Size Company Is Right for You?",
       "link": "https://spectrum.ieee.org/fortune-500-companies-vs-startups",
       "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
@@ -1180,17 +1202,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
-      "link": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
-      "summary": "\nA joint research collaboration between researchers at the University of Illinois at Urbana-Champaign (UIUC), UC Berkeley, and the open source AI-native vector database platform Chroma unveiled Harnes...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-08 22:19:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "IEEE Celebrates Technology’s Brightest Minds at Annual Event",
       "link": "https://spectrum.ieee.org/ieee-celebrates-honors-ceremony-2026",
       "summary": "\nNew York City was the backdrop of this year’s IEEE Honors Ceremony, held on 24 April.\nThe event celebrates engineering pioneers who have developed technologies that have changed how people connect an...",
@@ -1277,17 +1288,6 @@
       "pubDate": "2026-06-03 11:00:01",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/utility-workers-inspect-electrical-equipment-beside-a-service-truck-on-a-grassy-site.jpg?id=66649065&width=1245&height=700&coordinates=0%2C104%2C0%2C105"
-    },
-    {
-      "title": "Direct-to-Cell Technology: Enabling Satellite Connectivity for Legacy Devices",
-      "link": "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/",
-      "summary": "\nDirect-to-cell technology uses LEO satellites as spaceborne cell towers. It delivers LTE services to existing smartphones without hardware changes, bridging global coverage gaps.\nWhat Attendees will ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-02 10:00:02",
-      "category": "other",
-      "thumbnail": "https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-rs-monogram-in-a-diamond.png?id=66784674&width=980"
     }
   ]
 }
