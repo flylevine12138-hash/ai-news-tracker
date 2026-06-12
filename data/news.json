@@ -1,7 +1,106 @@
 {
-  "updateTime": "2026-06-12T19:11:45.872Z",
+  "updateTime": "2026-06-12T21:55:11.958Z",
   "total": 117,
   "news": [
+    {
+      "title": "Google researchers introduce 'faithful uncertainty', allowing LLMs to offer best guesses instead of hallucinations",
+      "link": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations",
+      "summary": "\nLarge language models continue to struggle with hallucinations, presenting a major roadblock for real-world enterprise applications. Reducing these errors is a messy business, forcing model developer...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-12 21:27:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "summary": "Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-12 21:16:25",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a2c555e0473de232b255ae6/master/pass/Meta-Employee-Interrupts-AI-Training-Business-2261841192.jpg"
+    },
+    {
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-12 20:38:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-12 20:20:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-12 20:04:38",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nothing CEO says phone prices are going to keep going up",
+      "link": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+      "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-12 20:02:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+      "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
+      "summary": "A SpaceX-Tesla merger seems inevitable....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-12 19:28:31",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+      "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-12 19:26:47",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-500x500.jpg"
+    },
+    {
+      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
+      "link": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
+      "summary": "Section 702 of FISA to expire tonight, but certification lasts until March 2027....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-12 18:57:51",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/spy-500x500.jpg"
+    },
     {
       "title": "The world’s first trillionaire is a killer",
       "link": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
@@ -11,29 +110,29 @@
       "region": "us",
       "pubDate": "2026-06-12 18:46:40",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Musk_President_Trump_Portraits_K_Radtke.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-12 18:36:19",
-      "category": "space",
       "thumbnail": ""
     },
     {
-      "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
-      "link": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/",
-      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+      "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
       "region": "us",
-      "pubDate": "2026-06-12 18:20:50",
-      "category": "space",
-      "thumbnail": ""
+      "pubDate": "2026-06-12 18:45:40",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Bezos-Bajaj-Prometheus-500x500.jpg"
+    },
+    {
+      "title": "Have politics finally come for the National Academies of Science?",
+      "link": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
+      "summary": "A pending report on climate attribution may be setting the stage for conflict....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-12 18:31:36",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1845540332-500x500.jpg"
     },
     {
       "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
@@ -66,7 +165,7 @@
       "region": "us",
       "pubDate": "2026-06-12 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1200&height=800&coordinates=0%2C208%2C0%2C209"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
     },
     {
       "title": "Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards",
@@ -102,17 +201,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-12 17:26:08",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "$130 billion in data center projects blocked by protests so far this year",
       "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
       "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"...",
@@ -124,9 +212,9 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2275860721-500x500.jpg"
     },
     {
-      "title": "China Didn't Make People Hate Data Centers",
+      "title": "China Didn’t Make Americans Hate Data Centers",
       "link": "https://www.wired.com/story/china-us-data-center-opposition/",
-      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that....",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
@@ -143,7 +231,7 @@
       "region": "us",
       "pubDate": "2026-06-12 17:17:04",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VST_0612_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
@@ -170,7 +258,7 @@
     {
       "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
       "link": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
-      "summary": "\nThe creators of the hit, enterprise-friendly, open source OpenClaw variant NanoClaw are partnering with software supply chain management leader JFrog have to launch a new, joint security integration ...",
+      "summary": "\nThe creators of the hit, enterprise-friendly, open source OpenClaw variant NanoClaw are partnering with software supply chain management leader JFrog to launch a new, joint security integration they ...",
       "source": "VentureBeat",
       "sourceKey": "venturebeat",
       "region": "us",
@@ -209,7 +297,7 @@
       "region": "us",
       "pubDate": "2026-06-12 16:26:29",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_K.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Elon Musk is the world’s first trillionaire",
@@ -220,7 +308,7 @@
       "region": "us",
       "pubDate": "2026-06-12 16:24:39",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
@@ -253,7 +341,7 @@
       "region": "us",
       "pubDate": "2026-06-12 16:05:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268588_I_held_trump_phone_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "有史以来最大更新：苹果发布 Core Image RAW 9 处理管线，提升 RAW 图像质量",
@@ -264,7 +352,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 15:59:39",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/3b850348-ec4e-492b-a0cf-309fd972dd35.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
@@ -286,7 +374,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 15:49:24",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/020b52c6-235a-4ebf-a8c2-3bba94f2dd67.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "消息称 SK 海力士赴美上市选择纳斯达克而非纽约证券交易所：科技属性更浓",
@@ -319,7 +407,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 15:36:44",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/e544c70e-affb-4beb-b736-a2ba9a93b578.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "The biggest race in the world? The 24 Hours of Le Mans is this weekend.",
@@ -341,7 +429,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 15:33:19",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/2d8bc8ee-827a-4e1e-b54e-986e03c6659c.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Meta CEO 扎克伯格：推动 AI 进步不需千人规模，十余名尖端人才就够了",
@@ -352,7 +440,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 15:24:36",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2024/10/1e49cd7b-4b1b-4d78-b322-580914f2f7fa.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_23,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_9,y_9/format,f_auto"
     },
     {
       "title": "苹果 Siri AI 仅限较新设备：iPhone 15 Pro 起步、Mac 需 Apple Silicon 芯片，端侧 AI 模型门槛更高",
@@ -363,7 +451,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 15:20:23",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/49f38742-ae6b-4f9c-baf7-3111ccab1df2.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "华为余承东：鸿蒙 HarmonyOS 成为中国第二大智能手机操作系统",
@@ -374,7 +462,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 15:19:24",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/80dcbfaf-1f88-43eb-9784-9ff7682fc7c4.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "三星官网公布 Galaxy A27 5G 手机参数：骁龙 6 Gen 3 芯片，5000mAh 电池",
@@ -385,7 +473,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 15:19:18",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/ea0385aa-66cb-4df5-b8ad-137ccd8f9c96.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "能模拟 Switch 游戏的 Retroid Pocket 6 掌机回归：12GB 内存，但存储砍到 128GB",
@@ -396,7 +484,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 15:11:29",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/e31ef12f-f94e-45f4-ac1d-e11d05395993.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Govee’s rechargeable smart table lamp is down to $60",
@@ -407,29 +495,18 @@
       "region": "us",
       "pubDate": "2026-06-12 15:07:45",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VERGE-DEALS-DAILY-IMAGE-26.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
-      "link": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
-      "summary": "Did chatbot abandon mental health guardrails when a vulnerable user pushed back?...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-12 15:03:52",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280120373-500x500.jpg"
+      "thumbnail": ""
     },
     {
       "title": "SpaceX’s massive IPO: all the latest news",
       "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first trilliona...",
+      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.  He ha...",
       "source": "The Verge",
       "sourceKey": "theverge",
       "region": "us",
       "pubDate": "2026-06-12 14:35:48",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268591_SPaceX_IPO_AKrales_0072.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "仁和药业二代“0元”接手实控权，守业或比创业难",
@@ -451,7 +528,7 @@
       "region": "us",
       "pubDate": "2026-06-12 14:03:39",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Crypto Guys Bought the Answer to the CIA’s Mysterious Kryptos Sculpture",
@@ -473,18 +550,7 @@
       "region": "us",
       "pubDate": "2026-06-12 13:54:49",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_F.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Sorry, the Ooni pizza oven is totally worth it",
-      "link": "https://www.theverge.com/gadgets/943057/ooni-portable-pizza-oven-is-great-for-bbqs",
-      "summary": "Summer is approaching, which means it's time to enjoy some gloriously warm weather beside the grill. But let me pitch you on an alternative: Instead of the usual burgers, hot dogs, and kebabs, what if...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-12 13:30:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_OONI_ADemidova.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "A White Supremacist Youth Group Helped Orchestrate the Belfast Riots",
@@ -517,7 +583,7 @@
       "region": "us",
       "pubDate": "2026-06-12 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/06/AIGaming_Full_1.jpg?w=2186"
+      "thumbnail": ""
     },
     {
       "title": "6 Best Digital Notebooks (2026): ReMarkable, Kobo, Kindle",
@@ -529,17 +595,6 @@
       "pubDate": "2026-06-12 12:07:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a2ae305c0fecd3f62f1e5d4/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens.jpg"
-    },
-    {
-      "title": "Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls",
-      "link": "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/",
-      "summary": "This World Cup, refs will use digital twins of each player to view plays from every angle....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-12 11:45:18",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281122730-500x500.jpg"
     },
     {
       "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
@@ -562,17 +617,6 @@
       "pubDate": "2026-06-12 11:42:11",
       "category": "ai",
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/b9f998d69f11157f408b0355d93048ec_1781264535.gif"
-    },
-    {
-      "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans",
-      "link": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
-      "summary": "Outbreak responses are still playing catch-up as US works to isolate itself....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-12 11:30:23",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280394536-500x500.jpg"
     },
     {
       "title": "4 Best Floodlight Security Cameras (2026) After Thorough Testing",
@@ -608,17 +652,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/23r4t35wethsff3.png"
     },
     {
-      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
-      "link": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-      "summary": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-12 11:15:41",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2262175351-500x500.jpg"
-    },
-    {
       "title": "Pedal Electric H/T Review: A Fast, Powerful, Stylish Ebike",
       "link": "https://www.wired.com/review/pedal-electric-h-t/",
       "summary": "The pedal-assist can be jerky, but the throttle offers smooth, powerful acceleration....",
@@ -628,17 +661,6 @@
       "pubDate": "2026-06-12 11:02:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a2af688318b528e07f24831/master/pass/Review--Pedal-Electric-H-T.jpg"
-    },
-    {
-      "title": "Real-Life Disclosure Day Will Look Nothing Like Steven Spielberg’s New Movie",
-      "link": "https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie/",
-      "summary": "Previous landmark scientific discoveries like the Higgs boson provide a better template for what it will take to confirm whether aliens have made contact with Earth....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-12 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a28743ce76eea53dfe3ee41/master/pass/Real-Life-Disclosure-Day-Wont-Look-Like-This-Science-MCDDIDA_UV014.jpg"
     },
     {
       "title": "700亿芯片巨头，连环爆雷",
@@ -759,7 +781,7 @@
       "region": "us",
       "pubDate": "2026-06-12 09:00:00",
       "category": "ai",
-      "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png"
+      "thumbnail": ""
     },
     {
       "title": "Inside interoception: The hidden sense of how you feel inside",
@@ -916,17 +938,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-      "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-      "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-12 04:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
       "link": "https://www.qbitai.com/2026/06/434774.html",
       "summary": "最难档通通零蛋...",
@@ -957,7 +968,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 04:06:46",
       "category": "other",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260612/v2_a1c9e25ad83d4de1a988d2cf8922ac59@6208419_oswg1446709oswg1280oswg800_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
@@ -968,7 +979,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 04:00:00",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260610/v2_59cf0b3760ed45e5a031d59773abe48f@6292127_oswg92529oswg1040oswg546_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
@@ -979,7 +990,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 01:34:28",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260612/v2_09f8dfd5591b4aaabfbe35a980c43a41@6221844_oswg196747oswg794oswg381_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
@@ -1048,17 +1059,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Google's DiffusionGemma generates 256 tokens in parallel and self-corrects as it goes",
-      "link": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes",
-      "summary": "\nGenAI image generators like Stable Diffusion do not draw a picture pixel by pixel from left to right. They start with noise and iteratively refine the entire image in parallel until it converges, in ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-11 15:16:23",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
       "link": "https://spectrum.ieee.org/orbital-data-centers-heat",
       "summary": "\n“Space computing, the final frontier, has arrived,” Nvidia CEO Jensen Huang declared at the Nvidia GTC conference in March.\nIndeed, the idea of data centers in orbit has gone from science fiction to ...",
@@ -1067,7 +1067,7 @@
       "region": "us",
       "pubDate": "2026-06-11 13:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1200&height=800&coordinates=13%2C0%2C13%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1245&height=700&coordinates=0%2C95%2C0%2C96"
     },
     {
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
@@ -1078,7 +1078,7 @@
       "region": "us",
       "pubDate": "2026-06-11 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_SpaceTourism_final.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
@@ -1133,7 +1133,7 @@
       "region": "us",
       "pubDate": "2026-06-11 10:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Israel_Jesse_Davis_final.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Why China is betting on big nuclear reactors",
@@ -1155,7 +1155,7 @@
       "region": "cn",
       "pubDate": "2026-06-11 09:24:11",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260611/v2_6423823d96fa4b769f925beeeb209c8a@16519798_oswg100259oswg818oswg1215_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
@@ -1199,7 +1199,7 @@
       "region": "cn",
       "pubDate": "2026-06-11 06:51:16",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260611/v2_3b8d6483b3a7498ca984e98c2032a2e0@6255070_oswg378633oswg1080oswg1526_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
@@ -1210,10 +1210,10 @@
       "region": "us",
       "pubDate": "2026-06-10 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/four-men-tinkering-with-iot-parts-on-an-outdoor-table.jpg?id=66858524&width=1200&height=800&coordinates=0%2C208%2C0%2C209"
+      "thumbnail": "https://spectrum.ieee.org/media-library/four-men-tinkering-with-iot-parts-on-an-outdoor-table.jpg?id=66858524&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
     },
     {
-      "title": "We Are Crowd-Sourcing the Panopticon",
+      "title": "We Are Crowdsourcing the Panopticon",
       "link": "https://spectrum.ieee.org/unintended-consequences-video-surveillance",
       "summary": "\nA man raises his phone as police move into a crowd. The video is shaky, loud, immediate. Within minutes, it is online. Within hours, it is everywhere. This is how accountability works now. Something ...",
       "source": "IEEE Spectrum",
@@ -1221,7 +1221,7 @@
       "region": "us",
       "pubDate": "2026-06-10 13:00:00",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-a-phone-with-an-eye-on-it-and-several-rings-of-snake-ouroboros.jpg?id=66820296&width=1200&height=800&coordinates=0%2C52%2C0%2C53"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-a-phone-with-an-eye-on-it-and-several-rings-of-snake-ouroboros.jpg?id=66820296&width=1245&height=700&coordinates=0%2C313%2C0%2C313"
     },
     {
       "title": "The Download: the “steroid olympics” and a safer Mythos",
@@ -1232,7 +1232,7 @@
       "region": "us",
       "pubDate": "2026-06-10 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/02/LSBerke_DesignIntro-thumb.jpeg?w=1321"
+      "thumbnail": ""
     },
     {
       "title": "What Size Company Is Right for You?",
@@ -1243,7 +1243,7 @@
       "region": "us",
       "pubDate": "2026-06-09 18:41:14",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=800&coordinates=0%2C50%2C0%2C50"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
     },
     {
       "title": "The Pros and Cons of Job Hopping as an Engineer",
@@ -1254,7 +1254,7 @@
       "region": "us",
       "pubDate": "2026-06-09 18:25:12",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=800&coordinates=0%2C50%2C0%2C50"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
     },
     {
       "title": "The Computer Science Degree Isn’t Dead",
@@ -1265,7 +1265,7 @@
       "region": "us",
       "pubDate": "2026-06-09 18:02:32",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=800&coordinates=0%2C50%2C0%2C50"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
     },
     {
       "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
@@ -1276,7 +1276,7 @@
       "region": "us",
       "pubDate": "2026-06-09 12:51:03",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/humanoid-robot-with-four-arms-holding-a-red-balloon-sculpture-at-a-tech-expo.jpg?id=66870200&width=1200&height=800&coordinates=334%2C0%2C334%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/humanoid-robot-with-four-arms-holding-a-red-balloon-sculpture-at-a-tech-expo.jpg?id=66870200&width=1245&height=700&coordinates=0%2C0%2C0%2C1"
     },
     {
       "title": "IEEE Celebrates Technology’s Brightest Minds at Annual Event",
@@ -1287,7 +1287,7 @@
       "region": "us",
       "pubDate": "2026-06-08 18:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-dimly-lit-ballroom-filled-with-dinner-tables-during-an-awards-ceremony.jpg?id=66857734&width=1200&height=800&coordinates=0%2C83%2C0%2C84"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-dimly-lit-ballroom-filled-with-dinner-tables-during-an-awards-ceremony.jpg?id=66857734&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     }
   ]
 }
