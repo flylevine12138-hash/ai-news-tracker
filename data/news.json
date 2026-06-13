@@ -1,7 +1,348 @@
 {
-  "updateTime": "2026-06-12T23:24:26.501Z",
+  "updateTime": "2026-06-13T04:24:36.293Z",
   "total": 117,
   "news": [
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-13 04:14:19",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+      "link": "https://36kr.com/p/3851073239372809?f=rss",
+      "summary": "\n\n  飞向宇宙、浩瀚无垠\n  作者｜曹思颀\n  编辑｜靖宇\n  6 月 12 日，在 SpaceX 正式挂牌当天，马斯克选择前往得州的星舰基地，和数百名员工一起，远程敲响了纳斯达克的开市钟。\n  在现场，他用熟悉的那股自嘲范儿说：「如果当年有人告诉我会有今天，我大概率觉得那个人嗑嗨了。因为当时我自己都认为这家公司会黄。」\n  这一天，SpaceX 正式登陆纳斯达克，发行价 135 美元，募资约 ...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-13 04:08:19",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260613/v2_92aaa336bcb4400e8d6697c9d789b56c@5579416_oswg209725oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "消息称 OPPO、vivo、荣耀测试 144Hz/165Hz 高刷屏",
+      "link": "https://www.ithome.com/0/963/796.htm",
+      "summary": "\nIT之家 6 月 13 日消息，博主 @数码闲聊站 今天在微博透露，“OVh”三家厂商正在测试 144Hz/165Hz 高刷屏幕，另外两家厂商“MH”则还是 120Hz。\n\n结合博主过往发文和评论区用户猜测，这其中的“OVh”大概率指的是 OPPO、vivo 和荣耀，而“MH”则是小米、华为。\n后续有用户在评论区询问：“不能全局应用就别尬吹”，博主回复道：“日常大家都是 120Hz，仅游戏支持超...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-13 04:02:45",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "“东半球最强法务部”受挫：《幻兽帕鲁》游戏纠纷走向尾声，任天堂最高索赔恐只有 500 万日元",
+      "link": "https://www.ithome.com/0/963/795.htm",
+      "summary": "\nIT之家 6 月 13 日消息，游戏媒体 gamesfray 昨日（6 月 12 日）发布博文，报道称围绕着《幻兽帕鲁》游戏的相关法律争议，历经近 2 年后接近尾声，任天堂的索赔上限仅为 500 万日元（IT之家注：现汇率约合 21.1 万元人民币）。\nIT之家援引博文介绍，任天堂和《幻兽帕鲁》游戏开发商 Pocketpair 的专利诉讼已接近收尾阶段，双方已经提交证据与书状，案件将于 2026...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-13 04:00:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Day-0 支持，摩尔线程完成 MiniMax M3 大模型适配",
+      "link": "https://www.ithome.com/0/963/794.htm",
+      "summary": "\nIT之家 6 月 13 日消息，6 月 12 日，MiniMax 新一代原生多模态旗舰模型 M3 正式开源。同日，摩尔线程宣布旗舰级 AI 训推一体智算卡 MTT S5000 已完成对该模型的 Day-0 适配。\n\nIT之家从官方介绍获悉，针对 MiniMax M3 的核心技术特性，MTT S5000 从硬件算力、软件栈到开源框架进行了全链路精准匹配与深度优化：\n支撑超长上下文：高密度算力与大显...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-13 03:51:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AMD 肾上腺素 26.6.1 显卡驱动新特性：支持高级着色器交付功能",
+      "link": "https://www.ithome.com/0/963/793.htm",
+      "summary": "\nIT之家 6 月 13 日消息，微软今天宣布推出高级着色器交付（ASD）功能，允许开发者直接向用户提供预编译着色器，大幅减少游戏加载时间，《极限竞速：地平线 6》游戏将首发支持。\n\n在现代游戏中，着色器通常需要在首次启动时进行编译工作。这一过程通常会耗费较长时间，玩家需要等比较久才能玩上游戏。\n为了解决这一问题，微软已在 Xbox PC 应用中开发高级着色器交付功能。不过这项功能除了软件适配外，...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-13 03:47:42",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "《幽灵行动》新作被曝深陷开发危机，育碧空降 3 位高管接管游戏项目",
+      "link": "https://www.ithome.com/0/963/792.htm",
+      "summary": "\nIT之家 6 月 13 日消息，游戏媒体 Insider-gaming 昨日（6 月 12 日）披露一份育碧内部备忘录，称代号为 Project OVR 的《幽灵行动》（Ghost Recon）新作遇到开发问题，未能达成内部 Alpha 阶段目标，育碧已更换项目领导层。\n根据披露的这份备忘录，育碧为了应对 Project OVR 项目开发窘境，紧急调任 Bruno Galet 担任高级制作人领导...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-13 03:39:12",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "国产动画剧《凡人修仙传》新年番“慕兰之战”B站开播，超 77 万人在线观看",
+      "link": "https://www.ithome.com/0/963/791.htm",
+      "summary": "\nIT之家 6 月 13 日消息，国产动画剧《凡人修仙传》新年番“慕兰之战”（年番第 177 集更新）今日 11:00 在B站开播，截至IT之家发文有超 50 万人在线观看。另据网友反馈，巅峰时段有超 77 万人在线观看。\n\n\n\n据官方公布追番日历，《凡人修仙传》新年番“慕兰之战”于 6 月 13 日起每周六中午 11:00 在B站独播，非会员可免费观看一集（第 177 集），B站大会员可抢先看一...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-13 03:30:14",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "新增 iOS / macOS / watchOS 27 图标，苹果发布 Icon Composer 2、SF Symbols 8 测试版",
+      "link": "https://www.ithome.com/0/963/790.htm",
+      "summary": "\nIT之家 6 月 13 日消息，苹果公司现已更新其设计门户网站，推出 Icon Composer 2、SF Symbols 8 测试版软件。\n\n据介绍，SF Symbols 8 测试版提供 iOS/iPadOS/macOS/watchOS/tvOS/visionOS 27 的图标资源，目前已收录超 7000 个系统图标，并支持去年引入的动画效果、视觉特效、可变渲染功能。\n而 Icon Compo...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-13 03:14:54",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "网友反馈其苹果 M5 Max MacBook Pro 高负载运行过热导致屏幕变色",
+      "link": "https://www.ithome.com/0/963/789.htm",
+      "summary": "\nIT之家 6 月 13 日消息，网友 u/B00TK1D 于 6 月 9 日在 Reddit 社区发帖，反馈其搭载 M5 Max 芯片的苹果 MacBook Pro 出现故障，在高负载运行本地大语言 AI 模型数分钟后，屏幕底部、对应风扇出风口位置出现两处轻微变色区域。\nIT之家援引该用户反馈，由于持续高负载运行本地 AI 大模型，MacBook Pro 在散热时热风会直吹面板，从而会损伤液晶结...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-13 03:11:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "雷军回应用小米 YU7 GT 装 600 斤车厘子被指违规：在封闭实验场进行",
+      "link": "https://www.ithome.com/0/963/788.htm",
+      "summary": "\nIT之家 6 月 13 日消息，6 月 12 日，雷军发布视频，记录自己前往江苏盐城汽车试验场慰问一线工程师的行程。视频中他介绍，此行共携带 1000 斤车厘子，其中一辆小米 YU7 GT 装载 120 箱合计 600 斤，车辆前备箱、后备箱及后排座椅均堆满货品，画面随即引发全网热议。\n\n对此，雷军也在今日的直播活动中进行了回应。他透露：“这 1000 斤的车厘子是卡车送到实验场，他们在实验场里...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-13 03:08:15",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+      "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-13 03:00:34",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/fable5-500x500-1781319492.webp"
+    },
+    {
+      "title": "突发！Anthropic全球停用Claude 5",
+      "link": "https://36kr.com/p/3851015329027336?f=rss",
+      "summary": "\n\n  究竟为何，Anthropic突然下线了地表最强Claude？\n  【导读】上线72小时，最强Claude Fable 5被一纸禁令全球下架，连Anthropic自家外籍员工都不许碰。\n  太突然了！\n  就在刚刚，Anthropic官宣——\n  全球禁用外籍人士对Claude Fable 5和Mythos 5的所有访问权限。\n  无论是在美国境内还是境外，就连Anthropic的外籍员工，...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-13 03:00:16",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260613/v2_74565134293746cf8b34869e6309d618@5579416_oswg82577oswg1080oswg463_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "英特尔酷睿 Ultra 7 251HX 处理器现身 PassMark：18 核击败 20 核同级竞品",
+      "link": "https://www.ithome.com/0/963/787.htm",
+      "summary": "\nIT之家 6 月 13 日消息，科技媒体 Wccftech 昨日（6 月 12 日）发布博文，报道称英特尔酷睿 Ultra 7 251HX 处理器现身 PassMark 跑分平台，单核 4666 分、多核 48713 分。\nIT之家注：英特尔酷睿 Ultra 7 251HX 处理器隶属 Arrow Lake-HX 家族，采用 18 核心配置，TDP 为 55W，于约两个月前低调发布，性能定位介于...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-13 02:59:36",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-13 02:26:30",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-13 02:26:10",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a2cb2e540437fd74449a752/master/pass/Anthropic-Says-US-Gov-Ordered-it-to-Shut-Down-Mythos-Models-Business-2280583841.jpg"
+    },
+    {
+      "title": "从 “白日梦” 到 “万贯金”，Space X 真那么 “科幻”？",
+      "link": "https://www.tmtpost.com/8026186.html",
+      "summary": "从“搅局者”到“万亿基建商”。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-13 02:24:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "灵光走独木桥",
+      "link": "https://www.tmtpost.com/8026182.html",
+      "summary": "Coding可以长出什么？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-13 02:20:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "降价冲销量，乐聚智能IPO的一步险棋",
+      "link": "https://www.tmtpost.com/8026178.html",
+      "summary": "是豪赌，还是商业化落地的蓄势前夜？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-13 02:15:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "被LVMH“退货”、遭供应商讨债并申请破产，“国货底妆第一”因何陨落？",
+      "link": "https://www.tmtpost.com/8026165.html",
+      "summary": "当潮水退去，唯一能让你留在牌桌上的，不是讲过的故事，而是账上的现金。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-13 02:06:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "别把 Product Hunt 当成冷启动：独立开发者真正要找的不是流量，而是对的人",
+      "link": "https://www.tmtpost.com/8026148.html",
+      "summary": "Product Hunt 和 Hacker News 最大的风险，不是它们没用，而是它们太容易让人把热闹当成答案。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-13 02:01:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "两个月4款新产品，腾讯要发力AI互动内容了？",
+      "link": "https://www.tmtpost.com/8026124.html",
+      "summary": "腾讯、字节、阿里，都还在等待那个破圈的时刻。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-13 01:46:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI大举入场，真人短剧靠什么活下去",
+      "link": "https://www.tmtpost.com/8026092.html",
+      "summary": "真人短剧正呈现两极分化之势：一是依托核心受众的高要求，在红果平台深耕头部精品女频；二是走向极致控本，郑州「超级工厂」日新阅益5月月产仍高达200部。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-13 01:39:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "李佳琦“持证上岗”第一单，3秒卖了40台奔驰",
+      "link": "https://www.tmtpost.com/8026051.html",
+      "summary": "新的尝试。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-13 01:35:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Valve just imported 13 tons of VR headsets in one day",
+      "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+      "summary": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-13 01:32:18",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0057.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "惩罚好文章的AI检测，逼出一门灰色生意",
+      "link": "https://www.tmtpost.com/8026012.html",
+      "summary": "AI开启的学术逆淘汰。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-13 01:30:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "央企大战血制品，国药又甩开华润一个身位",
+      "link": "https://www.tmtpost.com/8026011.html",
+      "summary": "不是光砸钱就行。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-13 01:24:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+      "link": "https://36kr.com/p/3850904887268611?f=rss",
+      "summary": "\n硬氪获悉，中科电墨近日完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资。本轮融资将主要用于车规级电致变色产线建设、核心材料研发迭代以及汽车领域市场拓展。\n  伴随新能源汽车向智能化、舒适化方向升级，汽车玻璃正从传统结构件逐步演变为集隔热、防晒、隐私保护和交互体验于一体的功能件。尤其是全景天幕快速普及后，调光玻璃开始成为车企提升产品差异化的重要配置之一。\n  目前市场主流调光技术主要包括PDL...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-13 01:04:10",
+      "category": "auto",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260613/v2_28fa5f43fba54b9fa4ddd7b92dce257a@5920579_oswg179774oswg629oswg354_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+      "link": "https://36kr.com/p/3850902095336449?f=rss",
+      "summary": "\n6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。 马斯克成为历史上第一位万亿美元身价的富豪。\n  \n  马斯克在得克萨斯“星际基地”（Starbase）敲钟\n  其实在SpaceX敲钟之前，大洋彼岸的行业水温早已接近沸腾。\n  过去半年，商业航天成为国内一级市场最热的赛道之一。投资人排队约见创始人，地方政府争抢项目落地，一些过去很少关注航...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-13 01:02:18",
+      "category": "space",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260613/v2_3e347a3fd2bf4c729355071525e08d5c@5920579_oswg57991oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+      "link": "https://36kr.com/p/3850898430989577?f=rss",
+      "summary": "\n今日热点导览\n  Kimi与一国有银行合作，全球首张AI原生信用卡开放预约\n  韩美半导体将使用500亿韩元投资于SpaceX\n  SK海力士回应本月发生第二起火灾\n  杭州小龙虾降价超50%\n  金价连跌，批发商集中补货\n  TOP3大新闻\n  SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍\n  当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。Sp...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-13 01:01:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+      "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+      "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-12 23:45:26",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a29a9c94fc22a32725fb4b6/master/pass/Meta-Employee-Interrupts-AI-Business-AP-26085781053500.jpg"
+    },
     {
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
@@ -23,6 +364,17 @@
       "pubDate": "2026-06-12 23:00:54",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+      "summary": "As of today, SpaceX is owned by investors who will want to see it make money....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-12 22:20:06",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-500x500.jpg"
     },
     {
       "title": "Kimi K2.7-Code cuts thinking tokens 30% — but practitioners say the benchmarks don't check out",
@@ -88,7 +440,7 @@
       "region": "us",
       "pubDate": "2026-06-12 20:02:48",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-pro-5.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
@@ -132,7 +484,7 @@
       "region": "us",
       "pubDate": "2026-06-12 18:46:40",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Musk_President_Trump_Portraits_K_Radtke.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Here's what Jeff Bezos' new startup Prometheus will do",
@@ -187,7 +539,7 @@
       "region": "us",
       "pubDate": "2026-06-12 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
     },
     {
       "title": "Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards",
@@ -253,7 +605,7 @@
       "region": "us",
       "pubDate": "2026-06-12 17:17:04",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VST_0612_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
@@ -319,7 +671,7 @@
       "region": "us",
       "pubDate": "2026-06-12 16:26:29",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_K.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Elon Musk is the world’s first trillionaire",
@@ -330,7 +682,7 @@
       "region": "us",
       "pubDate": "2026-06-12 16:24:39",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
@@ -344,17 +696,6 @@
       "thumbnail": ""
     },
     {
-      "title": "RFK Jr. melts down over NYT report, admits he blacklists reporters",
-      "link": "https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/",
-      "summary": "NYT reported Kennedy is disengaged. Kennedy's response seems to show NYT is right....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-12 16:19:44",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277525981-500x500.jpg"
-    },
-    {
       "title": "I held the Trump phone",
       "link": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
       "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. We don't have the phones we preordered yet, but this ...",
@@ -363,51 +704,7 @@
       "region": "us",
       "pubDate": "2026-06-12 16:05:00",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "有史以来最大更新：苹果发布 Core Image RAW 9 处理管线，提升 RAW 图像质量",
-      "link": "https://www.ithome.com/0/963/729.htm",
-      "summary": "\nIT之家 6 月 12 日消息，苹果在 WWDC26 上发布了 Core Image RAW 9 处理管线及其 API。\nIT之家获悉，这是自 2017 年 RAW 8 发布以来，Core Image RAW 的首次重大版本更新。苹果工程师将其称之为“有史以来最大的一次更新”。\n\n官方表示，来自任何相机的 RAW 照片在被显示或编辑之前，都需要进行“特殊处理”。初期的 RAW 数据解析（pars...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-12 15:59:39",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/3b850348-ec4e-492b-a0cf-309fd972dd35.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
-      "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
-      "summary": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-12 15:55:06",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "开盘市值突破两万亿美元位列美股第七：SpaceX 正式开启公开交易，马斯克成为全球首位万亿美元富豪",
-      "link": "https://www.ithome.com/0/963/728.htm",
-      "summary": "\nIT之家 6 月 12 日消息，SpaceX 今晚在纳斯达克上市后正式开启美股交易，开盘报 150 美元，截至IT之家发稿已经涨超 168 美元每股，较 IPO 发行价（135 美元）涨超 24.44%，市值突破 2.15 万亿美元（现汇率约合 14.59 万亿元人民币），目前位列美股市场第七位。\n\n据《福布斯》估计，马斯克身价净增 1383 亿美元，净资产已达 1.2 万亿美元（现汇率约合 8...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-12 15:49:24",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/020b52c6-235a-4ebf-a8c2-3bba94f2dd67.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "消息称 SK 海力士赴美上市选择纳斯达克而非纽约证券交易所：科技属性更浓",
-      "link": "https://www.ithome.com/0/963/727.htm",
-      "summary": "\nIT之家 6 月 12 日消息，据路透社 12 日（今天）援引两名知情人士消息称，SK 海力士计划赴美上市，并考虑选择纳斯达克。SK 海力士希望借助纳斯达克浓厚的科技股属性，吸引看好 AI 概念股的投资者。\n美国上市最早可能在 8 月进行。今年以来，SK 海力士股价已上涨 230%，并在 5 月带动市值突破 1 万亿美元。赴美上市预计将帮助 SK 海力士扩大投资者基础，也提升全球资本市场对 SK...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-12 15:41:00",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268588_I_held_trump_phone_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "PixelRAG beats text parsers on accuracy and cuts AI agent token costs 10x",
@@ -421,94 +718,6 @@
       "thumbnail": ""
     },
     {
-      "title": "东风日产 N 序列新能源第 10 万台下线，用时 14 个月刷新央企合资品牌新能源 10 万台销量最快纪录",
-      "link": "https://www.ithome.com/0/963/726.htm",
-      "summary": "\nIT之家 6 月 12 日消息，东风日产今日宣布，东风日产 N 序列新能源第 10 万台下线。\n\n日产中国管理委员会主席、东风汽车有限公司总裁马智欣表示，日产汽车 N 序列新能源第 10 万台下线用时 14 个月，刷新了央企合资品牌新能源 10 万台销量最快纪录。\n\n据IT之家此前报道，2025 年 4 月，东风日产 N7 纯电轿车上市，官方指导价 11.99 万元起；2025 年 12 月，东...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-12 15:36:44",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/e544c70e-affb-4beb-b736-a2ba9a93b578.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "The biggest race in the world? The 24 Hours of Le Mans is this weekend.",
-      "link": "https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/",
-      "summary": "More than 350,000 spectators will watch 62 cars compete, day and night....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-12 15:34:37",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280229158-500x500-1781276940.jpg"
-    },
-    {
-      "title": "字节豆包上线“任务模式”：支持定时执行、代码运行与文件生成，“思考模式”已升级为“专家模式”",
-      "link": "https://www.ithome.com/0/963/725.htm",
-      "summary": "\nIT之家 6 月 12 日消息，前天，字节跳动旗下 AI 应用豆包已针对付费订阅开放灰度测试，除此之外，当时还有另一个“任务模式”也开启测试。\n直到今天，豆包“任务模式”已经大范围上线。IT之家实测发现，大部分用户打开豆包首页就能看到官方提示。\n\n用户打开豆包 App 后，界面顶部的模式切换选项也已经变更为“快速、专家、任务”，标志着这款 AI 助手的产品功能定位正在发生结构性调整。\n\n据豆包官...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-12 15:33:19",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/2d8bc8ee-827a-4e1e-b54e-986e03c6659c.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "Meta CEO 扎克伯格：推动 AI 进步不需千人规模，十余名尖端人才就够了",
-      "link": "https://www.ithome.com/0/963/723.htm",
-      "summary": "\nIT之家 6 月 12 日消息，据《商业内幕》12 日（今天）报道，AI 人才争夺战虽然激烈，但 Meta CEO 马克 · 扎克伯格认为，AI 领域真正的突破并不一定要靠庞大的研究团队。“要推动 AI 进步，并不需要几百名甚至几千名 AI 研究人员。我认为，一个由十几人或二十几人组成的强大团队，就真的可以取得进展。”\n扎克伯格是在与妻子普莉希拉 · 陈一起谈到 Biohub 时作出上述表态的。...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-12 15:24:36",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2024/10/1e49cd7b-4b1b-4d78-b322-580914f2f7fa.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_23,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_9,y_9/format,f_auto"
-    },
-    {
-      "title": "苹果 Siri AI 仅限较新设备：iPhone 15 Pro 起步、Mac 需 Apple Silicon 芯片，端侧 AI 模型门槛更高",
-      "link": "https://www.ithome.com/0/963/722.htm",
-      "summary": "\nIT之家 6 月 12 日消息，苹果于 6 月 9 日在 WWDC 26 上正式发布了新一代操作系统 iOS 27、iPadOS 27、macOS 27 Golden Gate、watchOS 27 以及 visionOS 27。\n作为本次系统更新的核心亮点，深度集成 Apple Intelligence 的全新 Siri AI 迎来了重大升级。然而，根据苹果官方公布的兼容性信息，这款经过人工智...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-12 15:20:23",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/49f38742-ae6b-4f9c-baf7-3111ccab1df2.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "华为余承东：鸿蒙 HarmonyOS 成为中国第二大智能手机操作系统",
-      "link": "https://www.ithome.com/0/963/721.htm",
-      "summary": "\nIT之家 6 月 12 日消息，在今日的华为开发者大会 HDC 2026 上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发布了新一代鸿蒙 HarmonyOS 7 操作系统，围绕互联、智能、安全、流畅、空间感五个维度进行升级，同时迈向智能体时代。\n\n余承东在 HDC 2026 现场宣布，鸿蒙 HarmonyOS 已成为中国第二大智能手机操作系统。\n\nIT之家在 HDC 2026...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-12 15:19:24",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/80dcbfaf-1f88-43eb-9784-9ff7682fc7c4.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "三星官网公布 Galaxy A27 5G 手机参数：骁龙 6 Gen 3 芯片，5000mAh 电池",
-      "link": "https://www.ithome.com/0/963/720.htm",
-      "summary": "\nIT之家 6 月 12 日消息，据科技媒体 SammyGuru 今天报道，三星捷克官网上架了 Galaxy A27 手机，使得这款手机的参数得以公开，不过具体定价仍未公布。\n\n这款手机搭载骁龙 6 Gen 3 芯片，有 6GB+128GB 和 8GB+256GB 版本可选，出厂预装了基于 Android 16 的 One UI 8.5 系统，电池容量 5000mAh、支持 25W 充电，厚 7....",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-12 15:19:18",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/ea0385aa-66cb-4df5-b8ad-137ccd8f9c96.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "能模拟 Switch 游戏的 Retroid Pocket 6 掌机回归：12GB 内存，但存储砍到 128GB",
-      "link": "https://www.ithome.com/0/963/719.htm",
-      "summary": "\nIT之家 6 月 12 日消息，Retroid 今年 3 月曾因内存成本暴涨，临时下架 Pocket 6 的 12GB RAM 版本。而在今晚，该公司在 Discord 上宣布，Pocket 6 将再次提供 12GB RAM 版本。\n不过，重新开售的版本从原本的 12GB/256GB 改为 12GB/128GB。好在 Pocket 6 仍配备 microSD 卡槽，和市面上多数掌机一样可以扩展存...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-12 15:11:29",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/e31ef12f-f94e-45f4-ac1d-e11d05395993.png?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "Govee’s rechargeable smart table lamp is down to $60",
       "link": "https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale",
       "summary": "Whether you’re planning a backyard barbeque or a World Cup watch party, Govee’s Table Lamp Classic can help set the mood with color-changing lighting effects. Right now it’s down to just $59.99 ($20 o...",
@@ -517,7 +726,7 @@
       "region": "us",
       "pubDate": "2026-06-12 15:07:45",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VERGE-DEALS-DAILY-IMAGE-26.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "SpaceX’s massive IPO: all the latest news",
@@ -528,18 +737,7 @@
       "region": "us",
       "pubDate": "2026-06-12 14:35:48",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "仁和药业二代“0元”接手实控权，守业或比创业难",
-      "link": "https://www.tmtpost.com/8026170.html",
-      "summary": "2025年Q4扣非净亏损2765.32万元，为公司近20年第二次单季扣非转亏。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-12 14:04:07",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268591_SPaceX_IPO_AKrales_0072.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
@@ -550,7 +748,7 @@
       "region": "us",
       "pubDate": "2026-06-12 14:03:39",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Crypto Guys Bought the Answer to the CIA’s Mysterious Kryptos Sculpture",
@@ -562,17 +760,6 @@
       "pubDate": "2026-06-12 14:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a2b259f87700be64322c12a/master/pass/Backchannel-Paradigm-Bought-Kryptos-Businesspsd.jpg"
-    },
-    {
-      "title": "SpaceX is now public",
-      "link": "https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk",
-      "summary": "SpaceX is now a publicly traded company. In one of the most highly anticipated and controversial public offerings of all time, the rocket venture helmed by Elon Musk started trading on Nasdaq on June ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-12 13:54:49",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "A White Supremacist Youth Group Helped Orchestrate the Belfast Riots",
@@ -619,123 +806,13 @@
       "thumbnail": "https://media.wired.com/photos/6a2ae305c0fecd3f62f1e5d4/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens.jpg"
     },
     {
-      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
-      "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-      "summary": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-12 11:43:32",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "喜茶茶坊海外首店纽约开业；亚瑟士集团拆分Onitsuka Tiger业务；星巴克中国推出袋装咖啡｜消研所周报",
-      "link": "https://www.tmtpost.com/8025607.html",
-      "summary": "得物与微信就AI Agent达成重要合作；Salomon萨洛蒙「未来之路」企划登陆上海安福路门店。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
+      "title": "🔥MakuBoot 5.1 发布，低代码开发平台，快速开发利器",
+      "link": "https://www.oschina.net/news/457589",
+      "summary": "介绍 maku-boot 是采用 SpringBoot4.0、SpringSecurity7.0、Flowable8.0、Mybatis-Plus、Vue3、Element-plus 等技术开发的低代码开发平台，旨在为开发者提供一个简洁、高效、可扩展的低代码开发平台。 使用门槛极低，支持国密加密、达梦数据库等，符合信创需求的低代码开发平台。 采用组件模式，扩展不同的业务功能，可以......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-06-12 11:42:11",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "4 Best Floodlight Security Cameras (2026) After Thorough Testing",
-      "link": "https://www.wired.com/gallery/best-floodlight-security-cameras/",
-      "summary": "Light up and secure your driveway, backyard, or porch with a floodlight security camera....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-12 11:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/698016dea0869dffb9af5c66/master/pass/BULBS%202.gif"
-    },
-    {
-      "title": "出让灵心巧手股权套现3000万背后，祥源新材的风口投资与主业瓶颈",
-      "link": "https://www.tmtpost.com/8026029.html",
-      "summary": "半年浮盈四倍仍遭质疑，新故事兑现迟迟难落地。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-12 11:29:25",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "谁说文科生没用？奥特曼和阿莫迪都在狂写小作文",
-      "link": "https://www.tmtpost.com/8025676.html",
-      "summary": "IPO前夜，AI公司争夺未来解释权。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-12 11:26:46",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pedal Electric H/T Review: A Fast, Powerful, Stylish Ebike",
-      "link": "https://www.wired.com/review/pedal-electric-h-t/",
-      "summary": "The pedal-assist can be jerky, but the throttle offers smooth, powerful acceleration....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-12 11:02:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a2af688318b528e07f24831/master/pass/Review--Pedal-Electric-H-T.jpg"
-    },
-    {
-      "title": "700亿芯片巨头，连环爆雷",
-      "link": "https://www.tmtpost.com/8025562.html",
-      "summary": "控股股东三安电子被债权人申请破产重整，其所持三安光电22.65%股份已全部被司法冻结，控制权恐将生变。公司2025年出现借壳上市以来首次年度亏损，实控人与总经理先后被留置调查。市场预期厦门国资或将介入，推动公司从家族式管理向现代企业治理转型。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-12 10:50:44",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "朴朴不得不，阿里必须买",
-      "link": "https://www.tmtpost.com/8025820.html",
-      "summary": "阿里为何愿意支付15亿美元的溢价：它不是在买朴朴，而是在买美团在华南的“准入禁令”。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-12 10:50:42",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "阿里若以15亿美元买朴朴，值吗？",
-      "link": "https://www.tmtpost.com/8025677.html",
-      "summary": "对于阿里来说，拿下朴朴并不意味着万事大吉。朴朴是一张「区域门票」，不是「全国通行证」。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-12 10:50:40",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "阿里又一个新事业部，什么信号？",
-      "link": "https://www.tmtpost.com/8025788.html",
-      "summary": "AI业务已跨越初期投入阶段，正式迈入商业化回报周期。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-12 10:50:38",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "壁仞科技，还未跨过拐点",
-      "link": "https://www.tmtpost.com/8025679.html",
-      "summary": "壁仞还缺几张牌。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-12 10:50:37",
+      "pubDate": "2026-06-12 11:41:37",
       "category": "other",
       "thumbnail": ""
     },
@@ -758,17 +835,6 @@
       "sourceKey": "oschina",
       "region": "cn",
       "pubDate": "2026-06-12 10:27:54",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "从流量曝光到政企联动，抖音文旅切换新打法",
-      "link": "https://www.tmtpost.com/8025969.html",
-      "summary": "政府补贴能解决平台酒旅核销率难题吗？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-12 10:24:52",
       "category": "other",
       "thumbnail": ""
     },
@@ -938,17 +1004,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Meta 已完成与 Manus 的业务分离",
-      "link": "https://www.oschina.net/news/457365",
-      "summary": "外媒消息称，Meta 已完成与 Manus 的业务分离，并停止了两家公司之间的数据共享。 知情人士透露，Meta 在两家公司之间建立了内部“防火墙”。自 6 月初以来，Meta 已全面禁止 Manus 及其员工访问该公司内部数据系统，且 Meta 的员工将无法再使用 Manus 工具进行内部项目。 据彭博新闻社看到的一份内部备忘录显示，Meta ......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-12 06:20:51",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
       "link": "https://www.qbitai.com/2026/06/434774.html",
       "summary": "最难档通通零蛋...",
@@ -979,7 +1034,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 04:06:46",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260612/v2_a1c9e25ad83d4de1a988d2cf8922ac59@6208419_oswg1446709oswg1280oswg800_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
@@ -990,7 +1045,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 04:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260610/v2_59cf0b3760ed45e5a031d59773abe48f@6292127_oswg92529oswg1040oswg546_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
@@ -1001,7 +1056,7 @@
       "region": "cn",
       "pubDate": "2026-06-12 01:34:28",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260612/v2_09f8dfd5591b4aaabfbe35a980c43a41@6221844_oswg196747oswg794oswg381_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
@@ -1012,17 +1067,6 @@
       "region": "cn",
       "pubDate": "2026-06-12 00:26:58",
       "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
-      "link": "https://36kr.com/p/3849431503869187?f=rss",
-      "summary": "\n今日热点导览\n  \nOpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争\n   全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录\n   SK海力士设备供应商要求涨价\n   端午前机票价格跳水\n   SpaceX上市前夕，美股太空股提前狂欢\n  \nTOP 3 大新闻\n  SpaceX上市在即，马斯克或成全球首位万亿富翁\n  据报道，SpaceX将于美东时间6...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-12 00:04:29",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -1067,7 +1111,7 @@
       "region": "us",
       "pubDate": "2026-06-11 13:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1200&height=400&coordinates=0%2C325%2C0%2C325"
+      "thumbnail": "https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1245&height=700&coordinates=0%2C95%2C0%2C96"
     },
     {
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
@@ -1088,17 +1132,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-06-11 11:00:45",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-      "link": "https://36kr.com/p/3848516305605892?f=rss",
-      "summary": "\n大公司：\n  克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官\n  7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（Françoi...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-11 11:00:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1147,17 +1180,6 @@
       "thumbnail": ""
     },
     {
-      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
-      "link": "https://36kr.com/p/3848564910036229?f=rss",
-      "summary": "\n两个月后，ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。\n  作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。\n  作为ChinaJoy Vision Futur...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-11 09:24:11",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
       "link": "https://www.qbitai.com/2026/06/434571.html",
       "summary": "聪明人总能花最少的钱办最好的事，AI也一样。...",
@@ -1166,17 +1188,6 @@
       "region": "cn",
       "pubDate": "2026-06-11 08:23:31",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
-      "link": "https://36kr.com/p/3848476414792709?f=rss",
-      "summary": "\n文｜张子怡\n  编辑｜袁斯来\n  近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。\n  这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-11 07:53:52",
-      "category": "energy",
       "thumbnail": ""
     },
     {
@@ -1191,17 +1202,6 @@
       "thumbnail": ""
     },
     {
-      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
-      "link": "https://36kr.com/p/3848383082222849?f=rss",
-      "summary": "\n文丨贝果树\n  编辑丨果脯\n  5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。\n  彼时，这款游戏刚发售12天，销量超过了20万份。\n  或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-11 06:51:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
       "link": "https://spectrum.ieee.org/epics-in-ieee",
       "summary": "\nThe EPICS (Engineering Projects in Community Service) in IEEE program, administered by IEEE Educational Activities, has launched the Excellent EPICS in IEEE Contributor Awards. The recognitions honor...",
@@ -1210,7 +1210,7 @@
       "region": "us",
       "pubDate": "2026-06-10 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/four-men-tinkering-with-iot-parts-on-an-outdoor-table.jpg?id=66858524&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042"
+      "thumbnail": "https://spectrum.ieee.org/media-library/four-men-tinkering-with-iot-parts-on-an-outdoor-table.jpg?id=66858524&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
     },
     {
       "title": "We Are Crowdsourcing the Panopticon",
@@ -1221,7 +1221,7 @@
       "region": "us",
       "pubDate": "2026-06-10 13:00:00",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-a-phone-with-an-eye-on-it-and-several-rings-of-snake-ouroboros.jpg?id=66820296&width=1200&height=400&coordinates=0%2C886%2C0%2C886"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-a-phone-with-an-eye-on-it-and-several-rings-of-snake-ouroboros.jpg?id=66820296&width=1245&height=700&coordinates=0%2C313%2C0%2C313"
     },
     {
       "title": "The Download: the “steroid olympics” and a safer Mythos",
@@ -1243,7 +1243,7 @@
       "region": "us",
       "pubDate": "2026-06-09 18:41:14",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=400&coordinates=0%2C250%2C0%2C250"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
     },
     {
       "title": "The Pros and Cons of Job Hopping as an Engineer",
@@ -1254,7 +1254,7 @@
       "region": "us",
       "pubDate": "2026-06-09 18:25:12",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=400&coordinates=0%2C250%2C0%2C250"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
     },
     {
       "title": "The Computer Science Degree Isn’t Dead",
@@ -1265,7 +1265,7 @@
       "region": "us",
       "pubDate": "2026-06-09 18:02:32",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=400&coordinates=0%2C250%2C0%2C250"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
     },
     {
       "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
@@ -1276,7 +1276,7 @@
       "region": "us",
       "pubDate": "2026-06-09 12:51:03",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/humanoid-robot-with-four-arms-holding-a-red-balloon-sculpture-at-a-tech-expo.jpg?id=66870200&width=1200&height=400&coordinates=0%2C491%2C0%2C491"
+      "thumbnail": "https://spectrum.ieee.org/media-library/humanoid-robot-with-four-arms-holding-a-red-balloon-sculpture-at-a-tech-expo.jpg?id=66870200&width=1245&height=700&coordinates=0%2C0%2C0%2C1"
     },
     {
       "title": "IEEE Celebrates Technology’s Brightest Minds at Annual Event",
@@ -1287,7 +1287,7 @@
       "region": "us",
       "pubDate": "2026-06-08 18:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-dimly-lit-ballroom-filled-with-dinner-tables-during-an-awards-ceremony.jpg?id=66857734&width=1200&height=400&coordinates=0%2C417%2C0%2C417"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-dimly-lit-ballroom-filled-with-dinner-tables-during-an-awards-ceremony.jpg?id=66857734&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     }
   ]
 }
