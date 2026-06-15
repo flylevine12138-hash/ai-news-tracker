@@ -1,7 +1,139 @@
 {
-  "updateTime": "2026-06-15T21:15:42.856Z",
+  "updateTime": "2026-06-15T23:51:28.157Z",
   "total": 117,
   "news": [
+    {
+      "title": "macOS 26.4 为何拦截部分终端命令？苹果解释背后安全触发机制",
+      "link": "https://www.ithome.com/0/964/616.htm",
+      "summary": "\nIT之家 6 月 16 日消息，苹果公司昨日（6 月 15 日）更新支持文档，解释称在 macOS 26.4 系统中，若用户不常用终端（Terminal），且命令来自网站、聊天智能体、消息或邮件应用，系统可能阻止粘贴。\n科技媒体 9to5Mac 指出，用户此前终端里粘贴命令后，系统会先给出安全警告，提示内容可能含有恶意代码。很多人只知道有这个拦截机制，但不清楚它的触发机制。\n在最新官方支持文档中...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 23:07:51",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 iOS 27 预览应用彩蛋：可交互放大镜带来趣味视觉反馈",
+      "link": "https://www.ithome.com/0/964/615.htm",
+      "summary": "\nIT之家 6 月 16 日消息，苹果去年推出液态玻璃全新设计风格时，还为 iPadOS 系统里的预览（Preview）应用加入了一个趣味互动彩蛋。如今，这项有趣的交互效果也登陆了 iOS 27 系统。\n\nIT之家注意到，苹果在 2001 年为 Mac 设备推出预览应用时，这款应用的图标设计是一枚放大镜下压着几张照片。\n多年来，该图标历经多次改版，在去年液态玻璃风格全面更新后，图标里的照片元素被移...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 23:04:52",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "招商银行推出“运通工程师信用卡”，新用户办卡提供“专属 AI 权益”单月可享 18 亿 Token M3 用量",
+      "link": "https://www.ithome.com/0/964/614.htm",
+      "summary": "\nIT之家 6 月 16 日消息，招商银行宣布推出一款“运通工程师信用卡”，强调相应信用卡拥有“专属 AI 权益”。\nIT之家参考官方介绍获悉，新用户办卡首次参与活动达标后，至高可享每月 18 亿 Token M3 用量，可直接用于文档、图像、音视频等多模态模型调用，以及 MaxClaw 龙虾部署等 AI 高频场景。具体来看，相应信用卡“AI 权益体系”提供三种方案可选：\n\n面向频繁使用 AI 工...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 22:59:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "巴西法院重罚苹果、微软、腾讯等公司，要求其整改游戏盲盒机制",
+      "link": "https://www.ithome.com/0/964/613.htm",
+      "summary": "\nIT之家 6 月 16 日消息，科技媒体 macmagazine 昨日（6 月 15 日）发布博文，报道称针对游戏“抽奖箱”争议，巴西联邦区法院近日认定苹果、谷歌及多家平台和游戏公司需合计赔偿 2.98 亿雷亚尔（约合 3.97 亿人民币）。\nIT之家注：抽奖箱（loot boxes），又称战利品盒 / 盲盒，是指游戏内一种付费随机奖励机制。玩家支付现金或虚拟货币后，开启箱子获得不确定道具、角色...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 22:56:56",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "古尔曼：苹果有望推出 AI 智能体，让 Siri 自主操作 iPhone 和 Mac 软件",
+      "link": "https://www.ithome.com/0/964/612.htm",
+      "summary": "\nIT之家 6 月 16 日消息，彭博社记者马克 · 古尔曼认为，苹果最终可能推出一款产品，直接对标 OpenClaw—— 这是一套智能体 AI 系统，能够代用户自主操作各类软件。\n\n古尔曼在其专栏《Power On》中撰文表示，他预计苹果会研发一套系统，可全权代表用户操作 iPhone、iPad 与 Mac 端的各类软件。这一预测的依据，是苹果 Siri 工程主管迈克 · 罗克韦尔在上周苹果全球...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 22:56:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果核心供应商罕见暗示：标准版 iPhone 18 将推迟至 2027 年初上市",
+      "link": "https://www.ithome.com/0/964/611.htm",
+      "summary": "\nIT之家 6 月 16 日消息，据苹果供应链合作厂商透露的消息，iPhone 18 标准版将于 2027 年初发布，该说法也印证了此前传闻。\n\nIT之家注意到，苹果智能手机历来遵循一年一更的发布节奏，全部最新旗舰 iPhone 系列均在秋季推出，时间通常为 9 月中旬。不过今年这一惯例或将被打破。\n多方消息称，基础款 iPhone 18 将推迟至 2027 年春季登场，今年仅会推出 iPhone...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 22:49:06",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "供应链透露苹果首款折叠屏手机 iPhone Fold 上市时间将延后至明年初",
+      "link": "https://www.ithome.com/0/964/610.htm",
+      "summary": "\nIT之家 6 月 16 日消息，此前业界均传闻苹果首款折叠屏手机 iPhone Fold 将会在今年秋季上市。不过来自苹果供应链的最新消息显示，这款产品的上市时间可能已经推迟至明年年初。\n综合台媒“经济日报”报道，苹果供应链企业大立光 CEO 林恩平已在股东会中悄悄透露“由于客户新品排程调整，今年第四季度的业务节奏将比往年更加繁忙，其中部分新品会在第三季度发布，而另一些则延后到明年初”。业界分析...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 22:46:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-15 21:50:21",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-15 21:33:46",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a3066677da677701d8b62cd/master/pass/Andrew-Bosworth-Urges-Employees-Business-2235573265.jpg"
+    },
+    {
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" an...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 21:15:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Xbox is closing down Hellblade creator Ninja Theory",
+      "link": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+      "summary": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 21:13:35",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Heart protection from COVID shots remains amid updates, study finds",
+      "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
+      "summary": "Despite continued benefits, anti-vaccine rhetoric has driven down vaccination....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-15 21:04:26",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1232060072-500x500.jpeg"
+    },
     {
       "title": "The 15 Best Fans to Buy Before It Gets Hot Again (2026)",
       "link": "https://www.wired.com/story/the-best-fans-2026/",
@@ -25,6 +157,17 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/social-apps-500x500.jpg"
     },
     {
+      "title": "Fox wants to take over your TV — and the tech inside it",
+      "link": "https://www.theverge.com/streaming/950116/fox-roku-takeover",
+      "summary": "Fox is about to take over the TVs in more than 100 million homes worldwide. On Monday, Fox announced that it's acquiring Roku, the streaming middleman that serves as a portal for viewers to hop into s...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 20:04:29",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "TCL A65K Soundbar Review: Small Size, Big Sound",
       "link": "https://www.wired.com/review/tcl-a65k-soundbar/",
       "summary": "Don’t be fooled by the compact size of this soundbar. It’s a solid option for smaller TVs or spaces without having to sacrifice sound quality....",
@@ -44,6 +187,17 @@
       "region": "us",
       "pubDate": "2026-06-15 19:49:14",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon’s Smart Thermostat is on sale for just $58",
+      "link": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
+      "summary": "If your electricity bill climbs every summer, a smart thermostat could help keep cooling costs in check. The Amazon Smart Thermostat is an excellent option for its price, especially today. It’s down t...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 19:33:28",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -77,7 +231,7 @@
       "region": "us",
       "pubDate": "2026-06-15 19:04:53",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
@@ -110,7 +264,7 @@
       "region": "us",
       "pubDate": "2026-06-15 18:39:37",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_4.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
@@ -154,7 +308,7 @@
       "region": "us",
       "pubDate": "2026-06-15 18:10:27",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Google Chrome is closing the loopholes that let old ad blockers keep working",
@@ -165,7 +319,7 @@
       "region": "us",
       "pubDate": "2026-06-15 18:06:18",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418648/STK114_Google_Chrome_03.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Engineering Is Critical to Boosting Food Security",
@@ -198,7 +352,7 @@
       "region": "us",
       "pubDate": "2026-06-15 17:44:10",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2163958194.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "These are the countries moving to ban social media for children",
@@ -223,48 +377,37 @@
       "thumbnail": ""
     },
     {
-      "title": "苹果 watchOS 26.6 开发者预览版 Beta 2 发布",
-      "link": "https://www.ithome.com/0/964/609.htm",
-      "summary": "\n 【点此直达升级教程】 \n IT之家 6 月 16 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.6 开发者预览版 Beta 2 更新（内部版本号：23U5040d），本次更新距离上次发布 Beta/RC 间隔 20 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 17:16:10",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/12/1a5f474f-41a2-4962-a5a9-6b3780e56fde.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
-    },
-    {
       "title": "苹果 visionOS 26.6 开发者预览版 Beta 2 发布",
       "link": "https://www.ithome.com/0/964/608.htm",
-      "summary": "\n IT之家 6 月 16 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6 开发者预览版 Beta 2 更新（内部版本号：23O5743c），本次更新距离上次发布 Beta/RC 间隔 20 天。  \n 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n 本文由机器人发布，IT之家稍后将为大家带来...",
+      "summary": "\nIT之家 6 月 16 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6 开发者预览版 Beta 2 更新（内部版本号：23O5743c），本次更新距离上次发布 Beta / RC 间隔 20 天。\n\n本次预览版预计以 Bug 修复为主，不过苹果尚未公布具体细节。\n需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
       "pubDate": "2026-06-15 17:16:10",
-      "category": "robot",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/12/52e4bfc0-4db6-462f-a835-3316bc0d1927.jpg?x-bce-process=image/format,f_auto"
+      "category": "other",
+      "thumbnail": ""
     },
     {
-      "title": "苹果 macOS 26.6 开发者预览版 Beta 2 发布",
+      "title": "苹果 watchOS 26.6 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/964/609.htm",
+      "summary": "\n【点此直达升级教程】\nIT之家 6 月 16 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.6 开发者预览版 Beta 2 更新（内部版本号：23U5040d），本次更新距离上次发布 Beta / RC 间隔 20 天。\n\n本次更新主要修复了 HealthKit、StoreKit 存在的 Bug：\n\n修复了 HealthKit 此前在请求 HKQuantityTy...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 17:16:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 macOS 26.6 开发者预览版 Beta 2 发布：弃用加密版 HFS+",
       "link": "https://www.ithome.com/0/964/607.htm",
-      "summary": "\n IT之家 6 月 16 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6 开发者预览版 Beta 2 更新（内部版本号：25G5043d），本次更新距离上次发布 Beta/RC 间隔 20 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更...",
+      "summary": "\nIT之家 6 月 16 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6 开发者预览版 Beta 2 更新（内部版本号：25G5043d），本次更新距离上次发布 Beta / RC 间隔 20 天。\n\n苹果公司目前的开发重心已经偏向 macOS 27 系统，IT之家查询苹果公司官方更新日志，主要有以下内容：\n\n弃用 Encrypted HFS+ (CoreStorage) ，后续...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
       "pubDate": "2026-06-15 17:16:09",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/12/a7f18aa0-8a31-4d67-965a-febba272993f.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
-    },
-    {
-      "title": "苹果 iOS/iPadOS 26.6 开发者预览版 Beta 2 发布",
-      "link": "https://www.ithome.com/0/964/606.htm",
-      "summary": "\n 【点此直达升级教程】 \n IT之家 6 月 16 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6 开发者预览版 Beta 2 更新（内部版本号：23G5043d），本次更新距离上次发布 Beta/RC 间隔 20 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple B...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 17:16:09",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/12/d0e15ea8-5fc4-406b-a093-9f0f02aee587.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
+      "thumbnail": ""
     },
     {
       "title": "Xbox turmoil continues with a studio closure and executive departures",
@@ -275,7 +418,7 @@
       "region": "us",
       "pubDate": "2026-06-15 17:08:35",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
@@ -300,61 +443,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/sun_nasas_flareF-1920-500x500.jpg"
     },
     {
-      "title": "华为鸿蒙 HarmonyOS 7 Developer Beta 版开启推送，系统扩展特性同步更新",
-      "link": "https://www.ithome.com/0/964/605.htm",
-      "summary": "\nIT之家 6 月 15 日消息，据用户反馈，华为鸿蒙 HarmonyOS 7 Developer Beta 版已开启推送，系统包大小来到了 20GB。\n\n新版本功能\n亲爱的用户，HarmonyOS 7 Developer Beta 来了！本次更新供开发者开发调测新版本 API 应用使用，安装前请提前备份您的设备。\n系统扩展特性\n对系统扩展特性进行同步更新，增强特性功能提升用户体验。\n\n\n据IT之...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 15:59:16",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/44c626de-6d88-4004-9410-2d8f60cc0cc7.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "华为鸿蒙 HarmonyOS API 设备量占比数据更新，6.1.0 以下版本合计不足 6%",
-      "link": "https://www.ithome.com/0/964/604.htm",
-      "summary": "\nIT之家 6 月 15 日消息，华为开发者官网更新了存量设备 API 版本使用数量参考，截止 2026 年 6 月 11 日，HarmonyOS 设备各 API 版本使用量占比如下（数据约 15 天进行一次更新，开发者可根据占比来为应用合理定义需要兼容的 API 版本）：\n\n\nHarmonyOS 版本\nAPI 版本\n设备量占比\n\n\n7.0.0 Beta1\n26.0.0 Beta1\n新发布\n\n\n6...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 15:52:52",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/15c46a91-8619-443b-bf6a-ca9f2e7157a5.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "Roblox exec says ticking a box for age verification is ‘not enough anymore’",
-      "link": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
-      "summary": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-15 15:52:17",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "诺兰导演新作《奥德赛》确认引进：全球首部全程使用 IMAX 胶片拍摄的电影，档期待定",
-      "link": "https://www.ithome.com/0/964/603.htm",
-      "summary": "\nIT之家 6 月 15 日消息，环球影业今日宣布，克里斯托弗 · 诺兰导演的电影新作《奥德赛》确认引进，将登陆全国大银幕，档期待定。\n\n《奥德赛》由马特・达蒙、汤姆・赫兰德、罗伯特・帕丁森、赞达亚、安妮・海瑟薇、查理兹・塞隆等主演，改编自荷马史诗故事，讲述特洛伊战争后，奥德修斯回乡的漫长旅程。\n据悉，该影片全程采用 IMAX 胶片摄影机拍摄，是全球首部全程使用 IMAX 胶片拍摄的电影。环球影业...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 15:39:03",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/426cf193-71a9-4361-9256-7863a9a79c61.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "消息称英伟达时隔五年重返债市：拟发债筹集 200 亿美元",
-      "link": "https://www.ithome.com/0/964/602.htm",
-      "summary": "\nIT之家 6 月 15 日消息，据路透社报道，知情人士透露，英伟达计划通过在美国发行债券筹集 200 亿美元（现汇率约合 1353.83 亿元人民币）。\n英伟达上一次进入投资级债券市场是在 2021 年 6 月，当时融资规模为 50 亿美元（IT之家注：现汇率约合 338.46 亿元人民币）。\n报道称英伟达拟发行七档债券，最晚将于 2056 年到期。消息人士称募资所得将用于一般公司用途，包括偿还...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 15:32:36",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
       "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
       "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the abil...",
@@ -364,28 +452,6 @@
       "pubDate": "2026-06-15 15:29:51",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "美国消费者指控 Claude Max 订阅套餐额度“虚标”，拟对 Anthropic 发起集体诉讼",
-      "link": "https://www.ithome.com/0/964/601.htm",
-      "summary": "\nIT之家 6 月 15 日消息，据《华尔街日报》今天报道，一名美国华盛顿特区的消费者最近希望对 Anthropic 发起集体诉讼，他指控该公司的 Claude Max 订阅套餐存在“虚标”行为，实际使用额度远低于官方宣传。\n\n华盛顿用户 Karl Kahn 认为，Anthropic 价值 100 美元（IT之家注：现汇率约合 676.9 元人民币）/月的 Max 5x 套餐、200 美元（现汇率...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 15:27:53",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/91339f85-5e44-4b58-9e80-54109c928f83.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "砍其他产品预算也要做：曝阔折叠将成 TOP6 品牌未来一段时间含金量和定位最高手机产品",
-      "link": "https://www.ithome.com/0/964/600.htm",
-      "summary": "\nIT之家 6 月 15 日消息，博主 @数码闲聊站 今日发文透露，阔折叠将会是未来一段时间内，TOP6 主流品牌含金量最高且定位最高的手机产品，有些厂商甚至在砍其它产品的预算做阔折叠。\n\n有网友认为阔折叠销量只有华为一家独大了，博主表示：“苹果也是稳的，其它家目前还是未知数。”\n参考IT之家过往报道来看，目前华为已率先发布了 Pura X 和 Pura X Max 两种不同尺寸的阔折叠手机。接下...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 15:25:54",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/cb12cb4c-38d7-409d-8d18-f2b475cdbc46.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
@@ -443,17 +509,6 @@
       "thumbnail": ""
     },
     {
-      "title": "My favorite Qi2 power bank is cheaper than ever for Verge readers",
-      "link": "https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale",
-      "summary": "I recently published a buying guide on the best Qi2 power banks. Out of seven feature-packed batteries, I really dug the Baseus AM52 10,000mAh power bank that has a built-in USB-C cable. It’s fast at ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-15 14:39:24",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268545_Best_MagSafe_battery_CFaulkner_0011.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "UK unveils sweeping social media ban for users under 16",
       "link": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
       "summary": "The ban would apply to a range of social media platforms, including Snapchat, TikTok, YouTube, Instagram, Facebook, and X....",
@@ -487,28 +542,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The Verge’s Father’s Day 2026 gift guide",
-      "link": "https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas",
-      "summary": "With Father's Day on the horizon, happening June 21st, it's time to start thinking about what kind of gifts you want to buy for the fathers you care about. You know your dad best - he may be a man of ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-15 14:23:21",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268547_The_Verges_favorite_Fathers_Day_gifts_AParkin.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Happy birthday to the Trump phone",
-      "link": "https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary",
-      "summary": "From the day it was announced, on June 16th, 2025, the Trump phone sounded ridiculous. The T1 Phone 8002 (gold version), as it was officially called, was a combination of contradictory specs, product ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-15 14:15:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268568_Trump_phone_1_year_AKRALES3.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
       "link": "https://36kr.com/p/3854510160549124?f=rss",
       "summary": "\n在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？\n  6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系统、17级动态范围与 D-Log 2 专业色彩曲线，试图在口袋级设备中进一步容纳专业影像能力。\n  ...",
@@ -517,7 +550,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 14:13:11",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260615/v2_86bb7cd0dfea466d987bac3ad553eefc@430412560_oswg164672oswg830oswg762_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Russia appears set to finally address long-term, serious space station cracks",
@@ -597,17 +630,6 @@
       "thumbnail": "https://spectrum.ieee.org/media-library/a-man-and-a-woman-wearing-dressy-winter-coats-watch-a-crew-of-informally-dressed-men-working-on-the-construction-of-a-wind-turbi.jpg?id=66894045&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
     },
     {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-15 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
       "link": "https://www.qbitai.com/2026/06/435848.html",
       "summary": "",
@@ -649,7 +671,7 @@
       "region": "us",
       "pubDate": "2026-06-15 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/ND22_reprogram-CF3A6881-edited.jpeg"
+      "thumbnail": ""
     },
     {
       "title": "IPO募资未用完，上市未满两年的拉普拉斯又抛22亿定增",
@@ -770,7 +792,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 09:46:34",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260615/v2_8c51fbd51a9a48d98cc8ed892604559c@15222052_oswg679000oswg1080oswg606_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "C++ Web 框架 Paozhu 1.11.0发布",
@@ -858,7 +880,7 @@
       "region": "us",
       "pubDate": "2026-06-15 09:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/IMG_3420.jpg?w=1500"
+      "thumbnail": ""
     },
     {
       "title": "开源免费首发！首款真正的 AI 大屏诞生 JimuBI，一句话生成炫酷大屏",
@@ -1006,13 +1028,13 @@
     {
       "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
       "link": "https://36kr.com/p/3853016586359817?f=rss",
-      "summary": "\n作者 | 邱晓芬\n  编辑 | 袁斯来\n  过去几个月，“世界模型”���World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。\n  行业的目光转向背后是切实的焦虑。\n  一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物...",
+      "summary": "\n作者 | 邱晓芬\n  编辑 | 袁斯来\n  过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。\n  行业的目光转向背后是切实的焦虑。\n  一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-06-15 01:50:00",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260614/v2_6b6ae97189f24037a81f6d6d4aba4219@1199336245_oswg141618oswg1080oswg1620_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
@@ -1023,7 +1045,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 01:50:00",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260614/v2_f973153f6576424fb06765e4acbc200e@1199336245_oswg177265oswg1080oswg975_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
@@ -1048,28 +1070,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
-      "link": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
-      "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-14 16:02:53",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/eilmer-500x500.jpg"
-    },
-    {
-      "title": "20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)",
-      "link": "https://www.wired.com/gallery/best-gifts-for-men-2026/",
-      "summary": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-14 11:36:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a2cc8baa22dc9d7603b689f/master/pass/Update--Manly-Men-Gift-Guide.jpg"
-    },
-    {
       "title": "增长停滞两年后，H&amp;M重组全球架构，大中华区降级｜独家",
       "link": "https://36kr.com/p/3850942780838912?f=rss",
       "summary": "\n文｜贺哲馨\n  编辑｜乔芊\n  36氪独家获悉，瑞典快时尚巨头H&amp;M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。\n  大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed E...",
@@ -1078,7 +1078,7 @@
       "region": "cn",
       "pubDate": "2026-06-14 05:38:42",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260613/v2_6f504d0d765a47529357e42e722392a4@5922386_oswg188658oswg2238oswg1456_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "MCP solved tool calling. A2A solved coordination. What solves transport?",
@@ -1100,7 +1100,7 @@
       "region": "cn",
       "pubDate": "2026-06-14 01:30:00",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260613/v2_2d8a7fc7d0bd4781914a3b00ea772f16@6022551_oswg2356535oswg1920oswg1440_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
@@ -1133,7 +1133,7 @@
       "region": "cn",
       "pubDate": "2026-06-13 08:37:21",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260613/v2_e0c77006185f4bd984e08da061c95864@5579416_oswg342733oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
@@ -1155,7 +1155,7 @@
       "region": "us",
       "pubDate": "2026-06-12 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/06/AIGaming_Full_1.jpg?w=2186"
+      "thumbnail": ""
     },
     {
       "title": "You do your own time",
@@ -1177,7 +1177,7 @@
       "region": "us",
       "pubDate": "2026-06-12 09:00:00",
       "category": "ai",
-      "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png"
+      "thumbnail": ""
     },
     {
       "title": "Inside interoception: The hidden sense of how you feel inside",
@@ -1210,7 +1210,7 @@
       "region": "us",
       "pubDate": "2026-06-11 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_SpaceTourism_final.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
