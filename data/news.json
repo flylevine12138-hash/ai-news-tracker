@@ -1,7 +1,414 @@
 {
-  "updateTime": "2026-06-15T12:32:08.599Z",
-  "total": 117,
+  "updateTime": "2026-06-15T18:00:13.484Z",
+  "total": 107,
   "news": [
+    {
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the presiden...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 17:44:10",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2163958194.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and ex...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-15 17:41:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "85% of IT teams claim every AI agent is under control. Only 42% actually know who owns them.",
+      "link": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them",
+      "summary": "\nOrganizational leaders are nearly twice as likely to hide their AI use compared to all other employees, at 42% versus 23%, according to new Ivanti research surveying 3,900 employees across six countr...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-15 17:19:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 watchOS 26.6 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/964/609.htm",
+      "summary": "\n 【点此直达升级教程】 \n IT之家 6 月 16 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.6 开发者预览版 Beta 2 更新（内部版本号：23U5040d），本次更新距离上次发布 Beta/RC 间隔 20 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 17:16:10",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/12/1a5f474f-41a2-4962-a5a9-6b3780e56fde.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
+    },
+    {
+      "title": "苹果 visionOS 26.6 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/964/608.htm",
+      "summary": "\n IT之家 6 月 16 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6 开发者预览版 Beta 2 更新（内部版本号：23O5743c），本次更新距离上次发布 Beta/RC 间隔 20 天。  \n 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n 本文由机器人发布，IT之家稍后将为大家带来...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 17:16:10",
+      "category": "robot",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/12/52e4bfc0-4db6-462f-a835-3316bc0d1927.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "苹果 macOS 26.6 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/964/607.htm",
+      "summary": "\n IT之家 6 月 16 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6 开发者预览版 Beta 2 更新（内部版本号：25G5043d），本次更新距离上次发布 Beta/RC 间隔 20 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 17:16:09",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/12/a7f18aa0-8a31-4d67-965a-febba272993f.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
+    },
+    {
+      "title": "苹果 iOS/iPadOS 26.6 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/964/606.htm",
+      "summary": "\n 【点此直达升级教程】 \n IT之家 6 月 16 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6 开发者预览版 Beta 2 更新（内部版本号：23G5043d），本次更新距离上次发布 Beta/RC 间隔 20 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple B...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 17:16:09",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/12/d0e15ea8-5fc4-406b-a093-9f0f02aee587.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
+    },
+    {
+      "title": "Xbox turmoil continues with a studio closure and executive departures",
+      "link": "https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure",
+      "summary": "Last week, Xbox boss Asha Sharma sent a memo warning of an Xbox \"reset\" ahead of expected layoffs, and today, Kotaku reported that Xbox plans to shut down Compulsion Games, the studio behind South of ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 17:08:35",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
+      "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
+      "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-15 16:32:14",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Steve-Jobs-announces-Intel-processor-GettyImages-53028118-500x500-1781292888.jpg"
+    },
+    {
+      "title": "Good news—we have extra time before the Sun ends life on Earth",
+      "link": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
+      "summary": "Will the Sun roast Earth’s plants or starve them?...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-15 16:28:17",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/sun_nasas_flareF-1920-500x500.jpg"
+    },
+    {
+      "title": "华为鸿蒙 HarmonyOS 7 Developer Beta 版开启推送，系统扩展特性同步更新",
+      "link": "https://www.ithome.com/0/964/605.htm",
+      "summary": "\nIT之家 6 月 15 日消息，据用户反馈，华为鸿蒙 HarmonyOS 7 Developer Beta 版已开启推送，系统包大小来到了 20GB。\n\n新版本功能\n亲爱的用户，HarmonyOS 7 Developer Beta 来了！本次更新供开发者开发调测新版本 API 应用使用，安装前请提前备份您的设备。\n系统扩展特性\n对系统扩展特性进行同步更新，增强特性功能提升用户体验。\n\n\n据IT之...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 15:59:16",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/44c626de-6d88-4004-9410-2d8f60cc0cc7.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "华为鸿蒙 HarmonyOS API 设备量占比数据更新，6.1.0 以下版本合计不足 6%",
+      "link": "https://www.ithome.com/0/964/604.htm",
+      "summary": "\nIT之家 6 月 15 日消息，华为开发者官网更新了存量设备 API 版本使用数量参考，截止 2026 年 6 月 11 日，HarmonyOS 设备各 API 版本使用量占比如下（数据约 15 天进行一次更新，开发者可根据占比来为应用合理定义需要兼容的 API 版本）：\n\n\nHarmonyOS 版本\nAPI 版本\n设备量占比\n\n\n7.0.0 Beta1\n26.0.0 Beta1\n新发布\n\n\n6...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 15:52:52",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/15c46a91-8619-443b-bf6a-ca9f2e7157a5.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Roblox exec says ticking a box for age verification is ‘not enough anymore’",
+      "link": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
+      "summary": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 15:52:17",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "诺兰导演新作《奥德赛》确认引进：全球首部全程使用 IMAX 胶片拍摄的电影，档期待定",
+      "link": "https://www.ithome.com/0/964/603.htm",
+      "summary": "\nIT之家 6 月 15 日消息，环球影业今日宣布，克里斯托弗 · 诺兰导演的电影新作《奥德赛》确认引进，将登陆全国大银幕，档期待定。\n\n《奥德赛》由马特・达蒙、汤姆・赫兰德、罗伯特・帕丁森、赞达亚、安妮・海瑟薇、查理兹・塞隆等主演，改编自荷马史诗故事，讲述特洛伊战争后，奥德修斯回乡的漫长旅程。\n据悉，该影片全程采用 IMAX 胶片摄影机拍摄，是全球首部全程使用 IMAX 胶片拍摄的电影。环球影业...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 15:39:03",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/426cf193-71a9-4361-9256-7863a9a79c61.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "消息称英伟达时隔五年重返债市：拟发债筹集 200 亿美元",
+      "link": "https://www.ithome.com/0/964/602.htm",
+      "summary": "\nIT之家 6 月 15 日消息，据路透社报道，知情人士透露，英伟达计划通过在美国发行债券筹集 200 亿美元（现汇率约合 1353.83 亿元人民币）。\n英伟达上一次进入投资级债券市场是在 2021 年 6 月，当时融资规模为 50 亿美元（IT之家注：现汇率约合 338.46 亿元人民币）。\n报道称英伟达拟发行七档债券，最晚将于 2056 年到期。消息人士称募资所得将用于一般公司用途，包括偿还...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 15:32:36",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the abil...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-15 15:29:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "美国消费者指控 Claude Max 订阅套餐额度“虚标”，拟对 Anthropic 发起集体诉讼",
+      "link": "https://www.ithome.com/0/964/601.htm",
+      "summary": "\nIT之家 6 月 15 日消息，据《华尔街日报》今天报道，一名美国华盛顿特区的消费者最近希望对 Anthropic 发起集体诉讼，他指控该公司的 Claude Max 订阅套餐存在“虚标”行为，实际使用额度远低于官方宣传。\n\n华盛顿用户 Karl Kahn 认为，Anthropic 价值 100 美元（IT之家注：现汇率约合 676.9 元人民币）/月的 Max 5x 套餐、200 美元（现汇率...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 15:27:53",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/91339f85-5e44-4b58-9e80-54109c928f83.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "砍其他产品预算也要做：曝阔折叠将成 TOP6 品牌未来一段时间含金量和定位最高手机产品",
+      "link": "https://www.ithome.com/0/964/600.htm",
+      "summary": "\nIT之家 6 月 15 日消息，博主 @数码闲聊站 今日发文透露，阔折叠将会是未来一段时间内，TOP6 主流品牌含金量最高且定位最高的手机产品，有些厂商甚至在砍其它产品的预算做阔折叠。\n\n有网友认为阔折叠销量只有华为一家独大了，博主表示：“苹果也是稳的，其它家目前还是未知数。”\n参考IT之家过往报道来看，目前华为已率先发布了 Pura X 和 Pura X Max 两种不同尺寸的阔折叠手机。接下...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-15 15:25:54",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/cb12cb4c-38d7-409d-8d18-f2b475cdbc46.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
+      "link": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
+      "summary": "Armed with a ton of new upgrades, Ferrari came to Spain full of confidence....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-15 15:25:17",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281551814-500x500.jpg"
+    },
+    {
+      "title": "Vibe coding can build your pipeline. It can't explain it six months later",
+      "link": "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
+      "summary": "\nAI coding agents are rapidly accelerating data engineering by generating transformations, pipelines, orchestration workflows, validation tests, and infrastructure configurations from prompts. \nHoweve...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-15 15:14:57",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-06-15 15:12:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
+      "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
+      "summary": "SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-15 14:45:03",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "My favorite Qi2 power bank is cheaper than ever for Verge readers",
+      "link": "https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale",
+      "summary": "I recently published a buying guide on the best Qi2 power banks. Out of seven feature-packed batteries, I really dug the Baseus AM52 10,000mAh power bank that has a built-in USB-C cable. It’s fast at ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 14:39:24",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268545_Best_MagSafe_battery_CFaulkner_0011.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "UK unveils sweeping social media ban for users under 16",
+      "link": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
+      "summary": "The ban would apply to a range of social media platforms, including Snapchat, TikTok, YouTube, Instagram, Facebook, and X....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-15 14:36:56",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-15 14:34:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Verge’s Father’s Day 2026 gift guide",
+      "link": "https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas",
+      "summary": "With Father's Day on the horizon, happening June 21st, it's time to start thinking about what kind of gifts you want to buy for the fathers you care about. You know your dad best - he may be a man of ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 14:23:21",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268547_The_Verges_favorite_Fathers_Day_gifts_AParkin.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Happy birthday to the Trump phone",
+      "link": "https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary",
+      "summary": "From the day it was announced, on June 16th, 2025, the Trump phone sounded ridiculous. The T1 Phone 8002 (gold version), as it was officially called, was a combination of contradictory specs, product ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 14:15:00",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268568_Trump_phone_1_year_AKRALES3.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
+      "link": "https://36kr.com/p/3854510160549124?f=rss",
+      "summary": "\n在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？\n  6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系统、17级动态范围与 D-Log 2 专业色彩曲线，试图在口袋级设备中进一步容纳专业影像能力。\n  ...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-15 14:13:11",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
+      "link": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+      "summary": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 14:00:00",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_20260615_Adam_Bry.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Russia appears set to finally address long-term, serious space station cracks",
+      "link": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
+      "summary": "This has been a persistent, behind-the-scenes dispute between NASA and Roscosmos....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-15 13:54:02",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-71395189-500x500.jpg"
+    },
+    {
+      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
+      "link": "https://36kr.com/p/3854486447510535?f=rss",
+      "summary": "\n大公司：\n  支付宝：政务AI助手“晓政”服务突破1亿次\n  36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。\n  小雨智造与地瓜机器人正式宣布达成战略合作\n  36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-15 13:48:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-15 13:46:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fox to acquire Roku in $22B deal",
+      "link": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
+      "summary": "Fox says the deal will create the third-largest television company in the United States....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-15 13:43:05",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google Earth’s flight simulator is now available in your browser",
+      "link": "https://www.theverge.com/tech/949749/google-earth-flight-simulator-browser-experimental",
+      "summary": "On Friday Google announced it was making a relatively unknown feature of Google Earth available to a wider audience. The desktop version of Google Earth has had a hidden flight simulator mode since 20...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-15 13:13:23",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/googleearthsim1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-15 13:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+      "link": "https://www.qbitai.com/2026/06/435848.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-06-15 12:57:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "link": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists ar...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-06-15 12:10:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "A satellite just learned to find things on its own — here’s what that means",
       "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
@@ -27,7 +434,7 @@
     {
       "title": "Fox is buying Roku",
       "link": "https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion",
-      "summary": "Fox has announced that it's acquiring Roku outright, in a deal that values the streaming company at $22 billion. The deal will see Fox's TV networks and Tubi streamer combine with Roku's network of st...",
+      "summary": "Fox has announced that it's acquiring Roku outright, in a deal that values the streaming company at $22 billion. Once the deal is complete, Fox content will be promoted more heavily than before on Rok...",
       "source": "The Verge",
       "sourceKey": "theverge",
       "region": "us",
@@ -58,39 +465,6 @@
       "thumbnail": ""
     },
     {
-      "title": "迈从 Ace 75 磁轴键盘开售：8KHz 回报率、独立 RT 按键 + 多功能旋钮，299 元起",
-      "link": "https://www.ithome.com/0/964/557.htm",
-      "summary": "\nIT之家 6 月 15 日消息，迈从 Ace 75 磁轴键盘将于今晚 20:00 开售，售价 299 元起：\n\n火影磁轴：299 元\n狂暴磁轴：349 元\n宝马磁轴：399 元\n\n京东迈从（MCHOSE）Ace75 磁轴键盘 299 元直达链接\n\n这款键盘使用有线连接，提供 4 种配色（雾透粉、雾透紫、雾透白、雾透黑）可选，带有贯穿式灵控灯带和多功能旋钮，提供独立 RT 按键，键盘带有下灯位 A...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 11:21:03",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/444525/34/19174/258958/6a2a701eFd0a1369f/00835a05a0b4b9c9.jpg"
-    },
-    {
-      "title": "华为首款鸿蒙商用台式机现身 HDC 2026，已定档 9 月登场",
-      "link": "https://www.ithome.com/0/964/556.htm",
-      "summary": "\nIT之家 6 月 15 日消息，据博主 @李大锤同学 今日分享，在刚结束的华为开发者大会 HDC 2026 上，华为展示了首款鸿蒙商用台式机。这台机器主要面向政企、金融、能源等商用办公场景。\n\n不过遗憾的是，这款台式机具体的处理器型号、核心配置和售价暂未公布，因此更多信息仍需等待官方后续披露。\n据IT之家昨日报道，华为终端平板与 PC 产品线总裁朱懂东在 HDC 2026 的「鸿蒙办公」分论坛上...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 11:14:35",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/2d1ea913-f061-447a-9ab1-aaa32a38e7fa.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "Honor’s Magic V6 sets three foldable firsts",
-      "link": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
-      "summary": "On paper, the Honor Magic V6 sounds like a tremendous leap forward for foldable phones: It's the thinnest one yet, with the biggest battery, and the best water-resistance ever. In practice, only the b...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-15 11:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/honor-magic-v6-review-7.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side",
       "link": "https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/",
       "summary": "Both kratom and one of its active components, 7-OH, have opioid-like effects and are widely available across the US. As health secretary RFK Jr. aims to get 7-OH banned, proponents of both are fightin...",
@@ -100,28 +474,6 @@
       "pubDate": "2026-06-15 11:00:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6a10cc7d3d1b27e4fef2c9fb/master/pass/Kratom-Civil-War-Culture.jpg"
-    },
-    {
-      "title": "安克 160W 智显充 Pro+ 充电器开售：支持 120W 小米 MiPPS 和华为 66W SCP 协议，699 元",
-      "link": "https://www.ithome.com/0/964/555.htm",
-      "summary": "\nIT之家 6 月 15 日消息，安克 Anker Prime 智显充 Pro+ 160W 充电器中国区「金标」定制版今日正式开售，售价 699 元。\n相比“智显充 Pro”，该版本兼容华为 66W Max 快充协议、小米 120W Max 快充协议、荣耀 66W Max 快充协议。\n京东安克 160W 智显充 Pro+ 带屏充电头 699 元直达链接\n\nIT之家获悉，该充电头提供 3 个 USB...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 10:59:30",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/448867/36/10861/88169/6a295121Ff3b036b6/00833203207144f4.jpg"
-    },
-    {
-      "title": "2899 → 599 元：云鲸 S2 Island 无线洗地机京东 17 日 618 新低",
-      "link": "https://www.ithome.com/0/964/554.htm",
-      "summary": "\n云鲸 S2 无线洗地机 24 年 5 月开售，首发价 2899 元，主打 20000Pa 吸力 + 89AW 吸入功率。\n6 月 17 日 20 点京东自营将直降至 699 元，叠加 100 元津贴返现后，仅需 599 元：\n京东云鲸洗地机 S2 Island 多功能集成基站 17 日 20 点 699 元点此查看\n京东无门槛红包至高 26618 元，支持即领即用：点此抽取。\n据介绍，这款洗地机...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 10:58:40",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/253542/40/15275/62749/678e2b8eF4d54ee6d/0c4c294bde2ddb05.png"
     },
     {
       "title": "【Fintech 周报】大额存单个人认购起点拟降至20万元；今年以来不良贷款挂牌规模近1600亿元",
@@ -135,50 +487,6 @@
       "thumbnail": ""
     },
     {
-      "title": "理想发布会暗埋小彩蛋，李想翻看《停车的艺术》学习如何正确泊车",
-      "link": "https://www.ithome.com/0/964/553.htm",
-      "summary": "\nIT之家 6 月 15 日消息，在今天的 Livis Day 理想汽车软件与具身智能发布会最后，理想官方播放了一段宣传视频。\n\nIT之家注意到，在这段宣传视频中暗藏了不少彩蛋，其中让人记忆颇深且浮想联翩的就是理想汽车 CEO 李想翻看起了一本名为《停车的艺术》的书籍，且书本的封面印有“如何正确泊车”。而这本书的外观已略显陈旧，可以推测，这本书应该经常被翻阅。\n\n值得一提的是，今年 4 月，在理想...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 10:39:37",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/410c2be2-9479-490c-a985-d79d48b22835.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "消息称小红书准备本月在香港提交 IPO 申请",
-      "link": "https://www.ithome.com/0/964/552.htm",
-      "summary": "\nIT之家 6 月 15 日消息，据彭博社消息，知情人士透露，小红书科技有限公司正准备在本月底前秘密向香港提交首次公开募股（IPO）申请。\n知情人士称，这家总部位于上海的公司目前正与顾问团队就潜在的上市计划进行筹划，该项目有望成为近年来香港规模最大的上市案之一。\nIT之家从报道获悉，目前相关商讨仍在进行中，包括上市时机、募资规模及公司估值在内的具体细节均尚未最终敲定。\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 10:37:38",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "出海再提速，零跑 C10 汽车已于马来西亚启动本地化组装生产",
-      "link": "https://www.ithome.com/0/964/551.htm",
-      "summary": "\nIT之家 6 月 15 日消息，零跑汽车今天宣布，公司主力车型 C10 已在马来西亚吉打州古伦（Gurun）工厂启动本地化组装生产。\n\nIT之家从官方公众号了解到，零跑已经与马来西亚本地汽车经销商 Cycle &amp; Carriage（C&amp;C），达成分销业务合作。零跑将依托 Stellantis 的本土制造能力和 C&amp;C 经销网络，为当地消费者带来高品质新能源产品。\n同时，零...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 10:35:20",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/5827d5df-4589-4527-b5e8-7fdd3e795740.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "亿纬锂能 2026 年半年度归母净利润 31.30 亿元~33.71 亿元，同比增长 95%~110%",
-      "link": "https://www.ithome.com/0/964/550.htm",
-      "summary": "\n IT之家 6 月 15 日消息，亿纬锂能今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）业绩预告报告：\n\n  归母净利润：31.30 亿元~33.71 亿元，同比增长 95.00%~110.00%     扣非净利润：24.30 亿元~26.03 亿元，同比增长 110.00%~125.00%  \n\n  AI 解读  本次 2026 年半年度业绩预告中，归母净利润预计...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 10:35:15",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer",
       "link": "https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/",
       "summary": "Even the aging iPhone 11 will feel a little more responsive soon, thanks to improvements in an unsung iOS feature....",
@@ -188,28 +496,6 @@
       "pubDate": "2026-06-15 10:30:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a2aabf0a0ec339aba978ccf/master/pass/GettyImages-1209226885.jpg"
-    },
-    {
-      "title": "深光影像 AF 25mm F1.8 M43 相机镜头开售，首发 569 元起",
-      "link": "https://www.ithome.com/0/964/549.htm",
-      "summary": "\nIT之家 6 月 15 日消息，深光影像 AF 25mm F1.8 M43 相机镜头将于今晚 8 点开售，首发到手价 569 元起（含金属遮光罩）：\n\n黑色：569 元\n银色：629 元\n\n\n京东深光 AF 25mm F1.8 M43 卡口 黑色 569 元直达链接\n这款镜头为金属材质，重约 145g，M43 相机使用等效焦距为 50mm；最近对焦距离 0.3m，滤镜尺寸 52mm。\n\n这款镜头...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 10:28:20",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/13a255b1-5c5b-43b7-9b1b-a7b2882d83e1.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "吉利李书福、张雪达成合作意向，推动 WSBK（世界超级摩托车锦标赛）在中国举办",
-      "link": "https://www.ithome.com/0/964/548.htm",
-      "summary": "\nIT之家 6 月 15 日消息，在央视财经昨晚公布的《对话》节目录制现场，吉利控股集团董事长李书福向张雪机车创始人张雪发起“挑战”。\n节目还透露，两人已悄悄达成合作意向，将推动 WSBK（世界超级摩托车锦标赛）在中国举办。\n\n2026 世界超级摩托车锦标赛（WSBK）艾米利亚-罗马涅站 WorldSSP 组别第二回合正赛于 6 月 14 日在意大利米萨诺赛道举行。张雪和李书福在《对话》节目现场共...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 10:25:30",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/47744573-c599-451f-a67f-173a951142ad.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "80岁斯皮尔伯格第四次拍“外星人”，本人表态：外星人此刻就在地球上",
@@ -432,17 +718,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Under-16 social media ban announced by UK government",
-      "link": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
-      "summary": "The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced. The ban, which could take effect from early ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-15 08:19:09",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "开源免费首发！首款真正的 AI 大屏诞生 JimuBI，一句话生成炫酷大屏",
       "link": "https://www.oschina.net/news/459010",
       "summary": "真正的 AI 大屏来了！ 一句话生成大屏，一句话添加组件，一句话改配置。先对话讨论方案，再一键应用修改 —— 全流程自然语言驱动。 在线体验：https://jimureport.com/login，登录即可体验 AI 生成大屏、AI 生成组件、AI 修改大屏等全部功能。 为什么数据大屏开发需要 AI？ 做过数据大屏的人都知道，最耗时的从来不是 ......",
@@ -509,6 +784,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Attackers scale deception with AI. Defenders need truth at machine speed.",
+      "link": "https://venturebeat.com/security/attackers-scale-deception-with-ai-defenders-need-truth-at-machine-speed",
+      "summary": "\nPresented by Splunk\n\nAI has changed the economics of cyber deception.\nAn attacker can now generate thousands of convincing phishing lures, fake identities, and tailored pretexts before a defender fin...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-15 07:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "🎉重大更新！NocoBase 2.1 正式版发布",
       "link": "https://www.oschina.net/news/458978",
       "summary": "原文链接：https://www.nocobase.com/cn/blog/2.1.0 NocoBase 2.1 是对 AI 能力、多应用以及 2.0 版本适配 的一次重要升级。我们推出了 NocoBase CLI，方便人和 AI Agent 连接和管理 NocoBase 应用。从创建应用、AI 搭建、AI 员工能力增强、到 AI 开发插件等，覆盖了环境接入、系统搭建和业务协作的完整流程。另外，我...",
@@ -560,17 +846,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-06-15 05:43:15",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
-      "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
-      "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-15 04:01:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -641,136 +916,15 @@
       "thumbnail": ""
     },
     {
-      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
-      "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
-      "summary": "JPMorgan can't be pleased by any of this....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-14 21:55:34",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The FBI built a small town to simulate cyberattacks",
-      "link": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
-      "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-14 20:35:41",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/high.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "UK may ban social media for children under 16",
-      "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
-      "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-14 20:17:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "China may have accessed Mythos",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China....",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-14 18:27:55",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-14 16:38:09",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Conclave is the sound of a NYC summer block party",
-      "link": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
-      "summary": "I have this vivid memory of walking to pick up my oldest from school in June of 2022. For a variety of reasons, I was in a very bad place mentally. And to make matters worse, it was brutally hot. I wa...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-14 16:30:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/a0770643655_10.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
-      "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-14 16:05:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
       "link": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
-      "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066...",
+      "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066....",
       "source": "Ars Technica",
       "sourceKey": "arstechnica",
       "region": "us",
       "pubDate": "2026-06-14 16:02:53",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/eilmer-500x500.jpg"
-    },
-    {
-      "title": "How to watch most of the World Cup matches with free trials",
-      "link": "https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale",
-      "summary": "Hoping to catch some World Cup matches while spending as little money as possible? You have a few options for finding a few days of free streaming, although you may choose to eventually pony up some m...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-14 16:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2281159964.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-      "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-      "summary": "The new Sonos Play can act as a portable speaker inside and outside your home....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-14 14:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The impossible dream of the universal remote",
-      "link": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
-      "summary": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a prod...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-14 13:42:07",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Harmony_Remote_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Solid-state batteries still aren’t ready, but gels are",
-      "link": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arriv...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-14 12:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268587_Stepback_solid_state__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)",
@@ -828,18 +982,7 @@
       "thumbnail": ""
     },
     {
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-14 03:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "title": "高瓴出手了一���消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
       "link": "https://36kr.com/p/3851572421432324?f=rss",
       "summary": "\n作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。\n  SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入...",
       "source": "36氪",
@@ -847,17 +990,6 @@
       "region": "cn",
       "pubDate": "2026-06-14 01:30:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-14 00:03:49",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -912,39 +1044,6 @@
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-06-13 08:37:21",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-      "link": "https://www.qbitai.com/2026/06/435455.html",
-      "summary": "一起构建下一代物理世界的智能系统...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-13 08:11:07",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-      "link": "https://36kr.com/p/3846972367866119?f=rss",
-      "summary": "\n在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-13 06:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "“宁王系”，排队 IPO",
-      "link": "https://36kr.com/p/3851106394117383?f=rss",
-      "summary": "\n\n  越来越多CVC在路上\n  作者 | 冯晓亭 \n   编辑 | 吾人 \n  来源 | 融中财经 \n  宁德时代，又出手了。\n  近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科技投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代拟以40.9985882353...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-13 04:59:03",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1004,83 +1103,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-500x500.jpg"
     },
     {
-      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
-      "summary": "Section 702 of FISA to expire tonight, but certification lasts until March 2027....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-12 18:57:51",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/spy-500x500.jpg"
-    },
-    {
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-12 18:45:40",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Bezos-Bajaj-Prometheus-500x500.jpg"
-    },
-    {
-      "title": "Have politics finally come for the National Academies of Science?",
-      "link": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
-      "summary": "A pending report on climate attribution may be setting the stage for conflict....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-12 18:31:36",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1845540332-500x500.jpg"
-    },
-    {
-      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-      "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-      "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-12 18:03:29",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Ukraine-drone-500x500.jpg"
-    },
-    {
-      "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
-      "link": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
-      "summary": "\nYen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-12 18:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042"
-    },
-    {
-      "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
-      "link": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
-      "summary": "\nThe creators of the hit, enterprise-friendly, open source OpenClaw variant NanoClaw are partnering with software supply chain management leader JFrog to launch a new, joint security integration they ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-12 16:46:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "PixelRAG beats text parsers on accuracy and cuts AI agent token costs 10x",
-      "link": "https://venturebeat.com/data/pixelrag-beats-text-parsers-on-accuracy-and-cuts-ai-agent-token-costs-10x",
-      "summary": "\nMost enterprise RAG pipelines start the same way: a text parser converts web pages and documents into plain text so they can be chunked and indexed for retrieval. That conversion step destroys retrie...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-12 15:39:11",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
       "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing agin...",
@@ -1125,28 +1147,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
-      "link": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
-      "summary": "\nAgent skills have become an important part of real-world AI applications, providing a mechanism — a set of instructions saved in a folder of text-based markdown (.md) files, usually — for models to a...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-11 23:37:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
-      "link": "https://spectrum.ieee.org/orbital-data-centers-heat",
-      "summary": "\n“Space computing, the final frontier, has arrived,” Nvidia CEO Jensen Huang declared at the Nvidia GTC conference in March.\nIndeed, the idea of data centers in orbit has gone from science fiction to ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-11 13:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1200&height=400&coordinates=0%2C325%2C0%2C325"
-    },
-    {
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
       "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the open...",
@@ -1169,17 +1169,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Defining Autonomy for Wellness Robots in Senior Care",
-      "link": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
-      "summary": "\nAn examination of how socially assistive wellness robots could support the seven dimensions of senior wellness, and how a framework can measure their autonomy.\nWhat Attendees will Learn\n\nWhy the seni...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-11 10:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/dreamface-technologies-llc-logo-with-abstract-silver-face-and-circles-on-teal-background.png?id=66892687&width=980"
-    },
-    {
       "title": "Job titles of the future: Nature’s drug designer",
       "link": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
       "summary": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.  For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that ...",
@@ -1189,105 +1178,6 @@
       "pubDate": "2026-06-11 10:00:00",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Inside soccer’s data renaissance",
-      "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
-      "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans migh...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-06-11 10:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why China is betting on big nuclear reactors",
-      "link": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
-      "summary": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of tot...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-06-11 10:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
-      "link": "https://spectrum.ieee.org/epics-in-ieee",
-      "summary": "\nThe EPICS (Engineering Projects in Community Service) in IEEE program, administered by IEEE Educational Activities, has launched the Excellent EPICS in IEEE Contributor Awards. The recognitions honor...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-10 18:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/four-men-tinkering-with-iot-parts-on-an-outdoor-table.jpg?id=66858524&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042"
-    },
-    {
-      "title": "We Are Crowdsourcing the Panopticon",
-      "link": "https://spectrum.ieee.org/unintended-consequences-video-surveillance",
-      "summary": "\nA man raises his phone as police move into a crowd. The video is shaky, loud, immediate. Within minutes, it is online. Within hours, it is everywhere. This is how accountability works now. Something ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-10 13:00:00",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-a-phone-with-an-eye-on-it-and-several-rings-of-snake-ouroboros.jpg?id=66820296&width=1200&height=400&coordinates=0%2C886%2C0%2C886"
-    },
-    {
-      "title": "What Size Company Is Right for You?",
-      "link": "https://spectrum.ieee.org/fortune-500-companies-vs-startups",
-      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-09 18:41:14",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=400&coordinates=0%2C250%2C0%2C250"
-    },
-    {
-      "title": "The Pros and Cons of Job Hopping as an Engineer",
-      "link": "https://spectrum.ieee.org/strategic-job-hopping",
-      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-09 18:25:12",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=400&coordinates=0%2C250%2C0%2C250"
-    },
-    {
-      "title": "The Computer Science Degree Isn’t Dead",
-      "link": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
-      "summary": "\n\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development com...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-09 18:02:32",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=400&coordinates=0%2C250%2C0%2C250"
-    },
-    {
-      "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
-      "link": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
-      "summary": "\nThis article is brought to you by AGILINK.\nThroughout the exhibition hall at the 2026 IEEE International Conference on Robotics (ICRA), in Vienna, one demonstration seemed to attract a disproportiona...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-09 12:51:03",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/humanoid-robot-with-four-arms-holding-a-red-balloon-sculpture-at-a-tech-expo.jpg?id=66870200&width=1200&height=400&coordinates=0%2C491%2C0%2C491"
-    },
-    {
-      "title": "IEEE Celebrates Technology’s Brightest Minds at Annual Event",
-      "link": "https://spectrum.ieee.org/ieee-celebrates-honors-ceremony-2026",
-      "summary": "\nNew York City was the backdrop of this year’s IEEE Honors Ceremony, held on 24 April.\nThe event celebrates engineering pioneers who have developed technologies that have changed how people connect an...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-06-08 18:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-dimly-lit-ballroom-filled-with-dinner-tables-during-an-awards-ceremony.jpg?id=66857734&width=1200&height=400&coordinates=0%2C417%2C0%2C417"
     }
   ]
 }
