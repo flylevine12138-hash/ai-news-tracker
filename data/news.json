@@ -1,83 +1,402 @@
 {
-  "updateTime": "2026-06-15T23:51:28.157Z",
+  "updateTime": "2026-06-16T05:11:12.227Z",
   "total": 117,
   "news": [
     {
-      "title": "macOS 26.4 为何拦截部分终端命令？苹果解释背后安全触发机制",
-      "link": "https://www.ithome.com/0/964/616.htm",
-      "summary": "\nIT之家 6 月 16 日消息，苹果公司昨日（6 月 15 日）更新支持文档，解释称在 macOS 26.4 系统中，若用户不常用终端（Terminal），且命令来自网站、聊天智能体、消息或邮件应用，系统可能阻止粘贴。\n科技媒体 9to5Mac 指出，用户此前终端里粘贴命令后，系统会先给出安全警告，提示内容可能含有恶意代码。很多人只知道有这个拦截机制，但不清楚它的触发机制。\n在最新官方支持文档中...",
+      "title": "Google Workspace Promo Codes: 14% Off for June",
+      "link": "https://www.wired.com/story/google-workspace-promo-code/",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-16 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png"
+    },
+    {
+      "title": "NZXT Discount Codes: 50% Off in June 2026",
+      "link": "https://www.wired.com/story/nzxt-discount-code/",
+      "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-16 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png"
+    },
+    {
+      "title": "Birdfy Discount Codes: 15% Off Sitewide",
+      "link": "https://www.wired.com/story/birdfy-discount-code/",
+      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-16 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png"
+    },
+    {
+      "title": "Hungryroot Coupon Codes: 30% Off This June",
+      "link": "https://www.wired.com/story/hungryroot-promo-code/",
+      "summary": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-16 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png"
+    },
+    {
+      "title": "Medicube Coupon Code: 40% Off for June 2026",
+      "link": "https://www.wired.com/story/medicube-coupon-code/",
+      "summary": "Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-16 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png"
+    },
+    {
+      "title": "Booking.com Promo Codes: 20% Off | June 2026",
+      "link": "https://www.wired.com/story/booking-com-promo-code/",
+      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-16 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg"
+    },
+    {
+      "title": "Sportsman's Warehouse Promo Code: Save in June 2026",
+      "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+      "summary": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in June 2026....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-16 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png"
+    },
+    {
+      "title": "Foreo Discount Codes and Deals: Up to 50% Off",
+      "link": "https://www.wired.com/story/foreo-promo-code/",
+      "summary": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-16 05:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png"
+    },
+    {
+      "title": "Govee Discount Codes and Deals: 30% Off",
+      "link": "https://www.wired.com/story/govee-discount-code/",
+      "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-16 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg"
+    },
+    {
+      "title": "Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans",
+      "link": "https://www.wired.com/story/total-wireless-promo-code/",
+      "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-16 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg"
+    },
+    {
+      "title": "蓝色起源大爆炸背后：贝索斯不满落后 SpaceX，激进追赶付出代价",
+      "link": "https://www.ithome.com/0/964/754.htm",
+      "summary": "\n北京时间 6 月 19 日，英国《金融时报》周一发文称，蓝色起源创始人杰夫 · 贝索斯 (Jeff Bezos) 对于公司远远落后于 SpaceX 的现状感到恼火。于是，一向慢工出细活的蓝色起源开始加快缩小与 SpaceX 的差距，接着就发生了火箭大爆炸事故。这一事故以高昂的代价再次提醒人们：采取更加激进的发展策略是有风险的。\n\n蓝色起源的火箭爆炸场景5 月 29 日早上，当蓝色起源员工来到佛罗...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-06-15 23:07:51",
+      "pubDate": "2026-06-16 04:55:21",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "英伟达员工考公上岸引热议，黄仁勋曾称“尽力给员工支付尽可能高的薪水”",
+      "link": "https://www.ithome.com/0/964/753.htm",
+      "summary": "\nIT之家 6 月 16 日消息，根据“合肥先锋”公众号 6 月 14 日发布的《合肥市 2026 年度考试录用公务员拟录用人员名单公示（三）》，一位曾在英伟达半导体科技（上海）有限公司工作的男性“考公上岸”，入选拟录用人员名单。\n\n这一消息被发现后，引发了网络热议。多个财经、科技类大 V 账号转发并评论，“英伟达再牛，终点还是上岸”成为热门话题。网友感慨：“果然男人一过 35，不是财务自由，就是...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-16 04:43:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "830kW 功率 + 三电机四驱 + 差速锁，吉利银河战舰 700 核心技术参数公布",
+      "link": "https://www.ithome.com/0/964/751.htm",
+      "summary": "\nIT之家 6 月 16 日消息，吉利银河今日通过官方社交平台发布了旗下全新中大型 SUV—— 银河战舰 700 的核心技术参数与产品定位。这款被定义为“AI 全地形硬核 SUV”的新车，计划年内正式上市。\n\n\n\n官方称，银河战舰 700 拥有全球量产越野第一推重比、全球量产插混越野第一系统综合功率、全球量产插混唯一三电机四驱 + 差速锁。\n具体来看，银河战舰 700 搭载三电机四驱插电式混合动力...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-16 04:36:36",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "谷歌更新安卓开发最佳 AI 模型榜单：Gemini 3.5 Flash 成本最贵，约为 DeepSeek V4 Flash 的 17.5 倍",
+      "link": "https://www.ithome.com/0/964/750.htm",
+      "summary": "\nIT之家 6 月 16 日消息，谷歌昨日（6 月 15 日）更新其 Android Bench 榜单，自家 Gemini 3.5 Flash 模型成绩明显低于外界预期。\nIT之家注：Android Bench 是谷歌官方推出的安卓开发任务基准测试，用来评估不同 AI 模型在代码编写、问题解决与开发辅助方面的实际能力。\n该测试更贴近真实开发场景，专门衡量 AI 模型完成安卓开发任务的能力，因此对开...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-16 04:21:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "宁德时代曾毓群称 2030 年前固态电池百万级装车可能性很小，不能为了固态电池而固态电池",
+      "link": "https://www.ithome.com/0/964/749.htm",
+      "summary": "\nIT之家 6 月 16 日消息，据《财经》上周报道，宁德时代董事长曾毓群在接受采访时，谈到了固态电池的未来发展预测。\n曾毓群表示，目前大家都在说固态电池，到底什么是固态电池？只有电解质是全固态的电池叫固态电池。那什么叫全固态？常温常压下全固态。接下来为什么要做固态电池？不能为了固态电池而固态电池。\n曾毓群还认为，2030 年前固态电池百万级装车可能性很小。“达到百万级，车要足够便宜，这在性能跟成...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-16 04:21:21",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "阿里巴巴发布首个具身智能大模型 Qwen-Robot 系列，为机器人打造手、脚、大脑通用底座",
+      "link": "https://www.ithome.com/0/964/748.htm",
+      "summary": "\nIT之家 6 月 16 日消息，阿里巴巴发布千问具身智能大模型 Qwen-Robot 系列，包含 VLA 操作模型 Qwen-RobotManip、VLN 移动模型 Qwen-RobotNav 和世界模型 Qwen-RobotWorld 三大模型。\n\n这是千问大模型家族首个完整的具身智能模型系列 —— 三个模型分别为机器人装上灵巧的手、认路的脚和会思考的大脑，既可单独部署，也能协同运转，让不同形...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-16 04:21:21",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "丰田章男 2025 财年年薪 21.13 亿日元创新高，公司称仍偏低将继续上调",
+      "link": "https://www.ithome.com/0/964/747.htm",
+      "summary": "\nIT之家 6 月 16 日消息，丰田汽车公司董事长丰田章男在 2025 财年（2025 年 4 月至 2026 年 3 月）获得了董事薪酬 21.13 亿日元（IT之家注：现汇率约合 8927.4 万元人民币），该薪酬较上一财年上涨约 8%，创下丰田汽车历代高管薪酬最高纪录，丰田章男的年薪已连续三年刷新公司高管薪酬纪录。\n\n根据丰田汽车披露的证券报告书与年度申报文件，这份史上最高年薪，源于公司自...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-16 04:04:27",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "苹果 iOS 27 预览应用彩蛋：可交互放大镜带来趣味视觉反馈",
-      "link": "https://www.ithome.com/0/964/615.htm",
-      "summary": "\nIT之家 6 月 16 日消息，苹果去年推出液态玻璃全新设计风格时，还为 iPadOS 系统里的预览（Preview）应用加入了一个趣味互动彩蛋。如今，这项有趣的交互效果也登陆了 iOS 27 系统。\n\nIT之家注意到，苹果在 2001 年为 Mac 设备推出预览应用时，这款应用的图标设计是一枚放大镜下压着几张照片。\n多年来，该图标历经多次改版，在去年液态玻璃风格全面更新后，图标里的照片元素被移...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "技术圈的极客们都去哪了？",
+      "link": "https://www.oschina.net/news/459519",
+      "summary": "一位自称\"Mr. Market\"的科技行业内部人士发表了一篇长文，标题直白得近乎愤怒：\"What the Fuck Happened to Nerds\"（极客们都他妈怎么了）。文章试图解释一个令许多人不安的现象：为什么科技行业的公众形象，从乔布斯和沃兹尼亚克那种\"迷人的怪人\"，变成了如今满屏自恋狂和注意力掠食者。 文章将过去四十年的科技文化史分......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-06-15 23:04:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "招商银行推出“运通工程师信用卡”，新用户办卡提供“专属 AI 权益”单月可享 18 亿 Token M3 用量",
-      "link": "https://www.ithome.com/0/964/614.htm",
-      "summary": "\nIT之家 6 月 16 日消息，招商银行宣布推出一款“运通工程师信用卡”，强调相应信用卡拥有“专属 AI 权益”。\nIT之家参考官方介绍获悉，新用户办卡首次参与活动达标后，至高可享每月 18 亿 Token M3 用量，可直接用于文档、图像、音视频等多模态模型调用，以及 MaxClaw 龙虾部署等 AI 高频场景。具体来看，相应信用卡“AI 权益体系”提供三种方案可选：\n\n面向频繁使用 AI 工...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 22:59:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "巴西法院重罚苹果、微软、腾讯等公司，要求其整改游戏盲盒机制",
-      "link": "https://www.ithome.com/0/964/613.htm",
-      "summary": "\nIT之家 6 月 16 日消息，科技媒体 macmagazine 昨日（6 月 15 日）发布博文，报道称针对游戏“抽奖箱”争议，巴西联邦区法院近日认定苹果、谷歌及多家平台和游戏公司需合计赔偿 2.98 亿雷亚尔（约合 3.97 亿人民币）。\nIT之家注：抽奖箱（loot boxes），又称战利品盒 / 盲盒，是指游戏内一种付费随机奖励机制。玩家支付现金或虚拟货币后，开启箱子获得不确定道具、角色...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 22:56:56",
+      "pubDate": "2026-06-16 03:58:27",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "古尔曼：苹果有望推出 AI 智能体，让 Siri 自主操作 iPhone 和 Mac 软件",
-      "link": "https://www.ithome.com/0/964/612.htm",
-      "summary": "\nIT之家 6 月 16 日消息，彭博社记者马克 · 古尔曼认为，苹果最终可能推出一款产品，直接对标 OpenClaw—— 这是一套智能体 AI 系统，能够代用户自主操作各类软件。\n\n古尔曼在其专栏《Power On》中撰文表示，他预计苹果会研发一套系统，可全权代表用户操作 iPhone、iPad 与 Mac 端的各类软件。这一预测的依据，是苹果 Siri 工程主管迈克 · 罗克韦尔在上周苹果全球...",
+      "title": "火狐 Firefox 浏览器 152 稳定版发布：改版设置页面、增强媒体控制、实验性支持 JPEG XL",
+      "link": "https://www.ithome.com/0/964/746.htm",
+      "summary": "\nIT之家 6 月 16 日消息，Mozilla 昨日（6 月 15 日）更新推出火狐 Firefox 浏览器 152 稳定版，聚焦改版设置页面、增强媒体控制、实验性支持 JPEG XL 等。\n本次更新最值得关注的改进，就是 Mozilla 改版火狐 Firefox 浏览器设置页面，梳理采用更清晰的分组方式，以及更简洁的导航结构，让用户查找和调整功能时更顺手。\n内置拼写检查器进一步扩展语言支持，新...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-06-15 22:56:45",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果核心供应商罕见暗示：标准版 iPhone 18 将推迟至 2027 年初上市",
-      "link": "https://www.ithome.com/0/964/611.htm",
-      "summary": "\nIT之家 6 月 16 日消息，据苹果供应链合作厂商透露的消息，iPhone 18 标准版将于 2027 年初发布，该说法也印证了此前传闻。\n\nIT之家注意到，苹果智能手机历来遵循一年一更的发布节奏，全部最新旗舰 iPhone 系列均在秋季推出，时间通常为 9 月中旬。不过今年这一惯例或将被打破。\n多方消息称，基础款 iPhone 18 将推迟至 2027 年春季登场，今年仅会推出 iPhone...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 22:49:06",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "供应链透露苹果首款折叠屏手机 iPhone Fold 上市时间将延后至明年初",
-      "link": "https://www.ithome.com/0/964/610.htm",
-      "summary": "\nIT之家 6 月 16 日消息，此前业界均传闻苹果首款折叠屏手机 iPhone Fold 将会在今年秋季上市。不过来自苹果供应链的最新消息显示，这款产品的上市时间可能已经推迟至明年年初。\n综合台媒“经济日报”报道，苹果供应链企业大立光 CEO 林恩平已在股东会中悄悄透露“由于客户新品排程调整，今年第四季度的业务节奏将比往年更加繁忙，其中部分新品会在第三季度发布，而另一些则延后到明年初”。业界分析...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 22:46:16",
+      "pubDate": "2026-06-16 03:56:23",
       "category": "other",
       "thumbnail": ""
+    },
+    {
+      "title": "理光 GR 系列相机国行建议零售价将于 7 月 1 日上涨",
+      "link": "https://www.ithome.com/0/964/744.htm",
+      "summary": "\nIT之家 6 月 16 日消息，据理光相机中国“理光欣然君”公众号，由于原材料、制造、物流成本大幅攀升，理光 GR 系列相机 SRP 价格（建议零售价）将于 7 月 1 日起上涨。\n\n理光 GR IV：原价 8999 元，涨价后 9799 元\n理光 GR IV HDF：原价 9599 元，涨价后 10399 元\n理光 GR IV Monochrome：原价 12999 元，涨价后 13799 元...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-16 03:54:53",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "硅基流动完成新一轮超 20 亿元融资",
+      "link": "https://www.oschina.net/news/459505",
+      "summary": "硅基流动宣布已于近日完成超 20 亿元 B 轮融资。 本轮融资由携程战投、晶科能源控股、金蝶股份、联通新沃、盛奕资本（润泽集团产业资本）、壁仞战投、蔚来资本、商汤战投、巨人网络、国泰君安创新投、纪源资本、华登国际、华控基金、国开金融、中关村科学城等产业资本、顶级财务机构和国资联合投资，华兴资本担任独家财务......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-16 03:46:05",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "国产修仙挂机游戏《我的修仙日志》上架 Steam，定价 15 元",
+      "link": "https://www.ithome.com/0/964/741.htm",
+      "summary": "\nIT之家 6 月 16 日消息，国产独立修仙挂机游戏《我的修仙日志》（Cultivation Journal）现已上架 Steam 平台，由 GameRich 独立开发并发行，国区定价为 15 元，支持完整简体中文（界面、字幕、音频均支持）。\nIT之家附游戏商品页（https://store.steampowered.com/app/4748040/_Cultivation_Journal/）。...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-16 03:43:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "纳德拉长文警告 AI 垄断 —— 没有生态系统的前沿是不稳定的",
+      "link": "https://www.oschina.net/news/459491",
+      "summary": "微软 CEO 萨提亚·纳德拉（Satya Nadella）在 X 平台发布了一篇题为《没有生态系统的前沿是不稳定的》（A frontier without an ecosystem is not stable）的长文，迅速引爆全球科技圈。截至次日，这篇以 X Article 形式发布的长文浏览量突破 6100 万，转发超过 1 万——文章爆火背后，是纳德拉对 AI 时代的核心警告：如果......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-16 03:27:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Redisson 4.6.0 发布，官方推荐的 Redis 客户端",
+      "link": "https://www.oschina.net/news/459482/redisson-4-6-0-released",
+      "summary": "Redisson 4.6.0 现已发布，这是一个 Java 编写的 Redis 客户端，具备驻内存数据网格（In-Memory Data Grid）功能，并获得了 Redis 的官方推荐。 此版本更新内容如下： Feature 添加了 T-digest 对象 添加了 Top-k 对象 集成 Spring Boot 4.1.0 集成 Spring Data Redis 4.1.0 在RArray中新...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-16 03:22:37",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "CodingAgent 的原始森林困境：一张地图能解决什么？",
+      "link": "https://my.oschina.net/u/4939618/blog/19701490",
+      "summary": "在大型代码库的开发场景中，AI 编程助手（CodingAgent）面临的主要瓶颈并非代码理解能力，而是缺乏对代码库整体结构和关系的全局认知，导致其反复低效地 “重新摸索”。Graphify 通过构建代码知识图谱，为 AI 提供了结构化的 “导航地图”，将高成本的原始理解过程转化为一次性的基础设施构建。这种方法显著提升了 AI 的......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-16 03:11:18",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Wasp 用 TypeScript 重写全栈 spec 层，从自定义 DSL 到原生 TypeScript 的战略转身",
+      "link": "https://www.oschina.net/news/459470/wasp-typescript-spec",
+      "summary": "全栈 Web 框架 Wasp 发布了其第 12 次 Launch Week 的重头戏——TypeScript Spec。这是一次对框架核心架构的根本性改造：Wasp 抛弃了自研的领域特定语言（DSL），转而用纯 TypeScript 来实现其最具特色的\"spec\"层。Wasp 联合创始人兼 CTO Martin Sosic 在博客中坦言，这个决定源于一个关键认知——\"为 Web 开发发明新语言.....",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-16 03:10:25",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Inside the fight over Claude Mythos 5",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. A...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-16 03:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Anthropic 推出 Claude Corps，斥资 1.5 亿美元打造千人 AI 公益 fellowship",
+      "link": "https://www.oschina.net/news/459465/claude-corps",
+      "summary": "2026 年 6 月 11 日，Anthropic 宣布推出 Claude Corps——一项史无前例的国家级 AI 公益人才计划。公司将投入 1.5 亿美元初始资金，招募 1000 名处于职业生涯早期的年轻人，经过系统培训后派驻全美各地的非营利组织，全职工作一年，用 AI 技术帮助这些组织推进其社会使命。这不是一次性的捐赠或技术授权，而是一场结构化......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-16 02:57:16",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Spring AI 2.0.0 GA",
+      "link": "https://www.oschina.net/news/459463/spring-ai-2-0-0-ga",
+      "summary": "Spring AI 2.0.0 正式版本现已发布，一些更新亮点如下： Spring Boot 4 baseline Spring AI 2.0 的设计初衷是与 Spring Boot 4.0 / 4.1 和 Spring Framework 7.0 一起使用，但它带来的好处远不止升级依赖项版本和修复兼容性问题那么简单。 Jackson 3 从 Jackson 2 升级到 Jackson 3，JSO...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-16 02:52:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
+      "link": "https://www.qbitai.com/2026/06/435853.html",
+      "summary": "成为全球领先的通用人工智能科技公司...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-06-16 02:47:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": ":fire: Solon v4.0 正式发布，高考的回念",
+      "link": "https://www.oschina.net/news/459434/solon-4-0-released",
+      "summary": "前几天高考刚过，朋友圈里又是一年一度的\"晒准考证\"。看着那些十八岁的脸，我忽然想起，自己已经是 2001 年那一届的人了。 掐指一算，整整二十五年。 我们那会儿，高考还在七月。后来 2003 年才改到六月，所以\"黑色七月\"这个词，是属于我们这代人的专属记忆。七月的太阳是真的毒，教室房顶吊着的电扇吱呀吱呀地转，转出来......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-16 02:05:52",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "MiniMax M3 正式开源",
+      "link": "https://www.oschina.net/news/459431",
+      "summary": "稀宇科技 MiniMax 宣布已开源了 MiniMax M3 的模型权重，并同步发布了 MSA（MiniMax Sparse Attention）技术论文。MSA 的架构设计让 M3 在长上下文下的计算成本大幅降低，论文中完整披露了架构与工程实现细节。 公告称，M3 是 MiniMax 的原生多模态旗舰模型，总参数 428B，激活参数 23B；也是第一个从 Step 0 开始做多模......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-16 02:01:54",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
+      "link": "https://36kr.com/p/3855082873476102?f=rss",
+      "summary": "\n今日热点导览\n  \n国内品牌金饰价格普涨\n   小红书公布世界杯开赛数据\n   阿里巴巴达摩院退出旗下科技公司\n   罗马仕接连变更法定代表人\n   遇见小面创始人向“渝见小面”致歉\n  \nTOP3大新闻\n  针对多发食品安全问题，市场监管总局约谈山姆总部\n  记者15日了解到，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日，市场监管总局依法对沃尔玛（中国）投...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-15 23:56:18",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-15 23:51:44",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Key mission for Europe's commercial space enterprise scrubbed again",
+      "link": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+      "summary": "Isar Aerospace is not hurting for money, but it is sorely lacking in the currency of flight experience....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-15 23:40:38",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/spectrumroll-500x500.jpg"
+    },
+    {
+      "title": "【钛晨报】事关重点行业节能降碳改造，国家发展改革委等部门最新部署；SpaceX通过IPO筹集了约857亿美元；伊朗：伊美谅解备忘录部分条款15日就开始执行",
+      "link": "https://www.tmtpost.com/8029106.html",
+      "summary": "吉利启动\"芯青年计划\"，3-5亿元扶持AI及具身智能等项目；原“死了么”APP计划1000万出让5％股份，公司估值或达2亿元；英伟达计划通过发行高等级债券筹资至少200亿美元；山姆回应被市场监管总局约谈：全面优化食安管控和商品品控；香港首份五年规划展开公众咨询：拟加强与内地资本市场互联互通，扩大跨境投融资渠道；矿产资源新规施行，加强矿山“谁损毁 谁治理” 全链条监管；燧原科技科创板IPO获上市委会...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-15 23:20:00",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2024/07/20240718005349865.jpg"
     },
     {
       "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
@@ -91,17 +410,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
-      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
-      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-15 21:33:46",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a3066677da677701d8b62cd/master/pass/Andrew-Bosworth-Urges-Employees-Business-2235573265.jpg"
-    },
-    {
       "title": "Facebook’s new AI Mode search gets its info from public posts",
       "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
       "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" an...",
@@ -110,7 +418,7 @@
       "region": "us",
       "pubDate": "2026-06-15 21:15:08",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_7395.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Xbox is closing down Hellblade creator Ninja Theory",
@@ -121,7 +429,7 @@
       "region": "us",
       "pubDate": "2026-06-15 21:13:35",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/hellblade-ii-senuas-sacrifice.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Heart protection from COVID shots remains amid updates, study finds",
@@ -133,17 +441,6 @@
       "pubDate": "2026-06-15 21:04:26",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1232060072-500x500.jpeg"
-    },
-    {
-      "title": "The 15 Best Fans to Buy Before It Gets Hot Again (2026)",
-      "link": "https://www.wired.com/story/the-best-fans-2026/",
-      "summary": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-15 20:46:39",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a0dd6dc9ba3e3dc9d0ced2f/master/pass/Update%20The%20Best%20Fans%20to%20Buy%20Before%20It%20Gets%20Hot%20Again%20top%20art%20052026%20SOURCE%20Amazon-Sylvane.jpg"
     },
     {
       "title": "UK to ban social media for kids under 16, may impose overnight curfews",
@@ -165,18 +462,7 @@
       "region": "us",
       "pubDate": "2026-06-15 20:04:29",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "TCL A65K Soundbar Review: Small Size, Big Sound",
-      "link": "https://www.wired.com/review/tcl-a65k-soundbar/",
-      "summary": "Don’t be fooled by the compact size of this soundbar. It’s a solid option for smaller TVs or spaces without having to sacrifice sound quality....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-15 19:57:40",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a2ce58328febf5cbfc450c4/master/pass/Review--TCL-A65K-Soundbar.jpg"
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_3.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
@@ -198,7 +484,7 @@
       "region": "us",
       "pubDate": "2026-06-15 19:33:28",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23019741/jtuohy_211116_4885_0013.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
@@ -231,7 +517,7 @@
       "region": "us",
       "pubDate": "2026-06-15 19:04:53",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
@@ -264,7 +550,7 @@
       "region": "us",
       "pubDate": "2026-06-15 18:39:37",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_4.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
@@ -308,7 +594,7 @@
       "region": "us",
       "pubDate": "2026-06-15 18:10:27",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Google Chrome is closing the loopholes that let old ad blockers keep working",
@@ -319,7 +605,7 @@
       "region": "us",
       "pubDate": "2026-06-15 18:06:18",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418648/STK114_Google_Chrome_03.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Engineering Is Critical to Boosting Food Security",
@@ -330,7 +616,7 @@
       "region": "us",
       "pubDate": "2026-06-15 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-drone-being-used-to-collect-crop-data-on-a-wheat-farm.jpg?id=66888131&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-drone-being-used-to-collect-crop-data-on-a-wheat-farm.jpg?id=66888131&width=1200&height=400&coordinates=0%2C729%2C0%2C730"
     },
     {
       "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
@@ -352,7 +638,7 @@
       "region": "us",
       "pubDate": "2026-06-15 17:44:10",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2163958194.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "These are the countries moving to ban social media for children",
@@ -374,50 +660,6 @@
       "region": "us",
       "pubDate": "2026-06-15 17:19:28",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 visionOS 26.6 开发者预览版 Beta 2 发布",
-      "link": "https://www.ithome.com/0/964/608.htm",
-      "summary": "\nIT之家 6 月 16 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6 开发者预览版 Beta 2 更新（内部版本号：23O5743c），本次更新距离上次发布 Beta / RC 间隔 20 天。\n\n本次预览版预计以 Bug 修复为主，不过苹果尚未公布具体细节。\n需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 17:16:10",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 watchOS 26.6 开发者预览版 Beta 2 发布",
-      "link": "https://www.ithome.com/0/964/609.htm",
-      "summary": "\n【点此直达升级教程】\nIT之家 6 月 16 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.6 开发者预览版 Beta 2 更新（内部版本号：23U5040d），本次更新距离上次发布 Beta / RC 间隔 20 天。\n\n本次更新主要修复了 HealthKit、StoreKit 存在的 Bug：\n\n修复了 HealthKit 此前在请求 HKQuantityTy...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 17:16:10",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 macOS 26.6 开发者预览版 Beta 2 发布：弃用加密版 HFS+",
-      "link": "https://www.ithome.com/0/964/607.htm",
-      "summary": "\nIT之家 6 月 16 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6 开发者预览版 Beta 2 更新（内部版本号：25G5043d），本次更新距离上次发布 Beta / RC 间隔 20 天。\n\n苹果公司目前的开发重心已经偏向 macOS 27 系统，IT之家查询苹果公司官方更新日志，主要有以下内容：\n\n弃用 Encrypted HFS+ (CoreStorage) ，后续...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-15 17:16:09",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Xbox turmoil continues with a studio closure and executive departures",
-      "link": "https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure",
-      "summary": "Last week, Xbox boss Asha Sharma sent a memo warning of an Xbox \"reset\" ahead of expected layoffs, and today, Kotaku reported that Xbox plans to shut down Compulsion Games, the studio behind South of ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-15 17:08:35",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -495,7 +737,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 14:46:15",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/95f1ec27a3e34e0c2e75af89e4dfc9d9_1781534775.png"
     },
     {
       "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
@@ -539,7 +781,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 14:30:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.asiafin.net/uploads/cover_image/2026/06/15/1781532440_d1890fbfaa76da5ea3fe.png"
     },
     {
       "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
@@ -553,17 +795,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Russia appears set to finally address long-term, serious space station cracks",
-      "link": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
-      "summary": "This has been a persistent, behind-the-scenes dispute between NASA and Roscosmos....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-15 13:54:02",
-      "category": "space",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-71395189-500x500.jpg"
-    },
-    {
       "title": "受SpaceX和频谱出售预期提振，卫星股大涨，但窗口期已所剩无几",
       "link": "https://www.tmtpost.com/8029130.html",
       "summary": "ViaSat 和 Iridium 的股价大幅上涨，原因是市场预期它们能够出售手中宝贵的频谱资源，但时间已经不多了。...",
@@ -572,7 +803,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 13:53:39",
       "category": "space",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/23r4grhtngh3.png"
     },
     {
       "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
@@ -597,17 +828,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Fox to acquire Roku in $22B deal",
-      "link": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
-      "summary": "Fox says the deal will create the third-largest television company in the United States....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-15 13:43:05",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "伯灵顿百货势头正劲，这只股票仍值得关注",
       "link": "https://www.tmtpost.com/8029112.html",
       "summary": "自从Barron's去年推荐以来，这些股票已经上涨了25%。...",
@@ -616,7 +836,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 13:31:41",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r2thrhrgr3.png"
     },
     {
       "title": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
@@ -627,7 +847,7 @@
       "region": "us",
       "pubDate": "2026-06-15 13:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-man-and-a-woman-wearing-dressy-winter-coats-watch-a-crew-of-informally-dressed-men-working-on-the-construction-of-a-wind-turbi.jpg?id=66894045&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-man-and-a-woman-wearing-dressy-winter-coats-watch-a-crew-of-informally-dressed-men-working-on-the-construction-of-a-wind-turbi.jpg?id=66894045&width=1200&height=400&coordinates=0%2C292%2C0%2C292"
     },
     {
       "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
@@ -649,7 +869,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 12:56:46",
       "category": "space",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/25y46ujyhrtgr3.png"
     },
     {
       "title": "均普智能联合博登、上海交大正式发布全球首个面向真实机器人强化学习大规模数据集",
@@ -660,7 +880,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 12:55:31",
       "category": "robot",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/53465uytj3.png"
     },
     {
       "title": "The Download: cutting AC emissions, and nature’s drug designer",
@@ -682,29 +902,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 11:44:52",
       "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "curl 项目即将开启“幸福之夏”，创始人宣布 7 月停止接受漏洞报告",
-      "link": "https://www.oschina.net/news/459181",
-      "summary": "开源世界最核心的基础设施之一——curl 项目，其创始人兼首席维护者 Daniel Stenberg 今日宣布了一项不同寻常的决定：curl 项目将在整个 2026 年 7 月暂停接受漏洞报告，这段时间被命名为\"curl summer of bliss\"（curl 幸福之夏）。这不是玩笑，也不是对安全的不重视，而是一个被持续高压压垮的开源维护者发出的求助信号......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-15 11:29:53",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side",
-      "link": "https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/",
-      "summary": "Both kratom and one of its active components, 7-OH, have opioid-like effects and are widely available across the US. As health secretary RFK Jr. aims to get 7-OH banned, proponents of both are fightin...",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-15 11:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a10cc7d3d1b27e4fef2c9fb/master/pass/Kratom-Civil-War-Culture.jpg"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/c8ecfc78cee3da9c4c1aeb901a00389b_1781523894.png"
     },
     {
       "title": "【Fintech 周报】大额存单个人认购起点拟降至20万元；今年以来不良贷款挂牌规模近1600亿元",
@@ -715,18 +913,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 10:48:19",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer",
-      "link": "https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/",
-      "summary": "Even the aging iPhone 11 will feel a little more responsive soon, thanks to improvements in an unsung iOS feature....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-15 10:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a2aabf0a0ec339aba978ccf/master/pass/GettyImages-1209226885.jpg"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/8215e9c0342133ee0c5d9f82290dcf88_1781520505.jpg"
     },
     {
       "title": "80岁斯皮尔伯格第四次拍“外星人”，本人表态：外星人此刻就在地球上",
@@ -737,51 +924,7 @@
       "region": "cn",
       "pubDate": "2026-06-15 10:20:54",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "这届年轻人，开始向AI「问路」",
-      "link": "https://www.tmtpost.com/8025430.html",
-      "summary": "志愿填报本质上是对\"未知自我\"的探索，AI的推荐逻辑基于\"已知数据\"的匹配。但对于大多数18岁的年轻人来说，“我是谁”恰恰是在选择的过程中才被逐渐发现的。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-15 10:20:49",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "1 in 4 World Cup Matches Could Be Played in Dangerous Temperatures",
-      "link": "https://www.wired.com/story/2026-fifa-world-cup-dangerous-temperatures-heat/",
-      "summary": "A new report warns that Miami, Kansas City, Philadelphia, Dallas, and Houston could be particularly hot places to play during the 2026 World Cup....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-15 10:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a1078ed02c28758df602b9a/master/pass/ronaldo.jpg"
-    },
-    {
-      "title": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With ‘MAGA Propaganda’",
-      "link": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
-      "summary": "In recent months hackers have attempted to extort money from porn stars with big followings, in some cases filling their feeds with pro-MAGA and crypto content....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-15 10:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a29a7a02480ab4d39175a64/master/pass/Culture_GayOnlyFansCreatorsAreGettingTargetedByPro-MAGAScammers_v1.jpg"
-    },
-    {
-      "title": "红帽发布 RHEL 10.2 RISC-V 第二个开发者预览版，迈出正式支持关键一步",
-      "link": "https://www.oschina.net/news/459121",
-      "summary": "Red Hat 近日发布了 Red Hat Enterprise Linux 10.2 for RISC-V 的开发者预览版（Developer Preview）。这是继去年 RHEL 10.0 首次提供 RISC-V 开发者预览之后的第二次公开快照，距离初版发布已经过去了 13 个月。对于关注 RISC-V 生态发展的用户来说，这次更新不仅是技术层面的增量改进，更是一个明确的信号：Red Hat...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-15 09:48:05",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/974781480a3fe250f2cc7f4a8f739d1c_1781518860.jpg"
     },
     {
       "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
@@ -792,17 +935,6 @@
       "region": "cn",
       "pubDate": "2026-06-15 09:46:34",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "C++ Web 框架 Paozhu 1.11.0发布",
-      "link": "https://www.oschina.net/news/459120",
-      "summary": "C++ Web框架 Paozhu1.11.0发布，这次大量API更新，特别是ORM，删了很多API，新增API使用模板编程重新写，提高性能。 该用业务代码驱动模式开发程序，而不是预先植好模式，充分利用了C++ 编译期优势。 \r\n新增ORM \r\nget_cols&lt;id,name&gt;    输出map键值对方式，业务做横切很有用\r\nget_cols_vec&lt;id,name&gt;   ...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-15 09:45:58",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -817,17 +949,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The US Government Is Letting a Key Data Center Regulation Expire",
-      "link": "https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/",
-      "summary": "The federal government is planning to let a rule regulating federal data center operations sunset in September with no replacement....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-15 09:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a0f46394bf37a26f8d51c88/master/pass/Trump-Administration-Plans-to-Let-Key-Oversight-Rules-for-Data-Centers-Expire-Politics-2274824987.jpg"
-    },
-    {
       "title": "宇树机器人要登珠峰了！",
       "link": "https://www.qbitai.com/2026/06/435817.html",
       "summary": "已登顶钦博拉索...",
@@ -837,39 +958,6 @@
       "pubDate": "2026-06-15 09:17:30",
       "category": "robot",
       "thumbnail": ""
-    },
-    {
-      "title": "Vibe Coder 和软件工程师是两种人",
-      "link": "https://www.oschina.net/news/459086",
-      "summary": "Yusuf Aytas 近日发表一篇题为 \"Vibe Coder vs Software Engineer\" 的文章在开发者社区迅速传播。Aytas 此前曾写过 Java 开发者与软件工程师的区别，这次他把分析框架应用到了 AI 辅助编程这个当前最热也最混乱的话题上。文章用六组核心差异定义了两类用 AI 写代码的人，但全文的根本判断只有一个：AI 改变的是代码生成的......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-15 09:12:09",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The UK Places a Sweeping Ban on Social Media for Kids Under 16",
-      "link": "https://www.wired.com/story/uk-social-media-under-16-ban/",
-      "summary": "The UK government is introducing a ban on social media for children and a minimum age for some chatbots in an attempt to shield young people from dangerous corners of the web....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-15 09:01:53",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a2eafa954889dc704dfed38/master/pass/2280926802"
-    },
-    {
-      "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
-      "link": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
-      "summary": "Rank One, whose board includes a former CIA deputy director and a former FBI science chief, supplied face recognition to Meta for internal development of its smart glasses app....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-15 09:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a2a0a5069d7cd90279b88e1/master/pass/security_meta_glasses_pentagon.jpg"
     },
     {
       "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
@@ -883,61 +971,6 @@
       "thumbnail": ""
     },
     {
-      "title": "开源免费首发！首款真正的 AI 大屏诞生 JimuBI，一句话生成炫酷大屏",
-      "link": "https://www.oschina.net/news/459010",
-      "summary": "真正的 AI 大屏来了！ 一句话生成大屏，一句话添加组件，一句话改配置。先对话讨论方案，再一键应用修改 —— 全流程自然语言驱动。 在线体验：https://jimureport.com/login，登录即可体验 AI 生成大屏、AI 生成组件、AI 修改大屏等全部功能。 为什么数据大屏开发需要 AI？ 做过数据大屏的人都知道，最耗时的从来不是 ......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-15 07:50:01",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Windows 应用兼容引擎 V3.6.1 上线：优化双击 .exe 安装，提升运行成功率",
-      "link": "https://www.oschina.net/news/459004",
-      "summary": "作为在 DistroWatch 全球排名中表现突出、广受全球用户认可 的开源操作系统，deepin 在持续打磨优质原生应用、深耕自研生态的同时，也充分考虑到当前 Linux 桌面生态仍不够完善、部分常用 Windows 软件缺失 的实际情况。为此我们深度打造并搭载 Windows 应用兼容引擎，有效补齐生态短板，让用户无需切换系统，即可流畅运......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-15 07:34:50",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "强强联合！deepin X FlagOS 完成深度适配，共筑国产算力新底座",
-      "link": "https://www.oschina.net/news/459000",
-      "summary": "如何让前沿的 AI 大模型、科学计算能力无缝跑在国产操作系统上？如何破解异构芯片软件栈之间“生态隔离”的行业痛点？ 近日，deepin 社区与众智 FlagOS 团队已展开深度技术攻坚，并取得了阶段性的适配成果！ 双方将基于开源共建理念，打通 “系统 - 算力 - 模型” 协同链路，为国产异构算力应用与 AI 生态落地提供稳定、......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-15 07:32:50",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Linus Torvalds 发布 Linux 7.1，一次跨时区的常规升级",
-      "link": "https://www.oschina.net/news/458999",
-      "summary": "Linux 内核稳定版 7.1 于 2026 年 6 月 14 日正式发布。Linus Torvalds 在发布邮件中写道：\"在我家那边还是周日上午，但在我此刻所在的地方已经是周日下午了，所以我在常规时间做了 7.1 的发布——只不过不在常规时区。\"他同时提醒社区，接下来几天的合并窗口响应\"可能会有些随机\"，因为他将经历几段没有网络的长途飞行。......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-15 07:31:52",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fable 5 被禁当晚，智谱宣布 GLM-5.2 完全开源：“前沿智能属于每一个人”",
-      "link": "https://www.oschina.net/news/458995",
-      "summary": "6 月 13 日下午 1 点 13 分（北京时间），智谱 AI CEO 唐杰在 X 平台发布了一份措辞不同寻常的声明，宣布 GLM-5.2 模型\"完全开放\"——正式开放时间被设在了美国东部时间下午 5 点 21 分——这个时间点的含义极为精确。就在 24 小时前，美国政府恰好在 6 月 12 日下午 5 点 21 分发出出口管制指令，暂停了 Anthropic Fabl......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-15 07:27:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Attackers scale deception with AI. Defenders need truth at machine speed.",
       "link": "https://venturebeat.com/security/attackers-scale-deception-with-ai-defenders-need-truth-at-machine-speed",
       "summary": "\nPresented by Splunk\n\nAI has changed the economics of cyber deception.\nAn attacker can now generate thousands of convincing phishing lures, fake identities, and tailored pretexts before a defender fin...",
@@ -945,17 +978,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-06-15 07:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "🎉重大更新！NocoBase 2.1 正式版发布",
-      "link": "https://www.oschina.net/news/458978",
-      "summary": "原文链接：https://www.nocobase.com/cn/blog/2.1.0 NocoBase 2.1 是对 AI 能力、多应用以及 2.0 版本适配 的一次重要升级。我们推出了 NocoBase CLI，方便人和 AI Agent 连接和管理 NocoBase 应用。从创建应用、AI 搭建、AI 员工能力增强、到 AI 开发插件等，覆盖了环境接入、系统搭建和业务协作的完整流程。另外，我...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-15 06:57:43",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1092,7 +1114,7 @@
       "thumbnail": ""
     },
     {
-      "title": "高瓴出手了一���消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
       "link": "https://36kr.com/p/3851572421432324?f=rss",
       "summary": "\n作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。\n  SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入...",
       "source": "36氪",
@@ -1100,17 +1122,6 @@
       "region": "cn",
       "pubDate": "2026-06-14 01:30:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
-      "link": "https://www.qbitai.com/2026/06/435483.html",
-      "summary": "模型参数量只有1B...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-13 12:40:30",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -1125,17 +1136,6 @@
       "thumbnail": ""
     },
     {
-      "title": "曼联，要被卖了",
-      "link": "https://36kr.com/p/3851350342325504?f=rss",
-      "summary": "\n\n  图片来源：视觉中国\n  作者/余梦莹\n  报道/投资界PEdaily\n  史上最盛大世界杯正在上演。\n  48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。\n  赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息，掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。\n  绰号“红魔...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-13 08:37:21",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
       "link": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
       "summary": "\nYen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. ...",
@@ -1144,7 +1144,7 @@
       "region": "us",
       "pubDate": "2026-06-12 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042"
     },
     {
       "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
@@ -1199,7 +1199,7 @@
       "region": "us",
       "pubDate": "2026-06-11 13:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1245&height=700&coordinates=0%2C95%2C0%2C96"
+      "thumbnail": "https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1200&height=400&coordinates=0%2C325%2C0%2C325"
     },
     {
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
@@ -1243,7 +1243,7 @@
       "region": "us",
       "pubDate": "2026-06-10 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/four-men-tinkering-with-iot-parts-on-an-outdoor-table.jpg?id=66858524&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
+      "thumbnail": "https://spectrum.ieee.org/media-library/four-men-tinkering-with-iot-parts-on-an-outdoor-table.jpg?id=66858524&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042"
     },
     {
       "title": "We Are Crowdsourcing the Panopticon",
@@ -1254,7 +1254,7 @@
       "region": "us",
       "pubDate": "2026-06-10 13:00:00",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-a-phone-with-an-eye-on-it-and-several-rings-of-snake-ouroboros.jpg?id=66820296&width=1245&height=700&coordinates=0%2C313%2C0%2C313"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-a-phone-with-an-eye-on-it-and-several-rings-of-snake-ouroboros.jpg?id=66820296&width=1200&height=400&coordinates=0%2C886%2C0%2C886"
     },
     {
       "title": "What Size Company Is Right for You?",
@@ -1265,7 +1265,7 @@
       "region": "us",
       "pubDate": "2026-06-09 18:41:14",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=400&coordinates=0%2C250%2C0%2C250"
     },
     {
       "title": "The Pros and Cons of Job Hopping as an Engineer",
@@ -1276,7 +1276,7 @@
       "region": "us",
       "pubDate": "2026-06-09 18:25:12",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=400&coordinates=0%2C250%2C0%2C250"
     },
     {
       "title": "The Computer Science Degree Isn’t Dead",
@@ -1287,7 +1287,7 @@
       "region": "us",
       "pubDate": "2026-06-09 18:02:32",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=400&coordinates=0%2C250%2C0%2C250"
     }
   ]
 }
