@@ -1,7 +1,84 @@
 {
-  "updateTime": "2026-06-17T20:22:51.979Z",
+  "updateTime": "2026-06-17T22:47:56.900Z",
   "total": 117,
   "news": [
+    {
+      "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
+      "link": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
+      "summary": "\nBuilding a context layer between enterprise data stores and AI agents is bespoke work, with no standard service to automate or maintain the graphs over time. Amazon is making a direct play to change ...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-17 22:10:38",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tim Cook says RAM expenses are ‘unsustainable’ and Apple is going to raise prices",
+      "link": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
+      "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoidable:\" We're doing our b...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-17 21:42:21",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257981_Techwoven_AJohnson_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+      "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+      "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-17 21:30:50",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
+      "link": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
+      "summary": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-17 20:44:32",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Libra-internals44-copy-500x500.jpeg"
+    },
+    {
+      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
+      "link": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
+      "summary": "VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style m...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-17 20:43:28",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VSCO-Studio-Pro-Hero-Visual.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Roelof Botha joins SpaceX’s board of directors",
+      "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-17 20:32:52",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+      "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-17 20:24:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
       "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
@@ -12,6 +89,28 @@
       "pubDate": "2026-06-17 20:17:38",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "California says AT&amp;T lied to FCC in attempt to shut off old phone network",
+      "link": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
+      "summary": "FCC considers AT&amp;T petitions to preempt state rules and discontinue phone service....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-17 20:07:40",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/woman-dialing-phone-500x500.jpg"
+    },
+    {
+      "title": "Massive breach spills credentials for thousands of sensitive networks",
+      "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-17 19:54:31",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg"
     },
     {
       "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
@@ -25,9 +124,20 @@
       "thumbnail": ""
     },
     {
-      "title": "AI coding agents can autonomously direct robot training",
+      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+      "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-17 19:43:13",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-500x500.jpg"
+    },
+    {
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
       "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "summary": "NVIDIA’s self-improvement program for robots enlists teams of AI coding agents....",
+      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents....",
       "source": "Ars Technica",
       "sourceKey": "arstechnica",
       "region": "us",
@@ -44,7 +154,7 @@
       "region": "us",
       "pubDate": "2026-06-17 19:09:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/fortnite-anti-cheat-update.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
@@ -88,7 +198,7 @@
       "region": "us",
       "pubDate": "2026-06-17 18:28:50",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
@@ -179,17 +289,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Mastodon looks to newsletters to help revive the open social web",
-      "link": "https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web/",
-      "summary": "Mastodon’s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-17 17:38:01",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Two-thirds of Americans think AI is advancing too quickly",
       "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
       "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has ...",
@@ -198,18 +297,7 @@
       "region": "us",
       "pubDate": "2026-06-17 17:20:24",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-      "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-17 17:00:01",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
@@ -223,17 +311,6 @@
       "thumbnail": "https://media.wired.com/photos/6a31d49a95ac419546b42eb7/master/pass/politics_white_house_anthropic.jpg"
     },
     {
-      "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
-      "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
-      "summary": "Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations,...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-17 16:54:48",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
       "link": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
       "summary": "We’re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon’s own devices. Several Echo speakers have dropped to new low prices, incl...",
@@ -242,7 +319,7 @@
       "region": "us",
       "pubDate": "2026-06-17 16:47:43",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0011.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Vibe-decoding the White House-Anthropic fight over Fable",
@@ -253,7 +330,7 @@
       "region": "us",
       "pubDate": "2026-06-17 16:27:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282033342.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
@@ -264,7 +341,7 @@
       "region": "us",
       "pubDate": "2026-06-17 16:13:34",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/image-3-1.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Behind the Scenes of a Technical Interview",
@@ -319,7 +396,7 @@
       "region": "us",
       "pubDate": "2026-06-17 15:45:36",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gta-v-screenshot.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "智己 LS8 上市后选装包从 9800 元变免费，超 200 位车主联名维权",
@@ -341,7 +418,7 @@
       "region": "us",
       "pubDate": "2026-06-17 15:34:29",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sandisk1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "3950mAh，Ayaneo Pocket MICRO 2 掌机电池容量公布",
@@ -432,28 +509,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Paramount Plus is two dollars for two months of ad-free viewing",
-      "link": "https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale",
-      "summary": "Paramount Plus is offering new and former subscribers a discounted rate until June 25th, 2026. You’ll pay 99 cents per month for the first two months, with the Premium plan automatically renewing for ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 14:30:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "In a big year for horror, Widow’s Bay still stands apart",
-      "link": "https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror",
-      "summary": "Horror is having a moment. In 2026, the genre is especially well-represented: new blood is dominating the box office through films like Backrooms and Obsession, established names like Sam Raimi and Da...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 14:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "3199 → 1980 元国补新低：小米米家智能净烟机 Pro 无油网免拆洗",
       "link": "https://www.ithome.com/0/965/680.htm",
       "summary": "\n【京东活动可能随时变更，需以实付款为准】\n小米米家智能净烟机 Pro 开售于 2025 年 9 月，官方定价 3199 元。\n京东 618 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1980.69 元：\n\n领 8.7 折券：点此查看\n加入购物车时选择“以旧换新”补贴 50 元\n京东直播间下单再返 100 元京豆：点此查看（搜“967”号）\n\n京东小米 米家智能净烟机 ProMJ04C ...",
@@ -484,7 +539,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 13:45:35",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/2d2e773c2478227352c6f48a38739094_1781703941.png"
+      "thumbnail": ""
     },
     {
       "title": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
@@ -517,7 +572,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 12:38:48",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/6040da6b946aee6f78b82c5a59da7b3e_1781699931.png"
+      "thumbnail": ""
     },
     {
       "title": "AI转型最大的门槛，不是技术，是人",
@@ -561,7 +616,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 12:16:13",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/4108481941aeee840812f88a32ac8610_1781698573.jpg"
+      "thumbnail": ""
     },
     {
       "title": "The Download: a reality check for geoengineering and the science of interoception",
@@ -594,7 +649,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 12:08:03",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/ty5465ejyt3.png"
+      "thumbnail": ""
     },
     {
       "title": "The Best Robot Lawn Mowers (2026): TerraMow, Mammotion",
@@ -606,17 +661,6 @@
       "pubDate": "2026-06-17 12:03:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a3221464e63d441b28e3620/master/pass/The-Best-Robot-Lawn-Mowers.jpg"
-    },
-    {
-      "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
-      "link": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
-      "summary": "The bigger battery is standard and there are now simulated \"E-Shifts.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-17 12:00:45",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/m10-500x500.jpg"
     },
     {
       "title": "CVS Is Switching to Aluminum Pill Bottles",
@@ -639,17 +683,6 @@
       "pubDate": "2026-06-17 11:30:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/69be039cf062c9cdcba42e33/master/pass/macbook-air-m5-03.JPG"
-    },
-    {
-      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
-      "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
-      "summary": "What you need to know about the expiration of keys securing your machine's boot sequence....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-17 11:15:17",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/computer-power-button-500x500.jpg"
     },
     {
       "title": "本地模型终于好用了？一位资深开发者的本地 AI 编程实测报告",
@@ -704,7 +737,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 10:40:40",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/6475990276d5e0fa9a65f997db81d6aa_1781692864.png"
+      "thumbnail": ""
     },
     {
       "title": "West Antarctica Is Missing Way Too Much Ice",
@@ -737,7 +770,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 10:25:55",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/49563aa86ca4fa01e5b9775f5e6a1f1d_1781691960.jpg"
+      "thumbnail": ""
     },
     {
       "title": "大厂入局，宠物托运的“草莽时代”结束了吗？",
@@ -748,7 +781,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 10:24:50",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/6e049d42d1ff8fdf31418d3fcceddbf0_1781691893.webp"
+      "thumbnail": ""
     },
     {
       "title": "闯关“第一股”：仙工智能雄心与市场耐心谁先让步？",
@@ -759,7 +792,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 10:24:29",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/52866de4b6ccda59f1545e1af92bd3f0_1781691874.jpg"
+      "thumbnail": ""
     },
     {
       "title": "支付宝回应“阿宝”邀请码交易：从未授权付费售卖",
@@ -781,7 +814,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 10:23:48",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/e4be0ffc7a0e92e129a9721bf6df04ee_1781691832.png"
+      "thumbnail": ""
     },
     {
       "title": "一瓶“特供酒”：包装比酒贵，幻觉比包装贵",
@@ -792,7 +825,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 10:23:02",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35y4hrtg3.png"
+      "thumbnail": ""
     },
     {
       "title": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
@@ -825,7 +858,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 10:02:07",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260617/v2_3631834820eb4c9db708ea939f50ba24@6108898_oswg450945oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "京东发布智能体自主支付协议 A2P2 协议",
@@ -902,7 +935,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 08:36:26",
       "category": "robot",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260617/v2_a9fe62bf8656421d9cd8787f1c6cf4dc@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "困住医疗AI的死循环，终于有国产玩家跑通了",
@@ -935,7 +968,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 07:41:18",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260617/v2_665ad6406dd74b60890756438d1cbfe8@5895246_oswg210388oswg1080oswg1977_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Cursor 发布 Origin：面向 Agent 打造的代码托管平台、对标传统 Git 产品",
@@ -957,7 +990,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 07:12:01",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260611/v2_3c4f42df68384a48ba5c562598f8e85a@5385021_oswg735202oswg1294oswg1344_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "GrapheneOS 宣布完成 Android 17 移植，正式版即将发布",
@@ -1023,7 +1056,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 06:14:08",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260617/v2_86cd86b063d2469caef1d3d812a8c7c6@1199336245_oswg53536oswg1080oswg337_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "36氪首发 | 中科大博士做量子赛道“卖水人”，连续融资两轮",
@@ -1034,7 +1067,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 04:14:27",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260617/v2_41b07bc066d64cd6981d7910273442b8@6221844_oswg114763oswg1080oswg576_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月",
@@ -1045,7 +1078,7 @@
       "region": "cn",
       "pubDate": "2026-06-17 01:00:00",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260616/v2_5ac919906acb4d04b0f36f5a9bb075a1@10269314_oswg444986oswg1265oswg717_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Why Weibo’s tiny VibeThinker-3B has the AI world arguing over benchmarks again",
@@ -1068,28 +1101,6 @@
       "pubDate": "2026-06-17 00:22:06",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-      "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-16 22:22:44",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-500x500.jpg"
-    },
-    {
-      "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
-      "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
-      "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-16 22:11:15",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1166474639-500x500.jpg"
     },
     {
       "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
@@ -1165,17 +1176,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-06-15 19:49:14",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
-      "link": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
-      "summary": "\nTokyo-based AI startup Sakana AI has officially launched its first commercial product, Sakana Marlin. \nBilled as a \"Virtual CSO\" (Chief Strategy Officer), Marlin is an autonomous, B2B research agent ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-15 19:30:07",
       "category": "ai",
       "thumbnail": ""
     },
