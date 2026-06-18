@@ -1,7 +1,524 @@
 {
-  "updateTime": "2026-06-18T11:14:25.192Z",
+  "updateTime": "2026-06-18T15:41:14.876Z",
   "total": 117,
   "news": [
+    {
+      "title": "No more lightbulbs, much more sports: Five predictions for Roku’s future",
+      "link": "https://www.theverge.com/column/951850/fox-roku-predictions",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Fox announced its acquisition ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-18 15:30:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "summary": "General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-18 15:20:37",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight ",
+      "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-18 15:13:21",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Silicon Valley’s Elite Financial Advisers Say This Era of Wealth Is Different",
+      "link": "https://www.wired.com/story/silicon-valleys-elite-financial-advisers-say-this-era-of-wealth-is-different/",
+      "summary": "The rich are getting richer. Here’s what wealth advisers are telling their tech clients right now....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-18 15:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a3321d3a76d92fcd709db6c/master/pass/Backchannel-Top-Art_SB.jpg"
+    },
+    {
+      "title": "铭瑄公布 MCIO 接口 ITX 主板方案，展示高密度接口优势",
+      "link": "https://www.ithome.com/0/966/270.htm",
+      "summary": "\nIT之家 6 月 18 日消息，MCIO 全称 Mini Cool Edge I/O，是一种由 SFF-TA-1016 规范定义的连接器。其支持 PCIe Gen5 与未来 Gen6 世代，单一接口链路宽度可达 ×8，相较标准 PCIe 插槽实现具有高密度、布线灵活、原生支持线材转接等优势。\n铭瑄 (MAXSUN) 今日公布了其与英特尔合作推动 MCIO 生态发展的成果：MS-Challenge...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-18 14:46:48",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/dc9c0678-5c8c-4c2b-a844-025bd011d4ac.jpg"
+    },
+    {
+      "title": "盖洛普最新研究：不经常使用 AI 的员工更容易成为被裁员对象",
+      "link": "https://www.ithome.com/0/966/269.htm",
+      "summary": "\nIT之家 6 月 18 日消息，据彭博社 18 日（今天）报道，盖洛普最新研究显示，AI 给科技从业者带来的可能不只是效率提升，经常使用 AI 的员工，被裁员的风险也明显更低。\nIT之家从数据中获悉，在美国科技行业，每月至少使用一次 AI 的员工，预计遭裁员的概率约为 6%；使用 AI 较少的员工，预计遭裁员的概率达到 18%，是前者的三倍。\n研究数据来自盖洛普今年 2 月对超过 2.3 万名美...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-18 14:43:57",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/e17c5818-482b-46c7-9d53-ea85bb8c7de1.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11"
+    },
+    {
+      "title": "宝马停产三款国产纯电车型？为下半年新世代车型上市让路",
+      "link": "https://www.ithome.com/0/966/268.htm",
+      "summary": "\nIT之家 6 月 18 日消息，针对网络流传的“宝马将于 7 月起全面停产国产纯电车型”的消息，一位接近宝马的知情人士向《每日经济新闻》，表示，此次调整是宝马根据市场需求动态变化对产品生产节奏进行的常规调整，以及对产品生命周期管理的综合考量。\n据介绍，上述车型的生产调整属于正常的 EOP（End of Production）流程，核心目的是切换产线、集中产能资源，为国产新世代车型的上市做准备。\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-18 14:38:20",
+      "category": "auto",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/7d9dd7d8-586d-4898-a6f3-bb4de4a3938d.jpg?x-bce-process=image/auto-orient,o_1"
+    },
+    {
+      "title": "Cosmonaut Aleksandr Samokutyaev, 56, is first former ISS crew member to die",
+      "link": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
+      "summary": "Two expeditions, two spacewalks, 322 days in space....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-18 14:34:36",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/news-061726i-lg-500x500-1781792793.jpg"
+    },
+    {
+      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+      "link": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+      "summary": "\nAdobe has announced a major expansion of its \"creative agent\" across its flagship Creative Cloud suite and upgraded Firefly AI studio. \nAvailable in public beta starting today across Premiere Pro, Ph...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-18 14:33:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google Calendar finally has more color options for events",
+      "link": "https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion",
+      "summary": "Running out of color options for events in Google Calendar shouldn't be an issue going forward. The previous limit of 11 predefined colors has now been expanded to give users access to up to 200 custo...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-18 14:32:16",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Calendar-event-color-expansion-lede.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "“AI 教父”杨立昆示警：OpenAI、Anthropic 等公司不降本的话，就等着泡沫破裂吧",
+      "link": "https://www.ithome.com/0/966/267.htm",
+      "summary": "\nIT之家 6 月 18 日消息，AI 领域先驱人物杨立昆（Yann LeCun）今天接受 CNBC 采访时表示，当前 AI 行业面临运营成本居高不下等核心问题。\n\n杨立昆指出，当前 AI 模型、助手的价格正在持续上涨，可运营这些服务的公司仍然在持续亏损，成本下降的速度无法跟上市场预期。在他看来，目前大量 AI 服务之所以能维持较低价格，全都是因为投资人在默默提供补贴，并且许多公司仍然没建立好可持...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-18 14:28:35",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/da07ed11-ae2c-4759-893e-241da8fc397d.png"
+    },
+    {
+      "title": "知情人士回应“华为乾崑智驾 ADS 高阶功能包优惠将收窄”：属实",
+      "link": "https://www.ithome.com/0/966/266.htm",
+      "summary": "\nIT之家 6 月 18 日消息，近日有消息称，自 2026 年 7 月 1 日起，华为乾崑智驾 ADS 高阶功能包优惠或将收窄，叠加车企新车购车补贴权益等后一次性买断价格或上涨 3000 元。\n每经网援引知情人士的话说，该消息属实。一位鸿蒙智行销售人员表示：“目前来说，华为乾崑智驾 ADS 高阶功能包优惠收窄的可能性很大，因为去年的 ADS 乾崑智能驾驶系统 3.2 万元价格的截止时间是今年的 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-18 14:21:56",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/044d90d3-9c3b-45af-9e16-4827bbcd4cc5.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "The midterms are going to be a data security nightmare",
+      "link": "https://www.theverge.com/policy/952167/voter-rolls-privacy-election-save-program",
+      "summary": "One messy database is threatening to disenfranchise thousands or even millions of registered voters, while leaving even more at risk of intimidation or data breaches, in the name of solving a problem ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-18 14:21:37",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The Verge’s guide to Amazon Prime Day 2026",
+      "link": "https://www.theverge.com/gadgets/951437/amazon-prime-day-tech-deals-guide-2026",
+      "summary": "Amazon Prime Day 2026 lifts off on June 23rd and will hopefully deliver the best deals of the summer. We’ve been covering the most notable pre-Prime Day discounts happening, and come next week, we’ll ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-18 14:17:09",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "R 星更新《GTA 6》艺术图集：夜幕下的罪城天际线",
+      "link": "https://www.ithome.com/0/966/265.htm",
+      "summary": "\nIT之家 6 月 18 日消息，Rockstar Games 今晚闪电宣告，《GTA 6》将于 6 月 25 日开启预购，并同步公开了“罪恶城”的最新画面，首次展示新版城市天际线。\n玩家已经为《GTA 6》预购消息等待多年。公告发布后，R 星官网上线了新的预购页面，展示了罪城的最新景象。入夜，罪城华灯初上、高楼林立，城市天际线、码头、摩天轮和多种空中交通工具清晰可见。\n罪城最早登场于 2002 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-18 14:08:53",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/d2c325ed-aac0-4377-a87f-53ae803632b2.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "为省 300 元上闲鱼结果被骗 48 万？央视曝光低价“高仿”机票骗局",
+      "link": "https://www.ithome.com/0/966/264.htm",
+      "summary": "\nIT之家 6 月 18 日消息，今日，央视报道了一起机票代订诈骗案件。北京市民冯女士在闲鱼平台购买机票时遭遇“高仿”骗局，在 4 小时内累计损失 48 万多元。\n\n冯女士因临时出行，看到官方票务平台上机票价格较高，便在闲鱼平台寻找代订渠道，特意选择了一家带有企业认证标识的票务商家。\n该商家声称拥有内部渠道特价票，因无需纳税所以价格较低，但无法在闲鱼平台内交易，需通过其提供的专用账户付款，同时承诺...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-18 14:02:12",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/13d115ee-a69b-46a3-b8aa-faafc7d25283.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Spotify’s reserved ticket sales to music superfans are now going live",
+      "link": "https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/",
+      "summary": "Spotify is launching \"Reserved,\" a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-18 14:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The best robot vacuum deals available ahead of Prime Day",
+      "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "summary": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. Prime Day is next week, but many retailers are off...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-18 14:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A5843.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Who decides when AI is too dangerous?",
+      "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-18 14:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Adobe Firefly AI 平台升级：为 Creative Cloud 套件引入智能体，简化复杂创意工作",
+      "link": "https://www.ithome.com/0/966/263.htm",
+      "summary": "\nIT之家 6 月 18 日消息，Adobe 今天为其 AI 平台 Firefly 推出一系列重磅更新，同时将 AI 智能体带入 Photoshop、Premiere Pro 等 Creative Cloud 软件。\n\n据介绍，Adobe 近期已为 Firefly AI 平台推出全新 Creative Skills，允许用户通过自然语言对话完成复杂工作。用户只需要通过一句提示词，就能生成 Logo...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-18 13:56:38",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/fd6d195c-c8a6-4f1b-902c-168df8440830.png"
+    },
+    {
+      "title": "《DOTA2》TI2026 中国赛区预选赛落幕，TR 和 VG 战队杀出重围成功晋级",
+      "link": "https://www.ithome.com/0/966/262.htm",
+      "summary": "\nIT之家 6 月 18 日消息，《DOTA2》2026 年国际邀请赛（The International 2026，简称 TI2026）将于 8 月在上海举行。这是第十五届国际邀请赛，也是该项赛事第二次落地上海。本届 TI2026 的 16 支参赛战队由直邀战队和各赛区预选赛出线战队共同组成。\n随着各大赛区预选赛的推进，中国赛区地区预选赛已于今日正式收官。Team Resilience 与 Vi...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-18 13:53:33",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/3b44b81a-ec3c-4ba5-b553-2d28930021a7.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "逮捕 0 个嫌犯、开出 0 张罚单，俄亥俄州警方解雇“机械战警”",
+      "link": "https://www.ithome.com/0/966/260.htm",
+      "summary": "\nIT之家 6 月 18 日消息，据《哥伦布电讯报》当地时间 16 日报道，俄亥俄州都柏林市上个月正式停用了警察机器人 DubBot。警方发言人给出的委婉解释是，DubBot 无法满足实际执法需求。上岗不到一年，DubBot 没有帮助警方抓到一个人，也没有开出一张罚单。\nDubBot 的型号是 K5，由加州企业 Knightscope 制造，高约 1.52 米，重约 181 千克，没有四肢，依靠两...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-18 13:52:02",
+      "category": "robot",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/a7c6b145-353b-4491-bc8c-9eae313b9e33.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+      "link": "https://www.qbitai.com/2026/06/436758.html",
+      "summary": "M4是大脑，百小医是身体...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-06-18 13:46:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
+      "link": "https://www.qbitai.com/2026/06/436802.html",
+      "summary": "全系产品入驻万机易租2.0...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-06-18 13:42:09",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon’s Kindle Colorsoft bundle is almost half off for Prime Day",
+      "link": "https://www.theverge.com/gadgets/951234/amazon-kindle-colorsoft-bundle-prime-day-deal-sale",
+      "summary": "Amazon’s Kindle Colorsoft Essentials Bundle is on sale for $182.97 (originally $334.97) as an early Prime Day deal, the lowest price we’ve seen for the combo. Unlike other Kindles, the Colorsoft’s col...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-18 13:09:09",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25749710/amazon_kindle_colorsoft_7.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+      "link": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+      "summary": "Adobe is updating its Firefly AI assistant with new chops, and adding it to Premiere, Illustrator, InDesign and Frame.io....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-18 13:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Photoshop and Premiere now have AI assistants",
+      "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launc...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-18 13:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+      "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experie...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-18 13:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Momenta冲刺港股IPO，但投资人已经没那么好哄了",
+      "link": "https://www.tmtpost.com/8033628.html",
+      "summary": "Momenta港股IPO备案获批，折射出自动驾驶公司从技术叙事转向资本验证。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-18 12:52:14",
+      "category": "auto",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/62b63532b4bd26a31ad74ddda10fd857_1781787136.png"
+    },
+    {
+      "title": "Waymo Recalls Robotaxis Over Risk They'll Drive at Speed Into Freeway Construction Zones",
+      "link": "https://www.wired.com/story/waymo-recalls-robotaxis-over-risk-theyll-drive-at-speed-into-freeway-construction-zones/",
+      "summary": "The company's latest recall of 3,871 vehicles follows incidents of its autonomous cars prioritizing other hazards or failing to recognize closed construction zones altogether....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-18 12:50:21",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a33cf1f70ccdd5e1faa294b/master/pass/GettyImages-2251802750.jpg"
+    },
+    {
+      "title": "科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相",
+      "link": "https://36kr.com/p/3858676671599881?f=rss",
+      "summary": "\n6月17日，爱玛黑翼品牌战略发布会在四川省体育馆盛大开启。体育馆化身爱玛黑翼玩家街区，潮流青年齐聚现场。爱玛黑翼以“全速热爱”为品牌主张，携爱玛黑翼S360电竞版、爱玛黑翼S360赛道版、爱玛黑翼S790赛博版三款车型重磅亮相，首位中国F1车手周冠宇以爱玛黑翼“全速领航员”身份在线助力品牌发布。爱玛黑翼的登场，标志着爱玛电动车在男性出行科技领域树立起全新坐标，正式构建起“他硬核”增长格局，向“时...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-18 12:49:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+      "link": "https://36kr.com/p/3858015526704129?f=rss",
+      "summary": "\n大公司：\n  滴滴自动驾驶参加伦敦MOVE 2026大会\n  6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-18 12:47:44",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
+      "link": "https://36kr.com/p/3858329994875908?f=rss",
+      "summary": "\n文｜肖漫编辑｜李勤\n  6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平台车型，以及6款NT3.0车型）推送了最新版的世界模型，这意味着，蔚来现在能让同一套复杂的智驾代码，现在能跑在不同代际的芯片上。\n  软件迭代节奏被硬件绑架曾是一个困扰行业的难题。很多车企无法在不同版本、配置的车型上迭代同一款软件，这带来的结果是，很长时间内只有使用最新版本硬件的车才能用上最好...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-18 12:20:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The VC That Invested in Semight, the King of Stocks in China",
+      "link": "https://www.tmtpost.com/8033601.html",
+      "summary": "Bridge Capital consciously avoided sectors such as the internet and O2O services, areas long dominated by U.S. dollar venture funds....",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-18 12:16:03",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/20260618195524332.png"
+    },
+    {
+      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+      "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The search for dark matter has been blown wide open For decade...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-06-18 12:10:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Samsung The Frame Pro 2026 Review: Pricey But Worth It",
+      "link": "https://www.wired.com/review/samsung-the-frame-pro-2026/",
+      "summary": "The Frame Pro 2026 benefits from meaningful tweaks. AI audio and picture tuning work in tandem with a new anti-glare coating to deliver impressive benefits....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-18 12:01:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a3362ecc57c3ba5e1d98555/master/pass/Review--Samsung-The-Frame-Pro-2026.jpg"
+    },
+    {
+      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+      "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+      "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR)....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-18 12:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers",
+      "link": "https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review",
+      "summary": "Anime collaborations are everywhere, from Gundam watches and Naruto nights at Major League ballparks to just about anything Evangelion. But these Ghost in the Shell keyboards from Iqunix are some of t...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-18 12:00:00",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268602_Iqunix_EV63_Ghost_in_the_Shell_mechanical_keyboards_ADiBenedetto_0004.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
+      "link": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+      "summary": "The company has identified at least 13 instances where its robotaxis drove into highway sections closed for construction....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-18 11:59:11",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "万亿市值背后的暗线：当 SpaceX 登陆纳斯达克，中国航天往哪走？",
+      "link": "https://www.tmtpost.com/8033363.html",
+      "summary": "在星辰大海与财务报表之间...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-18 11:51:33",
+      "category": "space",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r4t3qegrsdfbvf3.png"
+    },
+    {
+      "title": "Amazon’s Fire Tablets, Tested, So You Don’t Have To (2026)",
+      "link": "https://www.wired.com/gallery/best-amazon-fire-tablet/",
+      "summary": "Whether you need a travel-friendly slate or something affordable for the kids, we tested every model to find the right one for every occasion....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-18 11:36:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/687b026f55c6c75b964e0e41/master/pass/Which%20Amazon%20Fire%20Tablet%20Is%20Best%20for%20You_.png"
+    },
+    {
+      "title": "擎仓机器人30天极速部署欧莱雅产线，轻量化VLA范式突破",
+      "link": "https://www.tmtpost.com/8033573.html",
+      "summary": "擎仓机器人成功部署欧莱雅全球战略生产基地，不仅证明国产轻量化VLA具身智能产品完全能够胜任国际高端制造的严苛标准，更标志着中国企业率先实现轻量化VLA技术的规模化商业突破，成为中国具身智能产业从技术研发迈向规模化、全球化商用的重要里程碑。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-18 11:24:35",
+      "category": "robot",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/f70cc87a3e71e9102996640dfd255296_1781781877.png"
+    },
+    {
+      "title": "逆矩阵科技获得超亿美元种子++轮融资，经纬创投、光合创投等参投",
+      "link": "https://www.tmtpost.com/8033411.html",
+      "summary": "世界模型是面向真实物理世界的下一代基座模型。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-18 11:12:44",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/e4d2114c83837c3ce246424f47b8ae43_1781781165.png"
+    },
+    {
+      "title": "增收不增利，溢价收购控股股东资产，赢合科技大跌6.17%",
+      "link": "https://www.tmtpost.com/8033520.html",
+      "summary": "订单越多，绷得越紧？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-18 11:11:35",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/caf01fafa04fedc917a448cf96012233_1781781098.png"
+    },
+    {
+      "title": "智源王仲远：世界模型是通往物理AGI之桥",
+      "link": "https://www.tmtpost.com/8032558.html",
+      "summary": "世界模型是解决人工智能走入物理世界的最佳路径。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-18 11:11:19",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/0df410875e9b233ba1a63b3824f9381d_1781781084.png"
+    },
+    {
+      "title": "GLP-1的 “常山赵子龙”，英雄迟暮来得比想象快",
+      "link": "https://www.tmtpost.com/8033215.html",
+      "summary": "常山药业这出资本大戏，浓缩了A股概念炒作的典型剧本。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-18 11:09:50",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/435grtgf3.png"
+    },
+    {
+      "title": "Transformer之父离开谷歌，奥特曼等了他十年",
+      "link": "https://www.tmtpost.com/8033380.html",
+      "summary": "27亿美元也没能留住，Noam Shazeer追寻下一代架构。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-18 11:09:43",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/06/20260618172835425176.jpg"
+    },
     {
       "title": "13 Best Essential Oil Diffusers 2026: Tested and Reviewed",
       "link": "https://www.wired.com/gallery/best-essential-oil-diffusers/",
@@ -36,14 +553,14 @@
       "thumbnail": "https://media.wired.com/photos/6a30016b222e2a3084763f0c/master/pass/MA_Lifestyle_01.jpg"
     },
     {
-      "title": "不满 VMware 永久许可被强制转订阅，Tesco 指责博通吃相难看并将 4 万台服务器全部迁出",
-      "link": "https://www.ithome.com/0/966/210.htm",
-      "summary": "\nIT之家 6 月 18 日消息，全球三大零售企业之一的乐购（Tesco）集团宣布将约 4 万台服务器负载从 VMware 迁出，这也是博通（Broadcom）收购 VMware 后引发的最大规模公开迁移项目之一。与此同时，Tesco 在英国高等法院针对博通的诉讼也在持续推进。\n这场纠纷的源头可追溯至 2021 年 1 月。当时 Tesco 与 VMware 签订了一份合同，购买了 vSphere...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
+      "link": "https://www.qbitai.com/2026/06/436751.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-06-18 10:07:40",
-      "category": "ai",
+      "pubDate": "2026-06-18 10:14:49",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -56,116 +573,6 @@
       "pubDate": "2026-06-18 10:05:29",
       "category": "other",
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/17/20f827fcd85c99a77d8eddd7c78486d1_1781700423.jpeg"
-    },
-    {
-      "title": "车越卖不动，发布会开得越猛？这不是内卷，是行业的“吹哨逃命”",
-      "link": "https://www.tmtpost.com/8032527.html",
-      "summary": "当544款新车挤在同一个赛道上用同一套话术争夺同一批消费者，最后一个站着的，不会是发布会开得最多的那家，而是让用户在十年后回头看依然觉得\"这车买对了\"的那家。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-18 10:05:27",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/06/20260617221414774636.jpg"
-    },
-    {
-      "title": "72小时连换两将，山姆的“中年危机”",
-      "link": "https://www.tmtpost.com/8033219.html",
-      "summary": "一场效率与信任的极限拉扯...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-18 10:05:24",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/453654uujhg3.png"
-    },
-    {
-      "title": "SpaceX、OpenAI、Anthropic连续上市,市场真的吃得下吗?",
-      "link": "https://www.tmtpost.com/8032584.html",
-      "summary": "为什么三家要在这个时间点冲出来...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-18 10:05:22",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5yyjtng3.png"
-    },
-    {
-      "title": "柠季想要的远不止哈根达斯",
-      "link": "https://www.tmtpost.com/8032861.html",
-      "summary": "跳出茶饮做茶饮...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-18 10:05:21",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/34t1gqerfav3.png"
-    },
-    {
-      "title": "等了十五年的IPO！ 逆变器老牌龙头古瑞瓦特的储能底牌能撑起多少市值？",
-      "link": "https://www.tmtpost.com/8032452.html",
-      "summary": "古瑞瓦特三递港交所招股书，冲击储能赛道资本化。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-18 10:05:19",
-      "category": "energy",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t43y54htrtg3.png"
-    },
-    {
-      "title": "监管亮剑、行业立规，GEO下半场的逻辑变了",
-      "link": "https://www.tmtpost.com/8032731.html",
-      "summary": "GEO行业将迎来一次价值的回归与蜕变重生。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-18 10:05:17",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y46jytg3.png"
-    },
-    {
-      "title": "竟是翻版 “安然”！浑水博眼球 or SoFi 真烂？",
-      "link": "https://www.tmtpost.com/8032825.html",
-      "summary": "美化坏账率、利润注水？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-18 10:05:16",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/18/d44ada7a7d3895e3cb282e768ea4cd79_1781747965.jpeg"
-    },
-    {
-      "title": "出货量不再是信任的货币",
-      "link": "https://www.tmtpost.com/8032939.html",
-      "summary": "AI芯片正在重塑供应链的底层规则...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-18 10:05:14",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35yyjthg3.png"
-    },
-    {
-      "title": "梁文锋相信平凡",
-      "link": "https://www.tmtpost.com/8033054.html",
-      "summary": "真正伟大的时代，从来不是由个别天才创造的。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-18 10:05:13",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t5y4hyhgf3.png"
-    },
-    {
-      "title": "铭匠光学预热 AF85mm F1.8 Neo 全画幅自动对焦镜头：首发 499 元，6 月 26 日开售",
-      "link": "https://www.ithome.com/0/966/209.htm",
-      "summary": "\nIT之家 6 月 18 日消息，铭匠光学今天预热 AF85mm F1.8 Neo 全画幅镜头，新品采用轻量化设计，支持自动对焦，首发售价 499 元。\n\n据介绍，这款镜头将提供索尼 E 卡口 / 尼康 Z 卡口版本，最近对焦距离 0.8m，滤镜口径为 62mm。外观采用经典黑色配色，不过具体尺寸、重量暂未公布。\n同时，这款镜头的日常售价是 599 元，首发优惠价 499 元，6 月 26 日上午...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-18 10:05:09",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "Locked Out of the World Cup: A Year Marked by Barriers, Borders, and Broken Access",
@@ -190,91 +597,58 @@
       "thumbnail": ""
     },
     {
-      "title": "消息称追觅系生态大调整：收缩、合并后回归四大主营业务",
-      "link": "https://www.ithome.com/0/966/202.htm",
-      "summary": "\nIT之家 6 月 18 日消息，“硬氪”今天下午爆料称，追觅系各大业务单元（BU）正在收缩和调整，现有将合并为四大主营业务板块，分别为全屋智能清洁（室内 + 室外庭院）、智能家电、智慧出行、AI 具身智能，一些未开展实际业务落地及人员落地的 BU 将直接取消。\n当前在追觅四大核心业务板块里，智能清洁板块人员近 1.2 万人，占公司整体人数超 5 成，其中七成以上为研发人员。旗下业务将以追觅、MO...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+      "link": "https://www.qbitai.com/2026/06/436740.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-06-18 09:52:54",
+      "pubDate": "2026-06-18 09:45:11",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "AI 公司 Midjourney 跨界发布首款硬件“全身超声波扫描仪”：60 秒生成 3D 人体图，前苹果 Vision Pro 工程师带队",
-      "link": "https://www.ithome.com/0/966/192.htm",
-      "summary": "\nIT之家 6 月 18 日消息，以文生图 AI 工具闻名的 Midjourney 于当地时间 6 月 17 日宣布成立医疗部门，并推出其首款硬件产品 —— 全身超声波扫描仪“Midjourney Scanner”（属 FBUCT 类设备）。\n据介绍，这款设备能够利用声波和水在约 60 秒内完成人体全身扫描，生成精度达亚毫米级别的三维人体图像，速度相当于传统全身核磁共振成像（MRI）技术的近百倍，...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+      "link": "https://www.qbitai.com/2026/06/436674.html",
+      "summary": "已接入华为鸿蒙生态...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-06-18 09:45:53",
+      "pubDate": "2026-06-18 09:39:35",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "小米发布全屋智能 AI 开源方案 Xiaomi Miloco 2.0：号称能记忆、会识人、懂执行",
-      "link": "https://www.ithome.com/0/966/189.htm",
-      "summary": "\nIT之家 6 月 18 日消息，今天，小米正式发布并开源面向未来的“全屋智能 AI 开源方案” Xiaomi Miloco 2.0。根据介绍，该方案基于自研 MiMo 大模型构建，以 Agent 形式接入 OpenClaw，实现交互方式、产品功能、记忆系统等方面的全面升级。和 Miloco 1.0 相比，Miloco 2.0 对智能家居的未来形态探索“更进一步”，真正开始迈向「能记忆、会识人、懂...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
+      "link": "https://www.qbitai.com/2026/06/436698.html",
+      "summary": "能够直接导入Unity、Unreal Engine等主流引擎进行交互开发...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-06-18 09:35:33",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Momenta 港股 IPO 获证监会备案",
-      "link": "https://www.ithome.com/0/966/186.htm",
-      "summary": "\nIT之家 6 月 18 日消息，中国证监会今天公开《关于 MOMENTA GLOBAL LIMITED（梦腾智驾环球有限公司）境外发行上市备案通知书》。\n\n根据备案通知书，Momenta 通过境内运营实体魔门塔（苏州）科技有限公司提交境外发行上市备案材料，该公司拟发行不超过 43754060 股境外上市普通股并在香港联合交易所上市。\n完成境外发行上市后的 15 个工作日内，Momenta 应通过...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-18 09:33:43",
-      "category": "auto",
-      "thumbnail": ""
-    },
-    {
-      "title": "领克 07GT 首台量产车下线，计划月底到店、预售",
-      "link": "https://www.ithome.com/0/966/182.htm",
-      "summary": "\nIT之家 6 月 18 日消息，领克汽车今天下午通过公众号宣布，领克 07GT 首台量产车正式下线。\n\n根据此前透露的信息，领克 07 GT 展车计划将于 6 月底陆续抵达全国各大领克门店并开启预售。领克 07 GT 车顶行李架静态最大载荷 150kg，动态载荷可达 100kg。远超同级主流水平，使得其在颠簸路况下经过领克极端耐久测试验证，可安全装载双人硬壳车顶帐篷，或携带更重的皮划艇、PitB...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-18 09:23:09",
+      "pubDate": "2026-06-18 09:39:05",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "Epic CEO 斯威尼：高成本与社交化趋势下，《Roblox》或将吞噬整个游戏行业",
-      "link": "https://www.ithome.com/0/966/178.htm",
-      "summary": "\nIT之家 6 月 18 日消息，据外媒 Golem 今天报道，Epic Games CEO 蒂姆 · 斯威尼在虚幻引擎技术开放日 2026 演讲结束时，并没有谈论图形技术或 AI 工具。\n\nIT之家在此援引 Golem，这名 CEO 在接受采访时聊到了游戏行业面临的危机，以及他的眼中钉《Roblox》。\n斯威尼指出，现代游戏的开发成本正在迅速膨胀，越来越多新项目需要投入数亿美元的开发资金，但最终...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "全员本科生！何恺明组新作：文生图，258M参数就够了",
+      "link": "https://www.qbitai.com/2026/06/436518.html",
+      "summary": "整篇论文一共六位作者。除了何恺明之外，其余五位都还是本科生。...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-06-18 09:20:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "JBD 发布当前最高分辨率可量产 Micro LED 彩色光引擎走鹃 Ⅱ",
-      "link": "https://www.ithome.com/0/966/171.htm",
-      "summary": "\nIT之家 6 月 18 日消息，JBD（显耀）昨日发布了目前业界可量产的最高分辨率 Micro LED 彩色光引擎“走鹃 Ⅱ”(Roadrunner II)。\n\n“走鹃 Ⅱ”基于 JBD 的 2.5μm 像素间距技术平台，体积 0.18cm³，微显示器面板尺寸 0.1\"，分辨率 800×600，像素密度 10160ppi，支持 480Hz 面板刷新率。\n“走鹃 Ⅱ”光通量达到 6lm，在 30°...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-18 09:16:42",
+      "pubDate": "2026-06-18 09:12:09",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "宁德时代利润超 7 家车企总和，网友关注、热搜第一",
-      "link": "https://www.ithome.com/0/966/160.htm",
-      "summary": "\nIT之家 6 月 18 日消息，据新浪汽车今日报道，在 2026 年一季度国内汽车销量同比下降 5.6%，市场整体疲软的大背景下，宁德时代一季度依然交出了一份超强财报，营收达到 1291.31 亿元，已经超过理想汽车、蔚来和小鹏汽车 2025 年全年收入；归母净利润 207.38 亿元，超过 7 家中国品牌头部车企净利润总和。\n\n该消息发布后，今日下午“宁德时代利润超 7 家车企总和”话题登上微...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "18年前不让你苦修PS的美图，这次不让你苦修AI了",
+      "link": "https://www.qbitai.com/2026/06/436517.html",
+      "summary": "用八款产品，讲一个变化...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-06-18 09:07:36",
-      "category": "energy",
+      "pubDate": "2026-06-18 09:07:51",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -443,50 +817,6 @@
       "thumbnail": ""
     },
     {
-      "title": "50% Off DoorDash Promo Code | June 2026",
-      "link": "https://www.wired.com/story/doordash-promo-code/",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-18 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg"
-    },
-    {
-      "title": "Home Depot Promo Codes: 50% Off in June 2026",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this June....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-18 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png"
-    },
-    {
-      "title": "Ulta Promo Codes: Up to 50% Off in June 2026",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-18 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png"
-    },
-    {
-      "title": "Chewy Promo Codes: $20 Off June 2026",
-      "link": "https://www.wired.com/story/chewy-promo-code/",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more June 2026 discounts....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-18 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg"
-    },
-    {
       "title": "Epic 做了个游戏版 Git，可能是继 Linus 之后最重要的开源 VCS",
       "link": "https://my.oschina.net/u/4487475/blog/19707172",
       "summary": "在游戏行业，Git 是一个「方形的钉子」被锤进「圆形的洞里」。而 Lore 就是那个「圆形的钉子」。...",
@@ -506,17 +836,6 @@
       "region": "cn",
       "pubDate": "2026-06-18 03:59:14",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-      "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI i...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-18 03:12:31",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -641,17 +960,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Tim Cook says RAM expenses are ‘unsustainable’ and Apple is going to raise prices",
-      "link": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
-      "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoidable:\" We're doing our b...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 21:42:21",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
       "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
       "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist....",
@@ -672,50 +980,6 @@
       "pubDate": "2026-06-17 20:44:32",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Libra-internals44-copy-500x500.jpeg"
-    },
-    {
-      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
-      "link": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
-      "summary": "VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style m...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 20:43:28",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Roelof Botha joins SpaceX’s board of directors",
-      "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-17 20:32:52",
-      "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-      "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-17 20:24:28",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-17 20:17:38",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "California says AT&amp;T lied to FCC in attempt to shut off old phone network",
@@ -740,17 +1004,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg"
     },
     {
-      "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
-      "link": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
-      "summary": "A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-17 19:46:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
       "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
       "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings....",
@@ -773,28 +1026,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-2.40.06-PM-500x500.png"
     },
     {
-      "title": "Epic wants to let you bring your Fortnite skins to other games",
-      "link": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
-      "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game developm...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 19:09:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-17 19:01:19",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
       "link": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
       "summary": "\nWhen Anthropic quietly released Claude Design in April as a \"research preview,\" it generated the kind of instant traction most product teams dream about: more than one million users in its first week...",
@@ -802,28 +1033,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-06-17 19:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-      "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-17 18:30:56",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic got hit by export rules nobody understands",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-      "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including us...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 18:28:50",
       "category": "ai",
       "thumbnail": ""
     },
@@ -847,7 +1056,7 @@
       "region": "us",
       "pubDate": "2026-06-17 18:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-black-woman-speaking-into-a-microphone-in-front-of-a-presentation-screen.jpg?id=66951490&width=1245&height=700&coordinates=0%2C197%2C0%2C197"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-black-woman-speaking-into-a-microphone-in-front-of-a-presentation-screen.jpg?id=66951490&width=1200&height=400&coordinates=0%2C426%2C0%2C427"
     },
     {
       "title": "\"Dangerous\" AI models are coming no matter what",
@@ -861,50 +1070,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-500x500.jpg"
     },
     {
-      "title": "Two-thirds of Americans think AI is advancing too quickly",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-      "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 17:20:24",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
-      "link": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
-      "summary": "We’re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon’s own devices. Several Echo speakers have dropped to new low prices, incl...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 16:47:43",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-      "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-      "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 16:27:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
-      "link": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
-      "summary": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attem...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 16:13:34",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Behind the Scenes of a Technical Interview",
       "link": "https://spectrum.ieee.org/tech-interview-prep",
       "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
@@ -913,29 +1078,7 @@
       "region": "us",
       "pubDate": "2026-06-17 16:13:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
-    },
-    {
-      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-      "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
-      "summary": "Google's new smart speaker is more about Gemini than audio quality....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-17 15:57:14",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google-Home-Speaker-Jade-copy-500x500-1781708619.jpg"
-    },
-    {
-      "title": "We got free GTA V upgrades before GTA VI",
-      "link": "https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade",
-      "summary": "Rockstar Games will allow players to upgrade older versions of Grand Theft Auto V for PlayStation 5 and Xbox Series X / S for free just months before the launch of GTA VI. Starting June 18th, players ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-17 15:45:36",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=400&coordinates=0%2C250%2C0%2C250"
     },
     {
       "title": "How Musicians Can Get Paid for Training AI",
@@ -946,29 +1089,7 @@
       "region": "us",
       "pubDate": "2026-06-17 15:04:23",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-quarter-note-stems-going-through-an-s-resembling-a-dollar-sign.jpg?id=66750724&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
-      "title": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
-      "link": "https://www.qbitai.com/2026/06/436456.html",
-      "summary": "计划1000倍综合降本...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-17 13:07:48",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI转型最大的门槛，不是技术，是人",
-      "link": "https://www.qbitai.com/2026/06/436435.html",
-      "summary": "不主动改变，就只能等着被改变...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-17 12:36:40",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-quarter-note-stems-going-through-an-s-resembling-a-dollar-sign.jpg?id=66750724&width=1200&height=400&coordinates=0%2C417%2C0%2C417"
     },
     {
       "title": "The Secret to Marathon-Winning Humanoid Robots",
@@ -979,7 +1100,7 @@
       "region": "us",
       "pubDate": "2026-06-17 12:19:27",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-red-and-black-humanoid-runs-alone-through-a-marathon-course.jpg?id=66940897&width=1245&height=700&coordinates=0%2C66%2C0%2C66"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-red-and-black-humanoid-runs-alone-through-a-marathon-course.jpg?id=66940897&width=1200&height=400&coordinates=0%2C295%2C0%2C296"
     },
     {
       "title": "The Download: a reality check for geoengineering and the science of interoception",
@@ -989,72 +1110,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-06-17 12:10:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
-      "link": "https://36kr.com/p/3857175761081348?f=rss",
-      "summary": "\n大公司：\n  监管约谈山姆后，沃尔玛中国多位高管变动\n  36氪了解到，山姆会员商店中国 CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现任沃尔玛国际部战略副总裁，将加入沃尔玛中国，担任沃尔玛中国战略副总裁，直接向朱晓静汇报。内部邮件称，Tony将在完成工作签证流程后于2026年8月正式加入中国团队，并与妻子Me...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-17 12:08:32",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
-      "link": "https://www.qbitai.com/2026/06/436223.html",
-      "summary": "砸2亿只为“喂”数据？星海图在WDC上扔出三个信号弹。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-17 10:55:19",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
-      "link": "https://www.qbitai.com/2026/06/436224.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-17 10:51:07",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
-      "link": "https://www.qbitai.com/2026/06/436213.html",
-      "summary": "本文由算苗科技提供，量子位获授权转载，版权归原作者所有...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-17 10:16:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "为什么最有价值的AI讨论总发生在知乎？",
-      "link": "https://www.qbitai.com/2026/06/436211.html",
-      "summary": "知乎记录的不只是AI，而是时代变化本身...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-17 10:13:07",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "风拂阳澄，来半岛解锁夏日限定AI狂欢！",
-      "link": "https://36kr.com/p/3857051317359622?f=rss",
-      "summary": "\n\n  \n  风口已至，静候同行。 \n  \n  提起阳澄湖，你的脑海里浮现的画面是什么？ \n  是远近闻名的阳澄湖大闸蟹，是波光粼粼的度假区风光，还是惬意舒展的环湖骑行赛道？在大多数人的印象里，阳澄湖半岛风光旖旎，向来是周末卸下疲惫、放松身心的度假好去处。\n  \n  然而在今年盛夏，这片湖畔热土将迎来全新的科技活力。\n  当你再次漫步于阳澄湖畔，迎面走来的可能是身着外骨骼机甲在执勤的景区安保人员；...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-17 10:02:07",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1077,39 +1132,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-06-17 09:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
-      "link": "https://36kr.com/p/3857011810112521?f=rss",
-      "summary": "\n6月15日，智能机器人公司仙工智能（06106.HK）开始招股，招股价101.60港元，每手50股，市值112.27亿港元。\n  仙工智能最早于2025年5月第一次向港交所递交招股书，6个月失效后，又于当年11月重新递交，直到今年6月才通过聆讯。仙工智能这次是以18C特专科技公司身份赴港上市，预计6月24日挂牌敲钟。中金独家保荐，招银国际为整体协调人。\n  有意思的是，这家公司的核心壁垒不在机器...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-06-17 08:36:26",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "困住医疗AI的死循环，终于有国产玩家跑通了",
-      "link": "https://www.qbitai.com/2026/06/436171.html",
-      "summary": "在多项关键医疗测评上打败了GPT-5.5...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-17 08:13:50",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "微信支付发布AI专属卡 WorkBuddy率先接入",
-      "link": "https://www.qbitai.com/2026/06/436160.html",
-      "summary": "用户可以在与智能体的对话中提出消费需求...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-17 06:56:51",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1191,17 +1213,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
-      "link": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
-      "summary": "\nMicrosoft CEO Satya Nadella published a sweeping essay on Sunday laying out what he describes as the defining economic challenge of the AI era: the risk that a handful of frontier models will absorb ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-15 19:49:14",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Why do South Koreans love AI so much?",
       "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from Sa...",
@@ -1221,18 +1232,7 @@
       "region": "us",
       "pubDate": "2026-06-15 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-drone-being-used-to-collect-crop-data-on-a-wheat-farm.jpg?id=66888131&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
-    },
-    {
-      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
-      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-06-15 15:12:28",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-drone-being-used-to-collect-crop-data-on-a-wheat-farm.jpg?id=66888131&width=1200&height=400&coordinates=0%2C729%2C0%2C730"
     },
     {
       "title": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
@@ -1243,7 +1243,7 @@
       "region": "us",
       "pubDate": "2026-06-15 13:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-man-and-a-woman-wearing-dressy-winter-coats-watch-a-crew-of-informally-dressed-men-working-on-the-construction-of-a-wind-turbi.jpg?id=66894045&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-man-and-a-woman-wearing-dressy-winter-coats-watch-a-crew-of-informally-dressed-men-working-on-the-construction-of-a-wind-turbi.jpg?id=66894045&width=1200&height=400&coordinates=0%2C292%2C0%2C292"
     },
     {
       "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
@@ -1254,7 +1254,7 @@
       "region": "us",
       "pubDate": "2026-06-12 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042"
     },
     {
       "title": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
@@ -1265,7 +1265,7 @@
       "region": "us",
       "pubDate": "2026-06-11 13:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1245&height=700&coordinates=0%2C95%2C0%2C96"
+      "thumbnail": "https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1200&height=400&coordinates=0%2C325%2C0%2C325"
     },
     {
       "title": "Defining Autonomy for Wellness Robots in Senior Care",
@@ -1287,7 +1287,7 @@
       "region": "us",
       "pubDate": "2026-06-10 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/four-men-tinkering-with-iot-parts-on-an-outdoor-table.jpg?id=66858524&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
+      "thumbnail": "https://spectrum.ieee.org/media-library/four-men-tinkering-with-iot-parts-on-an-outdoor-table.jpg?id=66858524&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042"
     }
   ]
 }
