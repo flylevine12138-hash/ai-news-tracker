@@ -1,7 +1,348 @@
 {
-  "updateTime": "2026-06-26T15:27:22.842Z",
+  "updateTime": "2026-06-26T17:56:32.671Z",
   "total": 107,
   "news": [
+    {
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-26 17:43:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
+      "link": "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
+      "summary": "\nAn endpoint agent cannot report its own absence. The 2026 Axonius Actionability Report, conducted with the Ponemon Institute and surveying 662 IT and security professionals, put a number on a gap SOC...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-26 17:32:42",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report",
+      "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
+      "summary": "The hack on car giant Jaguar Land Rover last year was one the most disrupting, damaging, and costly hacks of the last few years....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-26 17:29:29",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "I Just Saw That Eufy’s Floodlight Security Camera Is Cheaper Than Ever (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-eufy-floodlight-security-camera-june-2026/",
+      "summary": "If you want to beef up your home security this Prime Day, Eufy’s Floodlight Camera is a great way to do it....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-26 17:23:59",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a3eb546e89f0e5e9b32c765/master/pass/Don%E2%80%99t-Miss-This-Eufy-Floodlight-Security-Camera-Deal.jpg"
+    },
+    {
+      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+      "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headp...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-26 17:15:27",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-26 17:05:40",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a3ea08bf7f42d4ea1deffa3/master/pass/GettyImages-2281424331.jpg"
+    },
+    {
+      "title": "微软发布 Win11 多个通道多个版本预览版：新增任务栏尺寸设置，优化预览计划",
+      "link": "https://www.ithome.com/0/969/270.htm",
+      "summary": "\nIT之家 6 月 27 日消息，微软今日面向多个 Windows Insider 预览频道推出适用于 Windows 11 的全新预览版更新，同时宣布正式面向零售版 Windows 11 开始逐步推送新版 Windows Insider 体验更新.\n本次推送的各版本具体如下：\n\nBeta 通道（26H2）： Build 26220.8754\nBeta 通道（26H1）： Build 28020....",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-26 17:01:30",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/c543ed84-e601-4d79-93ac-278e232b1cb3.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-26 17:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
+      "link": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "summary": "\nOpenAI is announcing a limited preview of its next-generation GPT-5.6 model series today, introducing three distinct, capability-tiered models—Sol, Terra, and Luna—designed to re-engineer developer a...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-26 17:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Smart lock maker Level has been gutted and its founders are out",
+      "link": "https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart-lock-cloud",
+      "summary": "Assa Abloy has laid off the majority of staff at Level Home, the smart lock company known for building smart tech into traditional-looking deadbolts, and is folding the business into Kwikset, accordin...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-26 16:59:16",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "《永劫无间》Epic 版 12 月 30 日下架，7 月 2 日启动账号转移",
+      "link": "https://www.ithome.com/0/969/269.htm",
+      "summary": "\nIT之家 6 月 27 日消息，网易旗下《永劫无间》今晚举行了周年庆发布会，宣布了一系列新版本更新内容以及联动活动。\n除此之外，《永劫无间》还宣布将于 2026 年 12 月 30 日从 Epic 商店正式下架，届时 Epic 版本将不再更新。自 2026 年 7 月 2 日周年庆版本更新后，Epic 商店将停止《永劫无间》的购买与下载服务。\n2026 年 7 月 2 日至 12 月 30 日期...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-26 16:44:44",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/da844be5-4176-44d5-9e43-f2af33c49a26.png"
+    },
+    {
+      "title": "库洛游戏《鸣潮》鸿蒙端 7 月 10 日开启不删档测试",
+      "link": "https://www.ithome.com/0/969/268.htm",
+      "summary": "\nIT之家 6 月 27 日消息，库洛游戏官方此前已宣布《鸣潮》HarmonyOS 鸿蒙原生版本即将上线。今日有玩家发现，《鸣潮》鸿蒙版已在华为游戏中心开启预约，显示将于 7 月 10 日开启不删档测试。\n\n在今晚的直播中，《鸣潮》官方宣布 3.5 版本「遗音扶剑，荡梦而歌」将于 7 月 10 日正式开启。《鸣潮》3.5 版本官宣 PC 端接入 Intel XeSS 3 技术。\n\n在 3.5 版本...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-26 16:35:55",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/1c69ae8a-4979-4032-bbcb-d773069a7a92.png?x-bce-process=image/format,f_auto/auto-orient,o_1"
+    },
+    {
+      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
+      "link": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
+      "summary": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-26 16:32:55",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
+      "link": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
+      "summary": "Exposed records from the private group included the personal information of a senior White House intelligence official and an active-duty special operations officer....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-26 16:30:33",
+      "category": "chip",
+      "thumbnail": "https://media.wired.com/photos/6a3abedeea2c52b725f7742e/master/pass/Sensitive-US-Intelligence-Operatives-Exposed-Security-2263872663.jpg"
+    },
+    {
+      "title": "TikTok’s road to becoming a super app",
+      "link": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-26 16:29:48",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "You won’t have long to get these iPad deals before Apple’s price hike",
+      "link": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
+      "summary": "Apple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still score some ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-26 16:26:06",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
+      "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+      "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-26 16:24:59",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-500x500.png"
+    },
+    {
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-26 16:24:47",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "27 Best Prime Day Beauty Deals of 2026 (We Sifted Through Hundreds to Pick Them)",
+      "link": "https://www.wired.com/story/best-prime-day-beauty-deals-06-26-2026/",
+      "summary": "It wouldn't be Amazon Prime Day without some beauty deals. Here's a roundup of all our favorites....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-26 16:17:20",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67cc8e3ff03aeba6ea4a8208/master/pass/GHD-Chronos-Max-Hair-Straightener-Abstract-Background-032025-SOURCE-Nordstrom.jpg"
+    },
+    {
+      "title": "The 16 best robot vacuum deals you can still get before Prime Day ends",
+      "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "summary": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on the final day of Prime Day, and Amazo...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-26 16:07:34",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "I Found the Best Prime Day Pixel Buds Deals: 2a, Pro (2026)",
+      "link": "https://www.wired.com/story/google-pixel-buds-prime-day-2026/",
+      "summary": "Google Pixel Buds are steeply on sale, presumably only through the end of the day....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-26 15:58:48",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a3eb4bfcc32244df21894ce/master/pass/This-Prime-Day-Pixel-Buds-Discount-Brings-Our-Top-Earbuds-to-Their-Lowest-Price.jpg"
+    },
+    {
+      "title": "Prime Day’s Best Handheld Fan Deals, Up to 20% Off, Are About to Disappear (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-deals-on-handheld-fans-2026/",
+      "summary": "These are the best last-minute Prime Day discounts on handheld fans, from $10 budget buys to Shark’s high-tech ChillPill....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-26 15:56:39",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a3eb9f8968c5775a92ca402/master/pass/PlayHot-Portable-Handheld-Turbo-Fan.jpg"
+    },
+    {
+      "title": "Xreal’s best USB-C smart glasses are $50 off, but not for long",
+      "link": "https://www.theverge.com/gadgets/952261/xreal-one-pro-1s-smart-glasses-deal-sale",
+      "summary": "If you’ve been curious about the emerging world of smart glasses, Prime Day is your chance to try some of the best models with a rare discount from Best Buy or directly from Xreal. The high-end Xreal ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-26 15:53:08",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "高端 Z990 主板将提供三组 8pin CPU 供电接口，英特尔 Nova Lake 双芯型号 PL2 功耗可达 474W",
+      "link": "https://www.ithome.com/0/969/267.htm",
+      "summary": "\nIT之家 6 月 26 日消息，近期关于英特尔下一代桌面处理器 Nova Lake 的爆料越来越多。\n爆料者 LC Tech Leaks 今日表示，英特尔已向主板厂商发布了修订后的 Z990 芯片组供电设计指南，要求为双计算芯片 Nova Lake 处理器预留高达 474W 的 PL2（最大睿频功耗）配置。\n作为酷睿 Ultra 400 系列，Nova Lake-S 旗舰型号预计提供 52 核心...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-26 15:49:26",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/7d8708be-aad7-42af-8b36-063381472bf5.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Xprize founder says ‘humans behave better when they’re being watched’",
+      "link": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/",
+      "summary": "Peter Diamandis is the latest tech executive to argue that global surveillance will make the world a better place, following Larry Ellison's comments in 2024....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-26 15:46:05",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
+      "link": "https://www.qbitai.com/2026/06/438887.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-06-26 15:45:43",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The US Is About to Deport an Immigrant to the Center of the Ebola Crisis",
+      "link": "https://www.wired.com/story/the-us-is-about-to-deport-an-immigrant-to-the-center-of-the-ebola-crisis/",
+      "summary": "Edward Nalwamba is a 78-year-old retired pastor whose health has rapidly declined while in detention, his attorney says....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-26 15:43:49",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a3d9aad0e1573fd224c1c7f/master/pass/US-About-to-Deport-Immigrants-to-Ebola-Ridden-Uganda-Politics-2195715331.jpg"
+    },
+    {
+      "title": "Prime Day is almost over, but these are still the best Apple deals I’ve seen",
+      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "summary": "Amazon’s Prime Day is now in its final day, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-26 15:40:58",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "It’s now the Arduino Uno Q’s turn to get a price hike",
+      "link": "https://www.theverge.com/tech/957751/arduino-q-microcomputer-price-increase-ram-crisis",
+      "summary": "Arduino's Raspberry Pi-like microcomputer the Uno Q is joining many other devices in getting a price hike this week. The 2GB version of the Uno Q, which is powered by a Qualcomm Dragonwing QRB2210 pro...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-26 15:35:31",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "古尔曼：苹果首款触屏 MacBook 笔记本搭载 M5 Pro / Max 芯片，M7 机型稍后推出",
+      "link": "https://www.ithome.com/0/969/266.htm",
+      "summary": "\nIT之家 6 月 26 日消息，彭博社马克 · 古尔曼（Mark Gurman）爆料称，苹果公司旗下首款触屏 MacBook 笔记本电脑将搭载 M5 Pro / Max 芯片，而非下一代芯片。不过，苹果公司也正在开发配备 M7 处理器的后续机型。\n知情人士透露，定位在苹果产品线顶端的 MacBook 机型将于今年底至明年初之间上市。由于产品计划尚未公开，要求匿名的知情人士表示，新机型预计将搭载现...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-26 15:32:53",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/f3cdbb79-5e82-4f24-b4d6-0f25231fd703.jpg"
+    },
+    {
+      "title": "Fitbit’s Charge 6 and kid-friendly Ace LTE are much cheaper for Prime Day",
+      "link": "https://www.theverge.com/gadgets/952995/fitbit-charge-6-ace-lte-amazon-prime-day-2026-deal-sale",
+      "summary": "Prime Day is making it much easier to pick up a Fitbit without spending more than you want. Both the Fitbit Charge 6 and Fitbit Ace LTE are on steep discounts today. Right now, you can buy the Charge ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-26 15:27:07",
+      "category": "other",
+      "thumbnail": ""
+    },
     {
       "title": "Get $145 Off the Best Mesh Router This Prime Day 2026",
       "link": "https://www.wired.com/story/amazon-prime-day-router-deals-06-26-2026/",
@@ -12,6 +353,61 @@
       "pubDate": "2026-06-26 15:18:06",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6923cb457986ae64be5848c8/master/pass/Unmissable%20Black%20Friday%20Netgear%20Mesh%20Router%20Deals.png"
+    },
+    {
+      "title": "2026 款奇瑞捷途山海 T1 四驱版车型上市：搭 1.5T 混合动力系统，限时焕新价 14.99 万元起",
+      "link": "https://www.ithome.com/0/969/265.htm",
+      "summary": "\nIT之家 6 月 26 日消息，在今天的奇瑞第二届方盒子大会暨新品发布会中，2026 款捷途山海 T1 四驱版上市，该车采用 1.5T 混合动力系统，官方指导价区间为 15.99-18.99 万元，限时焕新价区间为 14.99-17.99 万元。\n\n\n车型\n上市指导价（万元）\n限时焕新价（万元）\n\n\n150km XWD 探索\n15.99\n14.99\n\n\n150km XWD 发现智驾\n16.99\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-26 15:16:09",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/5f4255a6-9add-44e5-8be2-0177eea0b5fc.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "23.99 万元起启境 GT7“玩家首发版”上线：Ultra / Ultra 超长续航版现车，赠送整车延长保修服务",
+      "link": "https://www.ithome.com/0/969/264.htm",
+      "summary": "\nIT之家 6 月 26 日消息，由广汽集团与华为乾崑联合打造的新能源汽车品牌启境汽车今日宣布，启境 GT7“玩家首发版”上线，为官方精选 Ultra、Ultra 超长续航版少量现车，6 月 27 日 21:00 前限时限量抢购，售价 23.99 万元起。\n\n据介绍，该版本预计 2~5 周交付，在限时购车权益基础上享玩家首发专属权益：\n\n赠送整车延长保修服务：赠送 2 年或 6 万公里整车延长保修...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-26 15:13:18",
+      "category": "auto",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/0ee5e21d-946e-436d-917b-5d9e3bc6738e.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "VW may close four factories to adapt to the future, report says",
+      "link": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
+      "summary": "With falling sales in the US and especially China, VW Group wants to restructure....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-26 15:10:03",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2240447022-500x500.jpg"
+    },
+    {
+      "title": "龙芯中科公布 16 核服务器芯片 3C3000，通用计算性能对标 3C5000",
+      "link": "https://www.ithome.com/0/969/263.htm",
+      "summary": "\nIT之家 6 月 26 日消息，龙芯中科官网公布了基于成熟自主工艺的龙芯 3C3000 低成本服务器芯片。\n该芯片是龙芯中科面向低成本服务器领域推出的新一代 16 核通用处理器，其通用计算性能达到龙芯 3C5000 水平。\n\n龙芯 3C3000 基于 LA364E 处理器核设计，采用 FCBGA1371 封装（37.5mm×37.5mm），与龙芯 3B6000 处理器引脚兼容；具备 16 个物理...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-26 15:09:16",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/6e771e70-fe88-411e-bc3c-fa854451de0e.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "2026 款奇瑞捷途自由者 7 PLUS 燃油 SUV 正式上市，限时焕新价 11.99 万元起",
+      "link": "https://www.ithome.com/0/969/262.htm",
+      "summary": "\nIT之家 6 月 26 日消息，在今天的奇瑞第二届方盒子大会暨新品发布会中，2026 款捷途自由者 7 PLUS 正式上市，指导价区间为 14.49-15.99 万元，限时红包价区间为 13.99-15.49 万元，限时焕新价区间为 11.99-13.49 万元。\n\n\n车型\n上市指导价（万元）\n限时红包价（万元）\n限时焕新价（万元）\n\n\n2.0TD-8AT XWD 穿越\n14.49\n13.99\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-26 15:08:32",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/0a713b28-6018-41c9-aeb9-9a38fd5df922.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "22 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
@@ -33,7 +429,7 @@
       "region": "us",
       "pubDate": "2026-06-26 15:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268601_withings_bodyfit_AKrales_0166.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Europe Is Fed Up and Wants Its Own AI",
@@ -47,180 +443,37 @@
       "thumbnail": "https://media.wired.com/photos/6a3d7dcc9d8ba41349d50023/master/pass/Backchannel-Macron-G7-2282316572.jpg"
     },
     {
-      "title": "雷神加速器就服务异常致歉，向受影响用户补偿 50 小时可暂停时长",
-      "link": "https://www.ithome.com/0/969/260.htm",
-      "summary": "\nIT之家 6 月 26 日消息，今日晚间，雷神加速器遭遇大规模恶意网络攻击，导致部分地区用户出现登录困难、客户端加载超时及游戏加速中断等问题。\n截至今日 21:45，其服务已全面恢复。雷神加速器官方发布公告，就此次服务异常向所有受影响用户致歉。\n公告称，受影响范围为正在登录以及部分加速的用户。受影响用户的账号资产、个人数据全程安全，未发生任何泄露情况。为表歉意，雷神加速器向受影响用户提供 50 ...",
+      "title": "宏碁推出“PE270XT”27 英寸显示器：5K 60Hz 量子点触控屏 + 双扬 + 8MP 摄像头 / 麦克风，4999 元",
+      "link": "https://www.ithome.com/0/969/261.htm",
+      "summary": "\nIT之家 6 月 26 日消息，宏碁现已在京东上架一款型号为“PE270XT”的 27 英寸显示器，该机配备一块 5K 触控面板，定价为 4999 元，晒单返 100 元 E 卡。\n\n该机配备一块 5120x2880 分辨率量子点 IPS 面板，支持 10 点触控，峰值亮度 600 尼特，GtG 响应速度 4ms，支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% Adobe RG...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-06-26 14:52:33",
+      "pubDate": "2026-06-26 14:59:41",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/7e3771f4-f45b-4e1f-951b-608070c100dd.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "MyEMS v6.6.0 已经发布，能源管理系统",
+      "link": "https://www.oschina.net/news/468181",
+      "summary": "MyEMS v6.6.0 已经发布，能源管理系统 此版本更新内容包括： 新增功能 在 myems-admin 数据点页面增加搜索框 在 myems-web 报表中新增 DeepSeek AI 分析功能 在 myems-web 门店看板中增加地图组件 功能变更 更新 myems-api 与 myems-web 中的计量表批量报表 更新 myems-api 与 myems-web 中的虚拟表批量报表 ...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-26 14:49:09",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "美国加州公布社会劳动力追踪系统 CAIT ，旨在监测“AI 对就业市场冲击”数据",
-      "link": "https://www.ithome.com/0/969/259.htm",
-      "summary": "\nIT之家 6 月 26 日消息，美国加州州长加文 · 纽森宣布推出一款“California AI-Unemployment Tracker（CAIT）”系统，该系统旨在检测“AI 是否影响美国劳动力市场”。\n据介绍，该系统每月更新一次。其核心逻辑是将失业保险申领数据与各职业的“受 AI 影响程度”进行交叉分析，作为观察 AI 是否引发劳动力市场变化的早期预警系统。根据首份报告，截至今年 5 月...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-26 14:50:59",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果涨价后在美推出 MacBook Neo 等官方翻新机型，价格持平新机原价",
-      "link": "https://www.ithome.com/0/969/257.htm",
-      "summary": "\nIT之家 6 月 26 日消息，在昨晚涨价后，苹果今天在美国、加拿大官网上线了多款官方翻新机型，涵盖 MacBook Neo、MacBook Air（M5）、MacBook Pro（M5 Pro 和 M5 Max），以及今年 3 月发布的第二代 Studio Display。\n\n此次翻新阵容中最受关注的当属 MacBook Neo。这款于今年 3 月发布的入门级笔记本搭载 A18 Pro 芯片和...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-26 14:36:53",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "戴尔 Dell XPS 13 笔记本 2026 款国行上市：酷睿 5 320 处理器，16GB+512GB 售价 8999 元",
-      "link": "https://www.ithome.com/0/969/256.htm",
-      "summary": "\nIT之家 6 月 26 日消息，戴尔 Dell 今日宣布，XPS 13 笔记本 2026 款国行上市，售价 8999 元。\n\n这款笔记本电脑搭载第三代英特尔酷睿 5 320 处理器（6 核心 6 线程，最高频率 4.6 GHz），配备 16 GB LPDDR5X 7467 MT/s 内存和 512 GB SSD 硬盘。\n\n这款笔记本电脑搭载了一块 13.4 英寸 2.5K（2560 x 1600...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-26 14:34:59",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "模拟经营游戏《赛车经理 2》公布：明年春季发售，玩家可申请提前测试权限",
-      "link": "https://www.ithome.com/0/969/255.htm",
-      "summary": "\nIT之家 6 月 26 日消息，开发商 Playsport Games 现已宣布旗下全新赛车管理模拟游戏《赛车经理 2（Motorsport Manager 2）》，本作将于明年登陆 PC 平台，支持简体中文。\n\n据介绍，新作主要带来更丰富的模拟系统、更深入的比赛策略，玩家需要从轮胎策略、天气、车手培养、财务管理、人员配置、长期发展规划多维度经营赛车队，奋战至冠军荣耀。\n目前，本作已上架 Ste...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-26 14:34:16",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Get Off Grid in Style Thanks to This Device—On Sale for Prime Day (2026)",
-      "link": "https://www.wired.com/story/jackerys-power-station-half-off-for-prime-day-06-26-2026/",
-      "summary": "Pick up this deal on Jackery’s most portable battery and power up your adventures wherever they take you....",
-      "source": "Wired",
-      "sourceKey": "wired",
+      "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+      "link": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
+      "summary": "Rock weathering may release or draw down carbon dioxide—it depends on the rock....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
       "region": "us",
-      "pubDate": "2026-06-26 14:30:17",
+      "pubDate": "2026-06-26 14:41:18",
       "category": "other",
-      "thumbnail": "https://media.wired.com/photos/64b87fbfc3f2cf2daf39fccd/master/pass/Jackery-Explorer-2000-Plus-Lifestyle-Gear.png"
-    },
-    {
-      "title": "Hollywood Thrives on ‘Rabid’ Fans. For Publicists, They’re a Nightmare",
-      "link": "https://www.wired.com/story/hollywood-thrives-on-rabid-fans-for-publicists-theyre-a-nightmare/",
-      "summary": "A scuffle between stan account Club Chalamet and another Heated Rivalry die-hard shines a light on how parasocial fans are a publicist’s greatest asset—and liability....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-26 14:28:38",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a3db6a6ea2c52b725f77cba/master/pass/Hollywood%20Needs%20Parasocial%20Fans%E2%80%94But%20Publicists%20Are%20Sick%20Of%20Them%20-%20v3.jpg"
-    },
-    {
-      "title": "索尼 PS5 涨价后 5 月在美国销量暴跌 58%，而 Xbox 创下有史以来最差单月表现",
-      "link": "https://www.ithome.com/0/969/254.htm",
-      "summary": "\nIT之家 6 月 26 日消息，市场调研机构 Circana 发布了最新的 5 月美国游戏市场月度报告。数据显示，5 月美国游戏硬件总支出同比增长 38%，达到 2.49 亿美元（现汇率约合 16.95 亿元人民币）。\n然而，这一增长完全由任天堂 Switch 2 的强势表现所带动 —— 索尼 PlayStation 5 和微软 Xbox Series X|S 表现极为惨淡。\n具体来看，PS5 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-26 14:20:51",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Of course Meta thinks gambling is the future",
-      "link": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
-      "summary": "Meta is, by and large, a company built on other companies' ideas. It has almost perfected the strategy: wait for a new platform or social mechanic to take off, then either buy or clone it, put it next...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-26 14:16:29",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0626_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Meta 为旗下智能眼镜推出不锈钢充电底座：支持快充，60 美元",
-      "link": "https://www.ithome.com/0/969/253.htm",
-      "summary": "\nIT之家 6 月 26 日消息，Meta 宣布为旗下智能眼镜推出一款不锈钢充电底座，兼容雷朋联名眼镜、Oakley Meta HSTN 等产品，不过不支持带屏的雷朋 Display 眼镜，定价为 60 美元（IT之家注：现汇率约合 408.5 元人民币）。\n\n事实上，目前所有 Meta 智能眼镜本身都附带充电盒，因此本次 Meta 新推出的充电底座严格来说并不是必需品，主要是提供了一种更具情绪价...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-26 14:12:58",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "法拉利首款纯电车型 Luce 国内发布，售价 398.8 万元起",
-      "link": "https://www.ithome.com/0/969/252.htm",
-      "summary": "\nIT之家 6 月 26 日消息，法拉利首款纯电车型 Luce 今日在国内首发亮相，新车售价 398.8 万元起。\n\n法拉利 Luce 搭载四电机，0-100km/h 加速时间 2.5 秒，0-200km/h 加速时间为 6.8 秒，极速 310km/h；配备 122 千瓦时电池组，续航里程超过 530 公里。\n\n法拉利 Luce 的设计由 Jony Ive（乔纳森 · 伊夫）与 Marc New...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-26 14:08:14",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Mythos mess is only getting worse",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-26 14:07:03",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "用户不买账，微软宣布放弃 Edge 浏览器的 AI 历史搜索功能",
-      "link": "https://www.ithome.com/0/969/251.htm",
-      "summary": "\nIT之家 6 月 26 日消息，一年前，微软曾满怀信心地为 Edge 浏览器加入了一项基于 AI 的历史记录搜索功能，试图让用户告别关键词精确匹配的束缚。然而这项功能尚未全面铺开，就已被微软叫停。\n\nIT之家注意到，这一变动源于微软在 2026 年 5 月 13 日发布的一项重大调整。微软当时宣布将取消 Edge 浏览器中独立的“Copilot 模式”。\n根据 Microsoft 365 路线图...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-26 14:05:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "启境 GX7 全球首秀：定位智能阔五座 SUV 车型，首创 20 秒一键自动成床",
-      "link": "https://www.ithome.com/0/969/250.htm",
-      "summary": "\nIT之家 6 月 26 日消息，广汽集团与华为乾崑联合打造的高端智能新能源汽车品牌“启境”首款车型 GT7 今日正式宣布上市。\n\n在发布会现场，启境品牌第二款战略车型 —— 启境 GX7 正式迎来全球首秀。IT之家从官方获悉，新车定位新一代智能“阔”五座 SUV，官方表示 GX7 寓意“Grand Exploration”，即“伟大的探索”。\n\n外观方面，启境 GX7 延续了启境 GT7 的家族...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-26 13:56:32",
-      "category": "auto",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Prime Day Deals: 20% off NOCO and Wolfbox Jump-Starters",
-      "link": "https://www.wired.com/story/best-amazon-prime-day-jump-starter-deals-2026/",
-      "summary": "If you don't know you need a jump starter, it’s a sign you really, really need a jump-starter. NOCO and Wolfbox are the best ones....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-26 13:56:22",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a3dc838f39b93129a624fa9/master/pass/Shocking!-The-2-Best-Jump-Starters-Are-Only-$100-for-Prime-Day.jpg"
-    },
-    {
-      "title": "My Family Loves Board Games—Here Are the 12 I’d Buy On Sale During Prime Day (2026)",
-      "link": "https://www.wired.com/story/amazon-prime-day-board-game-deals-june-2026/",
-      "summary": "Looking for family fun this summer? You need these WIRED-recommended Prime Day board game deals....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-26 13:41:13",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a3c433efe44d5e7f2330a56/master/pass/Best-Prime-Day-Board-Game-Deals.jpg"
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/mochras-core-500x500.jpg"
     },
     {
       "title": "SpaceX plans to launch Starlink mobile service in the US",
@@ -232,17 +485,6 @@
       "pubDate": "2026-06-26 13:22:59",
       "category": "space",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240006305-500x500.jpg"
-    },
-    {
-      "title": "Apple’s AirPods Max 2 headphones are still $150 off — for now",
-      "link": "https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale",
-      "summary": "One of the best deals this ongoing Prime Day has been on Apple’s latest flagship headphones. The AirPods Max 2 are still available for a heavily discounted price of $399 ($150 off) at Walmart, even th...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-26 13:06:02",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268418_Apple_AirPods_Max_2_AKrales_0204.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
@@ -278,17 +520,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/c80416a18e5c5d2928f3b4a129fbdc51_1782478719.jpg"
     },
     {
-      "title": "Prime Day is offering rare discounts on Philips Hue smart lights",
-      "link": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
-      "summary": "Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable. Prices have dropped significantly across much of the company’s smart lighting lineup, ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-26 12:30:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Hue-Essential-Livingroom-strip-light-1-16x9-PUP-copy.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
       "link": "https://36kr.com/p/3869884559332356?f=rss",
       "summary": "\n大公司：\n  五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长\n  36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、董事会专门委员会主任委员及委员职务一并自动解除（原定任期至公司第七届董事会日期届满之日即2028年...",
@@ -308,18 +539,7 @@
       "region": "us",
       "pubDate": "2026-06-26 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MJ21_Data_archaeology_spreads-Maxomatic-FIN_01.jpg?w=3000"
-    },
-    {
-      "title": "With GTA looming, consoles are getting expensive at the worst possible time",
-      "link": "https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes",
-      "summary": "The release of Grand Theft Auto VI is a singular moment, the kind of massive cultural phenomenon that makes people want to go out and buy a console to play it. It is the preeminent modern example of w...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-26 12:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_STOCK_305_04_a209e3.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Most companies think they're building a software factory. They're actually just shipping bugs faster.",
@@ -333,28 +553,6 @@
       "thumbnail": ""
     },
     {
-      "title": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
-      "link": "https://www.wired.com/story/walmart-deals-apd-06-26-2026/",
-      "summary": "Welcome to Walmart deals for folks who’d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-26 11:50:08",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a3abc00b35647f689f166fa/master/pass/The-Best-Walmart-Deals-This-Prime-Day.jpg"
-    },
-    {
-      "title": "Samsung will soon start charging to access its smart home API",
-      "link": "https://www.theverge.com/tech/957597/samsung-smartthings-api-charges",
-      "summary": "From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for \"non-commercial, individual developers.\" It won't just be...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-26 11:38:11",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_220504_STK123_0001.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "ThingsPanel v1.2.3 发布：设备分组统计、协议插件统一、ThingsVis 卡片模式",
       "link": "https://www.oschina.net/news/468070/thingspanel-1-2-3-released",
       "summary": "ThingsPanel v1.2.3 发布：设备分组统计、协议插件统一、ThingsVis 卡片模式 开源物联网平台 ThingsPanel 于 2026 年 6 月 18 日发布 v1.2.3 版本。这是 1.2.x 系列的第三个迭代，重点增强了设备管理能力、统一了协议插件体系，并对 ThingsVis 可视化引擎和自动化联动做了持续升级。 一、v1.2.3 更新亮点 1. 设备分组统计......",
@@ -364,17 +562,6 @@
       "pubDate": "2026-06-26 11:15:00",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades",
-      "link": "https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman",
-      "summary": "Apple is expected to shake up its usual Mac silicon release strategy, with Bloomberg's Mark Gurman reporting that there won't be Pro or Max versions of the upcoming M6 chip. Instead, Apple wants to \"f...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-26 11:14:44",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268395_Apple_MacBook_Pro_16_M5_Max_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "10岁小学生，跟AI“聊”出了一款获奖游戏",
@@ -397,39 +584,6 @@
       "pubDate": "2026-06-26 11:00:59",
       "category": "space",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8646-lowres-1-500x500.webp"
-    },
-    {
-      "title": "It’s the last day of Prime Day — here are over 130 great deals to choose from",
-      "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headp...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-26 11:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Which MacBook to Buy (2026): Neo, Air, or Pro?",
-      "link": "https://www.wired.com/story/which-macbook-should-you-buy/",
-      "summary": "After testing each of the MacBooks myself, here's my honest advice on which is right for you....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-26 11:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/69cbff9493b7298932e00d65/master/pass/IMG_3324.JPG"
-    },
-    {
-      "title": "Ivanka Trump and Jared Kushner's Island Resort Could Bring Down Albania’s Prime Minister",
-      "link": "https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/",
-      "summary": "What began as a “flamingo revolution” to protest the $1.4 billion development on Sazan Island has spiraled into mass protests against a ruling party that thousands now want out....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-26 11:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a3d3c2c148f10187e92230b/master/pass/062526-Ivanka-trump-Jared-kusner-Albania.jpg"
     },
     {
       "title": "首个开源鸿蒙机器人操作系统社区启动运营，M-Robots公布年度运营路线",
@@ -564,17 +718,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Trump Mobile will take your $499 right now",
-      "link": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required. Trump Mobile's T1 P...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-26 08:40:21",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/trump-mobile-t1-phone-video-packing-flag-stripes.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Mistral AI 发布 OCR4 模型：支持 170 种语言",
       "link": "https://www.oschina.net/news/467954",
       "summary": "Mistral AI 近日宣布其自主研发的全新文档识别模型 OCR4 已正式亮相。该模型在处理多语言文档方面表现出色，能够支持跨越10个语族的170种语言。 根据公开评估数据，Mistral OCR4在 OmniDocBench 测试中取得了93.07分的成绩，在用户体验测评中表现优于 GPT5.5Pro 和 Gemini3.1Pro Preview 等业界领先的同类产品。 Mistra......",
@@ -670,17 +813,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-06-26 06:55:20",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "璀璨之星 :fire: xbatis 1.10.5 正式发版，最好用最简单最方便的 ORM !!!",
-      "link": "https://www.oschina.net/news/467868",
-      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.5 - 2026-06-21 1：修复插入数据时，未拼上@Table的schema的问题 2：增加局部......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-26 06:48:45",
       "category": "ai",
       "thumbnail": ""
     },
@@ -872,17 +1004,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-500x500.jpg"
     },
     {
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-25 20:19:25",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "FCC may kill $2B program that connects schools and libraries to Internet",
       "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
       "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"...",
@@ -892,39 +1013,6 @@
       "pubDate": "2026-06-25 20:01:08",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/classroom-tablets-500x500.jpg"
-    },
-    {
-      "title": "Polymarket says hackers stole users’ funds",
-      "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-      "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-25 19:58:46",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Xbox follows Apple with price increases ",
-      "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
-      "summary": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-25 19:39:55",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Notion Mail shuts down amid agent takeover",
-      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-      "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-25 19:14:46",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
@@ -960,39 +1048,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-500x500.jpg"
     },
     {
-      "title": "Planet orbits so close to its star that their magnetic fields connect",
-      "link": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
-      "summary": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-25 18:00:39",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-7-500x468.png"
-    },
-    {
-      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
-      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
-      "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-25 17:52:05",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-25 17:38:27",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent  — and it's already in the API",
       "link": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
       "summary": "\nOpenAI has made a significant update to its most widely used language model, GPT-5.5 Instant, which is the default in the free version of ChatGPT. \nThe company announced the upgraded version of GPT-5...",
@@ -1002,17 +1057,6 @@
       "pubDate": "2026-06-25 17:02:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-      "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
-      "summary": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-25 14:40:23",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Original-5471-polestar-3-500x500-1782397788.jpeg"
     },
     {
       "title": "Repositioning retail for the AI era",
@@ -1026,17 +1070,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple ratchets up prices, blames the cost of memory",
-      "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
-      "summary": "Some Macs are hundreds of dollars more expensive today than yesterday....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-25 14:14:37",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_3655-500x500.jpeg"
-    },
-    {
       "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
       "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is ...",
@@ -1045,7 +1078,7 @@
       "region": "us",
       "pubDate": "2026-06-25 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/08/SO21_TR_20210804-personal-0001-thumb.jpg?w=2509"
+      "thumbnail": ""
     },
     {
       "title": "What Europe’s heat wave means for the power grid",
@@ -1081,17 +1114,6 @@
       "thumbnail": ""
     },
     {
-      "title": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
-      "link": "https://www.qbitai.com/2026/06/438658.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-06-25 09:46:44",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
       "link": "https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel",
       "summary": "\nAI agent orchestration platforms are popping up like weeds these days, but London-based AI transformation startup Mindstone's Rebel might be among the most promising I've come across. \nThat's because...",
@@ -1110,28 +1132,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-06-24 21:04:04",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks",
-      "link": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
-      "summary": "\nAlibaba's Qwen team released Qwen-AgentWorld on Tuesday — two models trained not to act inside agent environments, but to predict what those environments return. The release covers seven domains unde...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-24 19:15:36",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Xiaomi's HarnessX rewrites its own AI scaffolding mid-task — and smaller models gain the most",
-      "link": "https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most",
-      "summary": "\nAs enterprise AI agents take on increasingly complex, long-horizon tasks, their performance is often restricted by their harness, the software scaffolding that connects the backbone LLM to its enviro...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-24 18:45:08",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1155,7 +1155,7 @@
       "region": "us",
       "pubDate": "2026-06-24 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2019/12/gamingaddictioneyesthumbnail-9.jpg?w=1000"
+      "thumbnail": ""
     },
     {
       "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
@@ -1177,7 +1177,7 @@
       "region": "us",
       "pubDate": "2026-06-24 11:59:54",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg"
+      "thumbnail": ""
     }
   ]
 }
