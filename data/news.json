@@ -1,7 +1,29 @@
 {
-  "updateTime": "2026-06-28T18:09:55.745Z",
+  "updateTime": "2026-06-28T20:17:47.452Z",
   "total": 107,
   "news": [
+    {
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-28 19:05:39",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+      "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-28 18:49:21",
+      "category": "chip",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/maxplanck-500x500.jpg"
+    },
     {
       "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
       "link": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
@@ -25,7 +47,7 @@
       "thumbnail": ""
     },
     {
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
       "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
       "summary": "Has Silicon Valley been building the wrong things?...",
       "source": "TechCrunch",
@@ -76,6 +98,17 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-06-28 15:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "FocusAny v2.0.0 拖一拖，点一点，你的自动化工作流就搭好了",
+      "link": "https://www.oschina.net/news/469183",
+      "summary": "不再重复复制粘贴、不再手动执行一串命令——可视化编排，一次搭好无限复用。 FocusAny 是一款融合全局搜索、AI 大模型、MCP 协议和插件生态的开源效率工具。v2.0 带来的可视化工作流引擎，让你像搭积木一样搭建自动化流程，从简单的定时任务到复杂的 AI 判断链路，全部在画布上完成。 🧩 可视化编排：6 种节点，想怎么......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-28 14:44:25",
       "category": "ai",
       "thumbnail": ""
     },
@@ -322,6 +355,17 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/5c6351b41352bc60d6bf297d6747beae_1782643483.webp"
     },
     {
+      "title": "无垠式通用代码生成器冰雪女王尝鲜版四发布，新增 HTML 原型模式",
+      "link": "https://www.oschina.net/news/469077",
+      "summary": "无垠式通用代码生成器冰雪女王尝鲜版四发布，新增HTML原型模式 无垠式通用代码生成器冰雪女王尝鲜版四已发布，新增HTML原型模式。并对此的复杂版面功能深入出错，更多测试，更优质量。由于现在编译后的war包已达155M。无法下载。所以请所有用户使用Maven自行从源码编译。 项目地址： https://gitee.com/jerryshensjf/Inf......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-06-28 10:43:07",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "AI预测世界杯小组赛：混元第一，千问、DeepSeek打平",
       "link": "https://www.tmtpost.com/8044355.html",
       "summary": "猜强队稳，猜平局难。...",
@@ -484,7 +528,7 @@
       "region": "cn",
       "pubDate": "2026-06-28 00:37:08",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260626/v2_37deedd3f093467facd0d39ca060a59a@5922386_oswg418866oswg640oswg360_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
@@ -630,17 +674,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-27 12:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
       "link": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
       "summary": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts....",
@@ -704,7 +737,7 @@
       "region": "cn",
       "pubDate": "2026-06-27 07:37:59",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260627/v2_6cb8d0257b294b54b2b54c8e20e07fe9@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "VibeCoding v1.1.52 已经发布，单文件的code agent工具",
@@ -759,7 +792,7 @@
       "region": "cn",
       "pubDate": "2026-06-27 01:40:53",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260626/v2_ac2724e0c8b9469a949d67e3829ad251@6022551_oswg1767331oswg1804oswg1006_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
@@ -781,7 +814,7 @@
       "region": "cn",
       "pubDate": "2026-06-26 23:31:16",
       "category": "robot",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260624/v2_245e2d5a160e4ed9af72f125da58d25e@6310690_oswg338035oswg1024oswg683_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "追赶FSD V14，理想在补哪些课？｜最前线",
@@ -927,17 +960,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
-      "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
-      "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-26 16:24:59",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-500x500.png"
-    },
-    {
       "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
       "link": "https://www.qbitai.com/2026/06/438887.html",
       "summary": "",
@@ -1023,7 +1045,7 @@
       "region": "cn",
       "pubDate": "2026-06-26 10:28:31",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260626/v2_23a3bfcc6f1c43db920180c3d591bae5@6381723_oswg1821876oswg1440oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
@@ -1039,34 +1061,12 @@
     {
       "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
       "link": "https://36kr.com/p/3866837793952769?f=rss",
-      "summary": "\n文 | 海若镜\n  访谈 | 海若镜 ��芮\n  6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。\n  访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。\n  五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生...",
+      "summary": "\n文 | 海若镜\n  访谈 | 海若镜 巴芮\n  6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。\n  访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。\n  五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生已...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-06-26 08:52:52",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mistral AI 发布 OCR4 模型：支持 170 种语言",
-      "link": "https://www.oschina.net/news/467954",
-      "summary": "Mistral AI 近日宣布其自主研发的全新文档识别模型 OCR4 已正式亮相。该模型在处理多语言文档方面表现出色，能够支持跨越10个语族的170种语言。 根据公开评估数据，Mistral OCR4在 OmniDocBench 测试中取得了93.07分的成绩，在用户体验测评中表现优于 GPT5.5Pro 和 Gemini3.1Pro Preview 等业界领先的同类产品。 Mistra......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-26 08:37:36",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "DXVK 3.0 发布",
-      "link": "https://www.oschina.net/news/467943/dxvk-3-0-released",
-      "summary": "DXVK 3.0 现已发布，这是基于 Vulkan API 的 Direct3D 8/9/10/11 实现的最新主要功能版本，可供 Wine 和 Valve 的 Steam Play (Proton) 使用。 DXVK 3.0 的一项重大改进是使用 dxbc-spirv 进行着色器编译，替换了所有受支持着色器模型的旧版着色器转换代码。这修复了许多以前无法解决的问题： 游戏中的渲染问题，可能是由.....",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-06-26 08:22:28",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -1078,7 +1078,7 @@
       "region": "cn",
       "pubDate": "2026-06-26 06:24:40",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260626/v2_0f869b9048f0444d9175f9e0a3f9ccde@430412560_oswg643375oswg1080oswg2341_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
