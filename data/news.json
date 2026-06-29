@@ -1,17 +1,292 @@
 {
-  "updateTime": "2026-06-29T15:59:25.999Z",
-  "total": 97,
+  "updateTime": "2026-06-29T18:18:15.099Z",
+  "total": 99,
   "news": [
     {
-      "title": "安全公司曝光黑客滥用 OpenAI 组织邀请功能，对公司员工进行精准钓鱼攻击",
-      "link": "https://www.ithome.com/0/970/231.htm",
-      "summary": "\nIT之家 6 月 29 日消息，安全公司 Push Security 发文，透露有黑客假借 Push Security 名义，滥用 OpenAI 组织邀请功能对自家员工进行钓鱼攻击，试图诱导员工进入由黑客控制的 AI 工作环境。\n根据 Push Security 的调查，相应黑客首先创建了一个名为“Push Security Inc”的 OpenAI 组织，然后通过 OpenAI 官方通知邮箱 ...",
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-29 17:39:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 visionOS 27.0 开发者预览版 Beta 1 发布",
+      "link": "https://www.ithome.com/0/970/244.htm",
+      "summary": "\n IT之家 6 月 30 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 1 更新（内部版本号：24M5291p）。  \n 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。\n...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-06-29 15:20:46",
+      "pubDate": "2026-06-29 17:31:05",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 macOS 27.0 开发者预览版 Beta 1 发布",
+      "link": "https://www.ithome.com/0/970/243.htm",
+      "summary": "\n IT之家 6 月 30 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 1 更新（内部版本号：26A5353q）。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；\n• 开发预览版：需登...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-29 17:31:05",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 1 发布",
+      "link": "https://www.ithome.com/0/970/242.htm",
+      "summary": "\n 【点此直达升级教程】 \n IT之家 6 月 30 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 1 更新（内部版本号：24A5355q）。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-29 17:31:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 macOS 26.5.2 正式版发布",
+      "link": "https://www.ithome.com/0/970/241.htm",
+      "summary": "\n IT之家 6 月 30 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.5.2 更新（内部版本号：25F84），本次更新距离上次发布正式版间隔 28 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 \n 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 26 发布历史： \n20...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-29 17:31:05",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 iOS/iPadOS 26.5.2 正式版发布",
+      "link": "https://www.ithome.com/0/970/240.htm",
+      "summary": "\n IT之家 6 月 30 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.5.2 更新（内部版本号：23F84），本次更新距离上次发布正式版间隔 28 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 \n 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/i...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-29 17:31:05",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 watchOS 26.6 开发者预览版 Beta 3 发布",
+      "link": "https://www.ithome.com/0/970/239.htm",
+      "summary": "\n 【点此直达升级教程】 \n IT之家 6 月 30 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.6 开发者预览版 Beta 3 更新（内部版本号：23U5049c），本次更新距离上次发布 Beta/RC 间隔 14 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-29 17:31:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 visionOS 26.6 开发者预览版 Beta 3 发布",
+      "link": "https://www.ithome.com/0/970/238.htm",
+      "summary": "\n IT之家 6 月 30 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6 开发者预览版 Beta 3 更新（内部版本号：23O5752d），本次更新距离上次发布 Beta/RC 间隔 14 天。  \n 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n 本文由机器人发布，IT之家稍后将为大家带来...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-29 17:31:04",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 macOS 26.6 开发者预览版 Beta 3 发布",
+      "link": "https://www.ithome.com/0/970/237.htm",
+      "summary": "\n IT之家 6 月 30 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6 开发者预览版 Beta 3 更新（内部版本号：25G5052e），本次更新距离上次发布 Beta/RC 间隔 14 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-29 17:31:03",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 iOS/iPadOS 26.6 开发者预览版 Beta 3 发布",
+      "link": "https://www.ithome.com/0/970/236.htm",
+      "summary": "\n 【点此直达升级教程】 \n IT之家 6 月 30 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6 开发者预览版 Beta 3 更新（内部版本号：23G5052d），本次更新距离上次发布 Beta/RC 间隔 14 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple B...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-29 17:31:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-29 17:03:50",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Trump administration threatens 92 GW of new electricity supply with red tape",
+      "link": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
+      "summary": "The Trump administration's moves threaten $121 billion in new solar and wind power, two energy sources that are the biggest contributors to new capacity in the U.S....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-29 16:58:30",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
+      "link": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
+      "summary": "\nA single fake error report hijacked Claude Code in controlled testing — the agent ran the attacker's code with the developer's full privileges, and not one alert fired. EDR, WAF, IAM, and the firewal...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-29 16:53:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "summary": "TIDAL's new policy will prevent AI-generated music from making money on its service....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-29 16:29:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
+      "link": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
+      "summary": "The Supreme Court's decision to limit geofence warrants is a win for privacy advocates, who called their use unconstitutional but sought an outright ban....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-29 16:05:23",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
+      "link": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
+      "summary": "A heatwave, engine upgrades, plus power levels for the next two seasons....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-29 16:04:52",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2283321542-500x500.jpg"
+    },
+    {
+      "title": "WhatsApp now lets you reserve usernames",
+      "link": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/",
+      "summary": "WhatsApp username can be between 3 to 35 characters....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-29 16:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "WhatsApp is launching usernames: here’s how to reserve yours",
+      "link": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
+      "summary": "WhatsApp is introducing a new way to add and chat with contacts, without having to share your phone number. Usernames will be launching \"later this year,\" in a move to make the communications platform...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-29 16:00:00",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/WhatsApp-username-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-29 16:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Usernames Are Coming to WhatsApp Soon. Here's How to Reserve Yours",
+      "link": "https://www.wired.com/story/how-to-reserve-your-whatsapp-username-before-it-goes-live/",
+      "summary": "Even if you only use WhatsApp sometimes, you might want to snag your username now to stop giving out your phone number....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-29 16:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a3d5a09979872ef6f4ad98a/master/pass/English_WhatsApp_usernames-reservation-2%20copy.jpg"
+    },
+    {
+      "title": "Dbrand’s Steam Machine Companion Cube is canceled",
+      "link": "https://www.theverge.com/games/959056/dbrand-steam-machine-companion-cube-valve-take-down-canceled",
+      "summary": "Dbrand announced Monday that it's refunding everyone who bought its Steam Machine Companion Cube, which it said it made \"without a license from Valve.\" Dbrand announced the Portal-themed Steam Machine...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-29 15:59:45",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/bf23b0bddb286f8a80687208480b0a11e4506ff6-2048x2048-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "《赛博朋克：边缘行者 2》官方预告公开：新成员新故事，今年秋季播出",
+      "link": "https://www.ithome.com/0/970/234.htm",
+      "summary": "\nIT之家 6 月 29 日消息，CDPR 今日公布了《赛博朋克：边缘行者 2》（Cyberpunk: Edgerunners 2）动画的官方预告片，并表示“新成员，新故事，依然是夜之城。”\n法外之地，暴戾无情 —— 欢迎回到这个若不能心狠手辣，就只能被淘汰的残酷世界。\n\n官方表示，《赛博朋克：边缘行者 2》由 CD PROJEKT RED 与 TRIGGER 联合呈献，五十岚海（《赛博朋克：边缘...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-29 15:51:59",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Wildwood featurette lifts the veil on building its stop-motion world",
+      "link": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/",
+      "summary": "Director Travis Knight is also the creative mind behind 2016's Oscar-nominated Kubo and the Two Strings....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-29 15:43:50",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/wildwood-500x500.jpg"
+    },
+    {
+      "title": "In a bold move, Rocket Lab acquires Iridium Communications",
+      "link": "https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/",
+      "summary": "\"We believe this will be one of the most transformative deals in the space industry.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-29 15:33:54",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2180886117-500x500.jpg"
+    },
+    {
+      "title": "液冷龙头成为“减持先锋”，业绩脸朝地，飞龙股份高位套现近5亿",
+      "link": "https://www.tmtpost.com/8046340.html",
+      "summary": "一面是前途远大，箭在弦上；一面是身体诚实，高位套现。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-29 15:32:29",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/f4b46b6a7899ea3748de458843858982_1782747152.png"
+    },
+    {
+      "title": "Think tank games out how to respond to disaster scenarios in space warfare",
+      "link": "https://arstechnica.com/space/2026/06/think-tank-games-out-how-to-respond-to-disaster-scenarios-in-space-warfare/",
+      "summary": "\"Where does the threshold live that an action necessitates some proportional reaction?\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-29 15:21:40",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/9760460-500x500.jpg"
     },
     {
       "title": "These camera-free smart glasses made me feel like Tony Stark",
@@ -25,17 +300,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/xgimimemomindone1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "苹果收购获奖应用 Play 开发商部分资产，App Store 已下架该应用",
-      "link": "https://www.ithome.com/0/970/230.htm",
-      "summary": "\nIT之家 6 月 29 日消息，今年 2 月，苹果向欧盟委员会提交申报，称计划收购 Rabbit 3 Times 公司的部分资产，并有权吸纳该公司部分员工。Rabbit 3 Times 是获奖应用设计工具 Play 的开发方。经过四个月的等待，这份申报文件于本周在欧盟委员会官网对外公示。\n\nPlay 是一款适用于 Mac 与 iPhone 的应用，设计师可借助苹果 SwiftUI 框架制作 iP...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-29 15:15:21",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Supreme Court allows firing of FTC commissioners, ends agency independence",
       "link": "https://www.theverge.com/policy/958974/supreme-court-slaughter-trump-decision-ftc-agency-independence",
       "summary": "The Supreme Court just placed once-independent agencies more firmly under presidential control. The court ruled in Slaughter v. Trump with a 6-3 vote that President Donald Trump had the authority to f...",
@@ -47,92 +311,26 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25301215/STK463_SCOTUS_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "蓝箭航天：参考在手订单，当前单发朱雀三号发射服务收入约 1.5 亿元 / 发次",
-      "link": "https://www.ithome.com/0/970/229.htm",
-      "summary": "\nIT之家 6 月 29 日消息，蓝箭航天今日更新的招股书显示，参照在手订单价格，当前单发朱雀三号运载火箭发射服务收入约为 1.5 亿元 / 发次。\n蓝箭航天预计，2029 年将以朱雀三号运载火箭作为主要发射服务产品。\n蓝箭航天表示，随着朱雀三号达到最终设计状态，其运载能力和可靠性均将得到大幅提升，即使未来因市场竞争等因素造成发射单价下降，单价下降趋势也远小于运力的增长及可靠性增长带来的整箭收入提...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-29 15:09:56",
-      "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "AOC 推出“Q24B35E”23.8 英寸显示器：2K 75Hz，599 元",
-      "link": "https://www.ithome.com/0/970/228.htm",
-      "summary": "\nIT之家 6 月 29 日消息，AOC 现已在京东上架一款型号为“Q24B35E”的 23.8 英寸显示器，该机主打 2K 75Hz，定价为 599 元。\n京东 AOC“Q24B35E”显示器 599 元直达链接\n\n该机配备一块 2560x1440 分辨率 75Hz IPS 面板，显示器亮度 300 尼特，静态对比度 1000:1，GtG 响应速度 4ms，显示器支持 8-Bit 色彩。\n该机支...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-29 14:57:43",
+      "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
+      "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
+      "summary": "The all-stock deal values Iridium at $8 billion and gives Rocket Lab even more firepower to compete against Amazon and SpaceX....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-29 15:02:07",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "同程旅行拟全面要约收购嘀嗒出行，已获后者核心股东支持",
-      "link": "https://www.ithome.com/0/970/227.htm",
-      "summary": "\nIT之家 6 月 29 日消息，今日同程旅行与嘀嗒出行发布联合公告，同程旅行将通过旗下全资子公司 eLong, Inc.向嘀嗒出行发起自愿有条件全面现金要约收购。\n此次要约收购范围包括嘀嗒出行全部已发行股份，并同步处理尚未行使购股权及受限制性股份单位（RSU）相关权益。本次交易已获得嘀嗒出行核心股东支持。嘀嗒出行的五名主要股东已签署不可撤销承诺函，拟接纳要约的股份占嘀嗒出行已发行股本约 53.7...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-29 14:50:36",
+      "title": "Agent confidence on the technical frontier",
+      "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-06-29 14:44:01",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "20.88 万元，领克 07GT 时间限量版 1007 台首发限量已售罄",
-      "link": "https://www.ithome.com/0/970/226.htm",
-      "summary": "\nIT之家 6 月 29 日消息，领克汽车今晚宣布，领克 07GT 时间限量版 1007 台首发限量已售罄。\n\n据IT之家此前报道，在今晚举行的发布会上，领克家族首款旅行车 07GT 开启预售，预售价 16.58 万元起。\n而领克 07GT 时间限量版今晚正式上市，新车上市指导价 20.88 万元，限量首发 1007 台。\n\n\n领克 07GT 时间限量版车漆采用哑光勃朗灰专属色，内饰采用极地蓝专属...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-29 14:47:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "第五代宝马 X5 预告图发布：基于新世代平台，采用独特 X 型灯组",
-      "link": "https://www.ithome.com/0/970/225.htm",
-      "summary": "\nIT之家 6 月 29 日消息，全新第五代宝马 X5 即将迎来首发，宝马今日发布一张新车的预告图，提前曝光了该车多处颠覆性的全新设计改动。2027 款 X5 将成为宝马首款搭载新世代（Neue Klasse）平台与配套技术的车型，新车融入诸多复古风设计元素，既能和 i3、iX3 等纯电车型形成家族统一视觉，同时也配备专属特色配置，和家族其他车型做出明显区分，该车也是该全新架构下首款非纯电动力车型...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-29 14:46:10",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "“白嫖”99.99 美元游戏：Xbox 玩家晒利用微软 Rewards 积分免费换取《GTA 6》终极版",
-      "link": "https://www.ithome.com/0/970/224.htm",
-      "summary": "\nIT之家 6 月 29 日消息，据外媒 PureXbox 报道，有玩家在 Reddit 平台发帖，称自己利用过去三年赚取的 Microsoft Rewards 积分兑换 Xbox 礼品卡，最终免费获得了价值 99.99 美元的《GTA 6（侠盗猎车手 6）》终极版。\n\n目前《GTA 6》标准版定价 79.99 美元（IT之家注：现汇率约合 544.2 元人民币），终极版为 99.99 美元（现汇...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-29 14:40:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "11 年工龄福特工厂员工被控“偷窃 1.95 美元饼干”遭解雇，硬刚到底获清白后怒换新东家",
-      "link": "https://www.ithome.com/0/970/223.htm",
-      "summary": "\nIT之家 6 月 29 日消息，据外媒 phoebewallhoward 报道，一位名为库尔特 · 克罗姆 (Kurt Kromm) 的福特卡车工厂员工在公司任职 11 年，结果却被公司控诉“偷窃 1.95 美元饼干”遭解雇，然而实际上该员工并没有偷窃饼干。\n据报道，这起事情发生在 5 月 9 日凌晨，当时库尔特 · 克罗姆值夜班时血糖偏低感到头晕，于是去食堂自助机买了一块价值 1.95 美元（...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-29 14:25:53",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "美国加州与 Anthropic 达成合作：政府机构可半价使用 Claude",
-      "link": "https://www.ithome.com/0/970/222.htm",
-      "summary": "\nIT之家 6 月 29 日消息，美国加利福尼亚州州长加文・纽森（Gavin Newsom）今日宣布，已与人工智能企业 Anthropic 建立合作伙伴关系，以优惠采购价在加州各级政府全面推广 Claude 系列产品。\nIT之家获悉，各州级行政部门（以及市、县两级政府）能够以五折的优惠价格使用 Anthropic 的 AI 工具 Claude，同时获得免费的培训，以及来自 Anthropic 开发...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-29 14:23:04",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Report-2026-cover.png"
     },
     {
       "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
@@ -201,17 +399,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-29 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The Flipper Zero creators’ Busy Bar productivity display will go on sale next month",
       "link": "https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale",
       "summary": "First announced over a year ago in April 2025, the Busy Bar will be available for purchase starting on July 14th when the device also starts shipping. Created by the same team behind the Flipper Zero ...",
@@ -234,6 +421,17 @@
       "thumbnail": "https://media.wired.com/photos/6a3e755d5cdc2b309c97a471/master/pass/BSB%20M1%20Shop%20Nov25%20mounted%20screen%20v1%20251117%2001%20(1)%20copy.jpg"
     },
     {
+      "title": "不缺客户的昆仑芯，为什么上市前要求投资者“捆绑式”采购芯片？",
+      "link": "https://www.tmtpost.com/8045729.html",
+      "summary": "如若昆仑芯以五百亿美元的估值IPO，将大幅超越母公司百度当下的市值。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-29 12:45:00",
+      "category": "chip",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/116415fc29d7d9fb8d5f6489a34822cb_1782744844.jpg"
+    },
+    {
       "title": "The Download: metric weaknesses and AI elephant warnings",
       "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful ...",
@@ -242,7 +440,7 @@
       "region": "us",
       "pubDate": "2026-06-29 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1159500434.jpg?w=3000"
     },
     {
       "title": "How to end a TV show",
@@ -256,6 +454,17 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/FROM_S4_UT_405_250904_REACHR_03438_R_3000.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "title": "烧光5000亿后，京东方开始给股民赚钱",
+      "link": "https://36kr.com/p/3874045136720899?f=rss",
+      "summary": "\n作者 | 范亮\n  编辑 | 张帆\n  很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。\n  人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价为4.17元/股。二十多年过去，股价累计涨幅只有18%。\n  面板行业的重资产投入和强周期特征，是制...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-29 11:51:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "Comcast is splitting in two",
       "link": "https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement",
       "summary": "Comcast has announced plans to separate itself into two publicly traded companies, spinning off its NBCUniversal and Sky broadcasting arms. The shake up aims to protect the media conglomerate's profit...",
@@ -267,15 +476,26 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKB303_COMCAST_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "The war against ‘woke’ could end US science as we know it",
-      "link": "https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research",
-      "summary": "A sneaky rule change has the potential to blow up scientific research in the United States. But there's still time to fight it. On May 29th, the Office of Management and Budget (OMB) issued a 412-page...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-29 11:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268606_Science_too_woke__CVirginia27.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "title": "10万人重组计划背后，大众开始向德国本土开刀",
+      "link": "https://www.tmtpost.com/8045924.html",
+      "summary": "大众被曝 10 万人重组危机，它不是输给某一家公司，而是撞上了汽车工业的新规则。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-06-29 11:18:39",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/be72f4ca588ac9f6dd25ffc21a1cb2dc_1782731923.png"
+    },
+    {
+      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+      "link": "https://36kr.com/p/3873626425332743?f=rss",
+      "summary": "",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-06-29 11:00:26",
+      "category": "other",
+      "thumbnail": ""
     },
     {
       "title": "Robin Byrd, the Sex Godmother of Millennials, Says the Internet Ruined Porn",
@@ -297,7 +517,7 @@
       "region": "cn",
       "pubDate": "2026-06-29 10:37:59",
       "category": "robot",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/675859f3.png"
     },
     {
       "title": "8.3万次举报，94.8%不实，这届小学老师无奈“躺平”",
@@ -308,7 +528,7 @@
       "region": "cn",
       "pubDate": "2026-06-29 10:37:27",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/b859fcf647eed43e054efbfe1e502d4e_1782729453.jpg"
     },
     {
       "title": "从兜底智驾开始，车圈“拼命”局已开",
@@ -319,7 +539,7 @@
       "region": "cn",
       "pubDate": "2026-06-29 10:37:14",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35yyjthg3.png"
     },
     {
       "title": "只有一条好腿，岚图如何跳出困境？",
@@ -330,7 +550,7 @@
       "region": "cn",
       "pubDate": "2026-06-29 10:35:22",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r2thrhrgr3.png"
     },
     {
       "title": "从AR泡沫到AI风口，Rokid迎来关键一役",
@@ -341,7 +561,7 @@
       "region": "cn",
       "pubDate": "2026-06-29 10:35:17",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/42353.png"
     },
     {
       "title": "对话认知心理学家：为什么学生不喜欢上学？",
@@ -352,7 +572,7 @@
       "region": "cn",
       "pubDate": "2026-06-29 10:35:13",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2f9vubuasv3.png"
     },
     {
       "title": "韩国人为什么这么在乎输赢？",
@@ -363,29 +583,7 @@
       "region": "cn",
       "pubDate": "2026-06-29 10:35:09",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "动力电池新规落地，三五年前的老账怎么算？",
-      "link": "https://www.tmtpost.com/8045721.html",
-      "summary": "续航腰斩，厂家跑路，车贩子都皱眉。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-29 10:33:03",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "科技赛道的硬逻辑与高波动：2026上半年回顾与下半年展望",
-      "link": "https://www.tmtpost.com/8045741.html",
-      "summary": "下半年的科技赛道，不再是闭眼躺赢的黄金赛道。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-29 10:33:00",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t43y54htrtg3.png"
     },
     {
       "title": "Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App",
@@ -397,17 +595,6 @@
       "pubDate": "2026-06-29 10:33:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6a3f384aeaf98432f689e3e1/master/pass/Review--Yeasound-RIC800-Hearing-Aids.jpg"
-    },
-    {
-      "title": "腾讯买了百度芯片",
-      "link": "https://www.tmtpost.com/8045700.html",
-      "summary": "腾讯下单百度昆仑芯，巨头的玩法变了。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-06-29 10:32:58",
-      "category": "chip",
-      "thumbnail": ""
     },
     {
       "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
@@ -674,50 +861,6 @@
       "thumbnail": ""
     },
     {
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-28 21:42:51",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "California law targeting loud streaming ads takes effect on July 1",
-      "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
-      "summary": "Streaming ads might be getting a lot quieter....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-28 21:34:14",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists t...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-28 20:27:36",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-28 19:05:39",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Why did this journal retract two 1940s papers by Max Planck?",
       "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
       "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”...",
@@ -740,50 +883,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
-      "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
-      "summary": "Has Silicon Valley been building the wrong things?...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-28 17:03:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
-      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-28 16:05:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-28 15:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
-      "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
-      "summary": "For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro. ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-28 14:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
       "link": "https://www.qbitai.com/2026/06/439603.html",
       "summary": "杀进一众大厂中间...",
@@ -793,17 +892,6 @@
       "pubDate": "2026-06-28 13:55:50",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "What to Do in Houston If You're Here for Business (2026)",
-      "link": "https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/",
-      "summary": "Where to eat, stay, work, and eat some more while visiting Space City on business....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-28 12:21:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a4049a8d5e2129e79332c13/master/pass/The-WIRED-Guide-to-Houston-for-Business-Travelers.jpg"
     },
     {
       "title": "梁文锋署名的DSpark，看懂这10个点就够了！",
@@ -883,50 +971,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1-500x308.jpg"
     },
     {
-      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-      "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-      "summary": "Illinois passed a similar law, giving services more incentive to make ads less booming....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-26 21:12:07",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1987915833-500x500.jpg"
-    },
-    {
-      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-      "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
-      "summary": "Russian government lashes out at Apple's \"bizarre\" decisions....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-26 20:58:02",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2216537000-500x500-1782506413.jpg"
-    },
-    {
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-26 20:04:55",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-500x500-1782501951.jpg"
-    },
-    {
-      "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
-      "link": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
-      "summary": "FCC refuses to provide messages, has \"wasted a year\" of court's time, filing says....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-26 18:51:04",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/brendan-carr-500x500-1773688514.jpg"
-    },
-    {
       "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
       "link": "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
       "summary": "\nAn endpoint agent cannot report its own absence. The 2026 Axonius Actionability Report, conducted with the Ponemon Institute and surveying 662 IT and security professionals, put a number on a gap SOC...",
@@ -957,7 +1001,7 @@
       "region": "us",
       "pubDate": "2026-06-26 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MJ21_Data_archaeology_spreads-Maxomatic-FIN_01.jpg?w=3000"
     },
     {
       "title": "Most companies think they're building a software factory. They're actually just shipping bugs faster.",
@@ -982,17 +1026,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
-      "link": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
-      "summary": "\nLiquid AI, founded by former MIT computer scientists, today released its smallest AI language model yet, LFM2.5-230M, and enterprises would do well to consider it for their uses in data extraction an...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-25 23:31:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Repositioning retail for the AI era",
       "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants...",
@@ -1012,7 +1045,7 @@
       "region": "us",
       "pubDate": "2026-06-25 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/08/SO21_TR_20210804-personal-0001-thumb.jpg?w=2509"
     },
     {
       "title": "What Europe’s heat wave means for the power grid",
@@ -1056,18 +1089,7 @@
       "region": "us",
       "pubDate": "2026-06-24 12:10:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-      "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment comp...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-06-24 12:00:00",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2019/12/gamingaddictioneyesthumbnail-9.jpg?w=1000"
     }
   ]
 }
