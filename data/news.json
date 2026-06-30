@@ -1,17 +1,171 @@
 {
-  "updateTime": "2026-06-30T21:00:14.346Z",
-  "total": 107,
+  "updateTime": "2026-06-30T23:18:36.127Z",
+  "total": 117,
   "news": [
     {
-      "title": "The DeepMind trio who built a poker AI, are now making money for quant hedge funds",
+      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+      "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+      "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-30 23:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dish files for bankruptcy, but not shutting down",
+      "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
+      "summary": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-30 22:46:52",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Morgan Stanley cut its riskiest reconciliation job in half — by making its agents less autonomous",
+      "link": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
+      "summary": "\nMost enterprise AI deployments so far have focused on coding assistants and customer service bots. Morgan Stanley has deployed agents in one of banking's most accuracy-critical, deadline-driven workf...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-06-30 22:23:41",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "June research roundup: 6 cool science stories we almost missed",
+      "link": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
+      "summary": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-30 22:11:10",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ballistaspider-500x500.jpg"
+    },
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "summary": "The free open source agentic program is finally invading your phone....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-06-30 21:53:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-06-30 21:50:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Reddit will require you to log in to use old.reddit.com",
+      "link": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
+      "summary": "Logged-out Old Reddit access is “significant source of abusive scraping.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-30 21:46:35",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2203349473-500x500-1758049506.jpg"
+    },
+    {
+      "title": "Amazon fined $2.25 million for failing to help identity theft victims",
+      "link": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+      "summary": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-06-30 21:20:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper",
+      "link": "https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/",
+      "summary": "The California-based startup enters a crowded headphone market with a $399 chiseled-aluminum gamble....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-06-30 21:07:32",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a429d965cdc2b309c97ad67/master/pass/Daisy%20One%20Silver%20Hero.jpg"
+    },
+    {
+      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
+      "link": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
+      "summary": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-30 21:04:53",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/MGViZTU1YTIt._CB799536100_-500x500.jpg"
+    },
+    {
+      "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
+      "link": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
+      "summary": "\"That would be an awesome capability.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-30 20:50:14",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/jpegPIA24528-1-500x500.jpg"
+    },
+    {
+      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
+      "summary": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-30 20:38:51",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-stamp-grain-500x500.jpg"
+    },
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
       "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers is now valued at more than $500 million....",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-06-30 20:33:48",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Apple takes Epic fight over app store fees to the Supreme Court",
+      "link": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
+      "summary": "Supreme Court will weigh if Apple contempt finding in Epic case is “erroneous.”...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-30 20:20:29",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1208692911-500x500.jpg"
+    },
+    {
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-06-30 20:03:14",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-500x500.jpg"
     },
     {
       "title": "Acer’s Swift Go 16 is a lot of laptop for $900",
@@ -22,7 +176,7 @@
       "region": "us",
       "pubDate": "2026-06-30 20:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258196_Acer_Swift_16_AI_laptop_CES_2026_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
@@ -33,7 +187,7 @@
       "region": "us",
       "pubDate": "2026-06-30 19:24:51",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
@@ -66,7 +220,7 @@
       "region": "us",
       "pubDate": "2026-06-30 18:42:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/lgoledwoledmain.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
@@ -110,7 +264,7 @@
       "region": "us",
       "pubDate": "2026-06-30 18:14:05",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_7683959b09f7863c5eb23bfdbcf039269765b5d6.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
@@ -165,7 +319,7 @@
       "region": "us",
       "pubDate": "2026-06-30 17:38:23",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/mototag2.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
@@ -187,7 +341,29 @@
       "region": "us",
       "pubDate": "2026-06-30 17:19:15",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果升级 Apple 创作坊：扩展 AI 工具，订阅年费 380 元",
+      "link": "https://www.ithome.com/0/970/790.htm",
+      "summary": "\nIT之家 7 月 1 日消息，苹果公司昨日（6 月 30 日）发布博文，宣布升级 Apple 创作坊，增强 Final Cut Pro 等应用联动，并扩展多项 AI 工具。\n\nIT之家援引博文介绍，用户可以在 Keynote 讲演、Pages 文稿和 Numbers 表格中打开和自定任何图像，还能从 Final Cut Pro 中直接向 Pixelmator Pro 发送关键帧。\nLogic P...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-30 17:04:50",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/1c309c3b-d92f-422f-8811-5b184a513b15.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "前 20 大药企已有 18 家使用，英伟达 AI 工具集 BioNeMo 接入 Claude Science",
+      "link": "https://www.ithome.com/0/970/789.htm",
+      "summary": "\nIT之家 7 月 1 日消息，英伟达昨日（6 月 30 日）发布公告，宣布旗下 NVIDIA BioNeMo Agent Toolkit 已经接入 Anthropic 发布的 Claude Science 研究工作台，面向生命科学研究流程提供加速计算能力。\nIT之家注：Claude Science 是 Anthropic 发布的科学研究 AI 工作台，支持研究人员以自然语言发起任务，并由预配置的...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-06-30 17:04:35",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/7af35ae8-4544-4c35-8547-b9b34ef2aac0.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
@@ -198,7 +374,7 @@
       "region": "us",
       "pubDate": "2026-06-30 17:04:14",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Google’s killing off Tenor GIF searches in other apps",
@@ -209,7 +385,7 @@
       "region": "us",
       "pubDate": "2026-06-30 17:00:05",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25842651/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Threads adds new features to Live Chats as it expands access",
@@ -221,28 +397,6 @@
       "pubDate": "2026-06-30 17:00:00",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-      "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-30 17:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Xbox weighs canceling Blade game and shuttering Arkane",
-      "link": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
-      "summary": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to studio closures or spi...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-30 17:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/yXT9Lzrt7E8-HD.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
@@ -267,17 +421,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Blue Origin still doesn’t know why its New Glenn rocket blew up last month",
-      "link": "https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/",
-      "summary": "But the company is still claiming that New Glenn will return to flight this year....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-06-30 16:09:57",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
       "link": "https://venturebeat.com/technology/google-unveils-nano-banana-2-lite-aka-gemini-3-1-flash-lite-for-low-cost-4-second-fast-enterprise-image-generations",
       "summary": "\nGoogle is upgrading its AI image generation capabilities today with the debut of Nano Banana 2 (NB2) Lite, an optimized model built for rapid execution and tight infrastructure budgets. \nTechnically ...",
@@ -289,28 +432,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The Bose Soundlink Max is $120 off ahead of the July 4th weekend",
-      "link": "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale",
-      "summary": "The Bose Soundlink Max is usually $399, but has been on steep discount this week at Amazon, Best Buy, and directly from Bose for $279. This Bluetooth speaker has a big and bold sound, with a wide soun...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-06-30 16:05:22",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25444301/DSCF7117.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The US going 100% EV by 2040 would save more than 100k lives, study says",
-      "link": "https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/",
-      "summary": "Much of it comes from heavy-duty trucks and buses that burn diesel....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-30 16:03:44",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2208838235-500x500.jpg"
-    },
-    {
       "title": "让国外网友“破防”系列：欧洲多地出现创纪录高温，中国猪圈装空调视频海外爆火",
       "link": "https://www.ithome.com/0/970/788.htm",
       "summary": "\nIT之家 6 月 30 日消息，近日，欧洲多地出现创纪录高温，但仅 20% 的欧洲家庭安装了空调。综合北京日报、RT今日俄罗斯报道，“中国猪圈都安装了空调”的视频在社交媒体 X 上走红。\n\n\n视频显示，为了应对夏日高温，猪圈内装上了挂壁空调，而这一幕也让不少外国网友“破防”。\n而据IT之家昨日报道，欧洲多地遭遇持续高温天气，多地打破高温纪录，发布高温预警。高温天气下，中国制造的移动空调、电扇等纳...",
@@ -319,7 +440,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 15:50:35",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/b489b08e-7eae-413e-8f39-c1be58006415.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "真要砍了？消息称微软停产 Surface Go、Surface Laptop Go，无后续机型研发计划",
@@ -330,18 +451,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 15:45:41",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
-      "link": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
-      "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-30 15:38:08",
-      "category": "space",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280560807-500x500.jpg"
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/c27bca13-bbb3-4c07-bc17-e25d7c28cca0.png"
     },
     {
       "title": "Epic CEO 斯威尼称V社错失《堡垒之夜》《英雄联盟》《原神》等游戏，少赚了几十亿美元",
@@ -352,7 +462,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 15:29:27",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/c1871240-2aa2-410f-995f-36f6fd4459ee.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "华为官宣全球首个商用多模态文旅大模型规模化应用",
@@ -363,7 +473,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 15:27:35",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/f76d684f-2e6f-4f45-85ca-ef7757717bef.jpg"
     },
     {
       "title": "New York Is About to Feel Hotter Than Phoenix",
@@ -385,7 +495,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 15:18:07",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/957f170e-f154-4163-9998-ddd9eb0905ba.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "确认会坚持智界 R7 的 IP，赵长江称后续的改款将会是年度款",
@@ -396,7 +506,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 15:13:47",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/dd5bd0c8-bded-435b-8e82-aa673c4cc9f3.jpg"
     },
     {
       "title": "进厂干活前先上学，谷歌投资的 Apptronik 打造占地 8000 多平米的机器人“学校”",
@@ -407,7 +517,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 15:13:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/68d1ed1a-6827-46b5-9001-991426835349.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "东材科技降价套现，国风新材“咬牙接盘”：三方解套的马拉松重组终局待解",
@@ -418,7 +528,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 15:09:24",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/946e8c70a0239efaa37f215f06bf1cf5_1782832168.png"
+      "thumbnail": ""
     },
     {
       "title": "比亚迪海豹 08 官宣 2 种动力纯电插混标配闪充，新车 7 月 2 日上市",
@@ -429,29 +539,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 14:59:54",
       "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "单芯片混合精度浮点算力达 896TFLOPS，中昊芯英新一代 TPU 芯片「须臾」发布",
-      "link": "https://www.ithome.com/0/970/774.htm",
-      "summary": "\nIT之家 6 月 30 日消息，中昊芯英今天宣布推出新一代全自研高性能 TPU AI 专用芯片「须臾」，软硬件一体化智算底座「泰则 2.0」也在今天同步亮相。\n\n据介绍，须臾的单芯片混合精度浮点算力可达 896 TFLOPS，性能是上一代芯片「刹那」的 3 倍；8-bit 推理算力可达 1792TOPS，适配海量词元高并发推理场景。须臾的显存、芯片内部互联速率均有大幅提升，支持超长上下文。单卡额...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-30 14:51:29",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 电影票房突破 173.54 亿，总场次 7329.6 万创中国影史上半年最高纪录",
-      "link": "https://www.ithome.com/0/970/773.htm",
-      "summary": "\nIT之家 6 月 30 日消息，据灯塔专业版，截至 6 月 30 日 21 时，2026 上半年票房突破 173.54 亿，《飞驰人生 3》成为 2026 上半年票房冠军。\n\n2026 上半年还创造了中国影史上半年场次最高纪录：总人次 4.21 亿、总场次 7329.6 万。另外，《给阿嬷的情书》《镖人：风起大漠》《惊蛰无声》《熊出没 · 年年有熊》分列票房榜第二至第五位。2026 上半年票房 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-06-30 14:38:38",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/5ef66777-6b36-41a1-b9be-b2789b1ab639.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Momenta’s IPO: The Quest for Profitability Behind the \"First Physical AI Stock\"",
@@ -462,29 +550,18 @@
       "region": "cn",
       "pubDate": "2026-06-30 13:56:02",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/9166c427a28f2e69fab477f8139d6c52_1782827725.png"
+      "thumbnail": ""
     },
     {
-      "title": "Florida bans local governments from pursuing net-zero emissions goals",
-      "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
-      "summary": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
+      "title": "The History and Mystery of Fireworks",
+      "link": "https://spectrum.ieee.org/history-of-fireworks",
+      "summary": "\nIn the 1970s, American Fireworks, a family-run pyrotechnics company in Hudson, Ohio, used a “home run box” to offer quick and easy fireworks displays for the Cleveland Indians (now the Cleveland Guar...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-06-30 13:40:16",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-ron-desantis-500x500.jpg"
-    },
-    {
-      "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
-      "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
-      "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-30 13:15:59",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-500x500.png"
+      "pubDate": "2026-06-30 13:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/photo-of-a-fireworks-display-in-a-stadium-with-the-cleveland-indians-logo-in-the-background.jpg?id=66987233&width=1245&height=700&coordinates=0%2C104%2C0%2C104"
     },
     {
       "title": "AI agents need context everywhere they run, even where the cloud can't follow",
@@ -498,6 +575,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Poetry for Engineers: Nine Lives of Nikola Tesla",
+      "link": "https://spectrum.ieee.org/poetry-for-engineers-nine-lives-of-nikola-tesla",
+      "summary": "\n\n\nHe was born into a storm, lightning split the summer sky, in avillage the world had not yet heard of.The midwife called it a bad omen, his mother called it a sign. Your firstlife began in a storm, ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-30 12:24:33",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/blurred-person-with-spinning-wheel-and-bright-light-trail-in-dark-workshop.jpg?id=67005822&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
       "title": "The Download: AI “coworkers” and stratospheric internet",
       "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work t...",
@@ -506,7 +594,7 @@
       "region": "us",
       "pubDate": "2026-06-30 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/02/GettyImages-183068979.jpeg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Agriculture is ready for AI, but its data isn’t",
@@ -517,7 +605,7 @@
       "region": "us",
       "pubDate": "2026-06-30 12:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?w=2309"
+      "thumbnail": ""
     },
     {
       "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系",
@@ -561,7 +649,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 11:10:17",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/a80a27327c2f8b0e8d684bfcc0e260cd_1782817819.jpg"
+      "thumbnail": ""
     },
     {
       "title": "百亿估值只是起点，跨维智能的物理AGI之路",
@@ -583,7 +671,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 11:04:05",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/4d9c60d982c27c7c3593ce6e0499fde9_1782817450.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
@@ -605,7 +693,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 10:54:20",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/06/f665c26d00e22482cf853be99623b0fd_1782816861.png"
+      "thumbnail": ""
     },
     {
       "title": "“发型自由”的LABUBU，戳中了年轻人的哪根神经？",
@@ -616,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 10:48:47",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/06/20260630172907005231.jpg"
+      "thumbnail": ""
     },
     {
       "title": "AI算力正在把全球电网逼到极限",
@@ -627,7 +715,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 10:45:24",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/06/20260630154626986861.jpg"
+      "thumbnail": ""
     },
     {
       "title": "地平线逼近斩登线",
@@ -638,7 +726,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 10:45:21",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y46jytg3.png"
+      "thumbnail": ""
     },
     {
       "title": "字节正式打响管理变革第一枪",
@@ -649,7 +737,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 10:45:19",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t35y46ejyt3.png"
+      "thumbnail": ""
     },
     {
       "title": "Token管够的时代结束了",
@@ -660,7 +748,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 10:45:18",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y46jytg3.png"
+      "thumbnail": ""
     },
     {
       "title": "Bernie Sanders Saw This Coming",
@@ -693,7 +781,7 @@
       "region": "us",
       "pubDate": "2026-06-30 10:23:30",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GZA-Big-Tech-Map-MIIT-Review_with-Focus-Lense.png"
+      "thumbnail": ""
     },
     {
       "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
@@ -715,7 +803,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 10:16:47",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260630/v2_a3491bae1981443cae0b04df1f8b27fc@517825446_oswg441382oswg1266oswg685_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
@@ -946,7 +1034,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 03:39:04",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260630/v2_56275174bf7644359f790d75dae73caf@577536001_oswg256413oswg1080oswg599_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
@@ -957,7 +1045,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 03:24:49",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260630/v2_506f91e58a284e66a2ad6f78486f5e90@5925182_oswg51107oswg1080oswg614_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
@@ -968,7 +1056,7 @@
       "region": "cn",
       "pubDate": "2026-06-30 02:35:33",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260630/v2_22e79eea43ba4420bb3641158edc528f@5920579_oswg128079oswg656oswg593_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
@@ -982,17 +1070,6 @@
       "thumbnail": ""
     },
     {
-      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-      "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-      "summary": "Operation by two Russia-state groups has been ongoing since at least March....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-29 22:05:33",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/russia-hacking-binary-500x500.jpg"
-    },
-    {
       "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
       "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
       "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found....",
@@ -1002,17 +1079,6 @@
       "pubDate": "2026-06-29 21:49:26",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/master/pass/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg"
-    },
-    {
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-29 21:09:43",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-500x500.png"
     },
     {
       "title": "Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts",
@@ -1037,17 +1103,6 @@
       "thumbnail": ""
     },
     {
-      "title": "US renewable boom passes key milestone in April",
-      "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
-      "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-06-29 20:12:30",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2229677995-500x500.jpg"
-    },
-    {
       "title": "AI agents are not your “coworkers”",
       "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r...",
@@ -1059,28 +1114,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
-      "link": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
-      "summary": "\nA single fake error report hijacked Claude Code in controlled testing — the agent ran the attacker's code with the developer's full privileges, and not one alert fired. EDR, WAF, IAM, and the firewal...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-06-29 16:53:14",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Usernames Are Coming to WhatsApp Soon. Here's How to Reserve Yours",
-      "link": "https://www.wired.com/story/how-to-reserve-your-whatsapp-username-before-it-goes-live/",
-      "summary": "Even if you only use WhatsApp sometimes, you might want to snag your username now to stop giving out your phone number....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-06-29 16:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a3d5a09979872ef6f4ad98a/master/pass/English_WhatsApp_usernames-reservation-2%20copy.jpg"
-    },
-    {
       "title": "Agent confidence on the technical frontier",
       "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
       "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount...",
@@ -1089,7 +1122,18 @@
       "region": "us",
       "pubDate": "2026-06-29 14:44:01",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Report-2026-cover.png"
+      "thumbnail": ""
+    },
+    {
+      "title": "The Lab Mistake That Might Revolutionize Computing",
+      "link": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
+      "summary": "\nToday, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-29 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-microchip-under-a-microscope-with-probes-and-orange-wires-attached.jpg?id=66967576&width=1245&height=700&coordinates=0%2C760%2C0%2C761"
     },
     {
       "title": "The Download: metric weaknesses and AI elephant warnings",
@@ -1100,7 +1144,7 @@
       "region": "us",
       "pubDate": "2026-06-29 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1159500434.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "烧光5000亿后，京东方开始给股民赚钱",
@@ -1125,6 +1169,17 @@
       "thumbnail": ""
     },
     {
+      "title": "How the U.S. Engineered Its Sovereignty",
+      "link": "https://spectrum.ieee.org/us-engineered-sovereignty",
+      "summary": "\nIn 1839, J.M.W. Turner painted The Fighting Temeraire. The old warship, once a hero of the Battle of Trafalgar in 1805, glides like a ghost across the canvas, towed by a small steam tug belching smok...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-29 11:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/vintage-collage-of-18th-19th-century-inventions-including-looms-telegraph-rifle-and-typewriter.jpg?id=66985778&width=1245&height=700&coordinates=0%2C16%2C0%2C16"
+    },
+    {
       "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
       "link": "https://36kr.com/p/3874015941645570?f=rss",
       "summary": "\n作者｜黄楠\n  编辑｜袁斯来\n  近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品，\n  一个不可忽视的事实是，在语音和视觉占据智能产品交互主流的今天，触觉作为人类出生后最先发育、最本能的感觉通道，在消费级智能硬件中的潜力尚未被充分释放。大多数智能设备基...",
@@ -1133,7 +1188,7 @@
       "region": "cn",
       "pubDate": "2026-06-29 10:49:39",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260629/v2_31e86d80b007446ba9709f8393995efc@6022551_oswg1936415oswg1600oswg1067_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
@@ -1144,7 +1199,18 @@
       "region": "cn",
       "pubDate": "2026-06-29 08:04:11",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260629/v2_aadb976ec8074d3c834033e4a71d92a5@2057308263_oswg649141oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
+    },
+    {
+      "title": "This Senior Member Solves Complex Product Lifecycle Challenges",
+      "link": "https://spectrum.ieee.org/product-lifecycle-ajay-prasad",
+      "summary": "\nWhat do an instinct to fix things and the 1999 global panic over whether computers would survive the date change to 2000, known as the Y2K bug, have in common? Both helped shape IEEE Senior Member Aj...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-26 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-indian-man-in-glasses-smiling-behind-his-laptop-computer-in-an-office-environment.jpg?id=67034089&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
     },
     {
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
@@ -1155,7 +1221,7 @@
       "region": "us",
       "pubDate": "2026-06-26 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MJ21_Data_archaeology_spreads-Maxomatic-FIN_01.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
@@ -1169,15 +1235,59 @@
       "thumbnail": ""
     },
     {
-      "title": "Repositioning retail for the AI era",
-      "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
+      "title": "Why Does a Bank Need a Chief Scientist?",
+      "link": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
+      "summary": "\nThis article is brought to you by Capital One.\nAfter five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-06-25 14:22:59",
+      "pubDate": "2026-06-25 17:32:32",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/silhouetted-team-working-on-laptops-in-a-glass-walled-office-at-sunset.jpg?id=66903903&width=1245&height=700&coordinates=9%2C0%2C9%2C0"
+    },
+    {
+      "title": "What it Means to Be a Mathematician When AI Does the Math",
+      "link": "https://spectrum.ieee.org/ai-in-mathematics",
+      "summary": "\nIn the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics. My re...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-25 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-photo-shows-a-man-standing-in-front-of-the-projection-of-a-computer-screen-thats-filled-with-computer-code.jpg?id=67007150&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "How IEEE Awardee Karen Panetta Became Bewitched by Engineering",
+      "link": "https://spectrum.ieee.org/ieee-awardee-karen-panetta",
+      "summary": "\nWhen considering the 1960s sitcoms Bewitched and I Dream of Jeannie, both of which featured women with supernatural powers navigating life with mortals, most people wouldn’t connect them with pursuin...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-24 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-white-brunette-woman-smiling-in-a-pink-cardigan.jpg?id=67020891&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Make an Origami Circuit Board",
+      "link": "https://spectrum.ieee.org/origami-circuit-boards",
+      "summary": "\nWhat could you do if you could make a circuit trace by just bending a piece of paper? How about bridging modern technologies and traditional handicrafts while providing opportunities for learning ski...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-24 14:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1245&height=700&coordinates=0%2C469%2C0%2C470"
+    },
+    {
+      "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
+      "link": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "summary": "\n\nSummary\n\nRFIC design is a complex “dark art” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite communications.\nPrinceton researchers use reinforcement learnin...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-06-24 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/abstract-rainbow-blocks-and-shapes-linked-by-flowing-blue-wave-lines-on-white-background.png?id=67001857&width=1245&height=700&coordinates=0%2C753%2C0%2C754"
     }
   ]
 }
