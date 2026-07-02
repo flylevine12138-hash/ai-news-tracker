@@ -1,7 +1,84 @@
 {
-  "updateTime": "2026-07-02T17:56:49.793Z",
+  "updateTime": "2026-07-02T19:43:55.271Z",
   "total": 107,
   "news": [
+    {
+      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+      "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+      "summary": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-02 19:14:46",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-02 18:44:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
+      "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+      "summary": "Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the costs and benefits of services....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-02 18:39:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-02 18:31:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul",
+      "link": "https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/",
+      "summary": "One of Kalshi’s most prominent traders tells WIRED he’s swearing off Spotify-related markets until the issue is resolved....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-02 18:30:59",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a467843a501cf42d472ee3c/master/pass/GettyImages-2277135438.jpg"
+    },
+    {
+      "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
+      "link": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
+      "summary": "If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and access...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-02 18:19:03",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Weber-Spirit-E325-deal-image.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-02 18:01:20",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a45a0b0f1efb2d48b192c77/master/pass/Model-Behavior-Cursor-Will-Keep-Using-Anthropic-OpenAI-Models-After-SpaceX-Deal-Business.jpg"
+    },
     {
       "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
       "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
@@ -12,6 +89,17 @@
       "pubDate": "2026-07-02 17:30:04",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+      "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+      "summary": "New US rules would legalize quiet supersonic flights without the sonic boom....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-02 17:29:37",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-500x500.png"
     },
     {
       "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
@@ -99,7 +187,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 15:52:17",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/cf239298-d523-4b1f-834d-8821de01f367.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Influencer screenings aren’t going away",
@@ -121,7 +209,7 @@
       "region": "us",
       "pubDate": "2026-07-02 15:37:08",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MIT_TP2_2026_V9_Cover.png?w=1555"
+      "thumbnail": ""
     },
     {
       "title": "快手：初始投资者同意向北京可灵注资 20.28 亿美元",
@@ -132,7 +220,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 15:36:38",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/4a4013a5-8502-4384-acd0-aacae0baf065.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "比亚迪累计建成超 7000 座闪充站：遍布 325 个城市，目标年底建成 2 万座",
@@ -143,7 +231,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 15:28:57",
       "category": "energy",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/7bd38687-804a-4f16-b570-f0ca38c6a0a5.jpg"
     },
     {
       "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
@@ -198,7 +286,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 15:13:57",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/f0ff9a83-990d-4760-818e-5ec1a1f1a1ba.jpg"
     },
     {
       "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
@@ -220,7 +308,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 15:12:12",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/1636610d-192f-43ba-a8a7-c5b3ef22e16e.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "微信输入法新增“语音转文字整理”功能，手机、PC 均已上线",
@@ -231,7 +319,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 15:11:38",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/40ce3850-0f41-41ab-8598-854d5cd81d0c.jpg"
     },
     {
       "title": "小鹏汽车：MONA L03 预售订单量打破小鹏所有车型同期小订纪录",
@@ -242,7 +330,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 15:08:27",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/42e90892-cf9f-4957-8758-a2422d886396.jpg"
     },
     {
       "title": "Epic 喜加二：《热血硬派国夫君外传 热血少女 2》《无声狂啸》游戏免费领取",
@@ -253,7 +341,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 15:05:40",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/842e37a4-d98c-4734-9630-9d7ac8862978.jpg"
     },
     {
       "title": "Godox’s feature-packed key light is down to its best price yet",
@@ -275,7 +363,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 14:57:38",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/4c61acad-27a1-431d-8318-0a874a5563b7.png"
     },
     {
       "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
@@ -366,17 +454,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_Lanzi_Digitas.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-02 13:53:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "7 Lesser-Known Google Account Settings You Should Change",
       "link": "https://www.wired.com/story/7-google-account-settings-you-should-change/",
       "summary": "Adjust your options for things like account recovery, ad personalization, and which parts of your Google profile are shared publicly....",
@@ -399,17 +476,6 @@
       "thumbnail": "https://img.36krcdn.com/hsossms/20260702/v2_479f75a076024a17bafa8bcb0cb1a26d@5362858_oswg1152334oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
-      "title": "Tesla saw a massive sales jump in the second quarter",
-      "link": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/",
-      "summary": "The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-02 13:20:15",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Teaching AI to run with the turbines",
       "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
       "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in...",
@@ -421,14 +487,36 @@
       "thumbnail": ""
     },
     {
-      "title": "Rivian raises EV sales forecast as Q2 production ramps up",
-      "link": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
-      "summary": "The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-02 12:30:00",
-      "category": "ai",
+      "title": "百利食品：研发投入不足1%毛利率反超同行，产能闲置仍募资翻倍扩产｜IPO观察",
+      "link": "https://www.tmtpost.com/8049992.html",
+      "summary": "百利食品能成功过会吗？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-02 12:17:51",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Asymmetric Edge: How China’s Small Appliance Challengers Captured Southeast Asia",
+      "link": "https://www.tmtpost.com/8050761.html",
+      "summary": "As the major home-appliance giants push aggressively in Europe and the U.S., going all-in on the premium market, China’s small-appliance brands are launching a “flanking attack” across Southeast Asia....",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-02 12:17:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "远大健科：九成收入来自海外、八成靠亚马逊，重营销轻研发，毛利率远超同行｜IPO观察",
+      "link": "https://www.tmtpost.com/8050291.html",
+      "summary": "笔者注意到，报告期内，远大健科存在市场与渠道双重高度集中的隐患，公司超九成营收来自境外，近八成收入集中于北美区域，同时超八成业绩依托亚马逊单一电商平台实现，海外区域集中度、渠道依存度双双处于高位，市场结构极度单一。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-02 12:16:05",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -439,17 +527,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-07-02 12:10:00",
-      "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?fit=2128,1196"
-    },
-    {
-      "title": "Yep, we’re using OpenClaw to date now",
-      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-02 12:00:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -507,17 +584,6 @@
       "pubDate": "2026-07-02 11:23:47",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-      "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-      "summary": "Google tries balancing AI data center emissions with clean energy efforts....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-02 11:15:49",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2246163658-500x500.jpg"
     },
     {
       "title": "Bublue BuVortex V5 Pool Skimmer Review: An Impractical Cleaner",
@@ -649,7 +715,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 10:21:26",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t35y46ejyt3.png"
+      "thumbnail": ""
     },
     {
       "title": "硅胶娃娃+AI，优必选就想卖宅男88万",
@@ -660,7 +726,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 10:21:24",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/02/2e5d32133d94085ced8258ff5e4df080_1782984832.png"
+      "thumbnail": ""
     },
     {
       "title": "推理成本砍掉一半以上，OpenAI摸着DeepSeek过河",
@@ -671,7 +737,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 10:21:23",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/07/20260702173722403906.jpg"
+      "thumbnail": ""
     },
     {
       "title": "微信 agent，到底能不能帮腾讯赚钱？",
@@ -682,7 +748,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 10:12:37",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/07/20260702165642870963.jpg"
+      "thumbnail": ""
     },
     {
       "title": "内存末日，无人幸免",
@@ -693,7 +759,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 10:12:32",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/02/6d3449c84e10e46bbf6a8d28a6c73643_1782974339.jpeg"
+      "thumbnail": ""
     },
     {
       "title": "养猪成本三年降了3块钱，这轮周期为什么不一样？",
@@ -704,7 +770,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 10:12:29",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/1t5wtg4.png"
+      "thumbnail": ""
     },
     {
       "title": "独家｜奔驰中国新设GTM部门，避免重蹈CLA覆辙",
@@ -715,29 +781,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 10:12:26",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/02/d85c55897cf4a96af073ca803595f748_1782969246.jpeg"
-    },
-    {
-      "title": "AI写的书能不能出版？图书编辑没有答案",
-      "link": "https://www.tmtpost.com/8050086.html",
-      "summary": "能不能用AI写书？编辑们也不知道...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-02 10:12:24",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/07/20260702131848348496.jpg"
-    },
-    {
-      "title": "Meta都要变卖算力了，AI基建泡沫要破了吗？",
-      "link": "https://www.tmtpost.com/8050077.html",
-      "summary": "AI算力开始过剩了吗？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-02 10:12:21",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/55y4jthngbg3.png"
+      "thumbnail": ""
     },
     {
       "title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
@@ -760,17 +804,6 @@
       "pubDate": "2026-07-02 10:00:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "3900亿，深交所最大IPO来了",
-      "link": "https://www.tmtpost.com/8050013.html",
-      "summary": "史无前例，募资规模达245亿元。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-02 09:54:56",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r4t3qegrsdfbvf3.png"
     },
     {
       "title": "630GB 机密文件泄露，苹果供应链遭遇史上最严重安全事件",
@@ -815,17 +848,6 @@
       "pubDate": "2026-07-02 09:13:39",
       "category": "other",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rocket-expand.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse",
-      "link": "https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/",
-      "summary": "Long hours outdoors, day drinking, and World Cup matches are among the factors raising the risks of heat-related illness, as hot weather spreads across the eastern US....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-02 09:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a4558d767fdeb11005ae06d/master/pass/Heat-Domes-Are-Dangerous-Science-2158401574.jpg"
     },
     {
       "title": "Why California’s carbon manure math doesn’t add up",
@@ -940,7 +962,7 @@
     {
       "title": "秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股",
       "link": "https://36kr.com/p/3878131056701447?f=rss",
-      "summary": "\n本文约3300字，建议阅读7分钟\n  作者 | 彭孝秋\n  \n   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏���真实。这是我们第六期，古瑞瓦特。\n  \n  上个月，古瑞瓦特第三次...",
+      "summary": "\n本文约3300字，建议阅读7分钟\n  作者 | 彭孝秋\n  \n   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第六期，古瑞瓦特。\n  \n  上个月，古瑞瓦特第三次向港...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
@@ -969,17 +991,6 @@
       "pubDate": "2026-07-02 05:44:25",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Paramount+ Coupon Codes and Deals for July 2026",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-02 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png"
     },
     {
       "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
@@ -1037,17 +1048,6 @@
       "thumbnail": "https://img.36krcdn.com/hsossms/20260702/v2_51a16351b838490881ad9c0ef74de0ef@5667365_oswg806873oswg1080oswg1549_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
-      "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
-      "link": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
-      "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that a...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-01 22:39:43",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-MacBook-Pro-14-in-hero-251015.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand",
       "link": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
       "summary": "\nAI portfolios are expanding far faster than the ability to govern them across enterprises. Most organizations run a contested field of platforms, each claiming to be the “primary” AI layer; few could...",
@@ -1100,7 +1100,7 @@
       "region": "us",
       "pubDate": "2026-07-01 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/02/Selman-MIT-pill-resize.jpeg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Digital resilience compounds when AI and human expertise scale together",
@@ -1166,7 +1166,7 @@
       "region": "us",
       "pubDate": "2026-06-30 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/02/GettyImages-183068979.jpeg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Agriculture is ready for AI, but its data isn’t",
@@ -1177,7 +1177,7 @@
       "region": "us",
       "pubDate": "2026-06-30 12:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?w=2309"
+      "thumbnail": ""
     }
   ]
 }
