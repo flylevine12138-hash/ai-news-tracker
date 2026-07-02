@@ -1,16 +1,258 @@
 {
-  "updateTime": "2026-07-02T15:21:48.951Z",
+  "updateTime": "2026-07-02T17:56:49.793Z",
   "total": 107,
   "news": [
     {
+      "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+      "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
+      "summary": "A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-02 17:30:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
+      "link": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
+      "summary": "I have not seen anyone put out a date for a new rocket, and actually hit it....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-02 16:46:47",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1-500x500.jpg"
+    },
+    {
+      "title": "Plex debuts 5-year membership pass for $250",
+      "link": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/",
+      "summary": "Plex is pushing customers to newer features and more frequent payments....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-02 16:35:59",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2276656517-500x500.jpg"
+    },
+    {
+      "title": "The video game disc is dead",
+      "link": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
+      "summary": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-02 16:31:09",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
+      "link": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
+      "summary": "Early reports indicate there may be another case, but spread is thought to be localized....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-02 16:30:37",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279919981-500x500.jpg"
+    },
+    {
+      "title": "The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH",
+      "link": "https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/",
+      "summary": "The federal agency says it will temporarily schedule the drug, which has been called “gas station heroin,” as a controlled substance—a boon for MAHA and the mainstream kratom industry....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-02 16:21:40",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a4665ffbc6a7b7d7a89d98f/master/pass/070226_Kratom.jpg"
+    },
+    {
+      "title": "Artificial cell manages a few rounds of cell division",
+      "link": "https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/",
+      "summary": "It only works for a few divisions thanks to a lot of added materials....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-02 16:21:23",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-500x500.jpeg"
+    },
+    {
+      "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
+      "summary": "The EU went after Google for the practice of bundling its search engine and browser with Android....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-02 16:15:41",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-1005907962-500x500.jpg"
+    },
+    {
+      "title": "华为鸿蒙 HarmonyOS API 设备量占比数据更新：7.0.0 Beta1 突破 0.17%，5.0 多个版本归零",
+      "link": "https://www.ithome.com/0/971/956.htm",
+      "summary": "\nIT之家 7 月 2 日消息，华为开发者官网更新了存量设备 API 版本使用数量参考，截止 2026 年 6 月 19 日，HarmonyOS 设备各 API 版本使用量占比如下（数据约 15 天进行一次更新，开发者可根据占比来为应用合理定义需要兼容的 API 版本）：\n\n\nHarmonyOS 版本\nAPI 版本\n设备量占比\n\n\n7.0.0 Beta1\n26.0.0 Beta1\n0.17%\n\n\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-02 15:52:17",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Influencer screenings aren’t going away",
+      "link": "https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings",
+      "summary": "For a few days, it seemed like Universal decided that there would be no advanced screenings of Christopher Nolan's The Odyssey for influencers. But on Monday, influencers sat alongside traditional cri...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-02 15:50:26",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/CT-47787.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Achieving operational excellence with AI",
+      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Le...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-07-02 15:37:08",
+      "category": "ai",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MIT_TP2_2026_V9_Cover.png?w=1555"
+    },
+    {
+      "title": "快手：初始投资者同意向北京可灵注资 20.28 亿美元",
+      "link": "https://www.ithome.com/0/971/954.htm",
+      "summary": "\nIT之家 7 月 2 日消息，快手今日在港交所公告，7 月 2 日（交易时段后），北京可灵（公司的间接全资附属公司，预期于重组完成后将持有快手集团可灵 AI 相关资产及业务）与 21 名独立投资者、甲方及乙方（统称“初始投资者”）、北京可灵集团公司等订立增资协议，据此，初始投资者同意合共以人民币 138.24 亿元（或 20.28 亿美元）的现金资本注入北京可灵，惟须条件获达成或获豁免。\n\n根据...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-02 15:36:38",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "比亚迪累计建成超 7000 座闪充站：遍布 325 个城市，目标年底建成 2 万座",
+      "link": "https://www.ithome.com/0/971/953.htm",
+      "summary": "\nIT之家 7 月 2 日消息，在比亚迪今晚的海豹 08 上市发布会上，比亚迪官方宣布，已累计建成超 7000 座闪充站，遍布 325 个城市，目标 2026 年底建成 2 万座。\n\n在今年 3 月举行的比亚迪二代刀片电池暨闪充技术发布会上，比亚迪发布了全球量产单枪最大功率充电桩 —— 比亚迪闪充桩，单枪充电功率可达 1500KW。\n在使用第二代刀片电池的情况下，比亚迪汽车可以实现 5 分钟电量从...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-02 15:28:57",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
+      "link": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
+      "summary": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-02 15:26:43",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "何小鹏：2030 年中国新能源汽车渗透率会超过 90%，未来每一辆汽车都是四个轮子的机器人",
+      "link": "https://www.ithome.com/0/971/952.htm",
+      "summary": "\nIT之家 7 月 2 日消息，据新浪科技今日报道，在小鹏 MONA L03 中国首秀发布会后，小鹏集团董事长、CEO 何小鹏，小鹏集团车型产品高级总监杨光，小鹏 MONA 车主、代言人欧阳娜娜与媒体对话。\n谈及 AI 对汽车行业的变革，何小鹏表示，数字世界的 AI 在变化，物理世界的 AI 也在变化。上一个十年，我们看到的是新能源汽车跟燃油汽车的变化。在 2014、2015 年的时候，基本上没有...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-02 15:22:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-02 15:20:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
       "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
-      "summary": "TV Time, the popular TV tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products....",
+      "summary": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-07-02 15:14:03",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "何小鹏：自动驾驶发展速度超过预期，未来 3 到 5 年可以看到 L4 甚至 L5 落地",
+      "link": "https://www.ithome.com/0/971/951.htm",
+      "summary": "\n7 月 2 日晚间消息，在小鹏 MONA L03 中国首秀发布会后，小鹏集团董事长、CEO 何小鹏，小鹏集团车型产品高级总监杨光，小鹏 MONA 车主、代言人欧阳娜娜与媒体对话。\n今年 6 月，联合国正式发布了一项全球自动驾驶技术法规 ——ADS GTR，而这部法规的核心制定者之一是中国。\n何小鹏表示，中国的智能辅助驾驶，无论是企业做的效果，还是相关法律法规的制定，都走在全球前面。联合国的这部自...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-02 15:13:57",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+      "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "summary": "Insiders say Sam Altman is in active talks with the Trump administration....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-02 15:12:25",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2267710211-500x500.jpg"
+    },
+    {
+      "title": "Android 17 缺的原生应用锁功能，谷歌仍在持续打磨",
+      "link": "https://www.ithome.com/0/971/949.htm",
+      "summary": "\nIT之家 7 月 2 日消息，据 Android Authority 报道，Android 17 正式版已于上月推送，带来了大量全新功能，但唯独少了一项关键功能：应用锁，这点颇为令人费解。Pixel 手机用户一直期盼系统原生应用锁功能上线，Android Canary 2603 版本中曾出现过该功能，可后续 Canary 预览版又莫名移除了相关支持。好在目前看来这项功能并未被彻底砍掉，谷歌仍在后...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-02 15:12:12",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "微信输入法新增“语音转文字整理”功能，手机、PC 均已上线",
+      "link": "https://www.ithome.com/0/971/948.htm",
+      "summary": "\nIT之家 7 月 2 日消息，微信派今日分享了微信输入法新功能：语音转文字整理以及隔空传送。\n据官方分享的界面，用户点击微信输入法左上角图标，使用“语音转文字”功能，完成后会出现“文字整理”选项，点击即可使用该功能。不止是手机，目前已全量上线 Mac、Windows 双端的最新版微信输入法，也同样支持语音转文字整理。\nIT之家附微信输入法最新版本号如下：\n\n微信输入法 3.5.1 for iOS...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-02 15:11:38",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "小鹏汽车：MONA L03 预售订单量打破小鹏所有车型同期小订纪录",
+      "link": "https://www.ithome.com/0/971/947.htm",
+      "summary": "\nIT之家 7 月 2 日消息，在今晚的 MONA L03 中国首秀活动上，小鹏正式公布了 MONA L03 的预售价，14.38 万元起。新车将于 7 月 16 日正式上市。\n\n小鹏汽车刚刚发文致谢，称 MONA L03 预售订单量打破小鹏所有车型同期小订纪录。\n\n小鹏汽车副总裁 @托马斯电火车 也发文谈及了 MONA L03 的预售“战绩”：\n\n和大家同步一个好消息，截至此时，小鹏 MONA ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-02 15:08:27",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "Epic 喜加二：《热血硬派国夫君外传 热血少女 2》《无声狂啸》游戏免费领取",
+      "link": "https://www.ithome.com/0/971/946.htm",
+      "summary": "\nIT之家 7 月 2 日消息，Epic 本周送出的是清版动作游戏《热血硬派国夫君外传 热血少女 2》和冒险解谜游戏《无声狂啸 (I Have No Mouth, and I Must Scream)》，下周送出的是开放世界建造管理游戏《Nova Lands》和经营管理游戏《纹身大亨》（Tattoo Tycoon）。\n\n领取链接：《热血硬派国夫君外传 热血少女 2》《无声狂啸》\nIT之家附《热血硬...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-02 15:05:40",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -22,6 +264,17 @@
       "region": "us",
       "pubDate": "2026-07-02 15:00:00",
       "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "荣耀 MagicOS 七月更新首曝，聚焦动效、灵动胶囊、锁屏、AI 和智慧互联升级",
+      "link": "https://www.ithome.com/0/971/945.htm",
+      "summary": "\nIT之家 7 月 2 日消息，博主 @旺仔百事通 刚刚分享了荣耀 MagicOS 10 系统的七月更新资讯。博主称，本月的新版本将聚焦动效、灵动胶囊、锁屏、AI 功能和智慧互联的更新。\n\n据介绍，荣耀 MagicOS 本月将带来动态图片水印拍摄、TOP 级游戏应用分身等功能。值得一提的是，MagicOS 还将引入三端 120Hz 投屏功能，属于行业首发。\n另外，MagicOS 锁屏会新增 3D ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-02 14:57:38",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -36,6 +289,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+      "link": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-02 14:39:17",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280413039-500x500.jpg"
+    },
+    {
       "title": "US government says it got hacked — again",
       "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
       "summary": "A top Democrat on the Senate's Intelligence Committee warned that the information accessed on a Homeland Security intelligence-sharing network may risk national security....",
@@ -45,17 +309,6 @@
       "pubDate": "2026-07-02 14:22:36",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "哈苏相机与 Capture One 达成战略合作，为后者带来 3FR 格式 RAW 照片原生支持",
-      "link": "https://www.ithome.com/0/971/936.htm",
-      "summary": "\nIT之家 7 月 2 日消息，哈苏与 Capture One 今日宣布达成战略合作，为 Capture One 引入哈苏中画幅相机 RAW 格式（3FR 文件）原生支持，用户将 Capture One 更新至 16.8.3 版本或将 Capture One Mobile 更新至 3.3.4 即可编辑相应照片。\n哈苏表示，本次 Capture One 专为每款机型创建了专属色彩配置文件，能够让哈苏...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-02 14:17:25",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/1b37034f-4edb-4c8f-bad5-95b33d568a93.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
@@ -69,17 +322,6 @@
       "thumbnail": ""
     },
     {
-      "title": "鸿蒙智行车道级导航未生效？官方回应称将在 ADS 5.0 版本开放该功能",
-      "link": "https://www.ithome.com/0/971/935.htm",
-      "summary": "\nIT之家 7 月 2 日消息，鸿蒙智行服务订阅-增值服务“悄悄”上线了地图数据服务和全新 ADS 辅助驾驶无忧权益。根据车主反馈，领取地图数据服务并将数据切换至百度地图后，可支持车道级导航功能，而且还有一些拐弯场景的实景地图指示。\n\nIT之家注意到，有车主反馈，称自己领取权益后车道级导航地图并未生效。对此，鸿蒙智行官方小助手回应称，将在 ADS 5.0 版本开放该功能。\n\n需要注意的是，车主反馈...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-02 14:16:00",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/9021e2bc-e721-435a-ac95-c964218a65d0.jpg?x-bce-process=image/auto-orient,o_1"
-    },
-    {
       "title": "Tesla’s Q2 sales jump 25 percent",
       "link": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
       "summary": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. The company said that it produc...",
@@ -88,21 +330,21 @@
       "region": "us",
       "pubDate": "2026-07-02 14:14:48",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "压缩软件 WinRAR 发布 7.23 版本，修复内存溢出与路径遍历两项安全漏洞",
-      "link": "https://www.ithome.com/0/971/929.htm",
-      "summary": "\nIT之家 7 月 2 日消息，WinRAR 现已发布 7.23 新版更新，主要修复了两项安全漏洞，分别涉及内存安全问题以及符号链接（Symbolic Link）处理机制缺陷，影响范围涵盖 WinRAR 本体及其相关组件 RAR 和 UnRAR。官方建议用户尽快升级，以降低潜在风险。\n\nIT之家注意到，这次修复的两项漏洞目前尚未分配 CVE 编号，也没有公布 CVSS 严重性评分，官方目前仅提供了...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-02 14:09:42",
+      "title": "Tesla sales increase by 25% in Q2 2026",
+      "link": "https://arstechnica.com/cars/2026/07/tesla-sales-increase-by-25-in-q2-2026/",
+      "summary": "Deliveries outstripped production, suggesting Tesla has cleared some inventory....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-02 14:11:07",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/a8eed0c2-3137-459e-806d-0c8b2e451a24.jpg"
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-187005526-500x500.jpg"
     },
     {
-      "title": "Woman's puzzling decline turns out to be cobalt poisoning from hip replacement",
+      "title": "Woman's hip replacement disintegrates, causing severe metal poisoning",
       "link": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
       "summary": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip....",
       "source": "Ars Technica",
@@ -113,17 +355,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/hip-replacement-500x500.jpg"
     },
     {
-      "title": "泰坦军团“G2785W”27 英寸显示器发售：4K 240Hz QD-OLED 配双扬，4999 元",
-      "link": "https://www.ithome.com/0/971/922.htm",
-      "summary": "\nIT之家 7 月 2 日消息，泰坦军团旗下“G2785W”27 英寸（26.5 英寸）显示器目前已在京东发售，该机主打 4K 240Hz，定价为 4999 元，部分地区国补后低至 4499.1 元。\n京东泰坦军团“G2785W”显示器 4999 元直达链接\n\n该机配备一块 3840x2160 分辨率 240Hz QD-OLED 面板（预计为三星四代面板），GtG 响应速度 0.03ms，峰值亮度...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-02 14:01:53",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/463938/30/3647/112943/6a3a63afF8483e5f5/00833203204db8b9.jpg"
-    },
-    {
       "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
       "link": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
       "summary": "We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions advertising festival in...",
@@ -132,29 +363,7 @@
       "region": "us",
       "pubDate": "2026-07-02 14:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "消息称 Anthropic 启动自研 AI 芯片早期开发，拟采用三星 2 纳米工艺",
-      "link": "https://www.ithome.com/0/971/921.htm",
-      "summary": "\nIT之家 7 月 2 日消息，据 The Information 报道，Anthropic 正与三星洽谈定制人工智能芯片事宜，Anthropic 已启动自研人工智能芯片的早期开发工作。\n\n三位知情人士表示，目前 Anthropic 仍处于方案规划阶段：尚未确定这款处理器的功能定位、算力规格，也未敲定芯片在服务器、服务器集群中的部署方案。公司虽已和多家芯片设计企业展开交流，但尚未进入详细设计、测试...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-02 13:59:49",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/9203ae86-9ba5-4fec-a6ec-12c131967748.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "“史上最严电池安全令”落地，长安汽车金钟罩电池达成新国标测试",
-      "link": "https://www.ithome.com/0/971/919.htm",
-      "summary": "\nIT之家 7 月 2 日消息，2026 年 7 月 1 日，《电动汽车用动力蓄电池安全要求》（GB 38031-2025）这项国家级强制安全标准正式实施，被称作“史上最严电池安全令”。IT之家注意到，长安汽车今日宣布金钟罩电池高标准达成新国标测试。\n\n据其介绍，早在 2022 年，长安汽车便前瞻性对标新规，将金钟罩电池热安全设计标准锚定“不起火、不爆炸”核心要求，并于 2025 年 5 月完整通...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-02 13:58:46",
-      "category": "energy",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/21cb706a-ec54-45bd-8fdf-c31508498ff5.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_Lanzi_Digitas.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
@@ -166,50 +375,6 @@
       "pubDate": "2026-07-02 13:53:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "王雪红：HTC 已成功转型为 AI、XR 内容平台，将于今年第三季度推出新 AI 应用内容",
-      "link": "https://www.ithome.com/0/971/916.htm",
-      "summary": "\nIT之家 7 月 2 日消息，HTC 董事长王雪红在近期召开的股东大会中透露，HTC 已在过去一年成功转型为 AI、XR 内容平台（公司），未来将持续加码布局 AI 可穿戴设备、内容平台和沉浸式技术，并计划在今年第三季度推出新的 AI 应用内容，同时加快欧美市场扩张。\n王雪红表示，当前 AI 已经成为当前全球最重要的产业趋势之一，发展速度明显超出市场预期。目前 HTC 已经完成从传统硬件厂商向 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-02 13:52:14",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "华为乾崑 6 月安全出行报告发布，累计辅助驾驶里程突破 123.5 亿公里",
-      "link": "https://www.ithome.com/0/971/915.htm",
-      "summary": "\nIT之家 7 月 2 日消息，华为乾崑智能汽车解决方案官方微博今日发布了华为乾崑 6 月安全出行报告。\n\n据介绍，华为乾崑智驾累计辅助驾驶里程 123.5 亿公里，月度辅助驾驶里程 8.8 亿公里、月度辅助驾驶时长 1436 万小时，辅助驾驶月活用户 94.3%。\n\n\n\n\nIT之家查询华为乾崑官网获悉，乾崑智驾累计辅助驾驶里程截至目前已突破 124 亿公里，搭载乾崑智驾车辆累计行驶总里程也已突破...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-02 13:51:51",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/3464bc0b-a1d4-4f5f-ade0-a28d5deadce3.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "安全公司警告有黑客针对微软 Microsoft 365 账户发起大规模“密码喷洒”攻击，累计产生超 8100 万次登录请求",
-      "link": "https://www.ithome.com/0/971/914.htm",
-      "summary": "\nIT之家 7 月 2 日消息，安全厂商 Huntress 发文，透露近期有黑客针对微软 Microsoft 365 账户发动大规模密码喷洒（Password Spraying）攻击，黑客主要利用 Microsoft Azure CLI 发起自动化登录尝试，在 6 月 12 日至 26 日期间累计产生超过 8100 万次登录请求，至少有 64 家机构旗下 78 个账户遭到入侵。\nHuntress ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-02 13:46:52",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/e18b9493-a4da-45b4-a460-7e09c03b0cdd.png"
-    },
-    {
-      "title": "阿维塔 07L 将于 7 月中旬开启预售，8 月初上市",
-      "link": "https://www.ithome.com/0/971/913.htm",
-      "summary": "\nIT之家 7 月 2 日消息，据易车 7 月 1 日报道，阿维塔科技宣布，阿维塔 07 系列车型将迎来产品序列更新。其中，阿维塔 07L 将于 7 月中旬开启预售，8 月初上市；现款阿维塔 07 将开展版型调整，双车同台销售。\n阿维塔 07L 的 5 款车色外观，包括弦月银、漠白、墨黑、岩灰和星紫。该车前脸延续家族化设计语言，车顶配备了华为乾崑 896 线激光雷达，同时带有行李架；车身使用半隐藏...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-02 13:44:57",
-      "category": "energy",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/ad929bab-2585-4c0b-8b4e-c43e9d55dd73.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "7 Lesser-Known Google Account Settings You Should Change",
@@ -231,7 +396,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 13:22:24",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260702/v2_479f75a076024a17bafa8bcb0cb1a26d@5362858_oswg1152334oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Tesla saw a massive sales jump in the second quarter",
@@ -297,7 +462,7 @@
       "region": "us",
       "pubDate": "2026-07-02 12:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Silo_Photo_030110.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "8 Best Travel Adapters (2026): My Top Recommendations",
@@ -374,7 +539,7 @@
       "region": "us",
       "pubDate": "2026-07-02 11:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268597_BITTORRENT_25_V30.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "How Trump Helped China Make America’s Cheapest EV",
@@ -473,7 +638,7 @@
       "region": "us",
       "pubDate": "2026-07-02 10:23:27",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "AI大厂，正在互相设防",
@@ -575,17 +740,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/55y4jthngbg3.png"
     },
     {
-      "title": "Editorial: It's time to step up and have your say for science",
-      "link": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
-      "summary": "Your comments on a dangerous rule putting politicals in charge of science can matter....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-02 10:00:27",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2203858255-500x500-1782934189.jpg"
-    },
-    {
       "title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
       "link": "https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
       "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline amid the suffocating presence of Big Tech....",
@@ -660,7 +814,7 @@
       "region": "us",
       "pubDate": "2026-07-02 09:13:39",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rocket-expand.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse",
@@ -693,7 +847,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 08:50:03",
       "category": "auto",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260702/v2_1c9b3239454d4c3184c6fd05b79b13b8@5426566_oswg103165oswg554oswg329_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": ":fire: Solon AI v4.0.3 发布（智能体开发框架，兼容 Java8 到 Java26）",
@@ -786,13 +940,13 @@
     {
       "title": "秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股",
       "link": "https://36kr.com/p/3878131056701447?f=rss",
-      "summary": "\n本文约3300字，建议阅读7分钟\n  作者 | 彭孝秋\n  \n   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第六期，古瑞瓦特。\n  \n  上个月，古瑞瓦特第三次向港...",
+      "summary": "\n本文约3300字，建议阅读7分钟\n  作者 | 彭孝秋\n  \n   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏���真实。这是我们第六期，古瑞瓦特。\n  \n  上个月，古瑞瓦特第三次...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-07-02 06:40:19",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260702/v2_64041329f27645ec8dcd25569a74fee6@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
@@ -817,17 +971,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-02 05:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Paramount+ Coupon Codes and Deals for July 2026",
       "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
       "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more....",
@@ -839,17 +982,6 @@
       "thumbnail": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png"
     },
     {
-      "title": "30% Off Canon Promo Codes | July 2026",
-      "link": "https://www.wired.com/story/canon-promo-code/",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this July....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-02 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg"
-    },
-    {
       "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
       "link": "https://36kr.com/p/3877863381741577?f=rss",
       "summary": "\n作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，深圳可立点科技有限公司（以下简称“可立点科技”）近日完成战略融资，由力合科创领投，江苏中科智能科学技术应用研究院旗下平台跟投。本轮融资将主要用于产品研发迭代、核心团队建设及商业化落地推进。\n  可立点科技总部位于深圳，是一家聚焦“AI+机器人”养老场景的科技公司，围绕银发群体布局家庭陪伴与院内康复两大产品线。目前，公司已推出面向居家养老场景的...",
@@ -858,7 +990,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 02:07:44",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260702/v2_d822f015fb6843539d7ba3dcc5ed901c@5920579_oswg92507oswg674oswg379_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
@@ -869,7 +1001,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 01:33:33",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260702/v2_29d41b66367f47e6b55f35a6f4aa1c37@6221844_oswg550778oswg1068oswg612_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "36氪首发丨北大博士量子团队获高瓴创投领投，国内唯一实现纳开温区量子计算机工程化",
@@ -880,7 +1012,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 01:16:49",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260702/v2_41b4aa3091374092a3d7be8eb016f214@6221844_oswg920864oswg918oswg688_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "专访美图 CEO 吴欣鸿：做 AI 产品，是一场难以提前策划的游戏",
@@ -891,7 +1023,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 00:30:23",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260701/v2_0c4c312a6a83439f95a5a5eef5cf0465@5783683_oswg135280oswg1080oswg450_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "8点1氪丨宾利低至27万，二手豪华燃油车价格大跳水；Anthropic回应暗藏代码检测中国用户；寒武纪市值一日蒸发700亿",
@@ -902,29 +1034,7 @@
       "region": "cn",
       "pubDate": "2026-07-02 00:10:58",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-      "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
-      "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-01 23:57:55",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
-      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
-      "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-01 22:47:04",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260702/v2_51a16351b838490881ad9c0ef74de0ef@5667365_oswg806873oswg1080oswg1549_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
@@ -935,18 +1045,7 @@
       "region": "us",
       "pubDate": "2026-07-01 22:39:43",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The funeral for PlayStation discs has begun",
-      "link": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
-      "summary": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games star...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-01 22:03:37",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-MacBook-Pro-14-in-hero-251015.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand",
@@ -958,94 +1057,6 @@
       "pubDate": "2026-07-01 21:50:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-01 21:21:21",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-500x500.jpg"
-    },
-    {
-      "title": "Xbox’s ‘reset’: all the news about Microsoft’s looming layoffs and studio closures",
-      "link": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
-      "summary": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly promoted chief content officer Matt Booty sent a memo to staff warning of an “Xbox...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-01 21:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "NASA chief praises progress Blue Origin is making after launch failure",
-      "link": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
-      "summary": "\"We've got time into 2027 before we're getting nervous.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-01 19:57:36",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/News_NG-ReturnToFlight_2-RocketLift-500x500.webp"
-    },
-    {
-      "title": "US home battery installations hit record high on rising electricity costs",
-      "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
-      "summary": "Record home battery installations unlock options for grids—and AI data centers....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-01 19:11:15",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2200913289-500x500.jpg"
-    },
-    {
-      "title": "Superworms could replace beetles for cleaning skeletal remains",
-      "link": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
-      "summary": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-01 18:59:21",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/superworms1-500x500-1782914133.jpg"
-    },
-    {
-      "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
-      "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
-      "summary": "“We will own nothing, it's truly sad.”...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-01 18:41:49",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2186493403-500x500.jpg"
-    },
-    {
-      "title": "A good little EV you won't be able to buy soon: The Volvo EX30 Cross Country",
-      "link": "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
-      "summary": "Tariffs and anti-China policies killed this little Volvo in the United States....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-01 18:24:04",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/2026-Volvo-EX30-Cross-Country-1-500x500.jpg"
-    },
-    {
-      "title": "Ithaca's king defies the gods in final The Odyssey trailer",
-      "link": "https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/",
-      "summary": "\"You gods don't speak in ways we understand.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-01 16:58:30",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey-500x500.jpg"
     },
     {
       "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
@@ -1167,17 +1178,6 @@
       "pubDate": "2026-06-30 12:00:00",
       "category": "ai",
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?w=2309"
-    },
-    {
-      "title": "Building tech in the world’s secret R&amp;D hub",
-      "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&amp;D hubs from all of these companies. Fewer still are concentrated in a city...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-06-30 10:23:30",
-      "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GZA-Big-Tech-Map-MIIT-Review_with-Focus-Lense.png"
     }
   ]
 }
