@@ -1,48 +1,422 @@
 {
-  "updateTime": "2026-07-08T00:04:05.301Z",
+  "updateTime": "2026-07-08T04:19:27.668Z",
   "total": 117,
   "news": [
     {
-      "title": "玩家退订 PS+ 抗议“光盘政策”后：索尼开始为部分用户提供大额折扣，最高直降 50%",
-      "link": "https://www.ithome.com/0/973/818.htm",
-      "summary": "\nIT之家 7 月 8 日消息，索尼上周宣布将于 2028 年起停止生产 PS5 实体游戏光盘后，有部分玩家群体发起抵制行动，试图以退订 PlayStation Plus 会员的行为逼迫索尼撤回这一决定。\n然而有用户发现，索尼在面对这一情况时，竟然开始向部分试图取消 PS+ 的用户提供了极为罕见的折扣优惠，降幅高达 25~50%。\n\n当地时间 7 月 1 日，索尼官方宣布自 2028 年 1 月起...",
+      "title": "字节调集数十名员工做豆包导航",
+      "link": "https://www.tmtpost.com/8056535.html",
+      "summary": "从地图到服务，字节在拼一张AI生态版图。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:54:24",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5hyjtng3.png"
+    },
+    {
+      "title": "DeepSeek 正在自研面向推理场景的 AI 芯片",
+      "link": "https://www.oschina.net/news/471557",
+      "summary": "根据路透社的独家报道，三位知情人士透露，DeepSeek 正在开发自己的 AI 芯片。这是一款推理芯片，而非训练芯片。用途明确——在模型完成训练后，用于高效运行模型并生成用户响应。 DeepSeek 当前的算力基础设施建立在 Nvidia H800 和华为昇腾芯片之上。美国出口管制让中国公司无法买到 Nvidia 最新最强的 GPU，而华为昇腾......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:46:40",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "消息称苹果正为在中销售设备测试长鑫 DRAM 内存",
+      "link": "https://www.ithome.com/0/973/933.htm",
+      "summary": "\nIT之家 7 月 8 日消息，据英国《金融时报》北京时间今晨报道，两位消息人士表示 Apple（苹果）已开始为面向中国市场销售的设备测试来自长鑫存储的 DRAM 内存芯片。\n\n这家老牌英媒此前曾表示，苹果正就采购长鑫存储 DRAM 的许可游说美国政府；而根据彭博社的报道苹果也有意购买来自长江存储的 NAND 闪存产品。苹果的这些举措旨在强化其供应链韧性，提升对存储半导体后市进一步变化的抵御能力。...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-07 23:03:06",
+      "pubDate": "2026-07-08 03:39:27",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "三星 Galaxy A18 手机渲染图曝光，5G 版将改用高通芯片",
+      "link": "https://www.ithome.com/0/973/932.htm",
+      "summary": "\nIT之家 7 月 8 日消息，科技媒体 smartphonechecker 昨日（7 月 7 日）发布博文，分享了一组渲染图，基于三星向手机配件厂商供应的 CAD 数据构建，展示了三星 Galaxy A18 手机。\n\n外观方面，Galaxy A18 5G 机身尺寸为 164.4 × 77.8 × 7.84mm，含后摄凸起厚度为 9.74mm。相比较三星 Galaxy A17（尺寸为 164.4 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:39:23",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta 在聊天机器人和 Instagram 中推出 AI 图像生成模型",
+      "link": "https://www.oschina.net/news/471556",
+      "summary": "Meta 正式推出全新AI图像生成模型Muse Image，这是其旗下Meta超级智能实验室发布的首个图像生成模型。该模型已通过Meta AI应用免费提供，并同步登陆Instagram和WhatsApp两大社交平台，用户通过简单的对话式语言描述需求即可生成高质量图像。 Meta介绍了几个典型用法：模拟你站在历史地标前的照片、干净擦除背景中抢镜的路......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:34:58",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6",
+      "link": "https://www.ithome.com/0/973/922.htm",
+      "summary": "\nIT之家 7 月 8 日消息，Axios 刚刚报道称，美国商务部已正式批准 OpenAI 大规模发布其先进 AI 模型 GPT-5.6。OpenAI 预计将在本周内完成最后准备工作后正式向公众推出该模型。\n\n此前，出于对国家安全考量，美国政府曾要求 OpenAI 对 GPT-5.6 采取分阶段发布策略。上个月，该模型仅获准向经政府批准的有限实体开放。OpenAI 当时明确表示，分阶段发布并非其首...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:30:52",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "调查发现 31% 的 Steam 用户对游戏中使用 AI 不满，43% 表示可以接受",
+      "link": "https://www.ithome.com/0/973/921.htm",
+      "summary": "\nIT之家 7 月 8 日消息，据外媒 Gamesradar 今天（8 日）报道，GameDiscoverCo newsletter 对 3800 名 Steam 玩家进行了调查，结果显示，相当多受访者对 AI 进入电子游戏并不反感。\n在受访者中，高达 23.4% 的人称自己“完全不介意”，另有 19.6% 的人称自己“可以接受”。\n占比最高的是中立派。25.6% 的受访者对游戏中的 AI 持“中...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:30:23",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "泡泡玛特“出尔反尔”",
+      "link": "https://www.tmtpost.com/8056733.html",
+      "summary": "LABUBU能不能真正成为有生命力的世界级IP？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:26:22",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/07/20260708092249712771.jpg"
+    },
+    {
+      "title": "姚顺雨的半年考，Hy3的“三板斧”",
+      "link": "https://www.tmtpost.com/8056549.html",
+      "summary": "混元筑基...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:26:19",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/07/22db70d43a93a76f9be1d9d310acc531_1783437472.png"
+    },
+    {
+      "title": "StatCounter 称 6 月全球桌面系统中 Windows 占比首次跌破 60%",
+      "link": "https://www.ithome.com/0/973/914.htm",
+      "summary": "\nIT之家 7 月 8 日消息，科技媒体 linuxiac 昨日（7 月 7 日）发布博文，基于 StatCounter 公布的 2026 年 6 月全球桌面操作系统份额，Windows 系统占比份额首次跌破 60%。\nIT之家基于该机构数据，附上过去 3 个月全球桌面操作系统份额情况如下：\n\n\n\nWindows\nOS X\nmacOS\nLinux\nChromeOS\n\n\n6 月\n56.55%\n11....",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:24:47",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "苹果向 AirPods Pro 3 等耳机推送 9A5314b 开发固件，支持 GymKit 健身器材同步心率",
-      "link": "https://www.ithome.com/0/973/816.htm",
-      "summary": "\nIT之家 7 月 8 日消息，科技媒体 AppleInsider 昨日（7 月 7 日）发布博文，报道称苹果面向 AirPods 4、AirPods Pro 2（Lightning 和 USB-C 接口）、AirPods Pro 3 四款耳机，推送 9A5314b 开发者测试版固件更新，对应版本号为 9.0.314。\n在安装条件方面，该固件需要连接 iPhone（需运行 iOS 26 及更高版本...",
+      "title": "联想推出拯救者随身 WiFi LM50S：150Mbps 速率，3000mAh 电池",
+      "link": "https://www.ithome.com/0/973/907.htm",
+      "summary": "\nIT之家 7 月 8 日消息，联想 (Lenovo) 现已推出型号 LM50S 的新款拯救者随身 WiFi。这一产品售价 59 元，赠送 1500GB 免费流量。\n\nLM50S 基于中兴 28nm 芯片，支持 4G LTE 和 Wi-Fi 6 规范，可在三大电信运营商间切换网络，允许 10 台设备同时连接，能实现至高 150Mbps 的下载速率，还具备高频穿墙技术。\n其内置 3000mAh 电池...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-07 23:00:37",
+      "pubDate": "2026-07-08 03:20:17",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "减少对外依赖：微软自研 AI 模型 MAI 开始接手 Office 应用，逐步替代 OpenAI 和 Anthropic",
-      "link": "https://www.ithome.com/0/973/815.htm",
-      "summary": "\nIT之家 7 月 8 日消息，据彭博社报道，微软已开始在 Excel 和 Outlook 等软件产品中使用内部自研的 MAI 模型来替代 OpenAI 和 Anthropic 的模型，以降低 AI 成本。\n\n知情人士透露，在电子表格和电子邮件应用中，目前每周有数万条 AI 提示由微软自研的 MAI 模型完成，而此前 Excel 和 Outlook 更依赖 OpenAI 和 Anthropic 的...",
+      "title": "2025 年度国家最高科学技术奖揭晓，我国锂电池领域奠基人陈立泉、机载脉冲多普勒雷达技术奠基人贲德获奖",
+      "link": "https://www.ithome.com/0/973/906.htm",
+      "summary": "\nIT之家 7 月 8 日消息，据新华社报道，2025 年度国家最高科学技术奖 7 月 8 日在京揭晓，陈立泉院士、贲德院士获国家最高科学技术奖。\n\n陈立泉，男，1940 年出生，中国科学院物理研究所研究员，我国锂电池领域的奠基人、开拓者和引领者，中国工程院院士。\n贲德，男，1938 年出生，中国电子科技集团有限公司研究员，我国机载脉冲多普勒雷达技术的奠基者、相控阵雷达技术的主要开创者、天基监视雷...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-07 22:47:35",
+      "pubDate": "2026-07-08 03:20:17",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践",
+      "link": "https://my.oschina.net/selectdb/blog/19717121",
+      "summary": "导读：快手 AB 指标生产场景从 Spark 切换到 Doris 提速 145 倍、资源消耗下降 72%，并刷新了 Doris 单机群最大规模：2000 节点、10 万核。本文介绍快手数据平台团队为什么选择 Apache Doris 构建 AB 实验平台，针对 AB 指标生产场景进行了哪些落地过程中的存储、计算、调度、稳定性等方面优化。快手的干货分享，对需要构......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:19:56",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rapidus 拟定 2nm 晶圆代工每片 300 万日元起，称定价不能输给台积电",
+      "link": "https://www.ithome.com/0/973/904.htm",
+      "summary": "\nIT之家 7 月 8 日消息，日本政府力推的半导体“国家队”Rapidus，正在向 2027 年量产 2nm 芯片的目标全速冲刺。\n这家成立于 2022 年 8 月、由丰田、索尼、软银、富士通等八家日本产业巨头共同出资筹办的企业，已在其北海道千岁市的 IIM-1 晶圆厂完成了 2nm 全环绕栅极（GAA）晶体管的试制与测试流片。\n据 Rapidus 方面透露，其 2nm 晶圆的代工定价目标为每片...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:19:20",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "兰博基尼发布 Vision Pro 应用：Urus SE 等 4 款车型，支持 1:1 实车投放",
-      "link": "https://www.ithome.com/0/973/814.htm",
-      "summary": "\nIT之家 7 月 8 日消息，兰博基尼昨日（7 月 7 日）发布博文，宣布推进数字化创新，面向苹果 Vision Pro 头显，推出官方 Lamborghini 应用程序。\n\n该应用首发上线 Temerario、Revuelto、Urus SE 与 Urus SE Performante 四款车型，其中 Urus SE Performante 计划本周在古德伍德速度节活动中实车首秀，用户可以提前...",
+      "title": "迅雷传播盗版《我是刑警》被判赔给爱奇艺 786 万元，法院明确不能仅凭“技术中立”规避侵权责任",
+      "link": "https://www.ithome.com/0/973/903.htm",
+      "summary": "\nIT之家 7 月 8 日消息，据信网今日报道，上海知识产权法院就热播剧《我是刑警》著作权侵权纠纷案作出二审终审判决，驳回涉案双方上诉，维持原判。\n深圳市迅雷网络技术有限公司（以下简称“迅雷公司”）因其运营的“流畅播”“云添加”功能批量传播盗版资源，被判赔偿北京爱奇艺科技有限公司（以下简称“爱奇艺公司”）经济损失及维权开支共计 786 万元。\n报道称，该案二审对侵权定性作出重要调整 —— 撤销了一...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-07 22:42:51",
+      "pubDate": "2026-07-08 03:19:12",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "800万个AI角色，被大厂亲手关掉",
+      "link": "https://www.tmtpost.com/8056813.html",
+      "summary": "用户亲手创造的AI角色，正在陆续下线。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:18:50",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r4t3qegrsdfbvf3.png"
+    },
+    {
+      "title": "依赖谷歌、TikTok，流量“中间商”米多多闯港股：三年累亏超4100万美元",
+      "link": "https://www.tmtpost.com/8056810.html",
+      "summary": "背负上市对赌协议。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:18:48",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/07/20260708101148840306.jpg"
+    },
+    {
+      "title": "Momenta今日港交所挂牌，市值突破700亿港元",
+      "link": "https://www.tmtpost.com/8056886.html",
+      "summary": "资本热度之外，量产规模、收入质量和Robotaxi落地将决定其后续估值支撑。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:12:32",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/e7da484bbc53bc166f634803b77b4b3a_1783480354.jpg"
+    },
+    {
+      "title": "腾讯“置换”快手：留下身体，带走心脏",
+      "link": "https://www.tmtpost.com/8056824.html",
+      "summary": "腾讯买入的，是快手即将展开的新叙事。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:11:26",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/25y46ujyhrtgr3.png"
+    },
+    {
+      "title": "为什么更好的技术反而让股价下跌？华为韬定律的V1/V2反差揭示投资认知周期",
+      "link": "https://www.tmtpost.com/8055339.html",
+      "summary": "韬定律V1涨6%、V2跌1.36%的相反反应，揭示了投资从\"信念交易\"到\"事实验证\"的必然周期。关键不是数据好坏，而是市场认知阶段已变。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:11:25",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35yyjthg3.png"
+    },
+    {
+      "title": "资本疯抢、玩家扎堆，脑机接口真的要来了？",
+      "link": "https://www.tmtpost.com/8056853.html",
+      "summary": "拿证只是起点，赚钱才是难题。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:11:22",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/y54htrg3.png"
+    },
+    {
+      "title": "标致 CEO 法维重申东风平台新车是“真标致”，但不会卖到欧洲",
+      "link": "https://www.ithome.com/0/973/894.htm",
+      "summary": "\nIT之家 7 月 8 日消息，标致此前官宣了两款全新旗舰纯电车型“狮锐”“琉明”，均基于东风平台打造。据外媒 Autocar 当地时间 7 日报道，标致 CEO 阿兰 · 法维重申，将确保新车保留“真正的标致”质感，不过不会进入欧洲市场。\n标致今年早些时候在北京车展发布了两款全新概念车，面向高端市场，将由标致与合资伙伴东风联合开发，并采用东风的架构和动力系统。其中一款是风格接近 508 的旅行车...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:10:36",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
+      "link": "https://36kr.com/p/3886403765596418?f=rss",
+      "summary": "\n2026年，AI视频生成赛道已迈入全面爆发的成熟竞速期，Seedance 2.0 的出圈更是让AI视频变成一场“全民狂欢”。\n  短短两年间，AI视频从最初几秒的碎片化模糊画面，到如今分钟级长视频的连贯叙事、真实物理世界的精准还原，AI视频工具的迭代速度远超预期，AI视频工具完成了从“能用”到“好用”再到“专业”的三级跳，让创意落地的门槛降至新低——专业团队能用它预演大片，普通用户也能一键生成爆...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-08 03:03:34",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260708/v2_a27530e94b84498fad31e9db99d0399e@6390519_oswg441942oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "知名 LLVM Linux 开发者高调回归",
+      "link": "https://www.oschina.net/news/471550",
+      "summary": "谷歌的 Nick Desaulniers 曾是 Linux 内核 LLVM 支持的维护者，负责监督内核源代码树中各种 LLVM 元素的上游合并和后续开发。但在 2025 年 2 月，他离开谷歌加入特斯拉，此后便停止了对 Linux 内核的贡献。 时至今日，Desaulniers 已重返谷歌，并宣布将再次为 Linux 内核做出贡献。他提交了一个补丁，将自己的电子邮件地......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-08 02:58:46",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI猜球总翻车？世界杯给了大模型一次压力测试",
+      "link": "https://www.tmtpost.com/8052191.html",
+      "summary": "赛场之外，一场关于国产AI大模型的淘汰赛也进入到了考验期。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-08 02:58:07",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/20260703164417534.png"
+    },
+    {
+      "title": "36氪首发 | 五粮液基金领投，国产高端机床企业获数亿元融资，加速海外市场布局",
+      "link": "https://36kr.com/p/3886400975040520?f=rss",
+      "summary": "\n作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，高端机床企业上海星合近日完成数亿元融资。本轮融资由五粮液基金领投，上市公司麦格米特跟投，深蓝资本担任长期独家财务顾问。融资资金将主要用于高端磨齿机、磨床、铣床等产品的研发投入，并推动新产品及海外市场的商业化。\n  成立于2009年的星合机电长期聚焦高端机床研发制造，目前产品覆盖高端磨齿机、磨床、铣床等精密加工设备，主要应用于汽车制造、机器人、...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-08 02:52:31",
+      "category": "robot",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260708/v2_ea08d959ade7460390c10dab74babbc9@5920579_oswg156394oswg536oswg359_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "XWayland 24.1.13 发布",
+      "link": "https://www.oschina.net/news/471549/xwayland-24-1-13-released",
+      "summary": "XWayland 24.1.13 现已发布，修复了两个安全漏洞。 CVE-2026-55999：glamor Font Atlas Heap Buffer Overflow CVE-2026-56000：CommonMakeCurrent() 中的 GLX contextTags Use-After-Free 此外，还包括一些其他的小的清理修复工作。 xkb：realloc 分配失败时保留缓冲区 ...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-08 02:44:18",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "英伟达开源统一音频智能模型 Nemotron-Labs-Audex-30B-A3B",
+      "link": "https://www.oschina.net/news/471548",
+      "summary": "NVIDIA 研究团队近日开源了一款名为 Nemotron-Labs-Audex-30B-A3B（简称 Audex）的统一音频-文本大语言模型。 Audex 的设计理念非常简洁高效。它基于强大的纯文本 MoE（混合专家模型）架构构建，采用单一的 Transformer 解码器，实现了文本与量化音频 token 的统一处理。这种架构不仅让音频输入能够平滑地投影到文本嵌入......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-08 02:34:36",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": ":tada:Feat v2.2.0 发布：像 SpringBoot 一样好写，比 Vert.x 快两倍",
+      "link": "https://www.oschina.net/news/471547/feat-2-2-0-released",
+      "summary": "先给第一次了解 Feat 的朋友一句话介绍： Feat 是一款国产 Java Web 框架，开发体验近似 Spring Boot，运行速度远超 Vert.x 集成自研 smart-socket 引擎，支持 HTTP/2、WebSocket，编译期生成代码零反射，启动快、内存小、吞吐量高。 前段时间我们发了篇文章《Spring Boot 内嵌 Tomcat，是进步还是退步？》，评论区那叫一......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-08 02:18:46",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Openfire 5.1.1 发布",
+      "link": "https://www.oschina.net/news/471546/openfire-5-1-1-released",
+      "summary": "Openfire 5.1.1 现已发布，包括一系列的错误修复和功能改进，尤其注重 PubSub 功能的正确性和连接处理。 本次版本更新主要针对 Pub/Sub 功能进行了优化。修复了由臃肿的 ofPubsubSubscription 表导致的内存消耗过高问题（OF-3306），以及其他一些与 pub/sub 功能相关的较小问题。 连接处理也得到了关注。解决了一个棘手的......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-08 02:17:27",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Excelize 开源十周年，发布 2.11.0 版本",
+      "link": "https://www.oschina.net/news/471545",
+      "summary": "Excelize 是一款用于操作 Office Excel 电子表格办公文档的开源基础库，基于 ECMA-376，ISO/IEC 29500 国际标准。可以使用它来读取、写入由 Excel、WPS、OpenOffice 等办公软件创建的电子表格文档。支持 XLAM / XLSM / XLSX / XLTM / XLTX 等多种文档格式，高度兼容带有样式、图片(表)、透视表、切片器等复杂组件的文档，...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-08 02:08:58",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "25.2.0 版本镜像发布：Treeland 可用性提升 文管支持文字搜图",
+      "link": "https://www.oschina.net/news/471544",
+      "summary": "为进一步优化 deepin25 系统用户体验并提升稳定性，deepin 25.2.0 版本镜像正式发布。本次更新聚焦于Treeland 稳定性与可用性提升、文件管理与搜索体验、DDE交互与稳定性等方向，优化多项高频使用场景，修复大量已知问题，显著提升系统流畅度与可靠性。 deepin 25.2.0 版本亮点速览 Treeland 桌面环境升级：Treeland 稳定......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-08 01:54:42",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "36氪首发 | 获上海国投领投，这家量子传感企业产品已落地惯性导航、气体监测等",
+      "link": "https://36kr.com/p/3886301334630407?f=rss",
+      "summary": "\n\n  图源/企业\n  作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，上海量感智能科技有限公司（以下简称“量感智能”）近日已完成数千万元天使轮融资，由孚腾资本（上海国投旗下）领投，六禾创投跟投。\n  量感智能公司于2023年9月成立，由上海交通大学量子感知研究所成员孵化。公司聚焦量子传感方向，已推出的产品覆盖惯性导航、气体监测等市场。公司同步深耕量子 AI 技术研发与应用，推动相关算法和硬件模块快速...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-08 01:10:36",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260708/v2_7d290a69b7d74c58a7ac5cdb3d51b253@6221844_oswg529905oswg804oswg535_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+    },
+    {
+      "title": "36氪独家 | 快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资",
+      "link": "https://36kr.com/p/3885728813691145?f=rss",
+      "summary": "\n作者 | 张子怡\n  编辑 | 袁斯来\n  硬氪独家获悉，消费级3D打印企业快造科技（Snapmaker）于近期完成10亿元新一轮融资。本轮融资由凯辉基金领投，好未来战投跟投，美团战投、美团龙珠、高瓴创投、顺为资本等现有股东大比例超额追投，高鹄资本担任独家财务顾问。\n  这是2025年以来消费硬件赛道规模最大的单笔融资之一，也是近两年一级市场消费级3D打印最大规模的单笔融资。\n  \n  （图源/...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-08 00:50:00",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260707/v2_cddc5ad8eb444fcd88b935717212245b@5836910_oswg416616oswg864oswg486_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "三个理想火枪手创业，打破具身最快百台交付纪录",
+      "link": "https://www.qbitai.com/2026/07/445531.html",
+      "summary": "机器人开始自己造自己了。...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-08 00:44:02",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元",
+      "link": "https://36kr.com/p/3886238403129353?f=rss",
+      "summary": "\n今日热点导览\n  网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言\n  商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿\n  国家外汇管理局：截至2026年6月末，中国外汇储备规模为34163亿美元\n  汇丰暂停向风险较高的私募信贷客户提供贷款\n  SpaceX公布AI数据中心计划，同步推进星链卫星脱轨\n  TOP3大新闻\n  前华为天才少年吐槽DeepSeek面试，...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-08 00:09:01",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260708/v2_4a53a5122fbd42318e1dffbd7d7afe8c@5667365_oswg243940oswg1080oswg1598_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发",
+      "link": "https://36kr.com/p/3885479689465858?f=rss",
+      "summary": "\n文｜胡香赟\n  编辑｜海若镜\n  36 氪获悉，德睿智药近期已完成 5200 万美元B轮融资，投资方包括头部人民币和美元基金，凯乘资本为独家财务顾问。募集资金将用于AI制药引擎Molecule Arts Platform（MAP）升级迭代，完善其多智能体（Multi-Agent）协同体系与临床数据闭环（Clinical Data-in-the-Loop），以及推进自研口服GLP-1小分子MDR-...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-08 00:00:00",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260707/v2_92db90325a1b449a886c7f9f82d0dbc0@5930287_oswg1303508oswg7680oswg4320_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+    },
+    {
+      "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+      "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+      "summary": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destr...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-07 23:55:19",
       "category": "other",
       "thumbnail": ""
     },
@@ -69,9 +443,9 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/7827_lores-500x500.jpg"
     },
     {
-      "title": "Meta rolls out Muse, a new AI image generator",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities....",
+      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -99,7 +473,7 @@
       "region": "us",
       "pubDate": "2026-07-07 21:58:39",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Avatar__The_Last_Airbender__Season_2__00_54_10_07__3250314.jpg?quality=90&strip=all&crop=9.1587509155273,7.4747546520292,69.807490539551,92.525245347971"
+      "thumbnail": ""
     },
     {
       "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
@@ -110,7 +484,7 @@
       "region": "us",
       "pubDate": "2026-07-07 21:37:19",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "OpenAI’s Chief Futurist Is Leaving the Company",
@@ -154,7 +528,7 @@
       "region": "us",
       "pubDate": "2026-07-07 20:31:58",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The real cost, security, and culture problems behind enterprise AI agents",
@@ -275,7 +649,7 @@
       "region": "us",
       "pubDate": "2026-07-07 18:28:08",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535562/STK160_X_TWITTER_2__D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The Nintendo Switch's days are numbered—but what is that number?",
@@ -308,7 +682,7 @@
       "region": "us",
       "pubDate": "2026-07-07 17:52:51",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/240701_AMBLE_iiii0132_d6a13c.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "ABC tells the government to get out of its newsrooms",
@@ -319,7 +693,7 @@
       "region": "us",
       "pubDate": "2026-07-07 17:47:38",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283341764.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Anthropic is launching Claude Cowork on mobile and web",
@@ -330,7 +704,7 @@
       "region": "us",
       "pubDate": "2026-07-07 17:46:59",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
@@ -352,7 +726,7 @@
       "region": "us",
       "pubDate": "2026-07-07 17:22:48",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-07-at-10.21.32-AM.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
@@ -418,7 +792,7 @@
       "region": "us",
       "pubDate": "2026-07-07 16:09:48",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_4b9b93f38fb65007e7a6410264b2f7fdac0d3586.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
@@ -443,116 +817,6 @@
       "thumbnail": ""
     },
     {
-      "title": "微信鸿蒙版 App 获 8.0.19.37 邀测升级，支持连接实体键盘时通过快捷键发送消息",
-      "link": "https://www.ithome.com/0/973/813.htm",
-      "summary": "\nIT之家 7 月 7 日消息，微信鸿蒙版 App 今日开启了 8.0.19.37 (8393509) 版本邀测升级（需收到短信通知后点击链接跳转安装，未收到短信需继续等待），测试时间为 2026/7/7-2026/8/5。\n\n和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据用户反馈，近几个版本微信新增了如下特性，该版本重点修复了已知问题：\n\n听一听设置新增 AI 写歌模型选择，该功能需...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-07 15:59:41",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "雷蛇为灵刃 18 笔记本申请 Ubuntu Linux 认证，但雷云 Linux 版暂时还没有风声",
-      "link": "https://www.ithome.com/0/973/812.htm",
-      "summary": "\nIT之家 7 月 7 日消息，据科技媒体 Phoronix 今天报道，雷蛇正在为灵刃 18 笔记本（RZ09-0582）申请 Ubuntu Linux 认证，这款产品搭载酷睿 Ultra 9 290HX Plus 处理器和 RTX 5090 显卡，性能和售价都十分顶级。\n\n事实上，雷蛇与 Linux 的良缘可谓酝酿已久。早在 2017 年，雷蛇 CEO 陈民亮（IT之家注：Min-Liang T...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-07 15:54:02",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "小鹏 MONA L03 官宣首搭驾驶员失能辅助系统：自动靠边、呼叫救援",
-      "link": "https://www.ithome.com/0/973/811.htm",
-      "summary": "\nIT之家 7 月 7 日消息，小鹏汽车官方今日宣布，MONA L03 首搭驾驶员失能辅助系统。据介绍，高速路辅助驾驶时，驾驶员失去驾驶能力，车辆也能自动靠边、呼叫救援。\n\n小鹏汽车官方还放出了 MONA L03 驾驶员失能辅助系统的实测视频。\n\n小鹏汽车副总裁 @托马斯电火车 透露，这个功能未来也会 OTA 升级成普通道路驾驶员出现意外，也会靠边停车报警，全链路自主救援，守护安全。\n\n据IT之家...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-07 15:50:56",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "消息称 Deepseek 正在自研 AI 芯片：面向推理场景，减少依赖英伟达、华为",
-      "link": "https://www.ithome.com/0/973/810.htm",
-      "summary": "\nIT之家 7 月 7 日消息，据路透社今日援引三位知情人士消息，中国人工智能初创公司 DeepSeek（深度求索）正在研发自有 AI 芯片。如果消息属实，此举有望降低其对英伟达、华为的依赖。\n\n知情人士透露，DeepSeek 自研的 AI 芯片主要面向 AI 推理场景。此处的“推理”指的是大模型训练完成后，应用学到的知识分析新数据、生成内容。\n如果该项目成功，那么 DeepSeek 将进军半导体...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-07 15:42:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "三星预热全新形态新品：预计为 Galaxy Z Fold8 阔折叠手机，搭载第五代骁龙 8 至尊版定制版芯片",
-      "link": "https://www.ithome.com/0/973/809.htm",
-      "summary": "\nIT之家 7 月 7 日消息，三星 GALAXY 盖乐世官方微博昨晚发布视频，预热了全新形态新品。\n\n从官方微博来看，这款新品将搭载第五代骁龙 8 至尊版定制版芯片（即第五代骁龙 8 至尊版 For Galaxy 芯片）。\n\n官方预热视频画面显示，这款新品的比例比较特殊，与此前曝光的 Galaxy Z Fold8 阔折叠手机类似。评论区也有网友猜测是阔折叠手机新品。\n\n据IT之家此前报道，三星 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-07 15:40:56",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "华为智能手表 HarmonyOS 7 版本新特性首曝：腕上控家，一键执行预设场景",
-      "link": "https://www.ithome.com/0/973/808.htm",
-      "summary": "\nIT之家 7 月 7 日消息，华为智慧生活 App 发布了 17.0.3.312 版本升级，带来了快速感知设备离线状态、新添加设备快速定位等功能。\n\nIT之家注意到，更新该版本后，华为智慧生活 App 在“多端管理”模块中新增了对手表设备的管理。\n\n点击“手表”就可以看到关于华为智能手表升级 HarmonyOS 7 之后的新功能。\n\n畅享腕上控家，告别繁琐操作。快速查看并控制家中智能设备，一键执...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-07 15:29:36",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Discord accidentally banned over 8,000 people for posting grids and other ‘benign’ images",
-      "link": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
-      "summary": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-07 15:02:30",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "连续暴跌，彩虹股份拟19亿收购虹阳显示股权，“第二曲线”成色与隐忧待考",
-      "link": "https://www.tmtpost.com/8056522.html",
-      "summary": "是王炸还是哑炮？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-07 14:49:36",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/f01704c86b3888364c2139e00192b89d_1783435779.png"
-    },
-    {
-      "title": "联亚药业：九成营收靠前五大客户，手握十亿现金且现金分红后欲募资补流｜IPO观察",
-      "link": "https://www.tmtpost.com/8055748.html",
-      "summary": "报告期内联亚药业存在重度客户集中风险，公司超九成收入来自前五大客户，其中单一大客户Ingenus常年贡献五成以上营收，业务经营存在重大客户依赖。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-07 13:41:05",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/dd55ffce2465ac4e38359de9155ef158_1783431667.png"
-    },
-    {
-      "title": "李开复亮出“中国版Palantir”底牌",
-      "link": "https://www.tmtpost.com/8056379.html",
-      "summary": "李开复判断企业AI下一战：谁能改善财报，谁才真正有价值。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-07 13:10:21",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/e6eb72585ad7f679722ea48ec7ac668f_1783429827.jpg"
-    },
-    {
       "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
       "link": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
       "summary": "You can clip a cover over the cameras, which could be a double-edged sword....",
@@ -572,18 +836,7 @@
       "region": "cn",
       "pubDate": "2026-07-07 12:59:57",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "摘帽即卖壳成新潮流？艾艾精工用4个交易日破纪录",
-      "link": "https://www.tmtpost.com/8056354.html",
-      "summary": "用4个交易日的时间，艾艾精工将“摘帽即卖壳”的资本套路演绎到了极致...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-07 12:18:15",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/6f92bcb1a09126fdae80d90f000b0b12_1783426698.png"
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260707/v2_b2063cbd802e4df784ed1882a2a42c13@430412560_oswg679827oswg1290oswg2464_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
@@ -594,7 +847,7 @@
       "region": "us",
       "pubDate": "2026-07-07 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MIT-Tech-Review_Evo-Genetics_thumb.jpg?w=2978"
     },
     {
       "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
@@ -627,7 +880,7 @@
       "region": "cn",
       "pubDate": "2026-07-07 11:24:13",
       "category": "auto",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260707/v2_1030414dfa41497987fb3579bbd80906@430412560_oswg409720oswg1290oswg2537_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
@@ -638,7 +891,7 @@
       "region": "us",
       "pubDate": "2026-07-07 11:10:52",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617.jpg"
     },
     {
       "title": "Hisense UR9 RGB MiniLED: An Affordable TV in Its Class",
@@ -674,17 +927,6 @@
       "thumbnail": "https://media.wired.com/photos/688061d68203c2103d95c470/master/pass/We%20Tried%205%20of%20the%20Most%20Popular%20Indoor%20Gardening%20Systems.png"
     },
     {
-      "title": "我成长过程中所熟悉的互联网已经不复存在了",
-      "link": "https://www.oschina.net/news/471541",
-      "summary": "一篇题为《The Internet I Grew Up With Doesn't Exist Anymore》的博客近日在 Hacker News 登上首页，文章很朴素，没有技术干货，没有任何新概念。就是一个 90 年代末出生、从小在美国乡下长大的工程师，用自己的记忆串联起互联网 25 年的变迁。 作者 Christian Cleberg 以一个 90 年代末出生的美国小镇青年的视角，分五......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-07 10:21:25",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "不做fast follow的人，都想创造一个新的世界丨36氪离线聚会第三期",
       "link": "https://36kr.com/p/3885415199076352?f=rss",
       "summary": "\n“理性的人让自己适应世界，不理性的人坚持让世界适应自己。因此，一切进步都取决于不理性的人。”\n  萧伯纳在《人与超人》里的论断，其实缺少了一个前提：让世界适应自己，你得先看见一个别人还没看见的世界。\n  无法否认的是，过去二十年在中国的科技行业里，有一条相对成熟的路径：fast follow。看硅谷做了什么，更快、更便宜地做一遍。这种方式催生了一批优秀的公司，却难免也带来了一个盲区：当前方没有参...",
@@ -693,40 +935,7 @@
       "region": "cn",
       "pubDate": "2026-07-07 10:11:27",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资���36氪首发",
-      "link": "https://36kr.com/p/3885413484163074?f=rss",
-      "summary": "\n文 | 阿至\n  太空算力赛道又有新玩家入场。\n  36氪获悉，太空算力卫星系统解决方案提供商星际原点航天科技（上海）有限公司（以下简称“星际原点”）已于近期连续完成种子轮、天使轮两轮融资，累计规模为数千万元。\n  种子轮投资方为九合创投。天使轮由老股东九合创投、梅花创投和上海国投旗下上海科创集团策源基金联合领投，上海天使会以联合投资形式参与。一苇资本担任独家财务顾问。\n  星际原点成立于202...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-07-07 10:07:53",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "梁汝波相信AI还是字节人？",
-      "link": "https://www.tmtpost.com/8054357.html",
-      "summary": "字节管理层再也不能躺平了。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-07 10:06:38",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4365768u3.png"
-    },
-    {
-      "title": "从超聚变，看服务器行业的“生死局”",
-      "link": "https://www.tmtpost.com/8056124.html",
-      "summary": "AI时代，传统服务器厂商还有价值吗？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-07 10:06:07",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/5c34eb5ecc285fb1f0b36f5578150e52_1783418772.jpg"
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260707/v2_becd98f9b7cb438f8466dfc8276822e7@577536001_oswg95702oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Pete Holmes Is Not Reading Your Email",
@@ -759,84 +968,7 @@
       "region": "us",
       "pubDate": "2026-07-07 10:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "创维没做成的游戏内容生态 要靠新“搭子”去实现",
-      "link": "https://www.tmtpost.com/8056029.html",
-      "summary": "创维想将大屏生态与家庭互动娱乐结合，这份野心落在了深度投资孵化的创想悦动身上。名为“Youdoo Box悦动元气机”的智能硬件面市，该产品定位为AI体感成长主机，通过互动型游戏内容面向K12阶段儿童以及亲子家庭用户，同步将端侧AI空间感知技术引入家庭客厅的大屏生态中。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-07 09:54:52",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/43t5y6jytfeb3.png"
-    },
-    {
-      "title": "一份内部报告显示，美国财政部开始评估AI泡沫风险",
-      "link": "https://www.tmtpost.com/8055875.html",
-      "summary": "“AI正在重演2000年互联网泡沫，一旦破裂，冲击将穿透整个经济体系。”...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-07 09:54:26",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/23t4q3y5w6whtrf3.png"
-    },
-    {
-      "title": "混元3正式版拿了高分，腾讯全家桶可以放心用了",
-      "link": "https://www.tmtpost.com/8054278.html",
-      "summary": "搜索追平GPT-5.5，幻觉率减半。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-07 09:54:21",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/a1a59b0e9959e7890bfce6953612c58b_1783418065.jpg"
-    },
-    {
-      "title": "上一代汽车供应商巨头，“落幕”来得猝不及防",
-      "link": "https://www.tmtpost.com/8056053.html",
-      "summary": "博世市占持续缩水、多家老牌零部件企业破产，全球供应链格局迎来重构拐点。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-07 09:50:20",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/2fe5abdbfb8ed9c82c8e8e1ab37d5e51_1783417824.jpg"
-    },
-    {
-      "title": "Kdenlive 26.04.3 发布",
-      "link": "https://www.oschina.net/news/471540/kdenlive-26-04-3-released",
-      "summary": "Kdenlive 是一种基于 MLT 框架、KDE 和 Qt 的开源非线性视频编辑器，注重灵活性和易用性。该项目最初由 Jason Wood 在 2002 年开发，如今已经成为了官方 KDE 项目的一部分。 Kdenlive 26.04.3 现已发布，这是 26.04 系列的最后一个维护版本，带来了一系列常规的错误修复、工作流程优化和稳定性改进。亮点包括修复了撤销序......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-07 09:25:13",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "字节 Seed 开源 EdgeBench 基准测试",
-      "link": "https://www.oschina.net/news/471539",
-      "summary": "字节 Seed 宣布推出了用于衡量真实世界环境学习的超长程评测集 EdgeBench。该评测集包含 134 个真实且多样的任务，横跨六大能力领域，Agent 在每个任务上都可持续工作至少 12 小时。其中 51 个任务及完整评测框架已开源。 “基于这些任务上的长程环境交互运行结果，我们发现，Agent 在“环境学习”过程中的整体表现遵循一......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-07 09:15:31",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "分布式 API 设计 下：REST",
-      "link": "https://my.oschina.net/xiandafu/blog/18612369",
-      "summary": "REST 的核心思想就是，客户端发出的指令都是 \"标准动词 + 操作资源\" 的结构。比如，GET /orders/1 这个命令，GET 是动词，/orders/1 是宾语，这里的 1 是指订单编号为 1 的订单。...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-07 08:50:49",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-017_bddae2.jpg?w=2667"
     },
     {
       "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
@@ -847,39 +979,6 @@
       "region": "cn",
       "pubDate": "2026-07-07 08:32:27",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "上市前夜｜套现十几亿后，他把矿卡开向港股",
-      "link": "https://36kr.com/p/3885318981366023?f=rss",
-      "summary": "\n本文约3100字，建议阅读7分钟\n  作者 | 彭孝秋\n  \n   编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第三期——易控智驾。\n  \n  2017年前后，36岁的蓝水生完成了人生中第一次大退出。\n  那是一家做游戏出海的公司，叫广州易幻网络。当年被A股上市公司宝通科技以超过17亿元对价收购，按公开交易安排及后续减持情况...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-07-07 08:32:12",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Memcached 1.6.44 发布，高性能分布式缓存系统",
-      "link": "https://www.oschina.net/news/471534/memcached-1-6-44-released",
-      "summary": "Memcached 1.6.44 现已发布，这是一个安全修复版本。 修复 proxy：后端数据过大会导致溢出。 ascii：启用身份验证且存在空换行符时崩溃 crawler：修复 unlocked mutex 被再次解锁的问题 crawler：修复空闲客户端的缓冲区溢出问题 binprot：允许禁用统计详情 详情可查看更新说明：https://github.com/memcached/memcac...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-07 07:31:43",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
-      "link": "https://36kr.com/p/3885177884078083?f=rss",
-      "summary": "\n采访 | 邓咏仪 肖思佳 李小霞\n  文 | 张雨忻 邓咏仪\n  编辑 | 张雨忻 杨轩\n  2025 年底，在一次模型团队的聚餐上，Seedance 模型的负责人曾妍向 leader 提到，她还是想试试训一个更大尺寸的模型，至少达到 200B（2000亿参数）。\n  曾妍是字节 Seed 一位非常年轻的研究员，2021 年校招生，研究方向始终聚焦在视频理解与生成上。“她一直都挺有自己的技术判断...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-07-07 07:30:26",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -905,61 +1004,6 @@
       "thumbnail": ""
     },
     {
-      "title": "TIOBE 7 月榜单：Rust 首次跻身 Top10",
-      "link": "https://www.oschina.net/news/471533/tiobe-index-202607",
-      "summary": "TIOBE 公布了 2026 年 7 月的编程语言排行榜。 继在上月榜单中创下历史新高后，Rust 本月继续攀升，实现该语言历史上首次跻身 TIOBE 指数前十。 TIOBE CEO Paul Jansen 点评称，Rust 的日益流行很大程度上归功于其对内存安全的重视，同时还能生成速度极快的代码。它被广泛认为是 C 和 C++ 的直接竞争对手，而这两种语言仍......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-07 06:55:13",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "CSDI峰会开启：Agentic AI 落地应用的黄金期，智能系统重塑生产力",
-      "link": "https://www.oschina.net/news/471531",
-      "summary": "AI深入生产核心，用户端的发展方向已十分清晰，智能体将全面渗透产业。长远来看，智能体将演变为类似“AI操作系统”的复杂系统。用户只需下达任务，系统便能自动将任务拆解并协同多个智能体共同完成。可见技术底座在爬坡，应用层爆发已成定局，未来几年将是 Agentic AI 落地的黄金期。 我们看到 ·Agentic AI大大降低了构......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-07 06:26:05",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "\"龙虾\"为什么这么火？OpenClaw登顶GitHub后，AI Agent时代真的来了？",
-      "link": "https://36kr.com/p/3885061350617350?f=rss",
-      "summary": "\n\n  GitHubStar-history\n  最近Openclaw以25.2万星标，超越Meta的React登顶GitHub开源项目历史第一！\n  要知道React是Facebook(现改名Meta）打造的经典前端框架，过去十余年间，互联网上绝大多数我们熟知的网站与App，底层技术架构皆由它构筑。Openclaw官方更是高调发文嘲讽Meta“我们在迭代创新，而你只在办会议”。\n  这只被全球开...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-07-07 06:23:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fastify v5.10.0 发布，极速 Node.js Web 框架",
-      "link": "https://www.oschina.net/news/471530/fastify-5-10-0-released",
-      "summary": "Fastify 是一个高度专注于以最少开销和强大的插件架构为开发者提供最佳体验的 Node.js Web 框架，速度极快，它的灵感来源于 Hapi 和 Express。 Fastify v5.10.0 现已发布，本此更新带来以下内容： docs(type-providers)：澄清 const 用法 #6772 docs：修复失效和重定向的链接 #6817 docs：从 @fastify/view...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-07 06:08:53",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "HarmonyOS7开发者声音-问卷调查",
-      "link": "https://qaxb95n3g50.feishu.cn/share/base/form/shrcn7XGp12Dk7rzbZvFbhpyfLc",
-      "summary": "本次调研旨在了解您对 HarmonyOS 7 技术的认知与使用情况，收集您在鸿蒙开发过程中遇到的实际问题与需求。...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-07 05:58:49",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
       "link": "https://www.qbitai.com/2026/07/445229.html",
       "summary": "从文字说明书到多模态经验库...",
@@ -978,17 +1022,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-07-07 04:48:40",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "前 5 月机器人规上企业营收超 900 亿元",
-      "link": "https://www.oschina.net/news/471527",
-      "summary": "在2026世界机器人大会新闻发布会上，工业和信息化部装备工业一司副司长郝立顺表示，今年1-5月，我国机器人规上企业营业收入突破900亿元，同比增长26.9%，近五年年均增速超20%，较“十三五”时期年均增速提升约5个百分点。 据郝立顺介绍，国内机器人产业发展动能持续增强，整体呈现三大向好特征。一是创新根基持续夯实，核......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-07 03:51:16",
       "category": "robot",
       "thumbnail": ""
     },
@@ -1026,17 +1059,6 @@
       "thumbnail": ""
     },
     {
-      "title": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
-      "link": "https://36kr.com/p/3876837605585160?f=rss",
-      "summary": "\n作者｜黄楠\n  编辑｜袁斯来\n  浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。\n  工程师背景出身，曾就职于大疆、美团等头部大厂，拿过顶级机构的钱，履历足以支撑他选择任何一个被市场验证过的热门赛道，在最短时间内做出产品、讲故事、滚动融资。\n  但胡文鑫扎进了一个过去三十年几乎无人问津的品类：家用纺织机。\n  很少有人知道胡文鑫具体在做什么。浪爪智能成立于2022...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-07-07 02:29:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Claude的脑子里，也长出了一块「意识」",
       "link": "https://www.qbitai.com/2026/07/444741.html",
       "summary": "内部发现「类脑空间」，删掉就变傻...",
@@ -1044,17 +1066,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-07-07 01:38:18",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
-      "link": "https://36kr.com/p/3883943959621634?f=rss",
-      "summary": "\n文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。\n  华源智因创始团队由资深医药产业从业者、计算生物学研发人员组成，并邀请到深圳国家基因库等单位专家组成科学顾问委员会，形成科研...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-07-07 01:05:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1122,18 +1133,7 @@
       "region": "us",
       "pubDate": "2026-07-06 13:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
-      "link": "https://www.qbitai.com/2026/07/444733.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-06 10:40:27",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MIT_EmotionalSupportAI_FINAL_01.jpg?fit=2128,1196"
     },
     {
       "title": "South Korea’s hottest new bachelors are chip workers",
@@ -1177,7 +1177,7 @@
       "region": "us",
       "pubDate": "2026-07-03 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/20250621_MTTR_UAP_SH01_FS_395.jpg?w=3000"
     },
     {
       "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
@@ -1210,7 +1210,7 @@
       "region": "us",
       "pubDate": "2026-07-02 15:37:08",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MIT_TP2_2026_V9_Cover.png?w=1555"
     },
     {
       "title": "Why Public Speaking Skills Are Worth Investing In",
