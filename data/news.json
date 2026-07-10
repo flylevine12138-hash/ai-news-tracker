@@ -1,17 +1,336 @@
 {
-  "updateTime": "2026-07-10T04:57:54.302Z",
+  "updateTime": "2026-07-10T08:30:40.710Z",
   "total": 117,
   "news": [
     {
-      "title": "小米澎程 N90 Max“证件照”公布，车头、车尾、车侧一次看全",
-      "link": "https://www.ithome.com/0/974/970.htm",
-      "summary": "\nIT之家 7 月 10 日消息，今天（10 日）午间，小米澎程公布了 N90 Max 的三张“证件照”，分别展示了前脸、车侧、车尾的三种视角。相比此前，这次图片展示的信息则更多、更清晰。\n\n\n\n新车整体呈现方正大气的气质，车身近似石墨灰，前脸配有十字形灯组和一块印有英文名 SkyNomad 的中网饰板。来到车侧，新车采用了传统样式的门把手，并用上了无边框后视镜，车窗周围大尺寸的镀铬装饰和“花瓣”...",
+      "title": "Memcached 1.6.45 发布，高性能分布式缓存系统",
+      "link": "https://www.oschina.net/news/471643/memcached-1-6-45-released",
+      "summary": "Memcached 1.6.45 现已发布，包含大量崩溃和安全漏洞修复。具体更新内容包括： 修复 proxy：针对用户配置错误添加额外警告 proto：转换更多 strto 调用 proto：修复 meta preparse F flag 问题 proxy：修复res:line()返回错误响应的问题 proxy：修复 large gets 中空格读取过量的问题 ascii：将标志参数安全地转换为数...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-10 08:05:30",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "性能优化 | zorm v1.8.5 发布",
+      "link": "https://www.oschina.net/news/471642/zorm-1-8-5-released",
+      "summary": "Go 轻量 ORM, 零依赖，零侵入分布式事务，支持达梦 (dm), 金仓 (kingbase), 神通 (shentong), 南通 (gbase),TDengine,mysql,postgresql,oracle,mssql,sqlite,db2,clickhouse... 源码：https://gitee.com/chunanyong/zorm 官网：https://zorm.cn 基于原生...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:51:33",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线",
+      "link": "https://36kr.com/p/3889524008303363?f=rss",
+      "summary": "\n\n  徕芬珠海超级工厂（图源/企业）\n  作者丨欧雪\n  编辑丨袁斯来\n  7月8日，徕芬科技在珠海斗门的超级工厂举办媒体探访活动。\n  这座总投资超5亿元、占地超20万平方米的制造基地，自2025年8月投产以来，首次较大规模地向外界开放参观。\n  该工厂目前承接电动牙刷、剃须刀及部分新品的生产，并配套了电机车间、精密成型车间、喷涂车间、组装车间及约3000平方米的可靠性实验室。\n  \n  徕芬...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:49:14",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
+      "link": "https://www.ithome.com/0/975/078.htm",
+      "summary": "\nIT之家 7 月 10 日消息，当地时间 7 月 9 日，Meta CEO 马克 · 扎克伯格（Mark Zuckerberg）在接受彭博社采访时，首次就公司近期筹划云基础设施业务一事作出正面回应。\n他明确否认了外界关于 Meta“算力过剩”的猜测，但同时表示，考虑到当前市场对算力的出价极高，将部分 AI 基础设施对外出租可能在财务上更为划算。\n\n“我不知道业内有谁会嫌自己的算力太多的。”扎克伯...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-10 04:45:03",
+      "pubDate": "2026-07-10 07:26:10",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/b363b27f-4ee6-4fda-af16-66239d675ff5.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "消息称腾讯拟接盘 Manus 成最大股东",
+      "link": "https://www.oschina.net/news/471641",
+      "summary": "路透社援引知情人士消息称，腾讯正在洽谈成为 Manus 的最大股东。 知情人士透露，腾讯正与 Manus 的原始投资者（包括真格基金和 HSG）一起，计划以不低于 20 亿美元的价格从 Meta 手中回购该公司。 腾讯预计将在此次交易中认购最多股份并保留少数股东身份，而 Benchmark 等美国风投机构大概率退出。交易完成后，Manus 将......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:22:31",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/bed5774d-0960-47a7-bbd1-555a3daa9f2a.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
+    },
+    {
+      "title": "整车 38.28 万-42.28 万 / 租电购买 27.48 万-31.48 万元起，蔚来 ES8 大五座版全国交付",
+      "link": "https://www.ithome.com/0/975/076.htm",
+      "summary": "\nIT之家 7 月 10 日消息，蔚来汽车官微今天（10 日）下午宣布，全场景科技旗舰 SUV—— 蔚来 ES8 大五座版，全国交付正式启幕。蔚来创始人、董事长、CEO 李斌，蔚来联合创始人、总裁秦力洪出席交付仪式，并为首批用户交付新车。\n\n新车此次实现“上市即交付”，整车购买 38.28 万元起，电池租用方式购买 27.48 万元起。\n\n蔚来 ES8 五座行政豪华版\n\n整车购买 38.28 万元...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:21:24",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/8be75b87-bc9a-4b88-b49b-f3143e3765d2.jpg"
+    },
+    {
+      "title": "惠普海外推 ZBook 8 G2i 16 笔记本：至高酷睿 Ultra X9 388H 处理器、RTX Pro 500 Blackwell 显卡",
+      "link": "https://www.ithome.com/0/975/075.htm",
+      "summary": "\nIT之家 7 月 10 日消息，惠普现已在海外市场推出 ZBook 8 G2i 16 笔记本，新品搭载英特尔 Panther Lake 平台，可选配英伟达 RTX Pro 500 Blackwell 显卡、64GB 内存。\n\n据介绍，这款笔记本可以选配英特尔酷睿 Ultra 5 325、Ultra 7 355、Ultra 7 356H、Ultra 9 386H vPro 和 Ultra X9 3...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:21:20",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/5761e8b2-7596-4ecb-8824-d10ed843ba8d.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "西康高铁启动时速 385 公里提速试验，建成通车后西安至安康 1 小时内可达",
+      "link": "https://www.ithome.com/0/975/074.htm",
+      "summary": "\nIT之家 7 月 10 日消息，据央视新闻报道，7 月 10 日，西康高铁启动最高测试速度等级提速试验。经多轮逐级提速测试，检测列车当日跑出时速 385 公里试验目标速度，为线路后续开通运营奠定了坚实基础。\n\nIT之家注：逐级提速试验是高铁联调联试的重要环节，按照试验大纲要求分速度等级逐步提升运行速度。检测列车需逐级提升运行速度，直至达到线路设计时速的 110%，全面校验轨道、供电、信号、通信等...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:16:49",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/a0ad00b0-49c1-49a7-afc6-7338f129ce15.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "联想来酷斗战者发布战 7000X 游戏本：轻约 1.99kg，薄约 18.95mm",
+      "link": "https://www.ithome.com/0/975/073.htm",
+      "summary": "\nIT之家 7 月 10 日消息，联想 (Lenovo) 来酷 (Lecoo) 斗战者 (BELLATOR) 今日在 BW2026 上正式发布了战 7000X 轻薄游戏本。\n\n这一型号采用 16\" 机身，可选英特尔酷睿 Ultra 7 251HX / 酷睿 7 245HX 处理器，全系搭载 NVIDIA GeForce RTX 5060 笔记本电脑 GPU，轻约 1.99kg、薄约 18.95mm...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:15:37",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/72beccc9-fe97-4ac0-98b4-e901c44c5e27.jpg"
+    },
+    {
+      "title": "周星驰电影《功夫女足》首支长预告公布：娥眉队站上赛场，强敌个个身怀绝技",
+      "link": "https://www.ithome.com/0/975/072.htm",
+      "summary": "\nIT之家 7 月 10 日消息，由周星驰执导、编剧的喜剧电影《功夫女足》今日发布首支长预告。\n预告中，四年一度的足坛巅峰赛事到来，实力不俗的娥眉队站上赛场，自信满满。不料，强敌个个身怀绝技，各路大招频出，球场风起云涌…… 当热血比拼遇上好笑乌龙，比赛会走向何方？女足队员能否顶住压力，实现逆风翻盘？\n\n《功夫女足》定档 7 月 11 日上映，由周星驰导演、编剧，张小斐、迪丽热巴、张艺兴领衔主演，刘...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:14:10",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/d8f7e9b0-5452-42b4-808f-eec936cc75b2.jpg"
+    },
+    {
+      "title": "Waterfox G6.6.16.1 发布",
+      "link": "https://www.oschina.net/news/471639/waterfox-g6-6-16-1-released",
+      "summary": "Waterfox 6.6.16.1 现已发布，这是针对搜索功能推出的紧急修复程序： 修正了在不支持的地区将 Qwant 设为默认搜索引擎的问题。 尝试默认禁用 Qwant AI answers/summaries 功能。 修复了不支持的区域设置国家/地区查询值，例如es_US，导致 Qwant 拒绝返回结果的问题。 Security Waterfox 6.6.16 包含了迄今为止针对即将发......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:12:11",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "卡色发布索尼 FE 卡口 24mm F3.8 全画幅饼干镜头：60g 重，490 元",
+      "link": "https://www.ithome.com/0/975/070.htm",
+      "summary": "\nIT之家 7 月 10 日消息，卡色今日发布 24mm F3.8 全画幅饼干镜头，支持索尼 FE 卡口，定价 490 元。\n\n这款镜头采用轻量化结构设计，重 60g；采用拨杆开盖设计，拨动拨杆即可开启镜头；该镜头支持自动对焦，搭载 VCM 对焦马达；搭载 6 组 6 片镜片，最近对焦距离 0.3m；支持 USB 固件升级。\n\nIT之家附详细参数如下（暂未公布 MTF 曲线）：\n\n京东卡色 索尼 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:09:32",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/2b8731f7-96a3-4e7f-b4a1-4c91f5d2085d.jpg"
+    },
+    {
+      "title": "新一代理想 L6 预热：20% 至 80% 充电仅需 12 分钟，7 月 16 日见",
+      "link": "https://www.ithome.com/0/975/069.htm",
+      "summary": "\nIT之家 7 月 10 日消息，新一代理想 L6 将于 7 月 16 日亮相，官方今日预热显示，该车 20% 至 80% 充电仅需 12 分钟，相比 2025 款理想 L6 有大幅提升。\n\nIT之家注意到，官方此前公布了新车的“沙丘黄”车色，并放出了座舱官图。新车长宽高为 4935/1960/1735mm，轴距为 2920mm，与在售车型保持一致。车内依然搭载 1.5T 涡轮增压增程器，发动机最...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:09:07",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/ef214ede-cd06-4ed7-937f-a5820723cbf8.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "英伟达 BW2026 展示《异环》《鸣潮》《明日方舟：终末地》限定款 RTX 5080 联名显卡",
+      "link": "https://www.ithome.com/0/975/068.htm",
+      "summary": "\nIT之家 7 月 10 日消息，BilibiliWorld 2026（BW2026）今日在上海国家会展中心正式开幕，将持续至 7 月 12 日。\n英伟达在此次 BW 展会中设立了 GeForce RTX 超级玩家体验站，现场展示了多款 GeForce 限定联名显卡。IT之家从官方获悉，英伟达此次展出的联名显卡覆盖了四款热门二次元游戏，具体包括：\n\n《异环》角色“真红”与“伊洛伊”的两款联名显卡（...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:08:10",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/777a7d55-93e5-47f8-8ed3-61e11f0bac00.jpg"
+    },
+    {
+      "title": "为“首款真正纯电跑车”铺路：Alpine A110 FUTURE 原型车亮相古德伍德",
+      "link": "https://www.ithome.com/0/975/066.htm",
+      "summary": "\nIT之家 7 月 10 日消息，Renault（雷诺）集团旗下自主运营部门 Alpine 当地时间 9 日在英国古德伍德速度节展出了其原型车辆 A110 FUTURE。\nIT之家了解到，A110 FUTURE 基于 Alpine Performance Platform 平台，旨在为第三代 A110 验证各项技术，后者号称“首款真正纯电跑车”。\n\nA110 FUTURE 采用先进的铝制架构，配备...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-10 07:02:36",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/63a628d0-6bdb-4d4a-ba41-334dd5d18138.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "手敲代码被学生当“非遗”，百万粉编程讲师谈 AI 冲击",
+      "link": "https://my.oschina.net/u/4487475/blog/19719736",
+      "summary": "“不是说，现在都 AI coding ？他居然还在手搓，真不容易。”...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-10 06:24:12",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "✨License Manager 软件授权管理系统 v1.2.0 发布-支持 AI 提示词快速对接",
+      "link": "https://www.oschina.net/news/471636",
+      "summary": "用 AI 提示词快速接入雪松授权云：让软件授权能力更快进入你的软件 很多软件团队在产品上线前都会遇到同一个问题：核心功能已经开发完成，但授权接入还没有落地。要不要支持本地验签？激活码怎么校验？设备指纹放在哪里？心跳失败怎么处理？如果每个项目都从零梳理一遍，授权系统很容易变成上线前最后一个阻塞点。 雪松授......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-10 06:21:35",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "关于公开征集“元社区”工业软件项目的通知",
+      "link": "https://www.oschina.net/news/471635",
+      "summary": "北京开元工业软件研究院（筹）（简称“研究院”）将于2026年8月上线工业软件开放社区平台“元社区”，现向工业软件产学研主体公开征集工业软件项目，首批入库项目将在“元社区”上线活动中同步向国家高端装备研发用户单位集中发布。 征集对象 装备研发设计单位、工业软件开发企业、高校院所、个人开发者及其他工业软件产......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-10 06:11:58",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+      "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its ...",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 06:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a4faec15defba4430906469/master/pass/GettyImages-2284616220.jpg"
+    },
+    {
+      "title": "CrateDB 6.3.5 发布，分布式 SQL 数据库",
+      "link": "https://www.oschina.net/news/471634/cratedb-6-3-5-released",
+      "summary": "CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。 CrateDB 6.3.5 现已正式发布，该版本更新内容如下： 修复了向......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-10 05:59:42",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
+      "link": "https://www.wired.com/story/ulta-coupon/",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png"
+    },
+    {
+      "title": "Chewy Promo Codes: $20 Off July 2026",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more July 2026 discounts....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg"
+    },
+    {
+      "title": "50% Off DoorDash Promo Code | July 2026",
+      "link": "https://www.wired.com/story/doordash-promo-code/",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg"
+    },
+    {
+      "title": "LG Promo Codes and Coupons for July 2026",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png"
+    },
+    {
+      "title": "Dell Coupon Codes: 20% Off for July 2026",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg"
+    },
+    {
+      "title": "Uber Eats Promo Codes: $15 Off│July 2026",
+      "link": "https://www.wired.com/story/uber-eats-promo-code/",
+      "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg"
+    },
+    {
+      "title": "Booking.com Promo Codes: 20% Off | July 2026",
+      "link": "https://www.wired.com/story/booking-com-promo-code/",
+      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg"
+    },
+    {
+      "title": "Zoro Coupon Codes: 55% Off July",
+      "link": "https://www.wired.com/story/zoro-promo-code/",
+      "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies this month....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg"
+    },
+    {
+      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in July 2026",
+      "link": "https://www.wired.com/story/nordvpn-coupon/",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg"
+    },
+    {
+      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
+      "link": "https://www.qbitai.com/2026/07/447602.html",
+      "summary": "字节也入局了...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-10 04:44:38",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
@@ -69,105 +388,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/09/194a6cd02640a8504c0fd53d55b912d8_1783592772.png"
     },
     {
-      "title": "联想 2026 款 YOGA Pro 15 锐龙版笔记本首销：AI Max+ 388、配 64G RAM + 1T SSD，19999 元",
-      "link": "https://www.ithome.com/0/974/969.htm",
-      "summary": "\nIT之家 7 月 10 日消息，联想旗下 2026 款 YOGA Pro 15 锐龙版轻薄笔记本将于今天下午 4 点开启首销，该机搭载 AMD 锐龙 AI Max+ 388 处理器，匹配 64GB RAM 和 1TB 存储空间，定价为 19999 元。\n京东联想 YOGA Pro 15 锐龙版 19999 元直达链接\n\n该机整体厚度 16.7mm，重量 1.7Kg；B 面配备一块 15.3 英寸...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-10 04:28:48",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/462342/20/15063/60573/6a47222eFecebde1f/0083320320e4b71d.jpg"
-    },
-    {
-      "title": "全球首次运载火箭网系回收！我国长征十号乙运载火箭成功实现一子级可控回收",
-      "link": "https://www.ithome.com/0/974/968.htm",
-      "summary": "\nIT之家 7 月 10 日消息，据央视新闻今日报道，长征十号乙运载火箭在海南商业航天发射场发射升空，火箭一二级分离约 6 分钟后，一子级垂直返回，在海上回收平台成功回收。\n\n这是我国首次成功实施运载火箭一子级可控回收，同时也是全球首次运载火箭网系回收。\n\n\n据IT之家此前报道，长征十号乙是中国航天科技集团一院抓总研制、长征十号家族两级可重复使用商业货运火箭，为长征十号甲去载人化衍生型号，是我国全...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-10 04:25:57",
-      "category": "space",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/74ad1410-35a3-4a3d-a307-fc89ea0ff4f2.jpg"
-    },
-    {
-      "title": "我国首个：中科曙光官宣全国产 10 万卡 AI 超集群“曙光 8000（登峰）”落成",
-      "link": "https://www.ithome.com/0/974/966.htm",
-      "summary": "\nIT之家 7 月 10 日消息，中科曙光官方公众号今天（7 月 10 日）发布博文，宣布中国首个全国产 10 万卡 AI 超集群“曙光 8000（登峰）”正式落成，并接入国家超算互联网，标志着 AI 基础设施建设开始从万卡级迈向十万卡级部署阶段。\n\n中科曙光称，曙光 8000（登峰）采用“超智融合”技术路线，面向高精度科学计算与低精度智能计算的复合需求，支持 FP64 到 INT8 全精度，可覆...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-10 04:22:40",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/c6685f45-447f-4af7-85c7-a293be8894ca.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "雷克萨斯全新纯电 LFA 超跑首秀：引擎声浪没了，“驾控乐趣”还在",
-      "link": "https://www.ithome.com/0/974/965.htm",
-      "summary": "\nIT之家 7 月 10 日消息，据外媒 Autocar 报道，雷克萨斯全新 LFA 原型车在 2026 古德伍德速度节完成动态首秀。从定位看，LFA 基本可以视为丰田 GR GT 的纯电姊妹车型，后者是一款搭载 V8 发动机的超级跑车。\n\n\n\n\n\n雷克萨斯尚未公布 LFA 的具体技术参数。不过，LFA 将成为雷克萨斯首款采用固态电池的量产车型。相比现有液态化学体系电池组，固态电池拥有高得多的能量...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-10 04:21:16",
-      "category": "energy",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/b4b37abb-9261-4b74-87c7-e62c3847a0ba.png"
-    },
-    {
-      "title": "网易携《逆水寒》斩获国家科学技术进步奖，AI 智能体生成破 4000 万",
-      "link": "https://www.ithome.com/0/974/964.htm",
-      "summary": "\nIT之家 7 月 10 日消息，2025 年度国家科学技术奖颁奖大会于 7 月 8 日在人民大会堂举行。由网易联合浙江大学等单位共同完成的项目《智能化三维数字人制作关键技术及应用》，荣获“国家科学技术进步奖-二等奖”。\n“国家科学技术进步奖”，作为国务院设立的国家级三大科技奖项之一，该荣誉代表我国科技领域最高水准。在过去，中国载人航天工程、长江三峡枢纽工程、袁隆平先生主持的两系法杂交水稻技术研究...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-10 04:16:43",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/6a28f231-b068-4acc-977e-93615bcfccdd.png"
-    },
-    {
-      "title": "三星显示首度参展 BW，发布游戏笔记本电脑 OLED 品牌 OBLYX",
-      "link": "https://www.ithome.com/0/974/948.htm",
-      "summary": "\nIT之家 7 月 10 日消息，三星显示 (SDC) 今年首次参展 Bilibili World，设立占地近 300m² 的大型展位，展出约 50 款 IT 设备，覆盖搭载三星显示 OLED / QD-OLED 面板的智能手机、笔记本电脑、电脑显示器。\n\n三星显示此次在 BW2026 上首次发布其面向游戏笔记本电脑的全新 OLED 品牌 OBLYX。该品牌的灵感源自黑曜石 (Obsidian)，...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-10 03:57:51",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/313b4473-8e30-4da1-997b-f5f2aadbb6ea.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "239 元，水月雨 × 洛天依联名耳机礼盒「无尽之夏」后日预售",
-      "link": "https://www.ithome.com/0/974/947.htm",
-      "summary": "\nIT之家 7 月 10 日消息，水月雨官方宣布，洛天依 × 水月雨联名定制耳机礼盒「无尽之夏」将于 7 月 12 日（后天）上午 10 点整开启预售，定价 239 元 / 套。\n\n从官方公布的图片来看，本次发售的耳机礼盒基于布丁 Pudding 定制。充电盒拥有标志性天依蓝主调、洛天依人物丝印，充电仓上盖带有不锈钢蚀刻贴片，耳机本体则是带有创意主题涂装。\n\n\nIT之家了解到，这款耳机将搭载洛天依...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-10 03:55:41",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/d23f2cbb-3eb9-4dd4-9d24-0bff412779bb.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "60 余家单位组建“国家队”，卫星通信工作组在京成立",
-      "link": "https://www.ithome.com/0/974/946.htm",
-      "summary": "\nIT之家 7 月 10 日消息，中国信通院官方公众号今天（10 日）发文宣布，在工业和信息化部信息通信管理局指导下，工业互联网产业联盟卫星通信工作组（IT之家注：以下简称“卫星通信工作组”）在北京正式成立。\n卫星通信工作组由中国信息通信研究院（简称“中国信通院”）作为牵头发起单位，联合中国卫星网络集团有限公司、中国时空信息集团有限公司、上海垣信卫星科技有限公司、中国卫通集团股份有限公司、中国空间...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-10 03:52:50",
-      "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "曝英特尔酝酿 Dunlow 工作站 / 服务器平台，支持 28 核 Nova Lake-S 处理器",
-      "link": "https://www.ithome.com/0/974/945.htm",
-      "summary": "\nIT之家 7 月 10 日消息，消息源 @x86deadandback 于 7 月 8 日在 X 平台发布推文，爆料称在 NBD 出货清单中，发现英特尔正在研发代号为 Dunlow 的入门级工作站 / 服务器平台，支持搭载 28 核 Nova Lake-S 处理器。\n出货信息显示，该平台将接替 Catlow，预估支持最高 28 核 Xeon E 级 Nova Lake-S 处理器，采用 LGA1...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-10 03:50:35",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/539c1ab9-0a27-40fc-971c-376811b5f9db.png?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "OpenAI 二号人物宣布因病卸任，转做兼职顾问",
       "link": "https://www.oschina.net/news/471631",
       "summary": "OpenAI 产品和业务主管 Fidji Simo 宣布因病卸任，决定辞去在 OpenAI 的全职工作，转为兼职顾问。OpenAI 总裁 Greg Brockman 将接管产品相关工作。 三个月前，我患了七年的慢性病突然急性发作，不得不请病假。在那段时间里，我意识到康复之路比我预想的要漫长得多，也复杂得多——我需要全身心投入其中。 我休假的时候，......",
@@ -223,46 +443,13 @@
       "thumbnail": ""
     },
     {
-      "title": "Logback 1.5.38 发布，Java 日志框架",
-      "link": "https://www.oschina.net/news/471628/logback-1-5-38-released",
-      "summary": "Logback 旨在成为广受欢迎的 log4j 项目的继任者，承接 log4j 1.x 版本的发展脉络。Logback 的架构设计高度通用，可适应不同场景需求。目前该框架分为三个模块：logback-core、logback-classic 和 logback-access。 Logback 1.5.38 现已发布，具体更新内容包括： 在HardenedObjectInputStream中，修复了...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-10 03:11:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
       "link": "https://36kr.com/p/3883780969083137?f=rss",
-      "summary": "\n先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真��地被留下来？\n  一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。\n  更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，让人...",
+      "summary": "\n先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真正地被留下来？\n  一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。\n  更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，让人分...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-07-10 03:03:33",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Node.js 26.5.0 发布",
-      "link": "https://www.oschina.net/news/471627/nodejs-v26-5-0-released",
-      "summary": "Node.js 26.5.0 现已发布，一些更新亮点内容如下： New release key 未来的 Node.js 版本可能会使用新的发布密钥655F3B5C1FB3FA8D1A0CA6BDE4A7D232B936D2FD进行签名。 Other notable changes [ 55f48446c7] - (SEMVER-MINOR) buffer：实现 blob.textStream() ...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-10 02:58:52",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "GPT-5.6 今日全量开放，AI 开发正在进入新阶段，与 Claude Fable 5、GLM-5.2 相比，它意味着什么",
-      "link": "https://www.oschina.net/news/471626",
-      "summary": "一个月内，OpenAI、Anthropic、智谱先后落子。热闹之外，真正值得工程师关心的是：当模型能连续跑几个小时不掉线，我们的开发方式会变成什么样？ 本文先讲清新闻与三家模型的差异，再谈范式迁移，最后落到两个可用的工程答案。 一、先看新闻：一个月内，三家前沿模型接连落子 GPT-5.6（OpenAI）：6 月 26 日以限量预览形......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-10 02:56:07",
       "category": "ai",
       "thumbnail": ""
     },
@@ -278,28 +465,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/34t1gqerfav3.png"
     },
     {
-      "title": "Apache Tomcat 11.0.24 发布",
-      "link": "https://www.oschina.net/news/471625/tomcat-11-0-24-released",
-      "summary": "Apache Tomcat 11.0.24 现已发布，此版本实现了 Jakarta EE 11 平台的部分规范。 公告提醒称：Tomcat 10 及以后版本的用户应注意，作为 Java EE 向 Eclipse 基金会转移的一部分，Java EE 已从 Java EE 迁移到 Jakarta EE，因此所有已实施 API 的主包已从javax.* 变为 jakarta.*。这几乎肯定需要修改代码才...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-10 02:46:11",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "一口气新增三家云——七牛云 Kodo、AWS S3、Cloudflare R2，并支持应用内自动检测与一键升级",
-      "link": "https://www.oschina.net/news/471624",
-      "summary": "Nebula 1.2.0 一口气把已支持的云从两家扩到五家:新增七牛云 Kodo、AWS S3、Cloudflare R2,它们都通过 S3 兼容 API + AWS SigV4 接入,与阿里云 OSS、华为云 OBS 共用同一套浏览 / 上传下载 / 分享 / 传输逻辑。同时新增应用内自动更新:启动即静默检查,发现新版本可一键下载、安装并重启。 Nebula 1.2.0 grows the su...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-10 02:36:03",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "PC涨价下的变与不变：苹果继续高歌，“一人公司”逆势加仓",
       "link": "https://www.tmtpost.com/8059479.html",
       "summary": "全球PC九连涨后首次跳水，苹果扛不住也涨价，中小品牌艰难求生，“一人公司”暂时托不起下跌的PC大盘。...",
@@ -309,17 +474,6 @@
       "pubDate": "2026-07-10 02:24:15",
       "category": "other",
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/dea0b287cffcc1701b860770c74bb5ac_1783650259.png"
-    },
-    {
-      "title": "Xbatis vs JPA vs MyBatis-Plus：全方位凌厉对比",
-      "link": "https://www.oschina.net/news/471623",
-      "summary": "不吹不黑，一针见血。下面从 15 个维度把三者的底裤扒干净。 1. 设计哲学 框架 哲学 一句话 JPA 全自动 ORM，\"你操作对象，SQL 我来生成\" 黑盒——方便到让你忘记 SQL 存在，也让你不知道它到底发了什么 SQL MyBatis-Plus 增强工具，\"MyBatis 的油门助力，但方向盘还是你的\" 半自动——帮你省掉模板代码，复杂 SQL 还是你......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-10 02:17:55",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "基金市场概况与资产配置观点 （06.29—07.05）",
@@ -355,37 +509,15 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/9be6185982b0f7d8dbe67c1a72ad74ee_1783648145.png"
     },
     {
-      "title": "ip2region 3.17.0 发布 - 数据更新 &amp;amp; Erlang IPv6 支持",
-      "link": "https://www.oschina.net/news/471622/ip2region-3-17-0-released",
-      "summary": "ip2region 是一个离线的 IP 数据管理框架和定位库，同时支持 IPv4 和 IPv6，支持亿级别的 IP 断管理，10 微秒级别的查询性能，提供了很多主流编程语言的 xdb 数据格式的生成和查询实现。 ip2region 官方社区已正式上线旨在强化 IP 相关的工具链和数据服务，目前提供了稳定的 商用离线数据、在线查询测试、xdb 使用 / 技术......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-10 01:38:34",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
       "link": "https://36kr.com/p/3889141540370949?f=rss",
-      "summary": "\n\n  图源/企业\n  \n   本文约3100字，建议阅读7分钟\n  \n  作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，北京他山科技有限公���（以下简称“他山科技”）已于近期完成B轮融资，金额为数亿元。本轮投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners（LHCP）、洪山资本等产业方，老股东道氏技术、彬复资本追加投资。资金将主要用于触觉...",
+      "summary": "\n\n  图源/企业\n  \n   本文约3100字，建议阅读7分钟\n  \n  作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，北京他山科技有限公司（以下简称“他山科技”）已于近期完成B轮融资，金额为数亿元。本轮投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners（LHCP）、洪山资本等产业方，老股东道氏技术、彬复资本追加投资。资金将主要用于触觉传感...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-07-10 01:19:37",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo",
-      "link": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/",
-      "summary": "A surprise 10th-anniversary event saw Niantic fulfilling a promise teased in the original 2016 launch trailer for its popular mobile game....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-10 01:08:50",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a5043b7f715f2c43619b84a/master/pass/DSC_9089.jpg"
     },
     {
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -418,7 +550,7 @@
       "region": "us",
       "pubDate": "2026-07-10 00:04:13",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行",
@@ -451,18 +583,7 @@
       "region": "us",
       "pubDate": "2026-07-09 23:24:04",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
-      "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-09 23:13:18",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a502a0f2e185717fadec4bb/master/pass/WEB_FIDJI%20SIMO-WIRED-2025-0Z2A8962_V3.jpg"
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Netflix reportedly considers adding always-on channels",
@@ -473,7 +594,7 @@
       "region": "us",
       "pubDate": "2026-07-09 23:00:31",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK072-05.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
@@ -542,17 +663,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1615411744-500x500.jpg"
     },
     {
-      "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/",
-      "summary": "Today on Uncanny Valley, we unpack the political debacle unfolding in Maine surrounding the campaign of Democratic candidate Graham Platner....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-09 21:47:57",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a4ed845d214609f8c84aa7b/master/pass/Uncanny-Valley-graham-platner_0709.jpg"
-    },
-    {
       "title": "Can AI answer the $3 trillion question?",
       "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
       "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences....",
@@ -562,17 +672,6 @@
       "pubDate": "2026-07-09 21:47:50",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Come to Our WIRED@NIGHT02 Film Screening!",
-      "link": "https://www.wired.com/story/come-to-wirednight02-film-screening/",
-      "summary": "See the documentary The Oldest Person in the World before it’s in theaters....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-09 21:43:26",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a500cdafc02327fac76692f/master/pass/#1%20-%20Jeanne%20Calment,%20age%20120%20and%20one%20month%20before%20her%20121st%20birthday,%20attends%20a%20press%20conference%20for%20the%20release%20of%20her%20techno-rap%20CD%20%E2%80%9CMistress%20of%20Time,%E2%80%9D%20from%20THE%20OLDEST%20PERSON%20IN%20THE%20WORLD,%20an%20Assembly%20Release.%20Photo%20courtesy%20of%20Reuter.JPG"
     },
     {
       "title": "OpenAI wants its new tool to do your work for you and with you",
@@ -616,7 +715,7 @@
       "region": "us",
       "pubDate": "2026-07-09 20:34:05",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The floatable, powerful Soundcore Boom 2 speaker is over half off",
@@ -627,7 +726,7 @@
       "region": "us",
       "pubDate": "2026-07-09 20:32:18",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Anker-soundcore-boom-2-deal-image.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
@@ -649,7 +748,7 @@
       "region": "us",
       "pubDate": "2026-07-09 20:22:28",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-20.29.29.png?w=180"
+      "thumbnail": ""
     },
     {
       "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
@@ -671,7 +770,7 @@
       "region": "us",
       "pubDate": "2026-07-09 20:11:38",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
@@ -718,28 +817,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Hikyuu 2.8.1 发布，超高速开源量化交易框架",
-      "link": "https://www.oschina.net/news/471620/hikyuu-2-8-1-released",
-      "summary": "Hikyuu Quant Framework 基于 C++/Python 的超高速量化交易框架，同时可基于策略部件进行资产重用，快速累积策略资产 2.8.1 版本主要更新 :rocket: 新增特性 feat(strategy): 添加获取当日指定时间点价格的功能及其Python绑定 feat(extind): 添加时间采样聚合指标 AGG_SAMPLE、AGG_SAMPLE_MAX、AGG_SA...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-09 18:38:51",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-09 18:30:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a4ece7dd12b964679cc8452/master/pass/business_claude_price_increase.jpg"
-    },
-    {
       "title": "Google’s Nest Thermostat has hit its best price of the year",
       "link": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
       "summary": "If you’re looking for a relatively affordable way to cut down on cooling costs, Google’s Nest Thermostat can help. It’s packed with smart controls and energy-saving features, and right now it’s on sal...",
@@ -748,7 +825,7 @@
       "region": "us",
       "pubDate": "2026-07-09 17:33:46",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/dseifert_201115_4301_0005.0.webp?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Microsoft’s patch Tuesdays are about to get bigger",
@@ -759,7 +836,7 @@
       "region": "us",
       "pubDate": "2026-07-09 17:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
@@ -770,18 +847,7 @@
       "region": "us",
       "pubDate": "2026-07-09 17:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The 1X Neo Robot Has Freaky Fast Fingers",
-      "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
-      "summary": "The soft, oddly intimate home-chore robot has been given some very tactile hands....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-09 16:01:22",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a4ea0a34c236782d7135868/master/pass/GLASS.png"
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Schlage’s Sense Pro unlocks the door so I don’t have to",
@@ -792,7 +858,7 @@
       "region": "us",
       "pubDate": "2026-07-09 15:45:46",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268618_Schlage_Sense_Pro_JTuohy_0009.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
@@ -839,28 +905,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/duneTOP-500x500.jpg"
     },
     {
-      "title": "A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway",
-      "link": "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
-      "summary": "Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “Chat Control” bill to find child abuse material online....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-09 13:55:08",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a4ea8598a37b44461cc7389/master/pass/Politics_EuropeanParliamentsaysyestochat%20controlbill_v4.jpg"
-    },
-    {
-      "title": "Slate’s Gray $25,000 Truck Just Got a Crayola Makeover",
-      "link": "https://www.wired.com/story/slates-gray-dollar25000-truck-just-got-a-crayola-makeover/",
-      "summary": "The Bezos-backed automaker building America’s cheapest electric truck is teaming up with the crayon company in a bid to brighten its rides. Make ours Razzmatazz....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-09 13:31:13",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a4f91d16718a0b2de8ac398/master/pass/070926_Slate-Crayola.jpg"
-    },
-    {
       "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
       "link": "https://www.qbitai.com/2026/07/447508.html",
       "summary": "“已经出现泛化涌现”...",
@@ -880,29 +924,7 @@
       "region": "us",
       "pubDate": "2026-07-09 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/Photomontage-1.jpg?w=3000"
-    },
-    {
-      "title": "Epilogue SN Operator Review: Super Nintendo Fun",
-      "link": "https://www.wired.com/review/epilogue-sn-operator/",
-      "summary": "Provided you have a library of SNES cartridges, the SN Operator is a seamless plug-and-play system for easy ’90s nostalgia....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-09 12:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a4e474df5aac514ece9792e/master/pass/SN%20Operator%20(9).jpg"
-    },
-    {
-      "title": "Dell 14S Review: Higher Price, Better Quality",
-      "link": "https://www.wired.com/review/dell-14s/",
-      "summary": "The Dell 14S represents the new normal of laptop pricing, but it has the quality to back up its cost....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-09 11:31:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a4f1398ec8b4227a6e84c30/master/pass/dell%2014S%2001.JPG"
+      "thumbnail": ""
     },
     {
       "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
@@ -918,7 +940,7 @@
     {
       "title": "2026·Under36丨绕过旧答案的一代人",
       "link": "https://36kr.com/p/3888279614274048?f=rss",
-      "summary": "\n为什么颠覆性的突破总是由年轻人完成？\n  因为他们还没有被旧范式驯服。\n  \n  几乎所有开创一种���范式、完成根本性发明的人，都有某种相似之处：他们要么足够年轻，要么刚刚进入那个即将被他们改写的领域。\n  1962年，科学哲学家托马斯·库恩在《科学革命的结构》中留下了这个观察。他当时谈论的是物理科学：哥白尼提出日心说时不到四十岁，牛顿发明微积分时二十三岁，爱因斯坦发表狭义相对论时二十六岁。\n...",
+      "summary": "\n为什么颠覆性的突破总是由年轻人完成？\n  因为他们还没有被旧范式驯服。\n  \n  几乎所有开创一种新范式、完成根本性发明的人，都有某种相似之处：他们要么足够年轻，要么刚刚进入那个即将被他们改写的领域。\n  1962年，科学哲学家托马斯·库恩在《科学革命的结构》中留下了这个观察。他当时谈论的是物理科学：哥白尼提出日心说时不到四十岁，牛顿发明微积分时二十三岁，爱因斯坦发表狭义相对论时二十六岁。\n  ...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
@@ -968,17 +990,6 @@
       "region": "cn",
       "pubDate": "2026-07-09 09:48:29",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
-      "link": "https://36kr.com/p/3888180493318921?f=rss",
-      "summary": "\n特斯拉FSD（Full Self-Driving）每迭代出一个新版本，自动驾驶公司Momenta的创始人曹旭东都会飞去美国亲自体验。\n  “他还不光是去坐车，还会找一切能接触到特斯拉的人聊。”接触到曹旭东的人士告诉36氪，马斯克是曹旭东最常提到的人。\n  在内部，许多员工对曹旭东的一个共同感受，就是“马斯克式CEO”。\n  创业十年，Momenta赴港股IPO，上市首日（7月8日）市值达700亿...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-07-09 09:01:56",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -1070,17 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "title": "蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！",
-      "link": "https://www.qbitai.com/2026/07/446458.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-09 03:19:15",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI",
       "link": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
       "summary": "\nElon Musk's SpaceX released Grok 4.5 on Wednesday, the first artificial intelligence model the company has trained specifically for coding and autonomous agents — and the first tangible product of it...",
@@ -1144,7 +1144,7 @@
       "region": "us",
       "pubDate": "2026-07-08 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/uber-driver-with-passenger-thumb.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Slack’s Slackbot can now pull your CRM data, generate charts, and send DocuSigns — all from a chat message.",
@@ -1177,7 +1177,7 @@
       "region": "us",
       "pubDate": "2026-07-07 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MIT-Tech-Review_Evo-Genetics_thumb.jpg?w=2978"
+      "thumbnail": ""
     },
     {
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
@@ -1188,7 +1188,7 @@
       "region": "us",
       "pubDate": "2026-07-07 11:10:52",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Why worms (and microbes) are catching on as a manure pollution solution",
@@ -1199,7 +1199,7 @@
       "region": "us",
       "pubDate": "2026-07-07 10:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-017_bddae2.jpg?w=2667"
+      "thumbnail": ""
     },
     {
       "title": "Your family’s $300 stake in OpenAI",
@@ -1232,7 +1232,7 @@
       "region": "us",
       "pubDate": "2026-07-06 13:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MIT_EmotionalSupportAI_FINAL_01.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "IEEE’s Global Museum Brings Engineering History to You",
