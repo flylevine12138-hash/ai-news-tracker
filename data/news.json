@@ -1,7 +1,84 @@
 {
-  "updateTime": "2026-07-10T19:47:52.535Z",
+  "updateTime": "2026-07-10T21:12:53.214Z",
   "total": 117,
   "news": [
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-10 21:00:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+      "link": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
+      "summary": "\nAn enterprise AI agent answers with total confidence, but the number is wrong. Nobody catches it until someone traces it back to a stale metric definition or a document the retrieval system never pul...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-10 20:58:32",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "summary": "The iPhone-maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-10 20:44:05",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a51395dba309b253cb3d458/master/pass/GettyImages-2233062347.jpg"
+    },
+    {
+      "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
+      "link": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
+      "summary": "\nOpenAI on Thursday launched ChatGPT Work, a new AI agent embedded inside its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work platform capable o...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-10 20:20:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Check out the first images of Quest shipwreck",
+      "link": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+      "summary": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-10 19:59:31",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/questTOP-500x500-1783707910.jpg"
+    },
+    {
+      "title": "A decade later, Pokémon Go finally made good on its original promise",
+      "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+      "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the game's 10th anniversary ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-10 19:51:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
+      "summary": "Six years in prison for man who \"sold out the very victims he was hired to represent.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-10 19:40:11",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-500x500-1783710086.jpg"
+    },
     {
       "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
       "link": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less",
@@ -14,6 +91,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
+      "link": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
+      "summary": "The children who get a combination shot are some of the most vulnerable....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-10 19:25:04",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-500x500.jpg"
+    },
+    {
       "title": "ICE is threatening to deport witnesses of its latest shooting",
       "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
       "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston ...",
@@ -22,7 +110,7 @@
       "region": "us",
       "pubDate": "2026-07-10 19:20:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_Illo_K_Radtke_STK006_DHS_1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
@@ -44,7 +132,7 @@
       "region": "us",
       "pubDate": "2026-07-10 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/portrait-of-a-bearded-white-man-with-gray-hair-smiling-in-a-blue-suit-with-red-tie.jpg?id=67112656&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/portrait-of-a-bearded-white-man-with-gray-hair-smiling-in-a-blue-suit-with-red-tie.jpg?id=67112656&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     },
     {
       "title": "Meet the Battery Startup Taking on China’s Giants",
@@ -77,7 +165,7 @@
       "region": "us",
       "pubDate": "2026-07-10 17:31:35",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284882241.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
@@ -121,7 +209,7 @@
       "region": "us",
       "pubDate": "2026-07-10 17:02:13",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
@@ -165,7 +253,7 @@
       "region": "us",
       "pubDate": "2026-07-10 16:29:50",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260710.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Disney+ is considering a free streaming tier, report says",
@@ -253,7 +341,7 @@
       "region": "us",
       "pubDate": "2026-07-10 15:33:58",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954703/acastro_STK080_disneyPlus_04.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "全球票房破 10 亿美元，任天堂《超级马力欧银河大电影》上线B站、腾讯视频、优酷、爱奇艺等流媒体平台",
@@ -264,7 +352,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 15:33:49",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/c6de2549-e38f-4eeb-95a0-f1b8d506575a.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing",
@@ -286,7 +374,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 15:16:00",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/0594a566-cd34-4992-9b82-9d95fb35c0a8.jpg"
+      "thumbnail": ""
     },
     {
       "title": "NASA sure seems to be asking an awful lot of private space stations",
@@ -308,7 +396,7 @@
       "region": "us",
       "pubDate": "2026-07-10 15:11:08",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ankerprimewirelesschargingstation.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "小米汽车确认澎程不是子品牌：计划发布两款车，投入 566 台测试车、路测超 428 万公里",
@@ -319,7 +407,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 15:09:09",
       "category": "auto",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/3ae9b9b4-94f0-4d9b-bc86-df16d1db4730.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1"
+      "thumbnail": ""
     },
     {
       "title": "小米回应澎程 SkyNomad 未上市新车遭恶意抹黑：纯粹的造谣，简直是匪夷所思",
@@ -330,7 +418,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 15:01:32",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/1b52ad5d-d606-4689-84c7-272e1dcae6a2.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
@@ -363,7 +451,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 14:54:09",
       "category": "auto",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/d488f72b-d18e-40d0-94e2-5757c5f54d5c.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "微信 Win / Mac PC 测试版 4.1.12 发布：通话中可接听新来电，支持 Markdown 排版",
@@ -374,7 +462,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 14:53:11",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/be31edef-f359-492b-a071-6e6240fc103f.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Netflix could be planning ‘always-on’ live TV channels",
@@ -396,7 +484,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 14:45:12",
       "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/472400/26/11464/196141/6a4dc567Fa01ac376/008332032013d90c.png"
+      "thumbnail": ""
     },
     {
       "title": "全新零跑 B01/B10 车型 7 月 16 日上市：50 英寸 AR-HUD、双零重力座椅、激光雷达",
@@ -407,7 +495,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 14:38:36",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/120d4635-aa78-49c0-8e20-07f7cdc43f8f.jpg?x-bce-process=image/auto-orient,o_1"
+      "thumbnail": ""
     },
     {
       "title": "告别卓易通：飞牛 fnOS 鸿蒙原生 App 开启首轮测试招募",
@@ -418,7 +506,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 14:21:19",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/7bdeb330-5c56-46aa-a2e0-8d5294339b20.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "I spent a week using the Trump phone — it sucks",
@@ -429,7 +517,7 @@
       "region": "us",
       "pubDate": "2026-07-10 14:19:59",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268626_Trump_phone_AKrales_0778.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
@@ -454,17 +542,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
-      "link": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
-      "summary": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-10 14:11:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "I’m filling in at The Verge for 6 weeks. Ask me anything!",
       "link": "https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything",
       "summary": "Hello my friends! My protocol pals! My computational compadres! I'm David, a technology reporter and cohost of the Waveform Podcast. I'll be hosting a subscriber-only \"AMA\" today at 11AM PT / 2PM ET. ...",
@@ -473,7 +550,7 @@
       "region": "us",
       "pubDate": "2026-07-10 14:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/David-Profile-AMA.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Empathy for the optimizers",
@@ -484,7 +561,7 @@
       "region": "us",
       "pubDate": "2026-07-10 14:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-1236026592.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Volkswagen Group tells its board how to fix it, unions disagree",
@@ -506,18 +583,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 13:49:28",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
-      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-10 13:45:02",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/23r4t35wethsff3.png"
     },
     {
       "title": "集成灶四小龙集体“大逃亡”：卖壳、豪赌与保壳 | 行业风向标",
@@ -528,7 +594,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 12:53:21",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/d4021834a87ddc8f771cb546cd97b287_1783688004.png"
     },
     {
       "title": "安徽首家医药上市公司易主：丰原药业难撑困局，蚌埠国资7亿元接盘",
@@ -539,7 +605,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 12:51:02",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/fb311a2352512e74b3bad03c2c247f82_1783687865.png"
     },
     {
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
@@ -550,7 +616,7 @@
       "region": "us",
       "pubDate": "2026-07-10 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/PigeonIntoMissile.edit_.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "How to Share Your Location on an iPhone or Android Phone (2026)",
@@ -594,7 +660,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 11:22:32",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35hyjtngf3.png"
     },
     {
       "title": "一年卖近50亿包卡牌，毛利率超泡泡玛特，卡游为何闯不过IPO这关？",
@@ -605,18 +671,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 11:21:56",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Is an air-conditioning revolution coming to Europe?",
-      "link": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
-      "summary": "The AC culture wars may be solved by advances in environmentally friendly technology....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-10 11:10:08",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277821243-500x500-1783616737.jpg"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/020a646ab5b29f2240263d9c080aa089_1783682521.jpg"
     },
     {
       "title": "国产先进封装，能追上“韬速度”吗？",
@@ -627,7 +682,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 11:02:20",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/10/598813f787b481d258f736abe293e726_1783671450.png"
     },
     {
       "title": "隐忍14年，一个“老二”把三星拉下了王座",
@@ -638,7 +693,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 11:02:18",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/y54htrg3.png"
     },
     {
       "title": "被狂热追捧的AI 「医疗神迹」，正在复刻硅谷「坏血骗局」",
@@ -649,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 11:02:17",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/1t5wtg4.png"
     },
     {
       "title": "长十乙成功回收，中国商业航天进入\"可重复时代\"",
@@ -660,29 +715,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 11:02:16",
       "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rocket Report: \"Panic\" over Transporter availability; Isar to launch from Canada",
-      "link": "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
-      "summary": "\"We are delighted to actively help shape the ramp-up of the Ariane 6.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-10 11:00:43",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Full-Stack_Alignment_1-1024x767-1-500x500.jpg"
-    },
-    {
-      "title": "Like a cheat code for your car: We investigate ECU tuning",
-      "link": "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
-      "summary": "Now it's an arms race between OEMs locking down chips and tuners trying to crack them....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-10 11:00:32",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Calibration_APR-500x500.jpeg"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/07/20260710123425503296.jpg"
     },
     {
       "title": "长鑫、SK海力士、三星与美光四大存储巨头的硬核对比",
@@ -693,7 +726,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 10:41:07",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/10/5672c79328d815ef6548da5294878661_1783650157.png"
     },
     {
       "title": "The Best Pool Accessories to Upgrade Your Summer (2026)",
@@ -902,7 +935,7 @@
       "region": "cn",
       "pubDate": "2026-07-10 07:49:14",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260710/v2_df085fd87c51435797d88ce8cac144ac@6221844_oswg3271346oswg2226oswg1426_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
     },
     {
       "title": "消息称腾讯拟接盘 Manus 成最大股东",
@@ -925,17 +958,6 @@
       "pubDate": "2026-07-10 07:12:11",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-      "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?...",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-10 06:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a4faec15defba4430906469/master/pass/GettyImages-2284616220.jpg"
     },
     {
       "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
@@ -962,7 +984,7 @@
     {
       "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
       "link": "https://36kr.com/p/3888284244720131?f=rss",
-      "summary": "\n文 | 胡香赟\n  编辑 | 海若镜\n  36氪获悉，前传奇生物创始人/首席科学家范晓��创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。\n  过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的一...",
+      "summary": "\n文 | 胡香赟\n  编辑 | 海若镜\n  36氪获悉，前传奇生物创始人/首席科学家范晓��创办的生物科技公司深圳湾岛细胞，近日完成1.4亿���民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。\n  过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
@@ -979,18 +1001,18 @@
       "region": "cn",
       "pubDate": "2026-07-10 03:03:33",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260706/v2_3533cf9494734299ba1633a43dcdf6f2@6091023_oswg128213oswg464oswg894_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
       "link": "https://36kr.com/p/3889141540370949?f=rss",
-      "summary": "\n\n  图源/企业\n  \n   本文约3100字，建议阅读7分钟\n  \n  作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，北京他山科技有限公司（以下简称“他山科技”）已于近期完成B轮融资，金额为数亿元。本轮投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners（LHCP）、洪山资本等产业方，老股东道氏技术、彬复资本追加投资。资金将主要用于触觉传感...",
+      "summary": "\n\n  图源/企业\n  \n   本文约3100字，建议阅读7分钟\n  \n  作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，北京他山科技有限公司（以下简称“他山科技”）已于近期完成B轮融资，金额为数亿元。本轮投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners（LHCP）、洪山资本等产业方，老股东道氏技术��彬复资本追加投资。资金将主要用于触觉传...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-07-10 01:19:37",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260710/v2_27f38c78baa0435ebc1c560de3f3bb69@6221844_oswg1150800oswg1268oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行",
@@ -1023,7 +1045,7 @@
       "region": "us",
       "pubDate": "2026-07-09 20:22:28",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-20.29.29.png?w=180"
+      "thumbnail": ""
     },
     {
       "title": "Enterprises using multiple AI models are underestimating failure rates by 2.25x",
@@ -1045,18 +1067,7 @@
       "region": "cn",
       "pubDate": "2026-07-09 15:36:08",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The enterprise AI challenge nobody solves with code generation alone",
-      "link": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
-      "summary": "\nPresented by SAP\n\nGenerating code with AI is fast, but getting that code to run reliably inside a large enterprise, integrated with live systems, governed for compliance, and maintainable over years ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-09 15:00:10",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260709/v2_80fcf079e0c54966a43e8a606331ae20@5284654_oswg1439272oswg1850oswg1011_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
@@ -1078,7 +1089,7 @@
       "region": "us",
       "pubDate": "2026-07-09 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/Photomontage-1.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
@@ -1089,7 +1100,7 @@
       "region": "cn",
       "pubDate": "2026-07-09 10:53:27",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260709/v2_18c2d7a02a07434f934935bbd539d407@5352461_oswg6453oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "2026·Under36丨绕过旧答案的一代人",
@@ -1100,7 +1111,7 @@
       "region": "cn",
       "pubDate": "2026-07-09 10:45:37",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260709/v2_f03cb1b75955471cb9807dccd1cb6038@5352461_oswg269oswg900oswg80_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "The Rebirth of High Frequency",
@@ -1136,17 +1147,6 @@
       "thumbnail": ""
     },
     {
-      "title": "One interface isn't enough for enterprise AI",
-      "link": "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
-      "summary": "\nPresented by Oracle NetSuite\n\nEvery major technology transition produces a set of assumptions about where the market is headed. The assumptions are often directionally correct, but they tend to under...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-09 07:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "STEM Needs Leaders From Every Generation at the Table",
       "link": "https://spectrum.ieee.org/stem-leaders-ieee-ilc",
       "summary": "\nWorking in isolation, especially for leaders, is rapidly becoming an outmoded idea. The modern era is defined by rapid technological advancements and increasingly complex, collaborative global challe...",
@@ -1155,7 +1155,7 @@
       "region": "us",
       "pubDate": "2026-07-08 18:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-black-woman-smiling-while-she-leads-a-business-meeting-the-group-consists-of-various-ages-and-backgrounds.jpg?id=67107453&width=2000&height=1500&coordinates=416%2C0%2C417%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-black-woman-smiling-while-she-leads-a-business-meeting-the-group-consists-of-various-ages-and-backgrounds.jpg?id=67107453&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
     },
     {
       "title": "Inside the Race to Electrify Semitrailers for Long-Haul Freight",
@@ -1166,7 +1166,7 @@
       "region": "us",
       "pubDate": "2026-07-08 17:58:34",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-large-battery-installed-on-the-undercarriage-of-an-electric-semi-trailer.jpg?id=67112537&width=2000&height=1500&coordinates=166%2C0%2C167%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-large-battery-installed-on-the-undercarriage-of-an-electric-semi-trailer.jpg?id=67112537&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
     },
     {
       "title": "EmTech AI 2026: The Rise of the AI Platform",
@@ -1188,7 +1188,7 @@
       "region": "us",
       "pubDate": "2026-07-08 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/uber-driver-with-passenger-thumb.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
@@ -1199,7 +1199,7 @@
       "region": "us",
       "pubDate": "2026-07-07 19:02:42",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/three-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg?id=67107362&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/three-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg?id=67107362&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
     },
     {
       "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
@@ -1210,7 +1210,7 @@
       "region": "us",
       "pubDate": "2026-07-07 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MIT-Tech-Review_Evo-Genetics_thumb.jpg?w=2978"
+      "thumbnail": ""
     },
     {
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
@@ -1221,7 +1221,7 @@
       "region": "us",
       "pubDate": "2026-07-07 11:10:52",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Why worms (and microbes) are catching on as a manure pollution solution",
@@ -1232,7 +1232,7 @@
       "region": "us",
       "pubDate": "2026-07-07 10:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-017_bddae2.jpg?w=2667"
+      "thumbnail": ""
     },
     {
       "title": "VHF Propagation: What Every RF Engineer Should Know",
@@ -1254,7 +1254,7 @@
       "region": "us",
       "pubDate": "2026-07-03 18:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-elderly-white-man-looks-at-an-exhibit-board-about-the-history-of-radio-technology.jpg?id=67080555&width=2000&height=1500&coordinates=416%2C0%2C417%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-elderly-white-man-looks-at-an-exhibit-board-about-the-history-of-radio-technology.jpg?id=67080555&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
     },
     {
       "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
@@ -1265,7 +1265,7 @@
       "region": "us",
       "pubDate": "2026-07-03 12:00:01",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/aerial-view-of-a-large-industrial-complex-near-housing-and-power-lines-in-autumn.jpg?id=67080460&width=2000&height=1500&coordinates=166%2C0%2C167%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/aerial-view-of-a-large-industrial-complex-near-housing-and-power-lines-in-autumn.jpg?id=67080460&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
     },
     {
       "title": "Why Public Speaking Skills Are Worth Investing In",
@@ -1276,7 +1276,7 @@
       "region": "us",
       "pubDate": "2026-07-01 18:15:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
     },
     {
       "title": "Why Mentorship Is the Most Underrated Leadership Skill",
@@ -1287,7 +1287,7 @@
       "region": "us",
       "pubDate": "2026-07-01 18:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/two-women-enjoying-a-friendly-discussion-at-work.jpg?id=67070764&width=2000&height=1500&coordinates=0%2C0%2C0%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/two-women-enjoying-a-friendly-discussion-at-work.jpg?id=67070764&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
     }
   ]
 }
