@@ -1,116 +1,435 @@
 {
-  "updateTime": "2026-07-13T08:20:44.364Z",
-  "total": 97,
+  "updateTime": "2026-07-13T12:12:12.654Z",
+  "total": 117,
   "news": [
     {
-      "title": "StatCounter 承认 2026 年 6 月桌面系统市占率数据出错，Windows 份额正确数据为 72%",
-      "link": "https://www.ithome.com/0/976/029.htm",
-      "summary": "\nIT之家 7 月 13 日消息，据科技媒体 Windows Latest 昨天报道，网络分析机构 StatCounter 此前公布 2026 年 6 月桌面系统市占率时声称，Windows 系统的市场份额已经跌至 56.55%。而在 4 月，该机构还声称 Windows 市占率为 78.87%。\n与此同时，Linux 的市场份额升至 4.39%。这一数据很快被一些 AI 领域网红、Linux 媒...",
+      "title": "每秒 520 万亿次浮点运算，我国自研 AI 芯片取得架构突破",
+      "link": "https://www.ithome.com/0/976/197.htm",
+      "summary": "\nIT之家 7 月 13 日消息，据央视新闻报道，7 月 13 日，我国首颗采用软件定义与三维近存计算技术的 AI 芯片在上海正式亮相。这颗芯片在 14 纳米制程工艺上，实现了每秒 520 万亿次浮点运算的算力，其最大特点是通过底层架构创新，走出了一条不依赖先进制程的高端算力发展路径。\n\nIT之家从报道中获悉，该芯片采用了软件定义与三维近存计算相结合的技术路线。一方面，通过软件定义芯片技术，硬件资...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-13 07:40:33",
+      "pubDate": "2026-07-13 12:08:27",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/1df52eab-57bd-4fc6-bf35-9704c924da7d.png?x-bce-process=image/format,f_auto"
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/adfb5234-e298-40a4-9944-773f68820110.png?x-bce-process=image/format,f_auto"
     },
     {
-      "title": "消息称字节正探索进入自动驾驶领域，由 Seed 世界模型团队负责",
-      "link": "https://www.ithome.com/0/976/028.htm",
-      "summary": "\nIT之家 7 月 13 日消息，据 36 氪消息，字节跳动正探索进入自动驾驶领域。这一项目目前由 Seed 旗下周畅的世界模型团队负责。\n另有消息人士透露，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。\n部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目前字节的自动驾驶项目已进入早期筹备状态。字节向不少头部辅助驾驶...",
+      "title": "神舟战神 T8 笔记本新增“i7-13650HX + 16G + 1T + RTX5060”版本，8499 元",
+      "link": "https://www.ithome.com/0/976/192.htm",
+      "summary": "\nIT之家 7 月 13 日消息，神舟现已为旗下战神 T8 笔记本新增 i7-13650HX + 16GB RAM + 1TB SSD + RTX5060 版本，定价为 8499 元。\n京东神舟战神 T8 笔记本 i7-13650HX + 16GB RAM + 1TB SSD + RTX50608499 元直达链接\n\n这款游戏本整机重约 2.45kg，厚约 31mm，B 面配备一块 16 英寸 1...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-13 07:36:38",
+      "pubDate": "2026-07-13 11:56:31",
+      "category": "ai",
+      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/472140/13/16680/111237/6a54a4ecFce7e40ee/00833203207cd0ba.jpg"
+    },
+    {
+      "title": "阶跃终端首款智能体手机 STEPX Neo 亮相，配备交互背屏",
+      "link": "https://www.ithome.com/0/976/191.htm",
+      "summary": "\nIT之家 7 月 13 日消息，阶跃终端品牌暨智能体战略发布会正在举行，旗下首款智能体手机 STEPX Neo 正式亮相，机身背面配备交互副屏，搭载智能体原生系统 Step AOS。\n\n阶跃官方公布首批生态合作伙伴，包括美团、WPS、剪映、携程、高德、支付宝、百度、滴滴、京东、微博、百度地图等。\n\n截至IT之家发文，官方暂未公布新机的具体配置以及上市时间。\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-13 11:49:02",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/f3c2f4ae-e6ca-49ad-a051-916401bfd0e7.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "文远知行首次披露 L2++ 智驾业务出海进展，已在德国、法国、日本等国开展道路测试与适配验证",
+      "link": "https://www.ithome.com/0/976/190.htm",
+      "summary": "\nIT之家 7 月 13 日消息，文远知行今日首次披露了 L2++ 智驾业务出海进展：\n以文远知行自研一段式端到端智能辅助驾驶核心算法为基础，融合博世车规级域控平台及全球化验证测试能力打造的一段式端到端智能辅助驾驶方案，已在德国、法国、日本等国家开展道路测试与适配验证，持续积累全球化场景经验，系统化构建面向全球市场的产品研发能力与工程验证体系。\n\n文远知行官方表示，作为汽车产业链的战略要冲与技术制...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-13 11:39:42",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/41d18da8-8e42-4406-87a9-6386b7f3b5ab.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "阿维塔 07L 将于 7 月 17 日开启预售：华为乾崑 896 线激光雷达 + 鸿蒙座舱",
+      "link": "https://www.ithome.com/0/976/189.htm",
+      "summary": "\nIT之家 7 月 13 日消息，阿维塔 07L 大五座 SUV 将于 7 月 17 日开启预售，该车搭载华为乾崑 896 线激光雷达 + 鸿蒙座舱。\nIT之家注意到，阿维塔 07L 的 5 款车色外观已经公布，包括弦月银、漠白、墨黑、岩灰和星紫。该车前脸延续家族化设计语言，车顶配备了华为乾崑 896 线激光雷达，同时带有行李架；车身使用半隐藏式门把手，B 柱间还加入了华为乾崑独有标识；配备华为鸿...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-13 11:38:46",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/ad929bab-2585-4c0b-8b4e-c43e9d55dd73.jpg?x-bce-process=image/auto-orient,o_1"
+    },
+    {
+      "title": "6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom",
+      "link": "https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/",
+      "summary": "These butt-cleaning machines also offer luxe features like custom seat warming and adjustable water flows....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-13 11:35:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/69f4f651c2feaf82cfb1e4f1/master/pass/The-Best-Bidets-for-Every-Bathroom-and-Budget.jpg"
+    },
+    {
+      "title": "TCL 科技 2026 年半年度归母净利润 37 亿元 — 39.2 亿元，同比增长 96%~108%",
+      "link": "https://www.ithome.com/0/976/187.htm",
+      "summary": "\nIT之家 7 月 13 日消息，TCL 科技今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）业绩预告报告：\n\n归母净利润： 37 亿元 — 39.2 亿元，同比增长 96%~108%\n扣非净利润： 29.2 亿元 — 31.4 亿元，同比增长 87%~101%\n基本每股收益： 0.1779 元 / 股 — 0.1884 元 / 股\n\n\n\n\nAI 解读\n本次 TCL 科技...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-13 11:29:21",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/4ff54912-8a9c-4d1c-b9ce-f51ad4d16c18.jpg"
+    },
+    {
+      "title": "消息称华为乾崑智驾 ADS 5“大概率”本月底或下月初全量推送",
+      "link": "https://www.ithome.com/0/976/186.htm",
+      "summary": "\nIT之家 7 月 13 日消息，博主 @电车小飞 今日发文透露，称华为乾崑智驾 ADS 5 版本大概率会在本月底或下月初进行全量推送。\n\n据IT之家此前报道，在 4 月 23 日晚，华为乾崑智驾 ADS 5 正式发布。算法层面，华为发布了面向自动驾驶的 AI 智能体 WEWA 2.0 架构。该架构在云端引入 Multi-Agent 博弈技术与在线强化学习机制；在车端应用了安全风险场技术进行实时安...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-13 11:26:34",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/bccd80d6-94cd-452d-a237-e4bfe003d91b.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "零跑全新 B01/B10 更多规格公布：全域 800V+3C 快充，纯电续航 670km/610km",
+      "link": "https://www.ithome.com/0/976/185.htm",
+      "summary": "\nIT之家 7 月 13 日消息，零跑汽车近日公布全新 B01/B10 更多规格，包括续航、辅助驾驶等信息，新车将于 7 月 16 日上市，已在 7 月 8 日开启盲订。\n\n据介绍，零跑全新 B01/B10 升级 69.7kWh 大电池，CLTC 续航里程分别达到 670km 和 610km。该系列车型搭载全域 800V+3C 快充，官方宣称 30-80% 充电最快仅需 16 分钟。\n\n辅助驾驶方...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-13 11:25:06",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/d0df6139-330b-4b07-9531-8230d4560aef.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "68 万元起，比亚迪腾势 Z 电动超跑国内预售开启",
+      "link": "https://www.ithome.com/0/976/184.htm",
+      "summary": "\nIT之家 7 月 13 日消息，比亚迪旗下腾势汽车今日宣布，腾势 Z 开启预售，预售价 68 万元起：\n\nCoupe 硬顶版：68 万元\nSpider 敞篷版：78 万元\nRacing 赛道版：118 万元\n\n\n据IT之家此前报道，比亚迪腾势 Z 电动超跑已在英国古德伍德速度节上首发亮相，售价 14.29 万英镑（现汇率约合 129.6 万元人民币）起，由知名汽车设计师沃尔夫冈 · 艾格（Wol...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-13 11:13:32",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/333ddbe9-01c2-4d68-8019-18918547ec93.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "高分科幻悬疑电影《恐怖游轮》7 月 15 日开启全国超前点映，主打烧脑循环 + 无限轮回",
+      "link": "https://www.ithome.com/0/976/183.htm",
+      "summary": "\nIT之家 7 月 13 日消息，豆瓣 8.5 高分科幻悬疑电影《恐怖游轮》已定档 7 月 17 日在内地首次上映。本片主打烧脑循环 + 无限轮回，已于 2009 年在英国首映。\n\n根据电影官方最新消息，《恐怖游轮》会在 7 月 15 日-16 日 18:00-21:00 开启全国超前点映。\n\nIT之家查询获悉，本片由克里斯托弗 · 史密斯执导 / 编剧，梅利莎 · 乔治等主演，讲述了单亲妈妈 J...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-13 11:13:06",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/b58f56e1-b627-4a81-ad91-3535ce980292.jpg?x-bce-process=image/auto-orient,o_1"
+    },
+    {
+      "title": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
+      "link": "https://www.wired.com/review/igarden-swim-jet-x-pro-10/",
+      "summary": "Swimming against the iGarden Swim Jet X Pro 10’s artificial current is a real workout, even if it doesn’t quite replace a full-size lap pool....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-13 11:08:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a50890ad33cf036c6baa3c2/master/pass/Review--iGarden-Swim-Jet-X-Pro-10.jpg"
+    },
+    {
+      "title": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
+      "link": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
+      "summary": "By some benchmarks, Julia code can run 10X to 1,000X faster than Python—but there’s a reason it’s not a very popular programming language....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-13 11:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a4e88d3d12b964679cc83a9/master/pass/WRD_JULIA_FINAL.png"
+    },
+    {
+      "title": "前小米副总卖咖啡机器人，融资数亿",
+      "link": "https://www.tmtpost.com/8062012.html",
+      "summary": "唐沐透露，2026 年公司手握的订单金额已接近3至5亿元。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-13 10:54:19",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "泥沼中的长安马自达，会成为下一个斯柯达吗？",
+      "link": "https://www.tmtpost.com/8062205.html",
+      "summary": "逐步滑向行业边缘。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-13 10:44:31",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "一边亏损一边上新：昆仑万维的短剧",
+      "link": "https://www.tmtpost.com/8058120.html",
+      "summary": "昆仑万维能否撑得起海外短剧“三极”布局？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-13 10:44:14",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "中国AI产业的三大优势（中）",
+      "link": "https://www.tmtpost.com/8059509.html",
+      "summary": "如果说稀散金属是AI产业的\"原材料命脉\"，那么电力就是AI算力的重要基础。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-13 10:44:09",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "2026 暑期档票房超 30 亿，《给阿嬷的情书》《功夫女足》《玩具总动员 5》分列前三",
-      "link": "https://www.ithome.com/0/976/026.htm",
-      "summary": "\nIT之家 7 月 13 日消息，据猫眼专业版数据，2026 年暑期档（6 月 1 日-8 月 31 日）总票房超 30 亿，《给阿嬷的情书》《功夫女足》《玩具总动员 5》分列暑期档票房榜前三位。具体档期票房如下：\n\n《给阿嬷的情书》：56801.76 万\n《功夫女足》：54021.70 万\n《玩具总动员 5》：27201.09 万\n《四渡》：23449.40 万\n《小黄人与大怪兽》：22409....",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "程序员面试背了十年的八股文，被DeepSeek废了",
+      "link": "https://www.tmtpost.com/8063047.html",
+      "summary": "在招人这事上，所有AI公司都应该向梁文锋看齐。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-07-13 07:35:01",
+      "pubDate": "2026-07-13 10:44:04",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/41371ff6-a172-4ba7-bfe5-6febde2c8125.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "全球首颗软件定义近存计算 3D 芯片：东方算芯 DF1000 在上海发布，14nm 工艺",
-      "link": "https://www.ithome.com/0/976/025.htm",
-      "summary": "\nIT之家 7 月 13 日消息，据第一财经报道，东方算芯今日在上海发布了东方算芯首颗旗舰芯片 ——DF1000。\n\n报道称，作为全球首颗软件定义近存计算 3D 芯片，DF1000 以“软件定义＋3D 堆叠近存计算”的东方范式，破解了中国高端算力芯片发展面临的三大核心瓶颈。\n东方算芯副总裁郭炜介绍，DF1000 聚焦底层计算架构的源头创新，通过软件定义芯片技术实现软硬件解耦与动态重构，在 14nm...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "遍地开花，Token工厂集中登上资本舞台的幕后思考",
+      "link": "https://www.tmtpost.com/8063008.html",
+      "summary": "泡沫和真金，在同一条河里翻涌。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-07-13 07:30:11",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/dce63b2c-808a-41c3-9f73-0d126f131db8.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "四部门推动互联网基础资源高质量发展：目标 2030 年体系化突破，加强卫星互联网等规划建设",
-      "link": "https://www.ithome.com/0/976/024.htm",
-      "summary": "\nIT之家 7 月 13 日消息，工信部、中央网信办等四部门今日印发《关于推动互联网基础资源高质量发展的指导意见》。\n\n《指导意见》提出，到 2030 年，互联网基础资源高质量发展实现体系化突破，取得一批标志性技术原创成果，形成系列引领性技术标准。互联网基础资源及体系架构革新演进，建成高效协作、智能互联的新型互联网基础设施，打造一批新型服务网络。互联网基础资源高效治理与综合保障能力显著提升。到 2...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-13 07:29:20",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/274ea9f7-53c6-425f-a214-54ffbe10e6b3.png"
-    },
-    {
-      "title": "ATK 推出烈空 F1V3 系列鼠标：PAW3955 MASTER，首发 299.2 元起",
-      "link": "https://www.ithome.com/0/976/023.htm",
-      "summary": "\nIT之家 7 月 13 日消息，ATK 科技今日宣布推出 ATK 烈空 F1V3 系列鼠标，将于 7 月 14 日 20:00 开售，首发 299.2 元起：\n\n大师版：首发到手价 299.2 元\n大师版利维坦冠军联名款：首发到手价 319.6 元\n探索版：首发到手价 424.15 元\n\n\n据介绍，这款鼠标重约 37g，尺寸为 118.2×62.4×38.8mm，适合中小手玩家，围绕实战握持习惯...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-13 07:29:04",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/7be5f8ac-0840-4934-8813-6145f7520b65.jpg"
-    },
-    {
-      "title": "同级首发液气混合散热：努比亚发布 Neo 5 GT Special Edition 智能手机",
-      "link": "https://www.ithome.com/0/976/022.htm",
-      "summary": "\nIT之家 7 月 13 日消息，努比亚 (nubia) 本月 8 日发布 Neo 5 GT Special Edition 智能手机。这一款式号称同级首发液冷 + 风冷混合散热，拥有同级唯一纯平背部设计。\n\n努比亚 Neo 5 GT Special Edition 基于联发科天玑 7400 芯片，存储器配置为 12GB + 256GB / 12GB + 512GB，搭配 6.8\" 1.5K 14...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-13 07:26:15",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/c1a2ace4-91b8-403e-b0f5-e99fbb1490fd.jpg"
-    },
-    {
-      "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 车机首曝，首发电影级运镜 HMI",
-      "link": "https://www.ithome.com/0/976/020.htm",
-      "summary": "\nIT之家 7 月 13 日消息，由奇瑞 × 捷豹路虎合作打造的 FREELANDER 神行者品牌今日继续预热旗下首车 —— 神行者 8。此次介绍了车机系统的交互部分，新车将首发电影级运镜 HMI（即人机界面），号称“定义下一代车机视觉”。\n\nFREELANDER 神行者全球 CEO、奇瑞捷豹路虎董事 / 常务副总裁文飞介绍称，神行者 8 会首发电影级运镜 HMI 全球最大环视画廊 + 神行大陆的...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-13 07:23:26",
+      "pubDate": "2026-07-13 10:43:58",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/f26123f9-d30b-47cc-a320-34433ecd3b14.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "分析师乔治 · 诺布尔称 SpaceX 股票泡沫严重：合理价格在每股 30 美元，高位入场散户恐血本无归",
-      "link": "https://www.ithome.com/0/976/016.htm",
-      "summary": "\nIT之家 7 月 13 日消息，曾创立富达海外基金的分析师乔治 · 诺布尔上周日（7 月 12 日）在 X 平台发布帖文，重申自己看空 SpaceX 的立场并警告称，高位入场的散户将血本无归。\n\n乔治 · 诺布尔表示，SpaceX 这场史上规模最大的 IPO，本就是为了让散户掏钱，其估值已严重脱离基本面。他引用数据指出，SpaceX 以 135 美元（IT之家注：现汇率约合 915.3 元人民币...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "从原料到算力核按钮：稀土如何改写全球半导体利润格局？",
+      "link": "https://www.tmtpost.com/8062719.html",
+      "summary": "围绕“算力金属”的博弈，正在重写全球半导体产业链的利润分配。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-07-13 07:19:42",
-      "category": "space",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/1fd33f1f-c100-45a7-8236-4a96380d6205.png?x-bce-process=image/format,f_auto"
+      "pubDate": "2026-07-13 10:43:54",
+      "category": "chip",
+      "thumbnail": ""
     },
     {
-      "title": "消息称三星 Galaxy Z TriFold 2 三折叠手机将延后上市，筹备多年的卷轴屏手机有望提前推出",
-      "link": "https://www.ithome.com/0/976/015.htm",
-      "summary": "\nIT之家 7 月 13 日消息，消息源 yeux1122 发文，透露三星 Galaxy Z TriFold 2 三折叠手机将延后上市，而筹备多年的卷轴屏手机则有望提前推出。\n在三星 Galaxy Z TriFold 2 方面，目前三星正在重新设计该机铰链系统，能够让几乎所有铰链组件保持相近厚度，以进一步降低整机厚度和重量。\n作为参考，现款 Galaxy Z TriFold 折叠状态下厚度达到 1...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "《功夫女足》爆了，但周星驰这次有点偷懒",
+      "link": "https://www.tmtpost.com/8063053.html",
+      "summary": "一部电影，两种期待。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-07-13 07:19:20",
+      "pubDate": "2026-07-13 10:36:29",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/f1f012cb-fea0-443d-8de0-7808f756db61.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
+    },
+    {
+      "title": "Beyond the $9.90 Race to the Bottom: How China’s New Cross-Border Innovators Are Rewriting the Rules",
+      "link": "https://www.tmtpost.com/8063302.html",
+      "summary": "A new generation of Chinese cross-border entrepreneurs is breaking away from traditional low-cost arbitrage and volume-driven exports. By deeply embedding into supply chains, leveraging real-time cons...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-13 10:36:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "机器人还没学会做家务，卖数据的已经先赚到了钱",
+      "link": "https://www.tmtpost.com/8062934.html",
+      "summary": "时薪不足30元，估值超150亿，同一份数据的产业两端。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-13 10:35:10",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "White Supremacists Love Armie Hammer’s New Movie",
+      "link": "https://www.wired.com/story/a-bunch-of-white-supremacists-love-armie-hammers-new-movie/",
+      "summary": "Described as the “feel-good movie of white-boy summer” by one extremist, the movie Citizen Vigilante has been hailed by the far-right as a way to convert moderates to their cause....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-13 10:30:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a503039d12b964679cc8b1a/master/pass/MCDCIVI_EC005%20(2).jpg"
+    },
+    {
+      "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+      "link": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+      "summary": "Nearly three years ago, I showed you an awesome $8 cable tester that quickly tells you if your USB-C cable is likely fast, slow, powerful, or weak. Sadly, that gadget got discontinued, and I've never ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-13 10:00:00",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/331A1872.jpg?quality=90&strip=all&crop=8,15.600243753809,85,84.399756246191"
+    },
+    {
+      "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
+      "link": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+      "summary": "The SFPD’s exposure of hours of videos from drone platform Skydio reveals how broadly it’s watching the city from above—and how the results can spill online....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-13 10:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/clips/6a510d69d859f07ebf1da200/master/pass/sf-cops-leaked-surveillance-top-art-LR.mp4"
+    },
+    {
+      "title": "openKylin 项目新增捐赠人",
+      "link": "https://www.oschina.net/news/471699",
+      "summary": "openKylin社区新增捐赠人 中国长城科技集团股份有限公司成为白金捐赠人 格兰菲智能科技股份有限公司成为白银捐赠人 关于openKylin OpenAtom openKylin（简称“openKylin”）是由开放原子开源基金会孵化及运营的开源项目。社区以“为世界提供与人工智能技术深度融合的开源操作系统”为愿景，旨在于开源、自愿、平等、协作......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-13 09:53:39",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "喜报｜openKylin 咨询委员会主任廖湘科当选中国科协第十一届全国委员会副主席",
+      "link": "https://www.oschina.net/news/471698",
+      "summary": "【转载简讯】来源：中国科协之声中国科协第十一届全国委员会第一次会议7月11日上午在北京召开。 会议选举产生中国科协新一届领导机构。王光谦当选中国科协第十一届全国委员会主席，openKylin 咨询委员会主任、中国工程院院士廖湘科等16人当选副主席。 openKylin 咨询委员会主任 廖湘科 廖湘科，中国工程院院士，现任启元......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-13 09:42:50",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Best Kitchen Composters and Food Recyclers (2026)",
+      "link": "https://www.wired.com/story/home-composters-buying-guide/",
+      "summary": "Responsibly dispose of your food scraps with one of these indoor, (mostly) odor-free, WIRED-tested devices....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-13 09:31:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/68f838f9ca694516647e4962/master/pass/The%20Best%20Kitchen%20Composters%20and%20Food%20Recyclers.png"
+    },
+    {
+      "title": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
+      "link": "https://www.qbitai.com/2026/07/449156.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-13 09:27:19",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Social media limits are coming for teens across Europe",
+      "link": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+      "summary": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could als...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-13 09:22:52",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new upda...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-13 09:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+      "link": "https://36kr.com/p/3893815451417347?f=rss",
+      "summary": "\n36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。\n  而自动驾驶与世界模型的技术路线有交叠之处。\n  另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。\n  部分接近字节的知情人士表示，字...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-13 08:34:05",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260713/v2_5186d1a5cd5848a1850569e3228cf74c@6215398_oswg41960oswg1080oswg335_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "潜入《遗忘之海》，我才读懂网易的心气",
+      "link": "https://36kr.com/p/3893769618569985?f=rss",
+      "summary": "\n文丨小葵\n  编辑丨果脯\n  7月9日，网易旗下Joker工作室端出了他们打磨了七年的作品——《遗忘之海》，一款海洋奇遇大世界RPG。PC端率先公测，移动端版本将在7月23日与玩家见面。\n  这款怪诞木偶风的航海游戏，还没出海就已经被盯上了。在公测前夕，这款游戏全网预约量已突破3600万，在TapTap、B站等多个平台预约榜冲至Top1。实机PV在B站播放破千万，光大证券预测其首年流水或达50亿...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-13 08:31:34",
+      "category": "other",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260713/v2_deb420d472db4816aa0bc50e4a7613d6@6371858_oswg700341oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
+      "link": "https://www.qbitai.com/2026/07/449150.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-13 08:28:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "问界母公司突发亏损预警！一季度还在盈利",
+      "link": "https://www.qbitai.com/2026/07/449005.html",
+      "summary": "原材料涨价不是唯一原因...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-13 08:17:28",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "燃夏哈尔滨！线下沙龙集结！解锁金仓全栈兼容实战秘籍，赋能企业国产化稳行致远",
+      "link": "https://www.oschina.net/news/471696",
+      "summary": "盛夏七月，金仓技术沙龙再度启幕，这一次我们相聚哈尔滨，特邀行业客户代表、林春、崔鹏、严少安等一线技术大咖，与金仓资深售前专家刘锡亚携手，展开一场硬核实战的经验交锋。本次分享以「金仓全栈适配兼容与高可用实践」为核心主题，聚焦金融级SQL智能治理、业务系统迁移适配核心坑点解法、Agent驱动运维新范式、以及高......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-13 08:11:58",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "超越 Vision Banana，商汤开源 SenseNova-Vision：视觉任务大统一",
+      "link": "https://www.oschina.net/news/471695",
+      "summary": "今天，商汤科技正式发布并全面开源日日新 SenseNova-Vision理解生成统一视觉大模型，这是商汤日日新大模型体系的重要视觉能力升级。 行业以往的 \"统一视觉\" 多是把检测、分割、深度预测等多个专家模型打包封装，本质还是割裂的。SenseNova-Vision 的核心变革是：让视觉成为通用基础模型的原生能力，彻底融入大模型体系。......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-13 08:03:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "调问更新 6.27~7.11：调研效率再升级：任务分发全面升级+ 微信小程序上线",
+      "link": "https://www.oschina.net/news/471693",
+      "summary": "调问自开源以来一直坚持前后端所有代码 100% 开源💯，助力企业建设属于自己的问卷调研系统👏。 🔥官网地址：https://www.diaowen.net 🔥 在线服务：https://www.surveyform.cn 🔥 源码下载：https://gitee.com/wkeyuan/DWSurvey 本次版本围绕调研发布效率、填写体验与产品能力完善进行了全面升级，正式上线微信......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-13 07:48:46",
+      "category": "other",
+      "thumbnail": ""
     },
     {
       "title": ":fire: SolonCode v2026.7.13 发布：多工作区协同、推理强度、任务分组",
@@ -120,6 +439,28 @@
       "sourceKey": "oschina",
       "region": "cn",
       "pubDate": "2026-07-13 07:04:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "WAIC’26探展召集令！和量子位一起逛展、直播、聊AI",
+      "link": "https://www.qbitai.com/2026/07/448923.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-13 07:00:18",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code砸的坑，蚂蚁安全在尝试填上",
+      "link": "https://www.qbitai.com/2026/07/448925.html",
+      "summary": "最新开源两大安全框架...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-13 06:53:56",
       "category": "ai",
       "thumbnail": ""
     },
@@ -157,6 +498,28 @@
       "thumbnail": ""
     },
     {
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "link": "https://www.qbitai.com/2026/07/436498.html",
+      "summary": "180家企业携成果入驻...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-13 05:33:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "一场高转化抽奖活动应该怎么设计？从奖品、规则到传播路径的完整拆解",
+      "link": "https://36kr.com/p/3893457328700165?f=rss",
+      "summary": "\n在微信私域生态中，抽奖几乎是商家长期使用的互动玩法：公众号涨粉、社群促活、线下门店引流、会员权益发放、品牌活动传播，都能看到它的身影。它的优势很直接：用户理解门槛低、参与反馈快、成本相对可控，也容易和微信内的公众号、社群、小程序、门店场景结合。\n  但也正因为抽奖看起来简单，很多活动最后只做成了“一次热闹”。参与人数有了，目标用户没沉淀；奖品发出去了，后续转化没接住；前端页面很热闹，后端领奖、核...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-13 05:27:38",
+      "category": "other",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260713/v2_f2d7a43480454ecb980086ef5450134d@5284654_oswg98438oswg1352oswg256_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+    },
+    {
       "title": "趋境科技完成A轮融资，半年内募资10亿",
       "link": "https://www.qbitai.com/2026/07/448820.html",
       "summary": "高品质AI Token生产服务能力获产业和资本的双重认可...",
@@ -179,15 +542,15 @@
       "thumbnail": ""
     },
     {
-      "title": "机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题",
-      "link": "https://www.qbitai.com/2026/07/448239.html",
-      "summary": "从人类认知范式，构建Physical AGI...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
+      "title": "倩碧押注PDRN护肤赛道，高端美妆品牌加速切入医美护理市场｜最前线",
+      "link": "https://36kr.com/p/3893519389293056?f=rss",
+      "summary": "\n随着医美消费逐渐从单次项目体验转向长期肌肤管理，传统高端护肤品牌正在寻找新的增长空间。\n  36氪获悉，近日，雅诗兰黛集团旗下品牌倩碧在中国发布CX肌源深修水光系列产品，切入近年来快速升温的PDRN（聚脱氧核糖核苷酸）护肤赛道。\n  该系列以重组PDRN为核心成分。据雅诗兰黛集团介绍，这是全球首款以重组PDRN为核心成分的护肤产品。此次新品发布，也是倩碧近年来持续强化“科学护肤”和医美护理关联度...",
+      "source": "36氪",
+      "sourceKey": "36kr",
       "region": "cn",
-      "pubDate": "2026-07-13 04:14:27",
+      "pubDate": "2026-07-13 03:33:13",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260713/v2_e6f17882f9604108a26aa71f8dd519a7@5922386_oswg125334oswg1242oswg828_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "SmartCall v1.0.1 发布 新增通义千问语音模型",
@@ -201,6 +564,28 @@
       "thumbnail": ""
     },
     {
+      "title": "lululemon「割不动」中国人了",
+      "link": "https://36kr.com/p/3893430641703429?f=rss",
+      "summary": "\n作者 | 谢芸子\n  编辑 | 张帆\n  在中国市场，lululemon开始被人们拿着放大镜审视。\n  6月中旬，lululemon在上海北外滩举办了一场大型户外瑜伽活动，中途遭遇暴雨。lululemon并未取消活动，而是让上千人在湿滑的瑜伽垫上完成了全套动作。\n  现场画面被社交网络疯传。整齐划一的雨中静坐，被人们诟病为“矫揉造作”“品牌不为用户着想”，甚至被部分网友拿来与《周处除三害》中的邪...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-13 03:07:43",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260713/v2_67c44e4874bf47e68e23f268b8cc378f@394564713_oswg581712oswg1080oswg761_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
+      "link": "https://36kr.com/p/3879780282495236?f=rss",
+      "summary": "\n作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，威联机器人科技（深圳）有限公司（以下简称“MOVA LINCO”）近日完成数千万元天使融资。融资资金将主要用于AI算法底层技术研发、完善产品量产体系，以及全球化渠道布局和家庭AI生态的持续建设。\n  MOVA LINCO核心团队来自头部网络通信与智能硬件企业，在路由器、NAS存储及AI算力设备等方面拥有深厚的技术积累与产品经验。公司产品矩阵以AI智能语...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-13 03:00:00",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260703/v2_d78720867de44d4ca9186a3ca056c627@6022551_oswg3119453oswg2116oswg1170_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
+    },
+    {
       "title": "DataBuff v0.1.3：SkyWalking 一行接入 + 运维专家 SSH 排障上线",
       "link": "https://www.oschina.net/news/471671/databuff-0-1-3-released",
       "summary": "DataBuff 是一款面向云原生与微服务场景的开源 AI Native OpenTelemetry APM，采用 OTLP 标准接入、Apache Doris 统一存储、Web Platform 提供拓扑 / Trace / 指标与多 Agent 排障能力。项目已在 OSCHINA 软件库收录，软件主页：https://www.oschina.net/p/databuff 今天，DataBuff...",
@@ -210,6 +595,39 @@
       "pubDate": "2026-07-13 02:55:52",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
+      "link": "https://36kr.com/p/3893473722514181?f=rss",
+      "summary": "\n作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，深圳光之跃迁科技有限公司（Lumisition Robotics）（以下简称“光之跃迁”）近日完成近五千万元天使轮融资，由正轩领投，光点资本、力合资本、松禾资本、恒信未来等机构跟投。本轮资金将主要用于产品研发、算法迭代及量产准备。\n  光之跃迁成立于2026年2月，聚焦消费级四足机器人市场，希望以“全地形移动底盘”切入户外场景，解决搬运、辅助...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-13 02:47:38",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260713/v2_d215f32209b749f599d317139c067b8a@5920579_oswg919898oswg1080oswg593_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
+      "link": "https://36kr.com/p/3893445208717826?f=rss",
+      "summary": "\n一个从未见过监控画面的多模态模型，却比在监控数据上练了多年的小模型“老将”更懂监控。这不是科幻电影，这是2023年Om AI联汇的一场“无心插柳”，也是CEO兼首席科学家赵天成博士更加坚信“多模态训练方式能为物理开放世界带来泛化性”的关键节点。彼时，AI行业正在追求以大语言模型为核心的生成式AI。\n  三年后，这个多模态模型演变成了VLX——全球首个面向物理AI的端侧流式多模态模型系列。首次提出...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-13 02:39:18",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260713/v2_b00a13bf0a3f45a88d3d27c919ef4dd2@5925182_oswg753581oswg1080oswg652_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
+      "link": "https://36kr.com/p/3885232033378308?f=rss",
+      "summary": "\n作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，零差云控（深圳）科技股份有限公司（以下简称“零差云控”）近日完成C++轮融资数亿元，本轮由同创伟业领投、国泰君安创新投资跟投，老股东华控基金追加投资。本轮资金将用于产能扩张和全球市场布局。源式资本担任本轮独家财务顾问，并由一苇资本和源式资本共同担任后续融资财务顾问。\n  人形机器人赛道在经历了概念爆火与资本狂热后，行业关键词正在悄然转变，供应链的产能与...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-07-13 02:37:39",
+      "category": "ai",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260707/v2_122d55d317d84680b5886098f1a08b42@6022551_oswg326631oswg1788oswg1000_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "零代码接口测试 APIAuto 6，AI Agent 自动操作&amp;amp;读写 DB :fire: Star 2K+",
@@ -223,59 +641,15 @@
       "thumbnail": ""
     },
     {
-      "title": "预签名上传链接、传输速度与剩余时间、迁移可从面板重试，以及七家云通用的对象标签读写",
-      "link": "https://www.oschina.net/news/471666",
-      "summary": "Nebula 1.5.0 在协作、传输可视化与对象元数据三处继续补齐。协作上新增预签名上传链接——生成一个 PUT 链接,别人无需你的密钥就能往指定路径上传文件,是「分享下载链接」的反面。传输面板更透明:进行中的传输显示实时速度与预计剩余时间,并且迁移也能从面板重试——补上了传输里最后一个不能重跑的类型。对象层面带来可......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
+      "title": "年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发",
+      "link": "https://36kr.com/p/3890940898867712?f=rss",
+      "summary": "\n文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，南京纽邦生物（NNB Nutrition）近期已完成近2亿元人民币融资。本轮融资由国寿股权领投、老股东明熙资本跟投，募集资金主要用于产品研发、新工厂建设等。这也是纽邦生物半年内完成的第二笔超亿元人民币融资。\n  纽邦生物专注于膳食补充剂原料研发，累计推出40余款原创原料，在研产品管线超100项，覆盖运动营养、体重管理、认知健康、抗衰等领域，服务雀巢、...",
+      "source": "36氪",
+      "sourceKey": "36kr",
       "region": "cn",
-      "pubDate": "2026-07-13 02:12:32",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "用 Solon AI ReActAgent 落地智能客服工单处理",
-      "link": "https://www.oschina.net/news/471665",
-      "summary": "某电商平台售后工单日均 5,000+，人工处理有三个老大难： 痛点 表现 后果 响应慢 首响经常要等很久 客户满意度下降 处理不一致 同样“丢件”，不同客服结果不同 投诉升级 重复劳动 大量工单是同一类问题 人力被低价值查询占满 核心矛盾：工单量增速明显快于客服团队扩编速度。 一、业务方案 1.1 目标 常见问题由 Agent ......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-13 01:55:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Guns 8.4.0 正式发布，企业版已开源",
-      "link": "https://www.oschina.net/news/471664",
-      "summary": "Guns v8.4.0 正式发布：企业版全面开源 简介 Guns 是一个基于 Spring Boot 3 + Vue 3 + JDK 17 的现代化 Java 应用开发框架，核心理念是提升开发效率、降低企业信息化系统的建设成本。 Guns v8.4.0 现已发布。 这是一次里程碑式的大版本更新：不仅完成了架构层面的重要重构，更将此前收费的企业版能力全面开源，与社区版......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-13 01:51:55",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "🚀 Rust 首个零代码接口和文档开源，腾讯 APIJSON 生态项目",
-      "link": "https://www.oschina.net/news/471663",
-      "summary": "腾讯 APIJSON 是一种专为 API 而生的 JSON 网络传输协议 以及 基于这套协议实现的 ORM 库。 为各种增删改查提供了完全自动化的万能 API，零代码实时满足千变万化的各种新增和变更需求。 能大幅降低开发和沟通成本，简化开发流程，缩短开发周期。适合中小型前后端分离的项目。 自 2016 年 11 月开源 9 年多来发展迅速，目......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-13 01:49:49",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "ShowDoc AI 智能体上线",
-      "link": "https://www.oschina.net/news/471662",
-      "summary": "ShowDoc 是一个在线文档管理系统，用于管理和分享项目文档，支持 API 文档、技术规范、产品说明、团队知识库等场景。 本次更新主要上线了 AI 智能体，项目成员可以直接用对话找文档、问内容、一句话批量建页面，还能全项目批量改一个点（比如统一换域名、补说明、归类），让 AI 在编辑器里帮你改稿、用对话管项目和看板任......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-13 01:47:44",
-      "category": "ai",
-      "thumbnail": ""
+      "pubDate": "2026-07-13 00:00:00",
+      "category": "chip",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260711/v2_abaf0a8172174cbd959750b9002e31c9@5930287_oswg565903oswg2294oswg959_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
@@ -286,7 +660,7 @@
       "region": "us",
       "pubDate": "2026-07-12 20:10:19",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
@@ -302,13 +676,13 @@
     {
       "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
       "link": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
-      "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel,...",
+      "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Björk records like Vespertine. But Drew Daniel,...",
       "source": "The Verge",
       "sourceKey": "theverge",
       "region": "us",
       "pubDate": "2026-07-12 19:40:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/soft-pink-truth.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
@@ -319,7 +693,7 @@
       "region": "us",
       "pubDate": "2026-07-12 16:27:06",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "TechCrunch Mobility: A robotaxi ultimatum",
@@ -352,7 +726,7 @@
       "region": "us",
       "pubDate": "2026-07-12 15:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25360143/akrales_220510_5209_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "How Philips Hue got the smart home right",
@@ -363,7 +737,7 @@
       "region": "us",
       "pubDate": "2026-07-12 14:38:01",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRH_Hue_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Less is more with the Oura Ring 5",
@@ -374,7 +748,7 @@
       "region": "us",
       "pubDate": "2026-07-12 14:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0125.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Blue Prince became a bonding — and learning — experience for my family",
@@ -385,18 +759,7 @@
       "region": "us",
       "pubDate": "2026-07-12 13:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The fight against AI data centers is just beginning",
-      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxe...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-12 12:00:00",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/blue-prince-hallway.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
@@ -443,72 +806,6 @@
       "thumbnail": "https://media.wired.com/photos/691bfbe9632b8d38670cc04a/master/pass/33%20Smart%20STEM%20Toys%20for%20the%20Techie%20Kids%20in%20Your%20Life.png"
     },
     {
-      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-      "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-12 10:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/master/pass/Quantum%20Computing.jpg"
-    },
-    {
-      "title": "Best External Hard Drives (2026): SSD to Store Data, Video, and More",
-      "link": "https://www.wired.com/story/best-portable-external-storage-drives/",
-      "summary": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-12 09:33:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/68d1a8a2627fe89f30b86df5/master/pass/The%20Best%20External%20Hard%20Drives.png"
-    },
-    {
-      "title": "The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot",
-      "link": "https://www.wired.com/gallery/best-pet-cameras/",
-      "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-12 09:05:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69e2d81939c62e0b45b3e304/master/pass/The-Best-Pet-Cameras-of-2026.jpg"
-    },
-    {
-      "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
-      "link": "https://www.qbitai.com/2026/07/448034.html",
-      "summary": "从采集触觉，到对齐触觉，再到使用触觉...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-12 08:29:46",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
-      "link": "https://www.qbitai.com/2026/07/447981.html",
-      "summary": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-12 01:37:11",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
-      "link": "https://www.qbitai.com/2026/07/447914.html",
-      "summary": "为了帮你看清具身数据行业，我们总结了以下十个行业现状...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-12 01:14:50",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Reed Jobs would rather talk about curing cancer than his last name",
       "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
       "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a ...",
@@ -527,28 +824,6 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-07-11 22:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-      "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-      "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo broug...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-11 20:57:42",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
-      "link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
-      "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing o...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-11 18:44:12",
       "category": "other",
       "thumbnail": ""
     },
@@ -606,61 +881,6 @@
       "pubDate": "2026-07-11 11:11:26",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-5260804401-500x500.jpg"
-    },
-    {
-      "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
-      "link": "https://www.wired.com/review/beatbot-aquasense-x/",
-      "summary": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?...",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-11 11:02:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a4edebe5c4c6eaef4e0bbcd/master/pass/Review--Beatbot-AquaSense-X-Robotic-Pool-Cleaner.jpg"
-    },
-    {
-      "title": "Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page",
-      "link": "https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/",
-      "summary": "The Skylight has become the informational and organizational hub of my household. My touchscreen-native kids have also gained more agency over our family activities....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-11 11:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a4fba62f5aac514ece986c7/master/pass/15%20Calendar%20Lifestyle%206.jpg"
-    },
-    {
-      "title": "Samsung Micro RGB R95H Review (2026): Not the Brightest",
-      "link": "https://www.wired.com/review/samsung-micro-rgb-r95h/",
-      "summary": "There’s a new fleet of TVs using new mini and micro RBG display tech, and Samsung’s R95H model isn’t as impressive as it should be....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-11 10:31:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a508fa4801742f6885445cc/master/pass/Review--Samsung-Micro-RGB-R95H.jpg"
-    },
-    {
-      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-      "link": "https://www.qbitai.com/2026/07/447902.html",
-      "summary": "已跑通300余项应用...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-11 10:07:17",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-      "link": "https://www.qbitai.com/2026/07/447891.html",
-      "summary": "从FP64到INT8，全精度覆盖。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-11 06:26:46",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
