@@ -1,7 +1,183 @@
 {
-  "updateTime": "2026-07-14T14:00:27.465Z",
-  "total": 97,
+  "updateTime": "2026-07-14T15:38:51.218Z",
+  "total": 107,
   "news": [
+    {
+      "title": "New York State halts construction of all new data centers",
+      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity cost...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-14 15:17:59",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Iran abused mobile networks’ vulnerabilities to locate U.S. military in the Middle East, report says",
+      "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "summary": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-14 15:14:40",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "New York Governor Signs First Statewide Data Center Moratorium",
+      "link": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/",
+      "summary": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-14 14:54:41",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a26cf2e4811df044cd3238c/master/pass/GettyImages-2279053937.jpg"
+    },
+    {
+      "title": "Taco Bell eyed in explosive diarrheal outbreak; leafy greens suspected",
+      "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+      "summary": "Health officials have not confirmed a source yet—and there may be multiple sources....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-14 14:49:02",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-500x500.jpg"
+    },
+    {
+      "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
+      "link": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
+      "summary": "The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-14 14:45:11",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-14 14:37:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-14 14:24:53",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "“妈祖”大模型落地全球，中国智慧正助力更多国家跨越技术鸿沟",
+      "link": "https://www.ithome.com/0/976/742.htm",
+      "summary": "\nIT之家 7 月 14 日消息，据新闻联播今日报道，眼下正是巴基斯坦的季风雨季，依靠中国发布的“妈祖”大模型，他们提前捕捉到信号并迅速发布预警。这个中国人工智能产品现在已经在全球多地落地应用。\n\n据IT之家此前报道，去年 7 月 26 日，在 2025 年世界人工智能大会上，以中国海上守护神“妈祖”命名的城市多灾种早期预警智能体正式发布。城市多灾种早期预警工具已经在全球多国开始试用，试用的国家和...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-14 14:22:31",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果回应 Epic 反对暂停 App Store 佣金诉讼：对方论点存在谬误",
+      "link": "https://www.ithome.com/0/976/741.htm",
+      "summary": "\nIT之家 7 月 14 日消息，苹果已就 Epic 反对其请求暂停下级法院关于 App Store 佣金的诉讼程序一事作出回应。目前，最高法院正在审理该案件中的部分争议。\n\n苹果认为 Epic 的理由存在错误\n上个月，美国最高法院同意审理一个问题：苹果因对美国 App Store 之外完成的交易收取佣金，是否被正确认定为违反民事藐视法庭令（civil contempt）。\n据IT之家了解，这场争...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-14 14:16:59",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Telegram’s shortlink domain is back online after day-long suspension",
+      "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+      "summary": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-14 14:10:13",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "美国硅谷大学推出游戏成就奖学金：最高每年 1.5 万美元，支持《原神》《魔兽世界》等玩家申请",
+      "link": "https://www.ithome.com/0/976/740.htm",
+      "summary": "\nIT之家 7 月 14 日消息，美国硅谷大学（USV）今天宣布推出“最高游戏成就奖学金”计划，为那些拥有高超游戏实力的学子提供丰厚奖赏。\n\nUSV 官网显示，该奖学金拥有精通级、传奇级两个档位，前者每学期最高可获得 2500 美元（IT之家注：现汇率约合 16971 元人民币），后者则是 5000 美元（现汇率约合 33941 元人民币）。由于该校一年共有三个学期，因此学生最高可在一年内拿到 1...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-14 14:08:13",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "三星 Galaxy Z Fold8 系列折叠屏手机发布在即，官方海报图曝光",
+      "link": "https://www.ithome.com/0/976/739.htm",
+      "summary": "\nIT之家 7 月 14 日消息，三星 Galaxy Z Fold 8 系列折叠屏手机发布在即。外媒 androidheadlines 曝光了系列新机的官方海报图，包括大折、小折和阔折手机，以及浅绿色的 Galaxy Watch 9 和深绿色的 Galaxy Watch Ultra2 手表。\n\n\n\n\n\n\n\n\n\n\n\n\n\n据IT之家此前报道，三星 Galaxy Unpacked 2026 夏季发布会已...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-14 14:06:53",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-14 14:06:47",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 款机械革命旷世 X 笔记本新增酷睿 7-245HX 版本：可选 RTX5060/5070，9999 元起（国补后 8499.15 元起）",
+      "link": "https://www.ithome.com/0/976/738.htm",
+      "summary": "\nIT之家 7 月 14 日消息，机械革命现已为旗下 2026 款旷世 X 笔记本新增酷睿 7-245HX 版本，该机可选 RTX5060 及 5070 显卡，IT之家整理价格如下：\n\n16G + 1T + RTX5060：9999 元，国补后 8499.15 元\n32G + 1T + RTX5060：11499 元，国补后 9999 元\n16G + 1T + RTX5070：11499 元\n32...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-14 14:04:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-14 14:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "全球首个可变形个人机器人，上纬新材启元 T1 今日正式登场",
+      "link": "https://www.ithome.com/0/976/736.htm",
+      "summary": "\nIT之家 7 月 14 日消息，上纬新材今日官宣，全球首个可变形个人机器人 —— 启元 T1，正式登场。\n\n据介绍，上纬新材启元 T1 支持双足站立，也能四足行走；支持柔性力控，自然牵手；支持静谧移动，主打灵活安全；支持主动交互、长期记忆、外语教学、图形化编程；支持生活备忘，定时提醒；声纹识别，声源定位。\n\n\n\n另外，启元 T1 还支持一句话点餐、游戏互动、拍摄模板更多技能拓展，并支持二次开发。...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-14 13:47:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "Pixel Watch 5 leak shows off four different finishes",
       "link": "https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes",
@@ -11,40 +187,62 @@
       "region": "us",
       "pubDate": "2026-07-14 13:39:36",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/coral-pixel-watch-5.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "科创板史上第二大 IPO：长鑫科技确定发行价 8.66 元 / 股，7 月 16 日启动申购",
-      "link": "https://www.ithome.com/0/976/731.htm",
-      "summary": "\nIT之家 7 月 14 日消息，国产 DRAM 存储芯片龙头长鑫科技发公告称，公司首次公开发行股票并在科创板上市，发行价格为 8.66 元 / 股。\n投资者请按此价格在 2026 年 7 月 16 日（T 日）进行网上和网下申购，申购时无需缴付申购资金。其中，网下申购时间为 9:30-15:00，网上申购时间为 9:30-11:30，13:00-15:00。本次初始发行股份数量为 668,808...",
+      "title": "消息称佳能 EOS R10 Mark II 半画幅无反相机将先于 R7 Mark II 发布，具体时间尚不明确",
+      "link": "https://www.ithome.com/0/976/735.htm",
+      "summary": "\nIT之家 7 月 14 日消息，据消息源 Canon Rumors 昨日爆料，长期以来，佳能半画幅用户一直在期待 EOS R7 的后续机型。此前不少人认为，EOS R7 Mark II 将在今年发布，不过从目前传闻看，这款产品要等到 2027 年上半年才会亮相。\n\n不过该消息源最近获悉，佳能的 EOS R10 Mark II 相机将先于 EOS R7 Mark II 推出。据消息人士透露，佳能正...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-14 13:19:35",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "比亚迪腾势 Z 电动智能超跑预售 24 小时国内 + 海外累计订单破千台，68 万元起",
-      "link": "https://www.ithome.com/0/976/730.htm",
-      "summary": "\nIT之家 7 月 14 日消息，比亚迪旗下腾势汽车昨日宣布，腾势 Z 电动超跑开启预售，预售价 68 万元起：\n\nCoupe 硬顶版：68 万元\nSpider 敞篷版：78 万元\nRacing 赛道版：118 万元\n\n\n腾势汽车今日宣布，腾势 Z 国内预售 24 小时后，国内 + 海外的累计订单破 1000 台。\n\n据IT之家此前报道，比亚迪腾势 Z 电动超跑已在英国古德伍德速度节上首发亮相，售...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-14 13:16:16",
+      "pubDate": "2026-07-14 13:39:21",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "东风汽车：岚图梦想家 9 基于全域 L3 级自动驾驶架构打造，预计今年下半年上市",
-      "link": "https://www.ithome.com/0/976/727.htm",
-      "summary": "\nIT之家 7 月 14 日消息，岚图梦想家 9 已于本月初首发登场，定位 50 万元级“九系智尊”MPV。\n\n该车随后完成申报并发布官图，确认提供插电式混合动力版和纯电动版两种车型。\n\nIT之家注意到，东风汽车官方今日发文，对该车进行预热，公布了更多信息。岚图梦想家 9 定位中大型豪华行政座驾，预计今年下半年上市，售价或在 50 万元以上。\n新车基于全域 L3 级自动驾驶架构打造，搭载 896 ...",
+      "title": "Steam 新一周游戏销量榜公布：《刺客信条：黑旗记忆重置》登顶全球榜",
+      "link": "https://www.ithome.com/0/976/734.htm",
+      "summary": "\nIT之家 7 月 14 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 7 月 7 日 - 2026 年 7 月 14 日，无免费游戏），《刺客信条：黑旗 记忆重置》夺得全球销量榜榜首，新作《Palworld / 幻兽帕鲁》正式版上线后冲上全球第二，《艾恩葛朗特 回荡新声》新晋上榜。\n全球榜单：\n\n《刺客信条：黑旗记忆重置》\n《Palworld / 幻兽帕鲁》\n《Gran...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-14 13:07:11",
-      "category": "auto",
+      "pubDate": "2026-07-14 13:34:03",
+      "category": "other",
       "thumbnail": ""
+    },
+    {
+      "title": "消息称苹果 iPad mini 8 平板搭载 8.4 寸 60Hz OLED 面板",
+      "link": "https://www.ithome.com/0/976/733.htm",
+      "summary": "\nIT之家 7 月 14 日消息，据消息人士 yeux1122 今日发文，苹果 iPad mini 平板将在今年晚些时候发布。\n\n据介绍，这款平板将配备一块 8.4 英寸的 LTPS（IT之家注：低温多晶硅）混合 OLED 面板，刷新率为 60Hz。作为对比，iPad Pro 使用的是双层 LTPO（低温多晶氧化物）OLED 面板，可实现 10Hz-120Hz 的自适应刷新率（ProMotion）...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-14 13:26:35",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "华为官宣奕境 X9 汽车全系搭载鸿蒙座舱 HarmonySpace 6，首发 17.2 英寸蝶羽双联屏",
+      "link": "https://www.ithome.com/0/976/732.htm",
+      "summary": "\nIT之家 7 月 14 日消息，华为乾崑智能汽车解决方案官方微博今日宣布，奕境 X9 全系搭载鸿蒙座舱 HarmonySpace 6。\n\n同时，新车还会首发 17.2 英寸蝶羽双联屏，采用居中设计视角均衡，可提供更宽阔的视觉呈现；支持双屏互联，主副驾互不干扰；云晰柔光技术加持，削弱屏幕反光眩光。\n\n\n\n根据规划，奕境汽车旗下首车 —— 奕境 X9 将在今年第三季度上市交付（今年 6 月 8 日在...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-14 13:25:54",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
+      "link": "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
+      "summary": "New research overturns assumption that abstinent younger drinkers are behind weak demand....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-14 13:19:16",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-609621216-500x500.jpg"
     },
     {
       "title": "EverQuest’s biggest fans are leading its revival",
@@ -55,7 +253,7 @@
       "region": "us",
       "pubDate": "2026-07-14 13:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/003.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
@@ -80,68 +278,24 @@
       "thumbnail": ""
     },
     {
-      "title": "《消逝的光芒：困兽》游戏取消 PS4/Xbox One 版发行计划，预购玩家将获全额退款",
-      "link": "https://www.ithome.com/0/976/726.htm",
-      "summary": "\nIT之家 7 月 14 日消息，Techland 工作室今天在 X 平台表示，公司在审慎考虑后，决定取消《消逝的光芒：困兽》游戏 PS4/Xbox One 版发行计划。\n\n官方表示，《消逝的光芒：困兽》从一开始就是为当前世代的游戏机打造，其开放世界、先进视觉效果和流畅的穿越机制，都需要依赖前世代主机不曾拥有的处理能力和高速内存。随着开发进程推进他们意识到，将游戏带到上一世代的主机需要做出大量妥协...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "大晟文化：预计2026上半年归母净利润-3,600万元至-2,300万元",
+      "link": "https://www.tmtpost.com/8064743.html",
+      "summary": "7月14日晚间，大晟文化（600892.SH）发布2026上半年业绩预告。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-07-14 12:55:24",
+      "pubDate": "2026-07-14 12:39:38",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "发布含有侮辱性文字内容的视频广告，罗技分销商被罚款 20 万元",
-      "link": "https://www.ithome.com/0/976/725.htm",
-      "summary": "\nIT之家 7 月 14 日消息，国家企业信用信息公示系统显示，近日，上海百事得电子有限公司因发布含有侮辱性文字内容的视频广告，被上海市静安区市场监督管理局罚款 20 万元。\n\n行政处罚决定书显示，经查，当事人系罗技（中国）科技有限公司（以下简称罗技公司）的分销商，经授权许可在抖音平台注册并设立抖音“罗技 G 官方旗舰店”从事罗技、罗技 G、Blue 品牌电脑外设产品的销售。2021 年 3 月起...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+      "link": "https://www.qbitai.com/2026/07/448475.html",
+      "summary": "一手实测这就奉上...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-07-14 12:53:41",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "英伟达与三菱重工拟在 AI 数据中心领域展开合作，将冷却与能源管理技术融入下一代 AI 数据中心",
-      "link": "https://www.ithome.com/0/976/724.htm",
-      "summary": "\nIT之家 7 月 14 日消息，据《日经》今日报道，英伟达正考虑与三菱重工在 AI 数据中心技术领域展开合作，拟将三菱重工的冷却系统和能源管理技术融入英伟达下一代数据中心。\n\nIT之家从原报道获悉，英伟达正将其下一代 AI 数据中心定位为“人工智能工厂”，并计划与全球合作伙伴共同建立这些工厂。与此同时，三菱重工也在设计专为 AI 而生的下一代数据中心“DIAVAULT”，并积极开发、验证数据中心...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-14 12:40:57",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "阿维塔全新电子萌宠小熊猫「塔可」亮相，将由 07L 新车首搭",
-      "link": "https://www.ithome.com/0/976/723.htm",
-      "summary": "\nIT之家 7 月 14 日消息，阿维塔科技总裁陈卓今日预热了阿维塔全新电子萌宠小熊猫「塔可」。他表示，该电子萌宠将在“智美大五座豪华 SUV”阿维塔 07L 首搭。\n\n从预热图来看，阿维塔全新电子萌宠「塔可」是一只小熊猫，预计会出现在车机交互中，主打情感陪伴类型相关功能。\n\n\n据IT之家此前报道，新车阿维塔 07L 已定档 7 月 17 日开启预售，展车试驾车现已到店，用户可前往门店品鉴新车。阿...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-14 12:40:23",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "IBM 预警 AI 基建热潮抢占企业软件支出预算，引发软件板块下挫",
-      "link": "https://www.ithome.com/0/976/722.htm",
-      "summary": "\nIT之家 7 月 14 日消息，IBM 今日引发市场恐慌，公司预计第二季度营收将低于市场预期，同时透露企业正在将更多资金投入数据中心基础设施，而不是软件产品。这成为人工智能快速发展正在冲击软件行业的最明显信号之一。\n\n盘前交易中，IBM 股价暴跌约 20%，拖累其他软件股以及道琼斯指数期货（.DJI）走低。追踪科技软件板块的 iShares Expanded Tech-Software Sect...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-14 12:36:05",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "存储成本上涨致手机涨价：消息称今年 Q4 应是价格高点，在可预见的六个季度内情况不容乐观",
-      "link": "https://www.ithome.com/0/976/721.htm",
-      "summary": "\nIT之家 7 月 14 日消息，博主 @RD观测 今日发文谈及了存储成本上涨与手机涨价的相关话题。他表示，对于存储，国内的手机厂商一般是签半年的协议，个别厂商可能会签一年，所以目前一部分仍有老库存的厂商在利用老库存来扛着。\n\n博主称，按照目前的情况来看，涨幅放缓，涨价 / 季度绝对值变化不大，今年 Q4 应该是价格高点，明年会不会降下来还尚未可知，在可预见的六个季度内，情况应该不会很乐观。目前保...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-14 12:26:22",
+      "pubDate": "2026-07-14 12:36:48",
       "category": "ai",
       "thumbnail": ""
     },
@@ -157,13 +311,24 @@
       "thumbnail": ""
     },
     {
-      "title": "小红书打击无资质招徕、虚假宣传类旅游内容笔记，近一个月已累计处置违规账号 155 个",
-      "link": "https://www.ithome.com/0/976/718.htm",
-      "summary": "\nIT之家 7 月 14 日消息，小红书今天发布“关于暑期安全出游的治理公告”，为了给用户提供安全、可信的旅游决策环境，营造健康有序的旅游内容生态。平台坚决打击无资质招徕、虚假宣传、低价引流类旅游内容笔记，近一个月已累计处置违规涉旅笔记 4000 余条、违规账号 155 个，典型案例如下：\n\n用户“不 *** 觉”无旅行社资质发布旅游招徕信息，笔记已下架，账号已禁言；\n用户“小 *** 记”发布低...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了",
+      "link": "https://www.qbitai.com/2026/07/449906.html",
+      "summary": "全面硬刚Figure...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-07-14 12:08:33",
+      "pubDate": "2026-07-14 12:04:42",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "David Beckham’s health drink startup IM8 takes $1B from General Catalyst’s unusual CVF fund",
+      "link": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
+      "summary": "General Catalyst’s Customer Value Fund doesn't make equity investments. It's providing $1 billion for IM8, known for its longevity vitamin drink....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-14 12:00:00",
       "category": "other",
       "thumbnail": ""
     },
@@ -187,7 +352,7 @@
       "region": "us",
       "pubDate": "2026-07-14 11:43:29",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "9 Tips to Get More Out of Google Chat",
@@ -212,6 +377,28 @@
       "thumbnail": "https://media.wired.com/photos/6a552aeba327102c0a11b662/master/pass/The-Best-RGB-TVs.jpg"
     },
     {
+      "title": "老黄的赌局",
+      "link": "https://www.tmtpost.com/8063393.html",
+      "summary": "身在硅谷，心在华尔街...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-14 11:25:53",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI进入“重工业时代”：万亿算力基建，如何赚钱？",
+      "link": "https://www.tmtpost.com/8063974.html",
+      "summary": "科技巨头豪掷万亿建算力，泡沫有多大？利润在哪里？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-14 11:25:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
       "link": "https://36kr.com/p/3895322613185543?f=rss",
       "summary": "\n大公司：\n  中国神华：预计上半年净利润同比增长6.9%-21.1%\n  36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。\n  中国人寿：预计上半年净利润同比增长约215%-235%\n  36氪获悉，中国人寿公告，预计2026年半年...",
@@ -223,6 +410,28 @@
       "thumbnail": ""
     },
     {
+      "title": "路线分野与终局迷雾：Rokid不想做下一个黑莓",
+      "link": "https://www.tmtpost.com/8064197.html",
+      "summary": "AI眼镜，最早的入口，最慢的黎明。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-14 11:20:23",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "中国机器人，让美国人焦虑了",
+      "link": "https://www.tmtpost.com/8064381.html",
+      "summary": "这场仗到底谁会赢？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-14 11:20:21",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
       "title": "The first sunlight reflecting space mirror has been cleared for launch",
       "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
       "summary": "Reflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the...",
@@ -231,7 +440,7 @@
       "region": "us",
       "pubDate": "2026-07-14 11:10:39",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-115103.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Oura Ring 5 Review: Still the Smart Ring to Beat",
@@ -275,7 +484,7 @@
       "region": "us",
       "pubDate": "2026-07-14 11:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "This German Man Is on a Quest to Cut the Perfect Slice of Bread",
@@ -287,6 +496,61 @@
       "pubDate": "2026-07-14 11:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a511205d214609f8c84ba2e/master/pass/Inside-Mans-Quest-To-Cut-Objectively-Perfect-Slice-of-Bread-Culture%20(0-00-00-00).jpg"
+    },
+    {
+      "title": "AI融资489亿背后的焦虑：技术领先者，如何跨越心智鸿沟",
+      "link": "https://www.tmtpost.com/8063785.html",
+      "summary": "超级技术时代，如何找到被理解的位置？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-14 10:59:11",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "烟台这座老工业城市，在AI时代跑出了两只大牛股",
+      "link": "https://www.tmtpost.com/8064246.html",
+      "summary": "杰瑞股份与冰轮环境，老登变小登...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-14 10:58:18",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "“不听劝”的印奇，为什么坚持做智能体手机？ ｜ 对话阶跃星辰",
+      "link": "https://www.tmtpost.com/8064239.html",
+      "summary": "做智能体，阶跃星辰选了一条最重的路。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-14 10:58:13",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "物理AI，让自动驾驶迎来了“第二春”",
+      "link": "https://www.tmtpost.com/8064199.html",
+      "summary": "当字节跳动带着它的“世界模型”团队悄然叩响自动驾驶大门时，一个被行业讨论了近十年的命题，突然换了种全新的念法。这一次，颠覆它的不是更贵的传感器、更大的车队，而是一套能“脑补”物理世界运行规律的数字大脑。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-14 10:58:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI大厂进军医药，但资本市场等不了十年",
+      "link": "https://www.tmtpost.com/8064038.html",
+      "summary": "医药，成了AI最诱人也最难兑现的故事。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-14 10:58:06",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "估值110亿美元，这家超级独角兽要帮初创公司从Day0走向全球",
@@ -363,7 +627,7 @@
       "region": "us",
       "pubDate": "2026-07-14 09:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
@@ -375,17 +639,6 @@
       "pubDate": "2026-07-14 09:00:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6a54c2f2fb247c83ade3f957/master/pass/GettyImages-2269243394.jpg"
-    },
-    {
-      "title": "The US Approves Launch of Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night",
-      "link": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/",
-      "summary": "The FCC authorized Reflect Orbital to launch the mirror satellite Eärendil-1. “For optical astronomy, this poses an existential threat,” the European Southern Observatory said....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-14 08:30:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a556ad55b9b10830ab2b6f7/master/pass/satelitesolar.jpg"
     },
     {
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
@@ -487,17 +740,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-14 02:46:42",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": ":fire::fire:Skyeye 云零代码智能制造系统 - Saas 模块 - v3.19.12 发布",
       "link": "https://www.oschina.net/news/471701/win10-skyeye-3-19-12-released",
       "summary": "Skyeye 云智能制造，智能制造一体化，采用 SpringBoot+ UNI-APP + Ant Design Vue 的零代码平台开发模式。包含 100 多种电子流程，CRM、PM、ERP、MES、ADM、OA、EHR、AI、项目、商城、财务、多班次考勤、薪资、招聘、云售后、论坛、问卷、报表设计、工作流、Saas 等功能。打造全网首套零代码、功能最全的智能制造行业供应......",
@@ -564,28 +806,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-14 00:45:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "菲尔兹奖提前泄露！王虹邓煜双双在列",
-      "link": "https://www.qbitai.com/2026/07/449407.html",
-      "summary": "都是北大07级校友...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-14 00:42:57",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
       "link": "https://36kr.com/p/3894729787767810?f=rss",
       "summary": "\n今日热点导览\n  \n韩国法院禁止两名前三星员工就职于SK海力士\n   字节探索自动驾驶，Seed世界模型团队负责\n   巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险\n   科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列\n   美众议院本周将表决永久实行夏令时法案\n  \nTOP 3大新闻\n  海南将成中国首个禁售燃油车省份，届时车桩比保持2.5:1以下\n  近日...",
@@ -593,39 +813,6 @@
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-07-14 00:04:11",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-14 00:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
-      "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
-      "summary": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-13 23:58:27",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-13 23:31:18",
       "category": "ai",
       "thumbnail": ""
     },
@@ -649,7 +836,7 @@
       "region": "us",
       "pubDate": "2026-07-13 21:53:20",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/windows-search-update.png?quality=90&strip=all&crop=0,6.2259176247693,100,93.774082375231"
     },
     {
       "title": "OnePlus is reportedly bailing on the US",
@@ -660,7 +847,7 @@
       "region": "us",
       "pubDate": "2026-07-13 21:48:43",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "A two-pack of DJI’s most capable wireless mics just got its first price cut",
@@ -671,7 +858,7 @@
       "region": "us",
       "pubDate": "2026-07-13 21:03:14",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/DJI-Mic-3-charging-case.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The US government warns that Russia state hackers are coming after your router",
@@ -685,17 +872,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-500x500.jpg"
     },
     {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary m...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-13 20:59:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
       "link": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
       "summary": "Noise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware...",
@@ -704,7 +880,7 @@
       "region": "us",
       "pubDate": "2026-07-13 20:57:44",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Shokz_OpenRun_Headphones_Lifestyle_Press_Image.webp?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
@@ -716,17 +892,6 @@
       "pubDate": "2026-07-13 20:41:26",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Russian-vessels-under-attack-Kerch-Strait-July-9-2026-500x500.jpg"
-    },
-    {
-      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-13 20:00:17",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "California creates $3,500 rebate for new electric vehicle buyers",
@@ -773,17 +938,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-500x500-1783966818.jpg"
     },
     {
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-13 18:22:10",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
       "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with...",
@@ -795,39 +949,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Tom Cruise is utterly transformed in Digger trailer",
-      "link": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
-      "summary": "\"If we can't control the force of nature, at least we can control the narrative.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-13 17:49:56",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/digger1-500x500.jpg"
-    },
-    {
-      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-13 17:28:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
-      "link": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
-      "summary": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-13 17:18:25",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Samsung-back-1-500x500.jpg"
-    },
-    {
       "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
       "link": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
       "summary": "\nModel routing is becoming a key component of the enterprise AI stack, dynamically sending prompts to the right AI model to optimize speed and costs. However, current frameworks mostly treat routing a...",
@@ -836,17 +957,6 @@
       "region": "us",
       "pubDate": "2026-07-13 16:06:36",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
-      "link": "https://www.qbitai.com/2026/07/449327.html",
-      "summary": "出自中国团队...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-13 15:15:01",
-      "category": "other",
       "thumbnail": ""
     },
     {
