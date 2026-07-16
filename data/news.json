@@ -1,11 +1,132 @@
 {
-  "updateTime": "2026-07-16T17:24:55.849Z",
+  "updateTime": "2026-07-16T19:21:39.118Z",
   "total": 107,
   "news": [
     {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "summary": "\nAcross 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and mode...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-16 19:16:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "\nAcross 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incid...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-16 19:02:38",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kalshi says it caught Trump’s teleprompter operator insider trading",
+      "link": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
+      "summary": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal inv...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-16 18:43:14",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Everyone Thinks They Have the Diarrhea Parasite",
+      "link": "https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/",
+      "summary": "Cyclosporiasis isn’t the only thing spreading across the US. So is anxiety about getting hit with it....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-16 18:36:19",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a592344318daecd403c4caa/master/pass/Everyone%20Thinks%20They%20Have%20the%20Diarrhea%20Parasite_v5.jpg"
+    },
+    {
+      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-16 18:35:18",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a591d287083bdea755df740/master/pass/Model-Behavior-Cesar-Anthropic-Business.jpg"
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-16 18:32:54",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-16 18:22:06",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
+      "link": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
+      "summary": "If the large, rocky planet is losing helium, then we can infer what is left behind....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-16 18:00:15",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-5-500x471.jpeg"
+    },
+    {
+      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-16 17:58:37",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Ecovacs’ self-cleaning Deebot X11 has hit a new low price",
+      "link": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+      "summary": "Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-16 17:57:15",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ecovacsomnicyclone11deebots.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
+      "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+      "summary": "BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-16 17:37:03",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
       "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
-      "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food delivery platforms outside...",
+      "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outside...",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -36,9 +157,9 @@
       "thumbnail": ""
     },
     {
-      "title": "Newsletter platform Beehiiv’s now lets subscribers chat with each other, adds AI",
-      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiivs-now-lets-subscribers-chat-with-each-other-adds-ai/",
-      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics...",
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -47,7 +168,7 @@
       "thumbnail": ""
     },
     {
-      "title": "Google is better at playing the EU regulations game",
+      "title": "Google is better at playing the AI regulations game",
       "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
       "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. I...",
       "source": "The Verge",
@@ -55,7 +176,7 @@
       "region": "us",
       "pubDate": "2026-07-16 16:55:54",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Roblox will let people use AI to make games on their phone",
@@ -66,7 +187,7 @@
       "region": "us",
       "pubDate": "2026-07-16 16:45:29",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK146_Roblox_New_01.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
@@ -102,9 +223,9 @@
       "thumbnail": ""
     },
     {
-      "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
+      "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
       "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
-      "summary": "OnePlus promises to continue supporting the phones it's already released....",
+      "summary": "OnePlus promises to continue supporting the phones it has already released....",
       "source": "Ars Technica",
       "sourceKey": "arstechnica",
       "region": "us",
@@ -187,7 +308,7 @@
       "region": "us",
       "pubDate": "2026-07-16 16:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "华为靳玉志：预计今年年底，乾崑智驾 ADS 累计辅助驾驶里程将破 200 亿公里",
@@ -231,7 +352,7 @@
       "region": "us",
       "pubDate": "2026-07-16 15:42:07",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/splatoonraiders.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator ‘100 percent,’ investigators confirm",
@@ -242,7 +363,7 @@
       "region": "us",
       "pubDate": "2026-07-16 15:41:09",
       "category": "auto",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2191603876.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Yes, you can now order DoorDash from the command line",
@@ -252,17 +373,6 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-07-16 15:38:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
-      "link": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
-      "summary": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London’s metropolitan tra...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-16 15:37:47",
       "category": "ai",
       "thumbnail": ""
     },
@@ -289,17 +399,6 @@
       "thumbnail": "https://media.wired.com/photos/6a58f0f4d35982f319740d69/master/pass/TOP%20ART!.jpg"
     },
     {
-      "title": "Period tracker Stardust shares users’ health data with analytics firm, says Mozilla research",
-      "link": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/",
-      "summary": "One period tracker app tested by Mozilla was 'squeaky clean,' while another app was seen sharing users' health data with an analytics company, underscoring vast differences in user privacy among these...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-16 15:33:28",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "中国无人车首入中亚，百度萝卜快跑将驶入哈萨克斯坦",
       "link": "https://www.ithome.com/0/977/802.htm",
       "summary": "\nIT之家 7 月 16 日消息，在 2026 世界人工智能大会（WAIC）召开前夕，百度今日宣布，中国无人驾驶出行服务平台萝卜快跑与哈萨克斯坦企业 Turlov Private Holding Ltd.（TPH）在上海签署战略合作协议。这意味着中国无人车首次进入了中亚市场。\n\n据百度披露，截至今年 5 月，萝卜快跑已在全球 27 座城市落地，覆盖迪拜、阿布扎比等多个海外地区，累计完成超 2200...",
@@ -307,17 +406,6 @@
       "sourceKey": "ithome",
       "region": "cn",
       "pubDate": "2026-07-16 15:32:42",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-16 15:31:09",
       "category": "ai",
       "thumbnail": ""
     },
@@ -374,7 +462,7 @@
       "region": "us",
       "pubDate": "2026-07-16 15:04:12",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
@@ -396,7 +484,7 @@
       "region": "us",
       "pubDate": "2026-07-16 14:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD-Bart-Butler.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "微创甩包袱、天智航“蛇吞象”：一笔交易背后的各取所需与整合暗礁丨并购一线",
@@ -407,39 +495,6 @@
       "region": "cn",
       "pubDate": "2026-07-16 13:40:00",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/28c6a21c9ca722e33bee023f723a4a9f_1784209204.png"
-    },
-    {
-      "title": "Ninja’s microwave air fryer could be the fix for soggy reheated pizza",
-      "link": "https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance",
-      "summary": "Ninja has added everything from ice cream makers to double-decker toaster ovens to its extensive lineup of counter-clogging appliances, but it's only now introducing its first microwave. What makes th...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-16 13:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Samsung’s Galaxy Z Flip 8 leaks a week before launch event",
-      "link": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
-      "summary": "Samsung's next flip phone might be tough to tell apart from last year's Galaxy Z Flip 7. As 9to5Google points out, leaked images and specs for the upcoming Galaxy Z Flip 8 shared by WinFuture are near...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-16 13:23:50",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "OnePlus never had a chance in the US",
-      "link": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
-      "summary": "Twelve years after the launch of the OnePlus One, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent O...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-16 13:00:00",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -451,7 +506,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 12:51:29",
       "category": "energy",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/ty5465ejyt3.png"
+      "thumbnail": ""
     },
     {
       "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
@@ -462,7 +517,7 @@
       "region": "us",
       "pubDate": "2026-07-16 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/12/bed.jpg?w=2724"
+      "thumbnail": ""
     },
     {
       "title": "XPeng’s New ‘Budget’ EV Looks Like the Ferrari Luce",
@@ -550,7 +605,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 10:53:46",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/16/9d3489c840c7bae906c24257dd1db7eb_1784194930.jpeg"
+      "thumbnail": ""
     },
     {
       "title": "芯片股波动，但阿斯麦永远赚钱",
@@ -561,7 +616,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 10:53:17",
       "category": "chip",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5hyjtngf3.png"
+      "thumbnail": ""
     },
     {
       "title": "2026年了，PD-1还能诞生新爆款吗？",
@@ -572,7 +627,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 10:53:13",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35y4hrtg3.png"
+      "thumbnail": ""
     },
     {
       "title": "苹果智能入华，阿里百度赢麻",
@@ -583,7 +638,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 10:53:03",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r4t3qegrsdfbvf3.png"
+      "thumbnail": ""
     },
     {
       "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
@@ -605,7 +660,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 10:40:41",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/bb329e7804601b0372d48a1096740ced_1784198444.png"
+      "thumbnail": ""
     },
     {
       "title": "Best Air Purifiers (2026): Coway, AirDoctor, IQAir, and More",
@@ -627,7 +682,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 10:07:26",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260716/v2_b2c25b029cb24eee9e025e0e3ff1d876@5899452_oswg772111oswg1440oswg810_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察",
@@ -638,7 +693,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 10:04:22",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/620f4ac86cc94cf5722f7f07e5edb772_1784196268.png"
+      "thumbnail": ""
     },
     {
       "title": "Rider 2026.2 RC 发布",
@@ -682,18 +737,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 09:31:08",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/mms_upload_image/2026/07/20260716152642541.png"
-    },
-    {
-      "title": "Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever",
-      "link": "https://www.wired.com/story/astronomers-found-sugar-molecule-in-deep-space/",
-      "summary": "Researchers identified traces of erythrulose, a monosaccharide, thousands of light-years away....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-16 09:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a57c0134de2a00b6b98bb26/master/pass/centro%20de%20la%20galaxia.jpg"
+      "thumbnail": ""
     },
     {
       "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
@@ -740,17 +784,6 @@
       "thumbnail": ""
     },
     {
-      "title": "OnePlus, the ‘Flagship-Killer’ Smartphone Brand, Is All but Dead",
-      "link": "https://www.wired.com/story/oneplus-is-all-but-dead/",
-      "summary": "The original OnePlus phone disrupted the mobile market 13 years ago with its affordable price and top-end specs. Now, the company is exiting North America and Europe to focus on China....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-16 09:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a5651e90289d3b8cc7ba689/master/pass/OnePlus%20RIP.jpg"
-    },
-    {
       "title": "每天增长100万用户，Codex总算扬眉吐气了",
       "link": "https://www.tmtpost.com/8067343.html",
       "summary": "额度重置的按钮都快被按爆了。...",
@@ -759,7 +792,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 08:56:48",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/07/20260716132317412777.jpg"
+      "thumbnail": ""
     },
     {
       "title": "AI 编码实战 | 0 行手写代码，2 天重构 2 万行 Vue 项目",
@@ -913,7 +946,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 02:21:30",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260716/v2_fb40b4d27f5a40048e099170409cfe6a@5930287_oswg137437oswg1384oswg674_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "硬氪首发 | 民用航空动力企业再获近亿元融资，切入国际巨头垄断的关键功率段",
@@ -935,7 +968,7 @@
       "region": "cn",
       "pubDate": "2026-07-16 01:30:00",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260715/v2_c4bb82b0c6c243999c5b719dd7da6478@6022551_oswg6668333oswg4000oswg2667_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家",
@@ -1026,39 +1059,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2201944209-500x500-1784148021.jpg"
     },
     {
-      "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
-      "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
-      "summary": "Yes, it was, in fact, a Unix system....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-15 21:04:22",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/unix-system-jp-500x500.jpg"
-    },
-    {
-      "title": "Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026",
-      "link": "https://venturebeat.com/orchestration/amazon-agi-director-says-ai-agent-reliability-not-capability-is-blocking-enterprise-deployment-at-vb-transform-2026",
-      "summary": "\nThe enterprise AI industry has a math problem. Cisco data shows 85% of enterprises are piloting AI agents, but only 5% have shipped them to production. At VB Transform 2026 on Tuesday, Bryan Silverth...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-15 20:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
-      "link": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
-      "summary": "\nHundreds of enterprise leaders and technical experts packed the main ballroom of the luxurious Hotel Nia in Menlo Park this week for VB Transform 2026, the year's preeminent conference on using gener...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-15 18:21:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver...",
@@ -1078,7 +1078,7 @@
       "region": "us",
       "pubDate": "2026-07-15 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/02/nixon-thumb.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
@@ -1089,7 +1089,7 @@
       "region": "cn",
       "pubDate": "2026-07-15 11:47:14",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260715/v2_c47f286e2748467fbc532dd4448e4721@2057308263_oswg372385oswg1080oswg1007_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
@@ -1111,7 +1111,7 @@
       "region": "cn",
       "pubDate": "2026-07-15 10:36:56",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260715/v2_53a45e742c6845df991365fb8d32b120@16519798_oswg493783oswg1080oswg507_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "The Download: Claude’s inner workings, and the future of world models",
@@ -1122,7 +1122,7 @@
       "region": "us",
       "pubDate": "2026-07-14 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/01/feature-ivf.jpg?fit=1456,818"
+      "thumbnail": ""
     },
     {
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
@@ -1133,7 +1133,7 @@
       "region": "us",
       "pubDate": "2026-07-14 08:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260126_Mk2_the_third-23.jpg?w=2000"
+      "thumbnail": ""
     },
     {
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
@@ -1155,7 +1155,7 @@
       "region": "us",
       "pubDate": "2026-07-13 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/02/COLOMBIA-6.edit_.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
@@ -1166,7 +1166,7 @@
       "region": "us",
       "pubDate": "2026-07-10 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/PigeonIntoMissile.edit_.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Sperm donors need limits, says a European fertility group",
