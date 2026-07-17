@@ -1,7 +1,128 @@
 {
-  "updateTime": "2026-07-17T19:19:59.008Z",
+  "updateTime": "2026-07-17T21:02:16.114Z",
   "total": 117,
   "news": [
+    {
+      "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+      "link": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
+      "summary": "\nCapital One on Thursday released VulnHunter, an open-source, agentic AI security tool that scans source code for exploitable vulnerabilities, maps out how an attacker would reach them, and proposes t...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-17 20:51:30",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
+      "link": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
+      "summary": "\nIntuit was an early pioneer in the usage of agentic AI, but its path to success has hardly been a straight line.\nAt VB Transform 2026, Intuit VP of AI Nhung Ho described how the company rebuilt its a...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-17 20:46:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-17 20:19:49",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-17 20:09:27",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
+      "link": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
+      "summary": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-17 19:50:38",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a5a677665d8dd9c411b81aa/master/pass/AWS-Billing-Glitch-Business-2240015205.jpg"
+    },
+    {
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "summary": "The FireSat program can spot wildfires that other satellites miss....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-17 19:50:18",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-500x500.png"
+    },
+    {
+      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+      "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+      "summary": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-17 19:49:53",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-17 19:34:30",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-17 19:22:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
+      "link": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
+      "summary": "\"Missiles are being launched at the joint force every single day in [Operation] Epic Fury.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-17 19:19:42",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/tranche1_york_launch3-500x500.jpg"
+    },
+    {
+      "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
+      "link": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/",
+      "summary": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-17 19:17:46",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a5a63486885fb838e26f206/master/pass/GettyImages-2285777540.jpg"
+    },
     {
       "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
       "link": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
@@ -11,7 +132,18 @@
       "region": "us",
       "pubDate": "2026-07-17 19:14:42",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258119_Pebble_Core_2_Duo_Review_AKrales_0093.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
+      "link": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
+      "summary": "\"We're turning the clock back on rational healthcare.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-17 18:53:11",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283762622-500x500.jpg"
     },
     {
       "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
@@ -23,6 +155,17 @@
       "pubDate": "2026-07-17 18:48:18",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
+      "link": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
+      "summary": "Don't eat Taco Bell lettuce in Indiana, Kentucky, Michigan, Ohio, or West Virginia....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-17 18:45:23",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286083551-1-500x500.jpg"
     },
     {
       "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
@@ -44,7 +187,7 @@
       "region": "us",
       "pubDate": "2026-07-17 18:14:26",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925978/acastro_STK046_02.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
@@ -99,7 +242,7 @@
       "region": "us",
       "pubDate": "2026-07-17 17:41:32",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
@@ -143,7 +286,7 @@
       "region": "us",
       "pubDate": "2026-07-17 16:47:13",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asus-rog-swift-PG32UCDMR-roundup-2.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
@@ -231,7 +374,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 15:57:51",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/02f7d726-7f39-4e73-82c5-e58345040dbc.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Samsung’s redesigned Z Fold 8 with a wide display just leaked",
@@ -242,7 +385,7 @@
       "region": "us",
       "pubDate": "2026-07-17 15:52:50",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-galaxy-z-fold-8-evan-blass-leak.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Ars is looking for a senior technology reporter, and you might be it!",
@@ -264,7 +407,7 @@
       "region": "us",
       "pubDate": "2026-07-17 15:48:39",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ER4A6029.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "微软 2026 款 Surface Laptop 证明：8GB 内存难以满足 Win11 需求，日常使用多次卡顿",
@@ -275,7 +418,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 15:47:48",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/b550a0f4-2383-46eb-8eee-2269e5b2f0af.jpg?x-bce-process=image/auto-orient,o_1"
     },
     {
       "title": "浙江美大拟易主，夏氏家族套现13亿，成立10天新公司接盘",
@@ -297,7 +440,7 @@
       "region": "us",
       "pubDate": "2026-07-17 15:34:35",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/VRG_Illo_STK001_B_Sala_Hacker.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "中国科学家首获门捷列夫国际基础科学奖，潘建伟量子通信成果获国际认可",
@@ -308,7 +451,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 15:32:44",
       "category": "space",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/8806cd8d-5a4a-40a7-98a9-05985fac7000.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "市场监管总局：电梯交付验证强制性国家标准公开征求意见，解决各地自检标准不一等问题",
@@ -319,7 +462,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 15:30:07",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/eb17dbd2-735a-4301-a2a5-1b12e14bf3bd.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
@@ -352,7 +495,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 15:19:11",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/62027686-262a-4648-a791-b1bcc6da4f26.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Bethesda 公布未来路线图：《上古卷轴 6》是当前重点、《辐射 5》定位“长期目标”，《辐射 3》《辐射：新维加斯》重制版确认开发",
@@ -363,7 +506,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 15:04:36",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/121dbfd4-4957-4bf0-8ec2-65b9e0fda0a0.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "史上最大杠杆收购迎转机：沙特 PIF 牵头财团 550 亿美元收购 EA，欧盟反补贴审查预计 7 月底放行",
@@ -374,7 +517,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 15:00:47",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/ca5e7baa-2190-4716-903d-6f9d7a5c819a.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Lyft’s CEO Says, ‘We’re the Good Uber’",
@@ -421,17 +564,6 @@
       "thumbnail": ""
     },
     {
-      "title": "reMarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
-      "link": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
-      "summary": "Remarkable's Paper Pure replaces Remarkable 2, and it is quite good....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-17 14:47:27",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "漫威 &amp; 索尼超英电影《蜘蛛侠：崭新之日》发行通知出炉：片长 145 分钟，7 月 29 日上映",
       "link": "https://www.ithome.com/0/978/313.htm",
       "summary": "\nIT之家 7 月 17 日消息，据灯塔专业版，电影《蜘蛛侠：崭新之日》发行通知已出炉，片长 145 分钟。影片将于 7 月 29 日全球领先上映。\n\nIT之家附官方介绍：\n蜘蛛侠遭遇能力变异，宿敌蝎子乘虚而入，绿巨人狂暴失控，神秘劲敌侵扰心智…… 蜘蛛侠深陷致命绝境，仿佛全世界都站在他的对立面！更有成家班加持高燃打戏，单挑手合会名场面预定。哪怕孤立无援，小虫依旧牢记“能力越大，责任越大”，为守护...",
@@ -440,7 +572,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 14:45:01",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/e7a58df7-b8d8-416d-9edb-275c21632bab.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "消息称字节新一代豆包手机备货数十万台，AI 不再直接操作头部应用",
@@ -451,29 +583,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 14:33:22",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling ",
-      "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-      "summary": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-17 14:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
-      "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-      "summary": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-17 14:12:02",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/fe822f77-50e9-4f68-82f1-5cfc6c1a8218.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
@@ -484,7 +594,7 @@
       "region": "us",
       "pubDate": "2026-07-17 14:05:29",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/kobalt2.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Bethesda teases Fallout 5 soon after Xbox’s mass layoffs",
@@ -495,18 +605,7 @@
       "region": "us",
       "pubDate": "2026-07-17 14:00:37",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The manosphere’s testosterone obsession reaches the highest levels of US military",
-      "link": "https://www.theverge.com/column/966770/optimizer-manosphere-testosterone-troops",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-17 14:00:00",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FalloutS2FLimage3_3000.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Conspiracy Theorists Think Trump’s Speech Paves the Path to the Insurrection Act",
@@ -575,17 +674,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-17 12:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？",
       "link": "https://www.qbitai.com/2026/07/453217.html",
       "summary": "北电数智带来AI赋能民生的真实答卷...",
@@ -630,17 +718,6 @@
       "thumbnail": ""
     },
     {
-      "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
-      "link": "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
-      "summary": "FCC chair has been gifted at least $63,000 worth of tickets by CBS or its parent company....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-17 11:15:55",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250240969-500x500.jpg"
-    },
-    {
       "title": "Kimi K3 全面解读：2.8 万亿参数、48 小时造芯片、以及一个正在被开源模型追上的 AI 竞争格局",
       "link": "https://www.oschina.net/news/472928",
       "summary": "7 月 17 日凌晨，月之暗面发布了 Kimi K3。 数字可以快速过一遍：2.8 万亿参数，MoE 架构，896 个 expert 每次激活 16 个，100 万 token 上下文窗口，原生多模态，完整权重 7 月 27 日前放出——将成为全球首个开源的 3 万亿级别模型。 但数字说完了，故事才刚开始。 一个 90 后创始人，半年融了 60 亿美元 在讲模型之前......",
@@ -663,39 +740,6 @@
       "thumbnail": ""
     },
     {
-      "title": "2026 Lucid Gravity Touring review: A strong act 2",
-      "link": "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
-      "summary": "Quick, comfortable, roomy, and agile for a large electric SUV....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-17 11:00:30",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/5F3A7900-500x500.jpg"
-    },
-    {
-      "title": "Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?",
-      "link": "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
-      "summary": "\"We have done everything that could be done to test Vikram-1 on ground.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-17 11:00:04",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/HNXUiZqWEAEnWu_-500x500.jpg"
-    },
-    {
-      "title": "Valve Steam Machine Review: A Compromised Console",
-      "link": "https://www.wired.com/review/valve-steam-machine/",
-      "summary": "Great for indie darlings, but Sony, Microsoft, and Nintendo remain kings of TV gaming....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-17 11:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a57cbdd86632532b47bf5b5/master/pass/Steam%20Machine%20(10).jpg"
-    },
-    {
       "title": "算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”",
       "link": "https://www.qbitai.com/2026/07/453208.html",
       "summary": "",
@@ -715,7 +759,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 10:51:22",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_605a8a8a4b8640158de83a7aa88b025f@6381723_oswg84170oswg1212oswg810_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
@@ -726,7 +770,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 10:45:58",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_11cad3dae776450b9505ddcb5be2a14b@5889148_oswg528857oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即",
@@ -749,17 +793,6 @@
       "pubDate": "2026-07-17 10:37:08",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Panasonic Japanese Microwave Review (2026): True 1-Button Cooking",
-      "link": "https://www.wired.com/review/panasonic-japanese-microwave/",
-      "summary": "The Japanese Microwave measures food temperature directly, and stops cooking when food’s hot. It’s kinda terrific....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-17 10:34:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a571e7411ccda473241ed43/master/pass/Review--Panasonic-Japanese-Microwave.jpg"
     },
     {
       "title": "✨ NocoBase 2.2-beta 发布：开源无代码 / 低代码平台 NocoBase",
@@ -902,7 +935,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 07:55:26",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_3068ebe059a94b82854e08b606943872@5920579_oswg683953oswg712oswg530_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "OpenAI 首款硬件是一个迷你键盘，用于控制 AI 编程 Agent",
@@ -924,7 +957,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 07:46:38",
       "category": "space",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_695a76ff08fd4fe5a2b646d26886fe65@5679941_oswg653830oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "代码写得多，就一定更好吗？",
@@ -968,7 +1001,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 07:13:05",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_f3e09491e03042b7a249906c12161a42@517825446_oswg1556881oswg1990oswg660_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "杭州市民政局准予设立杭州市开源人工智能基金会",
@@ -1012,7 +1045,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 02:39:17",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_05fd6eb5360b4020bd04319290006794@5920579_oswg371311oswg459oswg700_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
@@ -1023,7 +1056,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 01:52:16",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_aa087cd1212749c2b8b720f51d292e1b@5920579_oswg442951oswg1080oswg624_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
@@ -1034,18 +1067,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 01:26:47",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-      "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-      "summary": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-17 00:02:54",
-      "category": "space",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipf13abort-500x500.jpg"
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_50b87c3fce99434187077587e61d999f@6221844_oswg477499oswg1202oswg684_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
     },
     {
       "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
@@ -1077,28 +1099,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-07-16 19:02:38",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Zero trust must now move at agent speed",
-      "link": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed",
-      "summary": "\nPresented by Ping Identity \n\nEnterprises need to treat zero trust security architecture as an immediate requirement for AI agents rather than a long-term goal, says Andre Durand, CEO and founder of P...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-16 17:10:15",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "summary": "\nAcross 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sour...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-16 17:06:08",
       "category": "ai",
       "thumbnail": ""
     },
