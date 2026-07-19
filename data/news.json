@@ -1,116 +1,226 @@
 {
-  "updateTime": "2026-07-19T03:31:09.187Z",
+  "updateTime": "2026-07-19T06:36:42.277Z",
   "total": 117,
   "news": [
     {
-      "title": "意大利正经历今年第三次热浪天气，老外说被中国“降温神器”拯救了",
-      "link": "https://www.ithome.com/0/978/645.htm",
-      "summary": "\nIT之家 7 月 19 日消息，据央视新闻今日报道，意大利目前正经历今年第三次热浪天气，多地气温接近甚至超过 40℃。持续的酷暑之下，大量中国制造的降温产品成为当地居民、游客和外国留学生的避暑好物。\n\n报道提到，在本轮高温天气中，意大利有十多座城市发布最高级别红色高温预警。其中，撒丁岛最高气温一度达到创纪录的 47.2℃，罗马、佛罗伦萨、博洛尼亚等主要城市的气温也持续接近 40℃。\n在罗马，受到...",
+      "title": "【数智周报】孙正义：任何关于AI领域正在形成泡沫的说法都是荒谬的；苹果智能集成阿里、百度AI能力；DeepSeek估值超3500亿元",
+      "link": "https://www.tmtpost.com/8070816.html",
+      "summary": "（7月13日-19日）中国工程院院士郑纬民：智能体时代，产出稳定且低成本Token（词元）的能力非常稀缺；黄仁勋称AI没有意识：本质是软件和工具，不要过度拟人化；阶跃星辰发布大模型原生智能体手机；昇腾950超节点真机首展，专为万亿级大模型训练与高并发推理设计；全国产十万卡AI超集群真机全球首秀......",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-19 06:31:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 亮相 WAIC，搭载豆包手机助手",
+      "link": "https://www.ithome.com/0/978/694.htm",
+      "summary": "\nIT之家 7 月 19 日消息，全球首款 AI 智能体手机努比亚 NaviX Ultra 在 WAIC 期间正式亮相，该机搭载豆包手机助手。\n\n据财联社报道，中兴通讯高级副总裁、努比亚总裁倪飞在接受采访时表示，豆包拥有领先的大模型和智能体能力，努比亚则拥有软件、硬件、产品工程、质量管理、渠道和用户服务等方面的长期积累，从 M153 到现在的 NaviX Ultra，双方的合作即将走过完整的技术验...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-19 02:54:33",
+      "pubDate": "2026-07-19 06:19:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "百度对话式应用开发平台秒哒 3.5 发布：支持 iOS App 一键打包、多应用共享后端等功能",
+      "link": "https://www.ithome.com/0/978/693.htm",
+      "summary": "\nIT之家 7 月 19 日消息，据新浪科技消息，百度今天在 2026 世界人工智能大会上发布秒哒 3.5 版本，新增 SEO Agent 智能流量优化、iOS App 一键打包、多应用共享后端、一句话生成 Skill、数据库多环境隔离、后端资源分级等六大能力，让用户无需代码基础，即可完成应用开发、部署、运营。\n\n作为参考，秒哒是一款对话式应用开发平台，采用“无代码编程 + 多智能体协作 + 多工...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-19 06:13:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "华为 HiCar 获 7.0.0.206 版本邀测升级，新增手机驾驶模式等功能",
+      "link": "https://www.ithome.com/0/978/692.htm",
+      "summary": "\nIT之家 7 月 19 日消息，华为 HiCar 昨日在华为应用市场（App Gallery）推出 7.0.0.206 (70000206) 版本邀测升级。根据要求，应用需要手机系统为 HarmonyOS 6.0 及以上版本，并在支持 HUAWEI HiCar 的汽车上使用。\n\nIT之家附华为 HiCar 本次升级内容如下：\n\n【新增】\n\n1、手机支持驾驶模式，可通过“设置 - 多设备协同 - ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-19 06:12:25",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/685cb42d-8303-4f4d-b3b9-cfae456090bd.jpg"
+      "thumbnail": ""
     },
     {
-      "title": "阿里开放式世界模型快乐生蚝 HappyOyster 1.0 登陆百炼平台，支持两大核心模式",
-      "link": "https://www.ithome.com/0/978/644.htm",
-      "summary": "\nIT之家 7 月 19 日消息，阿里巴巴今天宣布，开放式世界模型 HappyOyster 1.0（快乐生蚝）现已登陆阿里云百炼，面向企业和开发者开启灰测。\n\nIT之家了解到，HappyOyster 1.0 版本围绕「用户与世界的关系」，提供世界探索（Adventure）与实时导演（Directing）两大核心模式。\n其中，世界探索模式支持用户输入一句话或一张图，生成可实时探索和交互的开放世界。模...",
+      "title": "2026 年度总票房突破 200 亿，《飞驰人生 3》《给阿嬷的情书》《镖人》暂列前三",
+      "link": "https://www.ithome.com/0/978/690.htm",
+      "summary": "\nIT之家 7 月 19 日消息，据灯塔专业版数据，截至 7 月 19 日，2026 年度大盘票房 (含预售) 突破 200 亿，《飞驰人生 3》《给阿嬷的情书》《镖人：风起大漠》《惊蛰无声》《功夫女足》暂列年度票房前五名。\n\nIT之家附榜单如下：\n\n《飞驰人生 3》44.21 亿\n《给阿嬷的情书》19.93 亿\n《镖人：风起大漠》14.48 亿\n《惊蛰无声》13.65 亿\n《功夫女足》13.53...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-19 02:53:07",
+      "pubDate": "2026-07-19 05:56:45",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/435c2c5b-58ba-474f-a27e-9619b072d29b.png?x-bce-process=image/auto-orient,o_1"
+      "thumbnail": ""
     },
     {
-      "title": "马斯克：特斯拉 FSD 将记住驾驶员操作习惯，实现个性化自动驾驶",
-      "link": "https://www.ithome.com/0/978/642.htm",
-      "summary": "\nIT之家 7 月 19 日消息，埃隆 · 马斯克已经确认，特斯拉 FSD（Full Self-Driving）软件正在正式从过去的“通用型、一套方案适用于所有用户”的驾驶系统，转变为真正的个性化驾驶系统。\n\n此前，搭载 FSD 的特斯拉车辆在整个车队中基本采用相同的驾驶逻辑。但未来，FSD 背后的神经网络将能够直接学习每位车主的个人驾驶习惯，并记住用户的偏好。\n这一消息来自马斯克本人。近日，一名...",
+      "title": "高通骁龙 4 Gen 6 芯片曝光：台积电 4nm 工艺、Adreno 6 系 GPU，支持 LPDDR5 内存",
+      "link": "https://www.ithome.com/0/978/689.htm",
+      "summary": "\nIT之家 7 月 19 日消息，据科技媒体 Notebookcheck 今天报道，一份来自高通内部的规格表最近流出，让尚未发布的骁龙 4 Gen 6 芯片（SM4875）得以曝光。该芯片将采用台积电 4nm 工艺、支持 LPDDR5 内存，配备 Adreno 6 系 GPU，预计将于明年推出。\n\n据介绍，SM4875 延续了骁龙 4 Gen 5 的 Kryo CPU 配置，拥有 2 个 Kryo...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-19 02:36:34",
+      "pubDate": "2026-07-19 05:54:16",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "WAIC 2026“镇馆之宝”STEPX Neo亮相，引领人机交互新范式",
+      "link": "https://www.qbitai.com/2026/07/454165.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-19 05:38:26",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/5babc78f-7a71-4278-89d9-e2dfd651291b.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "三星推出 Freestyle+ 便携式投影仪：支持 360 度环绕音效、最大可投射 100 寸 FHD 画面",
-      "link": "https://www.ithome.com/0/978/640.htm",
-      "summary": "\nIT之家 7 月 19 日消息，三星前天在美国市场推出 Freestyle+ 便携式投影仪，新品最大可投射 100 英寸的 Full HD（1080P）画面，支持流媒体服务、云游戏和无线投屏，还能通过 USB-C 移动电源供电，适合露营等场景。\n\nIT之家在此援引官方新闻稿，这款投影仪拥有 3D 自动梯形矫正、墙面校准和画面适配等 AI 优化技术，可帮助投影仪在不平整墙面下投射出正确画面。\n规格...",
+      "title": "国内唯一：世界首台（套）500 兆瓦冲击式水电机组球阀完成现场装配并通过试验",
+      "link": "https://www.ithome.com/0/978/688.htm",
+      "summary": "\nIT之家 7 月 19 日消息，据东方电气分享，世界首台（套）500 兆瓦冲击式水电机组 —— 大唐扎拉水电站 1 号机组进水球阀近日在项目现场顺利通过水压试验，各工况下的密封性能均达设计要求。这标志着该电站首台巨型进水球阀现场装配及试验工作圆满完成。\n\n据介绍，大唐扎拉水电站具有高水头、大容量、高海拔等特点，共装设 2 台单机容量 500 兆瓦的冲击式水电机组，东方电气负责其中 1 台套机组的...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-19 02:29:00",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/04bafd90-3624-459d-9a13-f6c265a21d27.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "OPPO 陈希透露 ColorOS 17 没有透明化卡片设计，称可读性有挺大影响",
-      "link": "https://www.ithome.com/0/978/638.htm",
-      "summary": "\nIT之家 7 月 19 日消息，OPPO ColorOS 设计总监陈希昨日在微博分享了 ColorOS 系统的小布建议功能，称到医院后可以自动识别医院，主动推出相关服务，用医保码非常方便。\n\n有网友希望小布建议卡片设计可以更美观，并期待 ColorOS 17 在透明底上显示这些信息的小布建议卡片。对此，陈希回应称：\n别期待了，没有。整体上我们并不倾向透明化的卡片设计，对卡片的可读性有挺大影响，甚...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-19 02:26:47",
+      "pubDate": "2026-07-19 05:29:18",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/73ff1189-aadd-4421-970b-b7133092b92e.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "央视曝儿童听力下降呈现低龄化趋势，“耳机依赖”正成为无声杀手",
-      "link": "https://www.ithome.com/0/978/637.htm",
-      "summary": "\nIT之家 7 月 19 日消息，据央视网报道，儿童听力下降正呈现低龄化趋势。\n\n报道提到，暑假期间，不少孩子捧着平板电脑、手机玩游戏，为了避免打扰别人，家长往往默许孩子戴上耳机。但这看似安静的背后，却隐藏着听力损伤的危机。事实上，儿童听力近年来下降呈低龄化趋势，“耳机依赖”正在成为无声的杀手。\n\n专家介绍称，造成儿童听力损伤的常见原因包括：噪音性损伤（长期戴耳机听大音量声音，会导致内耳“毛细胞”...",
+      "title": "线下“四朵金花”最速：消息称华为 nova 16 系列手机开售 39 天销量破百万",
+      "link": "https://www.ithome.com/0/978/687.htm",
+      "summary": "\nIT之家 7 月 19 日消息，据博主 @旺仔百事通 今日分享，在今年整体大盘遇冷的情况下，华为 nova 16 系列正式开售仅 39 天销量就正式破百万，是今年线下“四朵金花”（预计指 vivo S 系列、OPPO Reno 系列、荣耀数字系列和华为 nova 系列）里面最先达成这一成就的产品。\n\n博主表示，这个成绩可以说得上是相当亮眼了。\n据IT之家此前报道，华为 nova 16 系列手机已...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-19 02:18:33",
+      "pubDate": "2026-07-19 05:15:10",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/27349e3f-0b39-4492-979c-6a1a055d6bed.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "导演诺兰称拍完《奥德赛》后至少休息三年，坦言已达体力极限",
-      "link": "https://www.ithome.com/0/978/636.htm",
-      "summary": "\nIT之家 7 月 19 日消息，据《综艺》昨天报道，知名导演克里斯托弗 · 诺兰表示，在完成新片《奥德赛》后，自己至少要休息三年。\n\n诺兰表示，他拍完《奥德赛》后至少要等三年，才会制作下一部电影。他对此解释称：“我确实已经到了自己体力的极限，我想整个剧组的人也是这样。不过毕竟这是《奥德赛》，它本身就非常难拍。如果我们拍摄过程中觉得不难，那说明我们没有把这部电影拍对。”\nIT之家了解到，IMAX ...",
+      "title": "AI 驾校进入下半场：教练下车之后，谁来重做驾培？",
+      "link": "https://www.tmtpost.com/8066867.html",
+      "summary": "驾培成为了 AI 技术较早进入实际交付的场景之一，但这只是 AI 改造驾校生意的第一层。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-19 05:05:35",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Databricks估值飙升1880亿美元，CEO：采用中国开源模型是AI成本控制关键一环",
+      "link": "https://www.tmtpost.com/8070738.html",
+      "summary": "对于开源模型，Databricks需自行提供GPU算力，这也是Databricks此次融资的核心目的。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-19 05:04:23",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "努比亚总裁倪飞：未来不是人操作手机，而是手机替人办事",
+      "link": "https://www.ithome.com/0/978/686.htm",
+      "summary": "\n在 2026 世界人工智能大会（WAIC）期间，努比亚正式展示即将量产上市的 NaviX Ultra 智能体手机。面对 AI 手机竞争持续升温，努比亚并没有把重点放在模型参数或单项 AI 能力，而是试图回答另一个问题 —— 当 AI 真正开始替用户完成任务，手机应该变成什么样。\n\n在媒体品鉴会上，中兴通讯高级副总裁、终端事业部总裁、努比亚总裁倪飞在接受凤凰网科技在内的媒体采访时表示，AI 手机的...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-19 02:16:33",
+      "pubDate": "2026-07-19 05:03:44",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/11ab0c2a-e178-4395-9ba9-1742bd91ca80.jpg?x-bce-process=image/auto-orient,o_1"
+      "thumbnail": ""
     },
     {
-      "title": "微软 Xbox 主机独占策略不局限于单机游戏，也可包含多人游戏",
-      "link": "https://www.ithome.com/0/978/635.htm",
-      "summary": "\nIT之家 7 月 19 日消息，微软 Xbox 的全新独占战略将不仅限于单机游戏，这也让外界开始猜测，未来 Xbox 游戏阵容中的哪些作品会成为独占内容。\n\nIT之家注意到，微软此前已经明确表示，未来将重新重视独占内容，并计划每年至少推出一款面向 Xbox 主机和 PC 的独占游戏。这些作品不会局限于某一种类型，也不会全部都是单机游戏。\n例如，作为这一战略下首款重要主机独占作品的《战争机器：E-...",
+      "title": "对话云天励飞董事长陈宁：推理就是生产力，2030年将实现“百亿Token一分钱”",
+      "link": "https://www.tmtpost.com/8070642.html",
+      "summary": "推理时代，AI算力的竞争正在从单颗芯片性能走向Token生成效率。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-19 05:03:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "蚂蚁数科发布商业智能体超级工厂核心平台 Agentar2.0，预置 200 个岗位级数字专家模板",
+      "link": "https://www.ithome.com/0/978/684.htm",
+      "summary": "\nIT之家 7 月 19 日消息，今日，在 2026 世界人工智能大会，蚂蚁数科正式发布商业智能体超级工厂核心平台“Agentar2.0”。\n\n据介绍，Agentar2.0 首批预置 200 个岗位级数字专家模板，并提供数百个可订阅的 Skills 级开箱可用的智能体工具。企业可以根据具体岗位和经营需求，快速启用具备专业知识、业务流程及工具调用能力的数字专家，无需从零起步。\n蚂蚁数科 CTO 闫莺...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-19 02:11:25",
+      "pubDate": "2026-07-19 04:43:36",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/89174a56-f5ed-4c73-b76a-809049216d4d.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "电视大屏畅看《野狗骨头》：芒果 TV 全屏会员 153 元四折狂促（再送 QQ 音乐月卡）",
-      "link": "https://www.ithome.com/0/978/634.htm",
-      "summary": "\n芒果 TV 全屏会员（支持电视端）定价 388 元，今日官方活动价 165 元，可领 10 元天猫娱乐品类券 + 淘金币抵扣 1.65 元，到手 153.35 元。\n下单后联系客服领取 QQ 音乐会员月卡兑换码，7 天内有效，逾期失效不予退还。\n▼ 点击详情页活动横幅可领 10 元天猫娱乐品类券。\n\n天猫芒果 TV 全屏会员 年卡 12 个月 + 赠 QQ 音乐会员月卡详情页领 10 元品类券 ...",
+      "title": "SK 集团会长崔泰源：内存应该降价，如果一直高价消费电子行业可能受到冲击",
+      "link": "https://www.ithome.com/0/978/683.htm",
+      "summary": "\nIT之家 7 月 19 日消息，据韩媒 EtNews 今天报道，SK 集团会长、大韩商工会议所会长崔泰源表示，目前持续高企的内存价格并不正常。过高的半导体价格不仅会抑制市场需求，未来还可能引发地缘政治层面的矛盾。\n\n崔泰源表示：“内存价格应该下降。这句话听起来可能有点奇怪，但现在的价格并不正常。如果高价一直维持下去，PC 和智能手机只能不断涨价，最终出现所谓的‘芯片通胀’。”\n他认为，如果高昂的...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-07-19 02:09:05",
+      "pubDate": "2026-07-19 04:17:53",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/95203d70-a777-49ff-bb88-1358fa4f260b.png"
+      "thumbnail": ""
     },
     {
-      "title": "原班人马回归！国产特摄《铠甲勇士刑天 · 守护初心》短片播出，电影废案角色“锏以刑天”首登场",
-      "link": "https://www.ithome.com/0/978/633.htm",
-      "summary": "\nIT之家 7 月 19 日消息，铠甲勇士官方账号近日在B站发布《铠甲勇士：刑天》的续作短片《铠甲勇士刑天 · 守护初心》系列的 P1 和 P2 部分。剧中三人小队的原班人马时隔约十六年再次集结回归，让无数网友直呼“爷青回”、“泪目”。\n \n \n值得一提的是，此次在《铠甲勇士刑天 · 守护初心》短片中出场的刑天铠甲 / 小天（李昊天 | 李巍饰）、飞影铠甲 / 小飞（徐霆飞 | 吴昊泽饰）、金刚铠...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "JPROCMS 1.7.2 发布，开源免费 Java CMS 网站内容管理系统，支持 SaaS",
+      "link": "https://www.oschina.net/news/474295",
+      "summary": "更新日志 新增功能 ip2region更新升级3.3.7（地址库更新） 新增内容回收站功能 新增词汇导入导出功能 修复问题 修复Pdf文件上传新增检查是否包含xss 修复站点关闭无法查询bug 修复定时发布内容bug 修复Ipv6内网访问统计接口 修复定时发布后没有生成新的静态页页面 修复定时任务没有执行再次修改定时发布时间报错 修复站点......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-07-19 01:46:11",
+      "pubDate": "2026-07-19 03:53:33",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Northstar v9.0.0 已经发布，盈富量化平台",
+      "link": "https://www.oschina.net/news/474276",
+      "summary": "Northstar v9.0.0 已经发布，盈富量化平台 此版本更新内容包括： v9主要变更: 交易量优化。v8版本只能接受整数交易量，v9版本可以接受小数交易量，对币圈场景更友好，与币圈平台体验更一致 接口API与模型优化。K线周期按行业最佳实践，固定为枚举项；IDataSource接口优化，与币圈行情接口的设计逻辑更贴近；模型抽象更合......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-19 02:54:26",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "魔法原子Magic-VLA K02攻克叠盒封胶长程任务，成功率超90%",
+      "link": "https://www.qbitai.com/2026/07/454155.html",
+      "summary": "WAIC现场叠箱封胶，解锁物理AI新技能...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-19 02:36:39",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/018a3c19-7513-48a1-99f0-49a61bc86a78.jpg"
+      "thumbnail": ""
+    },
+    {
+      "title": "这，可能是今年WAIC最惊艳的图片！",
+      "link": "https://www.qbitai.com/2026/07/454049.html",
+      "summary": "理解、生成、行动的原生统一...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-07-19 02:08:41",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "半年净利预增超8倍，60后夫妇靠“养猴”赢麻了",
+      "link": "https://www.tmtpost.com/8070530.html",
+      "summary": "身家大涨的“猴哥”，正在A股资本市场掀起波澜。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-07-19 01:35:24",
+      "category": "other",
+      "thumbnail": ""
     },
     {
       "title": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
@@ -132,7 +242,7 @@
       "region": "cn",
       "pubDate": "2026-07-19 00:55:58",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/8fc8e211317e1701dcc033b0e4a03717_1784422562.png"
+      "thumbnail": ""
     },
     {
       "title": "暴走35000步，用脚丈量世博三馆，WAIC 2026实地逛展全纪录",
@@ -143,7 +253,7 @@
       "region": "cn",
       "pubDate": "2026-07-19 00:55:52",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/910b19d8c8293f711d4955075227cabf_1784422560.jpg"
+      "thumbnail": ""
     },
     {
       "title": "苹果AI入华，把“灵魂”交给阿里、百度",
@@ -154,7 +264,7 @@
       "region": "cn",
       "pubDate": "2026-07-19 00:54:08",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2y56jutyh3.png"
+      "thumbnail": ""
     },
     {
       "title": "Edge AI Daily 早报（7月19日）",
@@ -165,7 +275,7 @@
       "region": "cn",
       "pubDate": "2026-07-19 00:37:06",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/53465uytj3.png"
+      "thumbnail": ""
     },
     {
       "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
@@ -297,7 +407,7 @@
       "region": "cn",
       "pubDate": "2026-07-18 13:53:45",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/fd67061774350938fb7d5bb8c2426399_1784382827.jpg"
+      "thumbnail": ""
     },
     {
       "title": "WAIC看了一圈，这家公司的机器人在认真打工",
@@ -311,17 +421,6 @@
       "thumbnail": ""
     },
     {
-      "title": "独家对话吴德周：从硬件到平台，不想再做“传统”AI眼镜",
-      "link": "https://www.tmtpost.com/8069850.html",
-      "summary": "避开与大厂正面竞争，吴德周把故事“圈”在了运动赛道里。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-18 12:40:21",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/8a42838aa77ee2c477adec18ae14b224_1784378424.jpg"
-    },
-    {
       "title": "Sony’s flagship RGB LED TV is incredible",
       "link": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
       "summary": "The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons &amp; Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting into...",
@@ -331,28 +430,6 @@
       "pubDate": "2026-07-18 12:30:00",
       "category": "other",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268637_Sony_Bravia_9_II_TV_JHiggins_0006.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "天谱乐大模型发布4.7，让AI音乐更懂“二次创作”｜独家",
-      "link": "https://www.tmtpost.com/8070478.html",
-      "summary": "音乐大模型竞争从“第一次生成是否惊艳”转向对创作过程理解。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-18 12:14:00",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/cfbc12ad96738f70878ff977896b0921_1784378301.jpg"
-    },
-    {
-      "title": "商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环",
-      "link": "https://www.tmtpost.com/8070465.html",
-      "summary": "攻克“抽卡”痛点，多模态演进到了第三阶段。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-18 12:06:31",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/07/f064fe5af79d06a4c22d781d0c62380d_1784376393.jpg"
     },
     {
       "title": "More games should be on rails (literally)",
@@ -487,17 +564,6 @@
       "thumbnail": "https://media.wired.com/photos/6a57867336e98c56882c9e64/master/pass/GeminiStorage.jpg"
     },
     {
-      "title": "在WAIC，第一次觉得AI不必那么聪明",
-      "link": "https://www.tmtpost.com/8070322.html",
-      "summary": "AI不一定非要让我惊叹，也可以让我平静。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-18 09:49:49",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r4t3hrn3.png"
-    },
-    {
       "title": "Balmuda NatureWind Studio Review: A Better Breeze",
       "link": "https://www.wired.com/review/balmuda-naturewind-studio-fan/",
       "summary": "Balmuda has engineered a remarkably pleasant breeze with its new NatureWind Studio, but is it worth hundreds more than its competition?...",
@@ -542,28 +608,6 @@
       "thumbnail": ""
     },
     {
-      "title": "放弃日本后，澳洲人正疯狂涌向中国",
-      "link": "https://www.tmtpost.com/8069901.html",
-      "summary": "入境游的真正考验，是多少人走了还想来...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-07-18 07:54:13",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t435htrn3.png"
-    },
-    {
-      "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
-      "link": "https://www.qbitai.com/2026/07/453705.html",
-      "summary": "本地大模型规模化商用破局...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-18 07:20:19",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Fine, electric mountain bikes don’t suck",
       "link": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
       "summary": "Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric m...",
@@ -573,28 +617,6 @@
       "pubDate": "2026-07-18 07:00:00",
       "category": "ai",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/amflow-blur-wheelie.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "商汤大装置联合近20家生态伙伴发起“银河计划”，将共建5个万卡级国产智算集群",
-      "link": "https://www.qbitai.com/2026/07/453697.html",
-      "summary": "加速国产算力从落地可用到规模化盈利...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-18 06:56:10",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
-      "link": "https://www.qbitai.com/2026/07/436498.html",
-      "summary": "180家企业携成果入驻...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-07-18 05:33:28",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "SteelSeries Coupon Codes: 15% Off in July 2026",
@@ -638,7 +660,7 @@
       "region": "cn",
       "pubDate": "2026-07-18 01:05:45",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260718/v2_c521dcf894bf4210afa6eca9045c6dfb@5667365_oswg242582oswg750oswg421_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
@@ -880,7 +902,7 @@
       "region": "us",
       "pubDate": "2026-07-17 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/12/Varcor-Facility-Interiorpoop-thumb.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "Kimi K3 全面解读：2.8 万亿参数、48 小时造芯片、以及一个正在被开源模型追上的 AI 竞争格局",
@@ -902,7 +924,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 10:51:22",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_605a8a8a4b8640158de83a7aa88b025f@6381723_oswg84170oswg1212oswg810_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
@@ -913,7 +935,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 10:45:58",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_11cad3dae776450b9505ddcb5be2a14b@5889148_oswg528857oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "✨ NocoBase 2.2-beta 发布：开源无代码 / 低代码平台 NocoBase",
@@ -979,7 +1001,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 07:55:26",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_3068ebe059a94b82854e08b606943872@5920579_oswg683953oswg712oswg530_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "OpenAI 首款硬件是一个迷你键盘，用于控制 AI 编程 Agent",
@@ -1001,7 +1023,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 07:46:38",
       "category": "space",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_695a76ff08fd4fe5a2b646d26886fe65@5679941_oswg653830oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "代码写得多，就一定更好吗？",
@@ -1026,17 +1048,6 @@
       "thumbnail": ""
     },
     {
-      "title": "面壁智能开源企业数字员工平台 StaffDeck",
-      "link": "https://www.oschina.net/news/472705",
-      "summary": "面壁智能联合东北大学-面壁智能数据智能联合实验室、清华大学 THUNLP 实验室、OpenBMB 与 AI9Stars 开源了数字员工全流程构建与管理平台 StaffDeck。 根据介绍，StaffDeck 不只让 AI 承接重复性沟通与标准化任务，更试图将分散在人员、文档和业务系统中的知识、方法与流程，转化为 可维护、可复用、可持续优化的组织能力......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-17 07:13:12",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
       "link": "https://36kr.com/p/3899398088509319?f=rss",
       "summary": "\n[中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、上行边缘差点（&lt;20Mbps）占比仅0.1%。优异的现网测评结果标志着联通好网络在北京区域已...",
@@ -1044,17 +1055,6 @@
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-07-17 07:13:05",
-      "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_f3e09491e03042b7a249906c12161a42@517825446_oswg1556881oswg1990oswg660_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
-    },
-    {
-      "title": "杭州市民政局准予设立杭州市开源人工智能基金会",
-      "link": "https://www.oschina.net/news/472699",
-      "summary": "杭州市民政局正式签发准予行政许可决定书（杭民社许准字〔2026〕成第J-001号），批准设立杭州市开源人工智能基金会，为非公募基金会。 根据规定，该基金会同时被认定为慈善组织，发给《基金会法人登记证书》（带慈善组织标识）。 杭州市开源人工智能基金会官方介绍如下： 杭州市开源人工智能基金会（以下简称\"基金会\"）秉......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-17 07:05:44",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1078,7 +1078,7 @@
       "region": "cn",
       "pubDate": "2026-07-17 02:39:17",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260717/v2_05fd6eb5360b4020bd04319290006794@5920579_oswg371311oswg459oswg700_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
@@ -1122,7 +1122,7 @@
       "region": "us",
       "pubDate": "2026-07-16 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/12/bed.jpg?w=2724"
+      "thumbnail": ""
     },
     {
       "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
@@ -1199,7 +1199,7 @@
       "region": "us",
       "pubDate": "2026-07-15 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/02/nixon-thumb.jpg?w=3000"
+      "thumbnail": ""
     },
     {
       "title": "How I Turned AI to the Dark Side",
@@ -1221,7 +1221,7 @@
       "region": "us",
       "pubDate": "2026-07-14 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/01/feature-ivf.jpg?fit=1456,818"
+      "thumbnail": ""
     },
     {
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
@@ -1232,7 +1232,7 @@
       "region": "us",
       "pubDate": "2026-07-14 08:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260126_Mk2_the_third-23.jpg?w=2000"
+      "thumbnail": ""
     },
     {
       "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
