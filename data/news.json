@@ -1,7 +1,73 @@
 {
-  "updateTime": "2026-07-21T21:17:31.245Z",
+  "updateTime": "2026-07-21T23:02:35.389Z",
   "total": 117,
   "news": [
+    {
+      "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-21 22:50:01",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/master/pass/security_openai_hack_huggingface.jpg"
+    },
+    {
+      "title": "月租 iPhone、iPad 成为现实：古尔曼称苹果下周将在美国率先推出 Apple Upgrade 设备租赁计划以刺激销售，年年焕新计划将逐步停运",
+      "link": "https://www.ithome.com/0/979/811.htm",
+      "summary": "\nIT之家 7 月 22 日消息，彭博社马克 · 古尔曼昨日报道称，苹果公司预计于 2026 年 7 月 28 日（下周二）在美国市场推出名为“Apple Upgrade”的全新设备租赁计划。\n这项服务将覆盖 iPhone、Mac、iPad 及 Apple Watch 的大部分机型，是苹果在硬件销售模式上的一次重要调整。\n\n据介绍，苹果将与金融科技公司 Klarna 合作，由后者为该租赁项目提供资...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-21 22:16:39",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/c1081742-2d6c-42b2-b0e8-06d6fef8cd53.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The s...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-21 22:06:43",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
+      "link": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
+      "summary": "\nPoolside, the San Francisco AI lab that has spent most of its three-year existence quietly selling coding models to governments and defense agencies, released its most capable model to date on Tuesda...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-21 21:49:43",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-rele...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-21 21:48:54",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
+      "link": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
+      "summary": "\nGPU memory is the most expensive resource in production AI, and it's also the one running out fastest. \nLong context windows and multi-turn conversations force AI models to repeatedly recompute infor...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-21 21:19:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "These are the countries moving to ban social media for children",
       "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
@@ -214,7 +280,7 @@
     {
       "title": "Why AI Needs a “Genie Coefficient”",
       "link": "https://spectrum.ieee.org/ai-agent-benchmark",
-      "summary": "\nMajor benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We...",
+      "summary": "\nMajor benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We ...",
       "source": "IEEE Spectrum",
       "sourceKey": "ieee",
       "region": "us",
@@ -352,7 +418,7 @@
       "region": "cn",
       "pubDate": "2026-07-21 15:58:31",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/3/0226f36a-4825-4419-a039-2fa19352cea5.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1"
     },
     {
       "title": "Stellantis 进行人事调整：Ram、Jeep 各自迎来新品牌 CEO",
@@ -363,7 +429,7 @@
       "region": "cn",
       "pubDate": "2026-07-21 15:40:31",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/56d81acc-ba95-4baa-88cb-3d2dd3ea98b8.png"
     },
     {
       "title": "全球首款机器人手机：荣耀 Robot Phone 拍照页面曝光，将支持大师电影模式",
@@ -374,7 +440,7 @@
       "region": "cn",
       "pubDate": "2026-07-21 15:33:36",
       "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/1ffb2429-2518-4a00-85c4-1b9ed6dea097.jpg"
     },
     {
       "title": "微软间接确认 AMD 将推配备 3D V-Cache 的 \"Zen 6\" EPYC 处理器",
@@ -385,7 +451,7 @@
       "region": "cn",
       "pubDate": "2026-07-21 15:29:18",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/7425a917-4f20-45e4-b142-b9f14366aad8.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "飞利浦推出 Evnia 32M2N6901A 显示器，搭载 32 英寸 4K 165Hz QD-OLED 面板",
@@ -396,7 +462,7 @@
       "region": "cn",
       "pubDate": "2026-07-21 15:27:42",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/192d73ad-846a-4ee2-b1b4-e9db0bc1ce03.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "面积仅 46mm²：xMEMS 发布全球最小主动式微型风扇 XMC-1200，专为 AR、XR 智能眼镜设计",
@@ -407,18 +473,7 @@
       "region": "cn",
       "pubDate": "2026-07-21 15:20:34",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Samsung can’t afford to play it safe with Apple’s first foldable looming",
-      "link": "https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone",
-      "summary": "Tomorrow's foldable-centric Galaxy Unpacked event looks like it will be Samsung's biggest in years. The company is expected to launch new versions of its Fold and Flip phones while also introducing a ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-21 15:20:33",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257857_Samsung_Galaxy_Z_Fold_7_review_AJohnson_0006.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/00cd734e-3e83-4c3e-8c01-97188e3a7954.jpg"
     },
     {
       "title": "雅迪电动车就与米哈游《绝区零》联动期间合作达人视频出现不当素材道歉",
@@ -429,7 +484,7 @@
       "region": "cn",
       "pubDate": "2026-07-21 15:18:49",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/55772a5d-70d6-4680-80cc-9afa70766dc4.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1"
     },
     {
       "title": "TreeSize won't renew perpetual-license support unless users subscribe",
@@ -451,7 +506,7 @@
       "region": "cn",
       "pubDate": "2026-07-21 15:18:02",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/b7db1814-6c52-4bbd-8e24-577af4a38f78.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "谷歌发布三款新 AI 模型，含 Gemini 3.6 Flash、3.5 Flash Cyber",
@@ -462,29 +517,7 @@
       "region": "cn",
       "pubDate": "2026-07-21 15:13:06",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "微软 Microsoft Whiteboard 个人版下月停止服务，数据将在 9 月删除",
-      "link": "https://www.ithome.com/0/979/794.htm",
-      "summary": "\nIT之家 7 月 21 日消息，微软近日宣布，使用个人账户登录的 Microsoft Whiteboard 将于 8 月 22 日起停止服务，届时个人用户将无法再创建、编辑白板。\n\n微软表示，Microsoft Whiteboard 将于 8 月 22 日后继续提供服务，但之后仅支持 Microsoft Business 企业账户使用。\n8 月 22 日以后，个人用户可以查看或导出此前创建的白板...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-21 15:11:37",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Light Flip is a minimalist flip phone with a point to prove",
-      "link": "https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs",
-      "summary": "A few years ago, the team at Light shipped the most smartphone-like device they'd ever created. The Light Phone III still kept to its minimalist, no-distractions ethos, but it was a phone-size rectang...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-21 15:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Toolbox.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/6502fb66-86e6-4e80-b0d9-dae6f0f616ec.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
@@ -661,17 +694,6 @@
       "pubDate": "2026-07-21 11:05:10",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "The Best Smart Home Accessories to Boost Your Curb Appeal (2026)",
-      "link": "https://www.wired.com/story/smart-home-curb-appeal-looks/",
-      "summary": "These locks, lights, and other smart home upgrades let you add automation without messing up your home’s vibe....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-21 11:02:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/69e2927e26dabb307b73e8ca/master/pass/Your-Outdoor-Smart-Home-Gear-Doesn't-Have-To-Be-Ugly.jpg"
     },
     {
       "title": "“画中画中画”——Qwen Image 3.0 把四层 UI 塞进了一张图",
@@ -927,7 +949,7 @@
       "thumbnail": ""
     },
     {
-      "title": "小产品逆袭，大产品落位，为什么大家都在小红书做游戏宣发 | 游戏风向标",
+      "title": "小产品逆袭，大产品���位，为什么大家都在小红书做游戏宣发 | 游戏风向标",
       "link": "https://36kr.com/p/3905036594628224?f=rss",
       "summary": "\n文丨树果贝\n  编辑丨果脯\n  假设你是一名游戏发行方，手头经费有限，必须从小黑盒、B站、小红书三大社交平台选其一来着重宣传自家新游，你会选谁？\n  单凭直觉看，不少人应该会先吐槽「选项设置压根不合理」，这就像在问巴西、德国和国足在世界杯上谁最可能夺冠。与其他两家相比，小红书乍一看压根就没有可比性，凭什么能成为选项之一？\n  此话倒也不假。\n  小黑盒早期依靠PUBG的爆火起家，后续凭借数据查询...",
       "source": "36氪",
@@ -1055,28 +1077,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-07-20 18:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "At VB Transform 2026, Zillow's engineering chief said AI ROI numbers only hold up if you measure before you build",
-      "link": "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build",
-      "summary": "\nZillow, the real estate technology company, doesn't get one conversation with its customers. They move from a phone screen to a loan officer to a real estate agent, sometimes over months or years, an...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-20 16:38:48",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The cleanup trap: Stop asking RAG to fix bad data",
-      "link": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
-      "summary": "\nThe enterprise technology ecosystem is caught in a costly cycle. Over the past two years, millions of dollars have been funneled into generative AI pilots, yet many of these initiatives stall out bef...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-20 16:19:45",
       "category": "ai",
       "thumbnail": ""
     },
