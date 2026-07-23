@@ -1,7 +1,282 @@
 {
-  "updateTime": "2026-07-23T15:15:00.349Z",
-  "total": 117,
+  "updateTime": "2026-07-23T17:38:20.668Z",
+  "total": 107,
   "news": [
+    {
+      "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
+      "link": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
+      "summary": "An updated government advisory warns that Iranian hackers are exploiting systems used by water and energy providers....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-23 17:27:08",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Corsair’s PC case with a panoramic glass design is $70 off",
+      "link": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
+      "summary": "On the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Best Buy, and Corsair are selling the Corsair Frame 4500X RS for $119.99, a $70 discount from the usual price. The ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-23 17:20:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/corsair-4500x-rs-deal-image-3.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Multi-turn attacks broke AI models 88% of the time — single-turn testing missed it, Cisco AI security lead warns at VB Transform 2026",
+      "link": "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time",
+      "summary": "\nWhen Cisco ran 6,986 multi-turn attacks against 15 flagship models, attackers who adapted across the conversation broke through as often as 88.3% of the time. Amy Chang, Cisco's head of AI threat int...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-23 17:13:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tesla’s robotaxi promises are clashing with reality",
+      "link": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
+      "summary": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-23 17:09:31",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-23 17:07:35",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "link": "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "summary": "\nAcross 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and mode...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-23 17:06:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "\nAcross 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incid...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-23 17:03:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "link": "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "summary": "\nAcross 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sour...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-23 17:03:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "link": "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "summary": "\nAcross 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their intern...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-23 17:02:34",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "summary": "\nAcross 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on r...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-23 17:01:31",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-23 17:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
+      "link": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
+      "summary": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned multi-core test, and lar...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-23 17:00:00",
+      "category": "chip",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Windows-CPU-Dark.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-23 17:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+      "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+      "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a reci...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-07-23 16:58:28",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
+      "link": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search/",
+      "summary": "The European Commission claims that Google boosted its own apps and products to the top of search rankings to the detriment of its competitors....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-07-23 16:51:52",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a622589d1a4f0b18c5d787b/master/pass/GoogleFine.jpg"
+    },
+    {
+      "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
+      "link": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming",
+      "summary": "The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices. With Prime Gaming, Amazo...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-23 16:39:32",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/prime-video-games-tab.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Tesla’s robotaxis are moving in reverse",
+      "link": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
+      "summary": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-23 16:29:59",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-23 16:28:50",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google will now let you sign in to your account with a selfie video",
+      "link": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/",
+      "summary": "The tech giant says selfie videos give users more options to sign in if they're ever locked out or don't have access to their usual phone or computer....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-23 16:01:03",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders",
+      "link": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
+      "summary": "Xbox Insiders can stream games from their libraries for free in ad-supported streaming sessions starting today. The free streaming sessions are limited to games you already own, and sessions are cappe...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-07-23 16:00:00",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "An AI now judges every move Rubrik's agents make, its AI chief said at VB Transform 2026 — but no one's measured if the judge is right",
+      "link": "https://venturebeat.com/security/an-ai-now-judges-every-move-rubriks-agents-make-its-ai-chief-said-at-vb-transform-2026-but-no-ones-measured-if-the-judge-is-right",
+      "summary": "\nAt a CISO roundtable organized by Anthropic's chief information security officer, Dev Rishi asked a simple question: Did everyone in the room have their AI governance and security policies written do...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-23 15:38:30",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "英伟达 Jetson 芯片将登陆月球，驱动月面机器人自主运行",
+      "link": "https://www.ithome.com/0/980/866.htm",
+      "summary": "\nIT之家 7 月 23 日消息，英伟达正努力将旗下 GPU 部署到更多场景，而该公司的最新目标，已经瞄准了月球。\n\n致力于太空基础设施机器人研发的初创公司 Lunar Outpost 当地时间周四宣布，其即将执行月球任务的月球车将采用英伟达 Jetson 芯片来控制激光雷达（LiDAR）系统。如果任务顺利完成，这将有望成为首款登陆月球表面的 GPU。\nLunar Outpost 首席执行官贾斯汀...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-23 15:15:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "消息称荣耀实验室主摄物料最高为豪威 OVB0D，支持 200Mp 1/1.12\"",
+      "link": "https://www.ithome.com/0/980/865.htm",
+      "summary": "\nIT之家 7 月 23 日消息，博主 @数码闲聊站 今日爆料，荣耀实验室目前主摄物料最高 OVB0D，200Mp 1/1.12\" LOFIC 超级大底国产镜皇，这颗镜头同步开启下一代长焦端的可行性预研。\n\nIT之家注意到，豪威于去年 12 月推出 OVB0D 手机 CMOS 传感器。结合 GSMArena 此前报道，OVB0D 传感器拥有 40 万 full-well（满阱容量，每个像素能容纳的...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-23 15:08:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Epic 喜加一：叙事卡牌游戏《预言奇谈》免费领取",
+      "link": "https://www.ithome.com/0/980/864.htm",
+      "summary": "\nIT之家 7 月 23 日消息，Epic 本周送出的是叙事卡牌游戏《预言奇谈 (Foretales)》，一旦领取永久入库。下周送出的是俯视角快节奏肉鸽射击游戏《孤狼 (OTXO)》和 Roguelite 战术游戏《日之旅 (Sol Cesto)》。\n\n领取链接：《预言奇谈》\nIT之家附《预言奇谈》游戏简介：\n\n一个可怕的诅咒使世界陷入危机，唯一能阻止它的人是一个名叫 Volepain 的小偷。\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-23 15:05:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "知乎发文祝贺邓煜斩获菲尔兹奖，数学天才画风曝光",
+      "link": "https://www.ithome.com/0/980/863.htm",
+      "summary": "\nIT之家 7 月 23 日消息，2026 年国际数学家大会当地时间 7 月 23 日上午在美国费城开幕，现场揭晓 2026 年菲尔兹奖得主，中国青年数学家王虹、邓煜获奖。这是中国数学家首次获得菲尔兹奖，也是中国数学家首次在同一届国际数学家大会上同时获得两枚菲尔兹奖，实现了中国数学发展的历史性突破。\n\n知乎官方刚刚发文恭喜了邓煜等学者斩获菲尔兹奖，随即分享了对这位数学天才知乎主页的“考古发现”：\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-23 15:02:39",
+      "category": "other",
+      "thumbnail": ""
+    },
     {
       "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
       "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
@@ -16,7 +291,7 @@
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
       "link": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
-      "summary": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Wil.i.am. ...",
+      "summary": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Will.i.am. ...",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -25,7 +300,7 @@
       "thumbnail": ""
     },
     {
-      "title": "Nvidia is sending GPUs to the Moon",
+      "title": "Nvidia is sending GPUs to the moon",
       "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
       "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there....",
       "source": "TechCrunch",
@@ -44,7 +319,7 @@
       "region": "us",
       "pubDate": "2026-07-23 15:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_6773ca4386fb78b10c987902bf2f66a1038d7829.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/assets_2026_06_1780857686_1b.HCE_Standard_Edition_No_Logo_3840x2180.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Amazon’s best 4K streaming sticks are up to 40 percent off",
@@ -58,9 +333,31 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Amazon-Fire-TV-Stick-4K-Plus-Deal-Image.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Google closes in on another billion user product with Gemini",
+      "title": "先马推出 S300-360 一体式水冷散热器：冷头配 6 英寸磁吸面板，黑白双色均售 499 元",
+      "link": "https://www.ithome.com/0/980/862.htm",
+      "summary": "\nIT之家 7 月 23 日消息，先马现已在京东上架 S300 系列一体式水冷散热器，暂提供 360 规格可选，黑白双色均售 499 元，提供 6 年质保。\n京东先马 S300-360 散热器 499 元直达链接\n\n该散热器兼容 Intel LGA 1700/1851 和 AMD AM4/AM5 平台，冷头搭载了一块 6 英寸 IPS LCD 磁吸屏（支持四大方位定点安装），即使拿下磁吸屏，冷头也...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-23 14:58:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "华为小艺获 11.6.6.300 版本升级，鸿蒙“龙虾”小艺 Claw 接入 Kimi K3 旗舰模型",
+      "link": "https://www.ithome.com/0/980/861.htm",
+      "summary": "\nIT之家 7 月 23 日消息，华为小艺 App 今日迎来了 11.6.6.300 (110606300) 版本升级，更新日志显示，小艺 Claw 接入了 Kimi K3 旗舰模型。\n\nIT之家附华为小艺此次更新内容如下：\n\n1、小艺 Claw：接入 Kimi K3 旗舰模型，多个模型自由选择，体验全面升级快来试试吧。\n2、小艺深度解题：AI 互动讲解新增图文并茂讲解，讲解更直观。\n3、小艺翻译...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-23 14:56:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s Gemini nears billion-user milestone",
       "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "summary": "Gemini had over 750 million monthly users in February...",
+      "summary": "Gemini had over 750 million monthly users in February....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -69,25 +366,25 @@
       "thumbnail": ""
     },
     {
-      "title": "Amazon is bringing games to Prime Video",
-      "link": "https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/",
-      "summary": "Amazon is hoping the addition of games can turn Prime Video into a one-stop entertainment destination, borrowing a strategy from Netflix, which has increasingly embraced party games over the past seve...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
       "region": "us",
-      "pubDate": "2026-07-23 14:49:05",
+      "pubDate": "2026-07-23 14:45:05",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-chatbot-icons-on-smartphone-1-500x500.jpg"
     },
     {
-      "title": "MeBeMe’s new ‘interrupter’ app helps you become your best self instead of doomscrolling ",
-      "link": "https://techcrunch.com/2026/07/23/mebemes-new-interrupter-app-helps-you-become-your-best-self-instead-of-doomscrolling/",
-      "summary": "MeBeMe delivers small tasks to help users become their best selves instead of endlessly scrolling....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-23 14:43:20",
-      "category": "other",
+      "title": "《恐怖黎明：阿斯特卡恩之牙》大型 DLC 发售，国区首发价 65.7 元",
+      "link": "https://www.ithome.com/0/980/855.htm",
+      "summary": "\nIT之家 7 月 23 日消息，经典动作角色扮演游戏《恐怖黎明》的全新大型 DLC《恐怖黎明：阿斯特卡恩之牙》现已在 Steam 平台正式推出，由开发商 Crate Entertainment 制作发行，该 DLC 支持简体中文界面与字幕。IT之家附游戏商品页（https://store.steampowered.com/app/2699230/Grim_Dawn__Fangs_of_Aster...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-07-23 14:42:12",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -113,17 +410,6 @@
       "thumbnail": ""
     },
     {
-      "title": "比亚迪大唐 EV 第 1 万辆交车，中国足球小将创始人董路成为车主",
-      "link": "https://www.ithome.com/0/980/858.htm",
-      "summary": "\nIT之家 7 月 23 日消息，比亚迪汽车官方刚刚宣布，大唐 EV 第 10,000 辆交车，中国足球小将创始人董路成为大唐车主。\n\n据IT之家此前报道，比亚迪大唐 EV 于 6 月 17 日上市，官方指导价 23.99 万元起。该车是王朝网首款 D 级旗舰 SUV，拥有第二代刀片电池、全域 1000V 高压架构等，尺寸为 5263×1999×1790mm、轴距 3130mm。\n\n800KM 后...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-23 14:33:06",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
       "title": "Mobileye 2026 财年第二财季归母亏损 0.21 亿美元，同比亏损收窄 68.66%",
       "link": "https://www.ithome.com/0/980/805.htm",
       "summary": "\nIT之家 7 月 23 日消息，Mobileye 今日发布 2026 财年（2026 年 1 月 3 日～2027 年 1 月 2 日）第二财季（2026 年 3 月 29 日～2026 年 6 月 27 日）报告：\n\n营业总收入： 5.08 亿美元，同比增长 0.40%\n毛利： 2.35 亿美元，同比下降 6.75%\n归母净利润： -0.21 亿美元，同比亏损收窄 68.66%\n基本每股收益：...",
@@ -132,39 +418,6 @@
       "region": "cn",
       "pubDate": "2026-07-23 14:33:05",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steam 国产新游《红色史诗》Demo 上架，2026 年第四季度推出正式版",
-      "link": "https://www.ithome.com/0/980/374.htm",
-      "summary": "\nIT之家 7 月 23 日消息，由旧日档案工作室开发并发行的国产策略游戏《红色史诗》的免费 Demo 现已登陆 Steam 平台，该试玩版于 2026 年 7 月 22 日正式上线，本作正式版预计将于 2026 年第四季度发售，IT之家附游戏商品页（https://store.steampowered.com/app/4928410/_Demo/?l=schinese&amp;cc=cn）。\n\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-23 14:26:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "微信鸿蒙版 App 获 8.0.19.44 版本尝鲜升级，AI 助手小微（测试版）灰度中",
-      "link": "https://www.ithome.com/0/980/857.htm",
-      "summary": "\nIT之家 7 月 23 日消息，微信鸿蒙版 App 已在华为应用市场（App Gallery）开启了 8.0.19.44 (8393516) 版本尝鲜升级（如果未抢到尝鲜版本，须等待官方“补货”），测试时间为 2026/7/23-2026/8/22。\n\n和往常一样，本次更新的说明依旧为“修复了一些已知问题”，具体更新内容仍在探索中，不过微信 AI 助手“小微”已灰度上线，可通过文字或语音对话操作...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-23 14:21:11",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "乘联分会：7 月狭义乘用车零售预计 152 万辆，新能源渗透率约 64.5%",
-      "link": "https://www.ithome.com/0/980/856.htm",
-      "summary": "\nIT之家 7 月 23 日消息，乘联分会今日公布数据，结合终端表现推算，7 月狭义乘用车零售市场规模约 152 万辆，环比下降 5.1%，同比下降 16.8%。其中新能源零售量预计 98 万辆左右，环比持平微降，渗透率约 64.5%，渗透率进一步提高。\n\n7 月第一周，市场季节性回调，日均零售 3.4 万辆；第二周，受局部极端天气干扰，终端修复乏力，日均零售环比微增至 3.9 万辆；第三周，高温...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-23 14:19:26",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -179,39 +432,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "领克 07GT 旅行车上市 27 分钟大定破万，限时价 14.58 万元起",
-      "link": "https://www.ithome.com/0/980/854.htm",
-      "summary": "\nIT之家 7 月 23 日消息，领克汽车官方刚刚宣布，领克 07GT 旅行车上市 27 分钟大定破万。\n\n\n四驱性能 Ultra 版：上市指导价 17.78 万元、上市限时价 16.58 万元；\n200 超长续航 Ultra 版：上市指导价 16.78 万元、上市限时价 15.58 万元；\n200 超长续航 Max 版：上市指导价 15.78 万元、上市限时价 14.58 万元。\n\n领克 07G...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-23 14:10:53",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "Your backstage pass to TechCrunch Disrupt 2026 is waiting ",
-      "link": "https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/",
-      "summary": "Volunteer at TechCrunch Disrupt 2026 and get a behind-the-scenes look at how one of the world's biggest startup conferences gets built....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-23 14:02:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "全新《生化危机》真人电影《生化危机：爆发夜》正式预告发布，北美 2026 年 9 月上映",
-      "link": "https://www.ithome.com/0/980/848.htm",
-      "summary": "\nIT之家 7 月 23 日消息，全新《生化危机》真人电影 ——《生化危机：爆发夜》正式预告发布，影片将于 2026 年 9 月 18 日在北美大银幕上映。\n\n据介绍，本片根据热门恐怖游戏《生化危机》改编，这也是该 IP 的最新一部院线电影，由《凶器》《野蛮人》导演扎克・克雷格倾力打造，奥斯汀 · 艾布拉姆斯、保罗 · 沃尔特 · 豪泽、扎克 · 切利、卡莉 · 瑞斯参与主演。\n本片将讲述奉命奔赴...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-23 14:00:23",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
       "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
       "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m...",
@@ -223,39 +443,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0724_OpenAI_suit.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Ford bets on Apple for its next-generation of EVs",
-      "link": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
-      "summary": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-23 13:58:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ford picks Apple Maps for its next EV platform and updated BlueCruise",
-      "link": "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist",
-      "summary": "Ford plans to embed Apple Maps directly into its Universal Electric Vehicle Platform, which will start with a $30,000 midsize pickup truck set for release in 2027. In an announcement on Thursday, Ford...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-23 13:49:51",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "王虹、邓煜获 2026 年菲尔兹奖，中国数学实现历史性突破",
-      "link": "https://www.ithome.com/0/980/846.htm",
-      "summary": "\nIT之家 7 月 23 日消息，据央视新闻报道，2026 年国际数学家大会当地时间 7 月 23 日上午在美国费城开幕，现场揭晓 2026 年菲尔兹奖得主，中国青年数学家王虹、邓煜获奖。\n\n王虹出生于 1991 年，邓煜出生于 1989 年，本科均毕业于北京大学。这是中国数学家首次获得菲尔兹奖，也是中国数学家首次在同一届国际数学家大会上同时获得两枚菲尔兹奖，实现了中国数学发展的历史性突破。\n\n邓...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-07-23 13:47:56",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "锂赛道弱预期压倒强现实：业绩暴增、锂价走弱、股价腰斩 | 行业风向标",
       "link": "https://www.tmtpost.com/8077625.html",
       "summary": "下半年锂价宽幅震荡为主。...",
@@ -265,17 +452,6 @@
       "pubDate": "2026-07-23 13:00:30",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "The sci-fi movie that imagines AI isn’t so dystopian after all",
-      "link": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview",
-      "summary": "Imagine you are the parent of an inquisitive seven-year-old who loves his family, playing baseball, and hanging out with his friends. It's the life you've always wanted. And then the worst thing that ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-23 13:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Still-1-Rimu-Kuwaki-in-SHEEP-IN-THE-BOX_Courtesy-of-NEON.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "智源最新研究提出警报：大模型智能体可能带来生物安全风险",
@@ -322,17 +498,6 @@
       "thumbnail": "https://media.wired.com/photos/6a610fc34f2b583ac1fd424b/master/pass/The-Best-Dorm-Room-Essentials-for-Heading-Back-to-College.jpg"
     },
     {
-      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
-      "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-      "summary": "On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their com...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-23 12:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "How AI helps scientists design the next generation of medicines",
       "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
       "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos...",
@@ -357,7 +522,7 @@
     {
       "title": "White House report says Trump can usher in a \"new golden age\" of science",
       "link": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
-      "summary": "The resulting report is a near-random mixture of real problems and grievances....",
+      "summary": "The resulting report is a near-random mixture of grievances and real problems....",
       "source": "Ars Technica",
       "sourceKey": "arstechnica",
       "region": "us",
@@ -454,17 +619,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-23 11:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The Trump Administration Wants to Change Public Engagement Rules for Polluters",
       "link": "https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/",
       "summary": "The EPA has proposed a rule change that would let states decide how much input the public has on air pollution permits. It would be a huge boon for data centers increasingly reliant on fossil fuels....",
@@ -509,17 +663,6 @@
       "thumbnail": "https://media.wired.com/photos/6a60aa0df31d278efe123ebd/master/pass/2026_Toyota-RAV4-HEV-Limited_0001H.jpg"
     },
     {
-      "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
-      "link": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering",
-      "summary": "The European Union has fined Google's parent company Alphabet €890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is for giving its own pro...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-23 10:33:08",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust_Kristen_Radtke.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
       "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
       "summary": "Here are the best delivery services and meal kits in 2026, including Martha Stewart’s meal service, a GLP-1–supportive plan, and a budget-friendly option....",
@@ -561,18 +704,7 @@
       "region": "cn",
       "pubDate": "2026-07-23 10:01:57",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Google now lets you sign in to your account using a selfie video",
-      "link": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
-      "summary": "Google announced yet another way to gain access to your account if you get locked out, forget your password, or don't have access to the phone, computer, or two-factor authentication apps you typicall...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-23 10:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google_selfie.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260723/v2_219e0aa234d44779b677454a68e02e85@5688585_oswg1125227oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "Banning Social Media for Kids Is a Bad Idea",
@@ -619,17 +751,6 @@
       "thumbnail": ""
     },
     {
-      "title": "My Week of Transparent Living With Apple’s ‘More Clear’ Liquid Glass Setting",
-      "link": "https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/",
-      "summary": "I cranked Apple’s iOS 27 beta to maximum transparency on my iPhone and enjoyed every warped second....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-07-23 09:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a60d76514ab8e6140d7e948/master/pass/LiquidGlass.jpg"
-    },
-    {
       "title": "qData 数据中台专业版 V2.5.0 上线！重构数据开发工作台，增强血缘与整库同步能力!",
       "link": "https://www.oschina.net/news/477809",
       "summary": "qData数据中台专业版V2.5.0围绕以下内容调整，主要包括：重构数据开发IDE工作台、新增独立数据血缘能力、增强多类型SQL血缘解析、扩展整库同步范围，并优化数据集成运维、数据连接及任务运行前校验。 从分散操作，到相对统一的数据研发流程 数据研发并不只是编写SQL。 一条数据任务从创建到运行，通常需要经历： 查找数据......",
@@ -639,17 +760,6 @@
       "pubDate": "2026-07-23 09:28:59",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Framework’s premium laptop is shipping with less RAM",
-      "link": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates",
-      "summary": "RAMageddon has claimed yet another victim, with Framework now announcing a \"major and unfortunate\" pricing update for its upcoming premium laptop - which also impacts folks who preordered it. Memory c...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-07-23 09:28:30",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/FW13-ProductFamily-4.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "RAG 核心概念与原理：Chunking、Embedding、相似度、HNSW 与多路召回",
@@ -704,7 +814,7 @@
       "region": "cn",
       "pubDate": "2026-07-23 08:16:42",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260723/v2_f0bf09344d6a4b1e8dcd046e000b07e9@5783683_oswg995274oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1"
     },
     {
       "title": "独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
@@ -795,17 +905,6 @@
       "thumbnail": ""
     },
     {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-23 06:09:13",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
       "link": "https://www.qbitai.com/2026/07/457534.html",
       "summary": "推进华东区域业务布局的重要一步...",
@@ -828,7 +927,7 @@
       "thumbnail": ""
     },
     {
-      "title": "Orcas team up to ram sunfish until they explode",
+      "title": "Watch orcas ram a sunfish so hard it explodes",
       "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
       "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”...",
       "source": "Ars Technica",
@@ -852,13 +951,13 @@
     {
       "title": "对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式",
       "link": "https://36kr.com/p/3907639172027522?f=rss",
-      "summary": "\n7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。FutureTech负责人张梦钊在WAIC现场接受36氪「氪话���来」特邀专访，围绕FutureTech平台定位、OPC独立先锋挑战赛、AI创业趋势以及初创企业商业化路径等话题，分享了FutureTech如何连接创业团队、产业资源与创新生态，探索A...",
+      "summary": "\n7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。FutureTech负责人张梦钊在WAIC现场接受36氪「氪话未来」特邀专访，围绕FutureTech平台定位、OPC独立先锋挑战赛、AI创业趋势以及初创企业商业化路径等话题，分享了FutureTech如何连接创业团队、产业资源与创新生态，探索AI时...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-07-23 02:57:46",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260723/v2_703e7e497c924a8badf8e4af87f48c92@6381723_oswg2080670oswg2140oswg1210_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
@@ -891,7 +990,7 @@
       "region": "cn",
       "pubDate": "2026-07-23 02:09:19",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260723/v2_0902d80826964ee2bda8c2cf18bacf3c@6381723_oswg1617997oswg1422oswg788_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
     },
     {
       "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
@@ -935,7 +1034,7 @@
       "region": "cn",
       "pubDate": "2026-07-23 01:12:15",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260723/v2_8ed55b5301654f11a4dd8f72795107ff@6221844_oswg5566625oswg2583oswg1722_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
     },
     {
       "title": "36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资",
@@ -946,18 +1045,7 @@
       "region": "cn",
       "pubDate": "2026-07-23 01:08:03",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now",
-      "link": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now",
-      "summary": "\nWhen Hugging Face got hit last week, co-founder Clement Delangue suspected a frontier lab, given the agent's sophistication. He was right. Delangue said on X that after a day working with OpenAI he s...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-22 22:12:14",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260723/v2_0aa1a0e60ecc42a0b83a02f813246f66@6221844_oswg2924142oswg2160oswg2293_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
     },
     {
       "title": "Sales were up at Tesla but so were costs and spending",
@@ -1004,17 +1092,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/clayfaceTOP-500x500-1784745428.jpg"
     },
     {
-      "title": "AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering",
-      "link": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering",
-      "summary": "\nYou spend weeks tuning an AI chatbot. Answers are accurate. Stakeholders sign off, and you ship it. Three months later, the system is confidently wrong about a third of what users ask. Nobody changed...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-22 19:14:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
       "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
       "summary": "Union previously warned automaker that any robot deployment must be negotiated....",
@@ -1026,17 +1103,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Boston-Dynamics-robot-standing-stance-500x500.jpg"
     },
     {
-      "title": "The Computer That Helped Win World War II",
-      "link": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "summary": "\nOne summer day in 1941, a British radio operator was monitoring German military frequencies and heard something unexpected in her headphones. A later report called it “strange new music.” Sounding un...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-07-22 18:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/black-and-white-image-of-two-women-operating-a-wall-sized-1940s-computer.jpg?id=67520993&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
-    },
-    {
       "title": "Next Space Force chief throws cold water on the idea of space privateers",
       "link": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
       "summary": "It turns out some of Benjamin Franklin's opinions from 240 years ago are still relevant today....",
@@ -1046,28 +1112,6 @@
       "pubDate": "2026-07-22 17:02:44",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-3071177-500x500.jpg"
-    },
-    {
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-22 16:47:49",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2274109678-500x500.jpg"
-    },
-    {
-      "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-      "link": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
-      "summary": "\nOpenAI has announced Presence, a new enterprise product for deploying and managing AI agents across customer-facing and internal business workflows. \nThe offering is designed for eligible enterprise ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-22 14:50:00",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
@@ -1092,61 +1136,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Inflection AI returns to consumer market with Pi Journeys after Microsoft upheaval",
-      "link": "https://venturebeat.com/orchestration/inflection-ai-returns-to-consumer-market-with-pi-journeys-after-microsoft-upheaval",
-      "summary": "\nInflection AI, the Palo Alto startup that two years ago became Silicon Valley's most famous cautionary tale about the brutal economics of frontier AI, announced Tuesday that it is returning to the co...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-22 07:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know",
-      "link": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
-      "summary": "\nYesterday afternoon, OpenAI and Hugging Face published a joint disclosure outlining a cybersecurity event that redefines the threat landscape for enterprise technology. \nDuring an internal benchmark ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-22 04:39:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
-      "link": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
-      "summary": "\nPoolside, the San Francisco AI lab that has spent most of its three-year existence quietly selling coding models to governments and defense agencies, released its most capable model to date on Tuesda...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-21 21:49:43",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
-      "link": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
-      "summary": "\nGPU memory is the most expensive resource in production AI, and it's also the one running out fastest. \nLong context windows and multi-turn conversations force AI models to repeatedly recompute infor...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-21 21:19:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why AI Needs a “Genie Coefficient”",
-      "link": "https://spectrum.ieee.org/ai-agent-benchmark",
-      "summary": "\nMajor benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-07-21 17:41:11",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/cartoon-digital-genie-emerging-from-a-smartphone-towering-over-a-surprised-user.png?id=67508222&width=1245&height=700&coordinates=0%2C104%2C0%2C104"
-    },
-    {
       "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
       "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Las...",
@@ -1169,17 +1158,6 @@
       "thumbnail": ""
     },
     {
-      "title": "IEEE Program Helps Girls In India See a Future In STEM",
-      "link": "https://spectrum.ieee.org/ieee-program-girls-india-stem",
-      "summary": "\nRoughly half the world’s population is female, but the STEM fields don’t reflect that. The 2024 U.N. Global Education Monitoring Report on gender found that about 35 percent of STEM college graduates...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-07-20 18:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-group-of-university-student-volunteers-posing-together-in-matching-tee-shirts.jpg?id=67499901&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
-    },
-    {
       "title": "China’s AI models have Trump’s AI world at war with itself",
       "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to Presi...",
@@ -1191,28 +1169,6 @@
       "thumbnail": ""
     },
     {
-      "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-      "link": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
-      "summary": "\nDiscover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-07-20 15:55:00",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/zeiss-logo-above-the-slogan-seeing-beyond-on-a-dark-curved-rectangle.png?id=66728517&width=980"
-    },
-    {
-      "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
-      "link": "https://spectrum.ieee.org/led-light-pollution",
-      "summary": "\n \nIn the chill of a London spring night, under overcast skies, iconic Trafalgar Square opens around me. Admiral Nelson rises on his pedestal, the National Gallery rests behind, the church of St Marti...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-07-20 13:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/nighttime-view-of-the-river-thames-with-modern-vauxhall-and-nine-elms-skyscraper-cluster-glowing-in-the-background-and-the-illum.jpg?id=67480571&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
-    },
-    {
       "title": "The Download: AI hiring biases, and weather data sabotage",
       "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The n...",
@@ -1222,72 +1178,6 @@
       "pubDate": "2026-07-20 12:10:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "AI is more likely than humans to form biases when hiring",
-      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-07-20 08:39:01",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
-      "link": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-      "summary": "\nLike many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-07-17 18:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
-    },
-    {
-      "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
-      "link": "https://spectrum.ieee.org/fishery-satellite-surveillance",
-      "summary": "\nIn the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground....",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-07-16 12:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-overhead-drone-photo-shows-an-array-of-closely-placed-fishing-boats-at-sea.jpg?id=67101579&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
-    },
-    {
-      "title": "When Career Risks Are Worth Taking",
-      "link": "https://spectrum.ieee.org/career-risks",
-      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-07-15 19:52:41",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.jpg?id=59104110&width=1245&height=700&coordinates=0%2C232%2C0%2C233"
-    },
-    {
-      "title": "Notice to Membership",
-      "link": "https://spectrum.ieee.org/notice-to-membership-july-2026",
-      "summary": "\nAs of 21 June 2026, a Level 1 Expulsion has been imposed on IEEE Member Dr. Fei-Yue Wang, former editor-in-chief of the IEEE Transactions on Intelligent Vehicles. In accordance with IEEE Bylaw I-110....",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-07-15 18:00:02",
-      "category": "chip",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-word-bubble-with-the-ieee-inside.jpg?id=25592350&width=1245&height=700&coordinates=0%2C116%2C0%2C117"
-    },
-    {
-      "title": "The First Chatbot’s Multiple Personalities",
-      "link": "https://spectrum.ieee.org/eliza-chatbot-source-code",
-      "summary": "\nELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-07-15 15:35:53",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/photo-collage-of-a-charismatic-elderly-man-raising-his-eyebrows-against-a-background-of-obscured-computer-programming-script.jpg?id=67155632&width=1245&height=700&coordinates=0%2C0%2C0%2C0"
     }
   ]
 }
