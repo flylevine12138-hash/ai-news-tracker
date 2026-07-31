@@ -1,7 +1,73 @@
 {
-  "updateTime": "2026-07-31T20:23:04.702Z",
+  "updateTime": "2026-07-31T22:10:16.096Z",
   "total": 107,
   "news": [
+    {
+      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-31 22:00:08",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company. ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-31 22:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
+      "link": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+      "summary": "\nIf you ask an AI coding agent to write a standalone Python script to parse a single JSON file, it will likely give you a perfect answer in seconds. But the same agent often breaks if you ask it to bu...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-07-31 21:19:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "India is starting to pay for apps, not just download them",
+      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "summary": "India's app market generated a record $345 million in Q2....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-07-31 21:07:45",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "summary": "Had the hacks used conventional methods, someone would likely go to prison....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-31 20:39:14",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-500x500.jpg"
+    },
+    {
+      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-31 20:21:05",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Google-Earth-AI-generated-image-of-Googleplex-on-fire-500x500.png"
+    },
     {
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
       "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
@@ -58,6 +124,17 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Pompeii_-After.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+      "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-07-31 19:04:56",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-500x500.jpg"
+    },
+    {
       "title": "VC-backed startups commit more fraud, and researchers think they know why  ",
       "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
       "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play....",
@@ -65,6 +142,17 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-07-31 19:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Furion v4.9.9.51 已经发布，让 .NET 开发更简单，更通用，更流行",
+      "link": "https://www.oschina.net/news/484377",
+      "summary": "Furion v4.9.9.51 已经发布，让 .NET 开发更简单，更通用，更流行 此版本更新内容包括： 更新日志：https://furion.net/docs/category/upgrade/ 新特性 [新增] HTTP 远程请求 ETag 缓存功能 4.9.9.48 ⏱️2026.07.31 53c6eb8 [新增] HTTP 远程请求配额策略功能 4.9.9.46 ⏱️2026.07....",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-07-31 18:55:43",
       "category": "other",
       "thumbnail": ""
     },
@@ -253,7 +341,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 16:02:07",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/07cd3de6-5cd0-4093-bd11-11f844aa7448.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "2026 年 7 月桌面 Windows 份额：Win11 全球占比 68.93%、中国占比 50%",
@@ -264,7 +352,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 16:02:01",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/c30fd4a7-9eb5-4f12-85ae-f77961bae806.jpg"
     },
     {
       "title": "Best Robot Vacuum of 2026: Shark, Eufy",
@@ -289,17 +377,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
-      "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
-      "summary": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-31 15:37:58",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "市场监管总局开展光伏行业价格合规指导，抵制恶性低价竞争",
       "link": "https://www.ithome.com/0/984/398.htm",
       "summary": "\nIT之家 7 月 31 日消息，7 月 31 日，市场监管总局在江苏省盐城市对光伏行业开展价格合规指导，推动光伏企业从“拼价格”向“拼质量”转变，促进光伏行业高质量发展。\n市场监管总局强调，光伏企业要充分认识当前行业发展形势，主动强化成本核算管理，建立健全价格合规制度，全面开展自查自纠，树牢合规经营、理性竞争理念，抵制恶性低价竞争，维护市场价格秩序。头部企业要发挥示范引领作用，严格规范自身价格行...",
@@ -308,7 +385,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 15:31:52",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/5f190e11-1c4a-43b3-b0df-6f3bca4acb42.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto"
     },
     {
       "title": "New York sues Kalshi for allegedly running an ‘illegal gambling operation’",
@@ -330,17 +407,6 @@
       "region": "cn",
       "pubDate": "2026-07-31 15:23:43",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260731/v2_2865fd966954450d8a5aa089f8f9fe22@6162492_oswg82637oswg1000oswg230_img_000?x-oss-process=image/format,jpg/interlace,1"
-    },
-    {
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-31 15:16:17",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -352,7 +418,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 15:04:11",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://qimg.ithome.com/newfiles/2026/7/c9750d03-567a-4104-8b69-804064fdb691.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
@@ -388,17 +454,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
-      "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
-      "summary": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-07-31 14:49:21",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
       "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
       "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners....",
@@ -418,7 +473,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 14:34:31",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/fdc39c8a-e5bb-4e08-81ab-12aac12d2cdc.jpg"
     },
     {
       "title": "索尼 PlayStation 乐高套装被曝 10 月 1 日发售，同步推出《宇宙机器人》赠品",
@@ -429,7 +484,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 14:28:59",
       "category": "robot",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/f1b70a1f-ec97-47f5-8978-3c1c9c33150d.jpg"
     },
     {
       "title": "细菌如何控制“自杀”防御？哈工大团队揭示细菌逆转录子双重抑制机制",
@@ -440,7 +495,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 14:22:50",
       "category": "biotech",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/86399732-8058-43a7-ac80-454b1d9070c8.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "AYANEO：复古掌机 KONKR Pocket Advance 搭载 3.5 英寸 3:2 LCD 屏，重约 224g",
@@ -451,7 +506,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 14:21:51",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/6361d6f3-a62c-4510-b7dd-f572b383ec71.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "科学家在现代人类 DNA 中发现“幽灵祖先”与“超级古老祖先”，占基因总量约 1%",
@@ -462,7 +517,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 14:09:01",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/09e2c9e5-ae94-44da-8fdd-739a53e5c0f9.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "It’s time to panic about AI safety",
@@ -564,17 +619,6 @@
       "thumbnail": ""
     },
     {
-      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-      "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-31 11:00:52",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-500x500.jpg"
-    },
-    {
       "title": "6 Best Phones With Headphone Jacks (2026), Tested and Reviewed",
       "link": "https://www.wired.com/gallery/best-headphone-jack-phones/",
       "summary": "Headphone jacks are endangered, but they’re not gone. Here are our favorite smartphones that still let you plug and play....",
@@ -674,17 +718,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon",
-      "link": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
-      "summary": "\"America won the first Space Race, and we can do it again.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-31 10:30:24",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/stoke-zenith-500x500.jpg"
-    },
-    {
       "title": "SJY Zeph Open-Back Headphones Review: Music Through Magnets",
       "link": "https://www.wired.com/review/sjy-zeph-open-back-planar-magnetic-headphones/",
       "summary": "SJY’s Zeph are brilliant wired headphones, using flippable earcups for two different takes on your favorite music....",
@@ -704,7 +737,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 10:27:38",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260725/v2_450bbe65a3064be2abe1e6b2b881612c@10269314_oswg1594051oswg1404oswg1250_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
@@ -748,7 +781,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 08:58:59",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260731/v2_93f35a5ba3424ae99e3d2c185a0e3281@394564713_oswg1652050oswg1184oswg1480_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
@@ -803,7 +836,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 08:24:28",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260731/v2_3341a3e3062d4d1394a493013ca06c87@5284654_oswg1558403oswg1829oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
@@ -946,7 +979,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 01:52:24",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260730/v2_25b7577f8e8b4791b8d5a228bd5dd1c9@6022551_oswg241686oswg1600oswg1066_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
@@ -968,7 +1001,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 00:30:54",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260730/v2_9d3d000f10844662a54a670276214ec8@6314151_oswg1303745oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
@@ -980,17 +1013,6 @@
       "pubDate": "2026-07-31 00:14:22",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
-      "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
-      "summary": "The iPhone and Mac sold well, but memory costs threaten further price increases....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-07-30 22:05:35",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-869824586-500x500.jpg"
     },
     {
       "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
@@ -1037,17 +1059,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free",
-      "link": "https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags",
-      "summary": "\nA security team approving an open-source model for production today starts with a repository page. The page lists the model name, the license, and a tag identifying the base model it descended from. ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-30 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The Download: tricking LLMs, and reviving geothermal plants",
       "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack...",
@@ -1078,17 +1089,6 @@
       "region": "us",
       "pubDate": "2026-07-30 10:15:19",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "LibreOffice 26.2.5 发布",
-      "link": "https://www.oschina.net/news/483150/libreoffice-26-2-5-released",
-      "summary": "LibreOffice 26.2.5 现已发布，这是 LibreOffice 26.2 分支的第五次维护更新。此次更新基于 2026 年 2 月 4 日发布的主要功能版本，修复了部分错误并提升了稳定性。 为了提高图形性能，macOS 和 Windows 上引入了 Skia 渲染功能，但为了避免一些用户在从之前的 LibreOffice 版本升级后报告的崩溃和卡顿问题，该功能现在已......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-07-30 09:24:20",
-      "category": "other",
       "thumbnail": ""
     },
     {
