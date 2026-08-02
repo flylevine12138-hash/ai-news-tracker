@@ -1,94 +1,215 @@
 {
-  "updateTime": "2026-08-02T00:01:53.362Z",
-  "total": 107,
+  "updateTime": "2026-08-02T04:27:50.134Z",
+  "total": 117,
   "news": [
     {
-      "title": "法官驳回 xAI 诉求，明尼苏达州 AI“脱衣”应用禁令将如期生效",
-      "link": "https://www.ithome.com/0/984/646.htm",
-      "summary": "\nIT之家 8 月 2 日消息，据 NBC News 报道，尽管 xAI 提起诉讼，美国明尼苏达州针对可将照片进行“裸化”处理的应用的禁令仍可按计划生效。\n\n美国联邦地区法院法官多诺万 · 弗兰克（Donovan Frank）在裁决中表示，他的决定不仅基于法律本身，也考虑了 xAI 提起诉讼的时间节点。\n弗兰克指出，xAI 于 2026 年 7 月 29 日申请临时限制令，而距离该法律正式签署已经...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "【数智周报】长鑫科技市值登顶A股；字节调整飞书、火山、豆包组织架构；Kimi K3开源上线即爆火",
+      "link": "https://www.tmtpost.com/8081682.html",
+      "summary": "（7月27日~8月1日）DeepSeek-V4-Flash正式版API上线公测；Anthropic自曝大模型“脱缰”入侵三家公司；宇树科技将登陆科创板，8月10日申购；AI推动软件漏洞发现数量激增，微软、谷歌安全漏洞披露创新高……...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-08-01 23:24:29",
+      "pubDate": "2026-08-02 03:53:53",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/20260802112538848.png"
     },
     {
-      "title": "IT早报 0802：DeepSeek V4-Flash 成本仅为 GPT-5.6 Luna 四成；小米手机正式涨价 300 元起；中国最高薪本科专业易主；曝长鑫 LPDDR6 有望今年下半年发布...",
-      "link": "https://www.ithome.com/0/984/645.htm",
-      "summary": "\n“IT早报”时间，大家好，现在是 2026 年 8 月 2 日星期日，今天的重要科技资讯有：\n1、DeepSeek-V4-Flash 正式版跑分报告：AI 单任务成本比 GPT-5.6 Luna 低约 60%\n深度求索（DeepSeek）7 月 31 日通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。@ArtificialAnlys、@arena ...",
+      "title": "东风风神 L8Y 汽车外观首秀",
+      "link": "https://www.ithome.com/0/984/705.htm",
+      "summary": "\nIT之家 8 月 2 日消息，东风奕派风神营销事业部总经理邓留超今天在微博发文，公开风神 L8Y 汽车的外观。\n\nIT之家注意到，东风风神新车培训暨上市动员会于上个月举行，官方宣布东风风神下半年将投放 4 款新车，四款车型以差异化的产品定位和优势，实现从“精致小家”到“舒适大家”的覆盖。\n\n风神 L8Y 主打“同级最舒适座舱”，座舱质感、驾乘体验得到全面升级\n风神 L8+ 剑指“同级最强智能辅助...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-01 23:22:09",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "真的要退出 Steam 平台？消息称微软 XBOX 拟重新评估 PC 战略",
-      "link": "https://www.ithome.com/0/984/644.htm",
-      "summary": "\nIT之家 8 月 2 日消息，在菲尔 · 斯宾塞主导一系列收购游戏工作室后，微软 XBOX 正面临一段艰难时期。由于市场环境持续恶化，XBOX 已经历多次裁员、砍工作室等调整。为了在当前市场环境继续生存，XBOX 必须改变自身。\n\n科技媒体 Windows Central 主编杰兹 · 科登（Jez Corden）昨日在自家博客节目爆料：“我确实知道微软 XBOX 正在调整 PC 市场计划。但目...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-01 23:16:59",
+      "pubDate": "2026-08-02 03:16:02",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/6b39f414-eda6-4443-ba00-da59c9cc6138.png?x-bce-process=image/format,f_auto"
     },
     {
-      "title": "华为智选车产品总监彭磊谈享界 G9 设计思考，新车拥有三个物理按键操作区",
-      "link": "https://www.ithome.com/0/984/643.htm",
-      "summary": "\nIT之家 8 月 2 日消息，华为智选车产品总监（享界系列）彭磊发文谈及了鸿蒙智行享界 G9 的产品设计过程的思考。他表示，新车首先初衷是开发一款兼顾城市极致驾驶，又拓展户外驾驶能力边界，还得有智能驾趣的科技豪华 SUV。\n\n据彭磊介绍，享界 G9 围绕以上的初衷，其中一个考虑点是要求驾驶员可以实现实用又有趣的功能“盲操”，给智能汽车增加“机械按键”，不跟风千篇一律的“大屏控车”，让设计服务体验...",
+      "title": "特斯拉介绍 Model Y L 热管理技术改进：可实现更快制冷、续航提升",
+      "link": "https://www.ithome.com/0/984/704.htm",
+      "summary": "\nIT之家 8 月 2 日消息，特斯拉针对 Model Y  L 推出了多项座舱温控和 HVAC（空调暖通系统）升级。随着全新三排六座 Model Y L 即将在美国开始首批客户交付，特斯拉公布的新技术细节显示，通过热管理工程优化，该车型不仅能够实现更快降温，还能提升实际续航表现。\n\nX 用户 @SawyerMerritt 在试驾 Model Y L 测试车时，分享了这些热管理改进的详细信息，包括...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-01 23:15:28",
+      "pubDate": "2026-08-02 03:10:48",
       "category": "auto",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/87e3e1d9-939e-475c-915f-5ec90c047d64.jpg"
     },
     {
-      "title": "珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面",
-      "link": "https://www.ithome.com/0/984/642.htm",
-      "summary": "\nIT之家 8 月 2 日消息，本周，一则关于大量珍贵图书被集中粉碎、仅为训练大语言模型（LLM）提供数据的消息，引发了读书爱好者和普通网友的广泛关注。\n\n消息称，一些图书供应商近期收到了数量异常庞大的图书订单。业内人士猜测，AI 公司希望获得质量更高、更干净的训练数据，同时尽可能规避版权风险。而这场争议的焦点，则指向了图书数据库网站 ISBNdb。外界认为，该网站不仅鼓励这种做法，甚至还为 AI...",
+      "title": "消息称安卓首款阔折叠手机 Galaxy Z Fold8 预售火爆超预期，三星已向供应商追加订单",
+      "link": "https://www.ithome.com/0/984/696.htm",
+      "summary": "\nIT之家 8 月 2 日消息，博主 @i冰宇宙 今日发文透露，安卓首款阔折叠手机 —— Galaxy Z Fold8 预售火爆超出预期，现在三星已经向供应商追加订单了。\n\n据IT之家此前报道，三星已于 7 月 22 日正式发布了 Galaxy Z Fold8，这是该公司六年来首款采用全新机身形态的折叠屏手机。与此前历代 Galaxy Z Fold 相比，新机机身更短、更宽，主打影音娱乐体验，起售...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-01 23:12:46",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "谷歌 Pixel 11 全系配置、售价曝光：含标准版、Pro、Pro XL 及 Pro Fold 折叠机型",
-      "link": "https://www.ithome.com/0/984/641.htm",
-      "summary": "\nIT之家 8 月 2 日消息，Android Headlines 已经提前拿到了谷歌 Pixel 11 全系四款新机的完整规格信息，同时还获得了美国和欧洲市场的售价。\n\n此次曝光的机型包括 Google Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold。由于机型较多，下面分别介绍每款产品的配置和价格。\nGoogle Pixel 1...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-01 23:01:08",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "全球首个全光子时间晶体（PTC）制备技术诞生，有望催生超高速计算机、自适应通信以及全新激光器",
-      "link": "https://www.ithome.com/0/984/640.htm",
-      "summary": "\nIT之家 8 月 2 日消息，法国巴黎综合理工学院、法兰西公学院和亥姆霍兹德累斯顿-罗森多夫研究中心的科学家们最近取得新突破，在全球范围内首次制备出全光子时间晶体（PTC），能够跟随时间快速且反复地改变其光学特性。\n\nIT之家了解到，这项成果已于上个月（7 月 29 日）发表于《自然》期刊。该研究利用了 HZDR 和 TELBE 超辐射太赫兹源，将系统驱动至太赫兹（THz）光与物质相互作用状态。...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-01 22:57:30",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Statcounter：Linux 在北美桌面市场份额首次突破 10%",
-      "link": "https://www.ithome.com/0/984/639.htm",
-      "summary": "\nIT之家 8 月 2 日消息，根据 Statcounter 最新发布的 2026 年 7 月统计数据，Linux 在北美桌面操作系统市场达成了一个重要里程碑，其份额已达到 10.65%。\n\n这是 Linux 首次在 Statcounter 北美桌面操作系统统计中突破两位数，占比正式超过 10%。\n作为对比，Statcounter 的数据显示，2026 年 6 月 Linux 在北美桌面市场的份额...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-01 22:51:51",
+      "pubDate": "2026-08-02 03:08:45",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/53e1715e-a7cb-49b3-acbc-d85c4b7252c5.png"
+    },
+    {
+      "title": "比亚迪 7 月销量明细曝光：王朝元系列超 8 万辆，方程豹钛 7 突破 2.7 万辆",
+      "link": "https://www.ithome.com/0/984/683.htm",
+      "summary": "\nIT之家 8 月 2 日消息，今天上午，博主 @小迪快报 曝光了比亚迪乘用车 2026 年 7 月的销量明细：王朝 | 海洋 350,178 辆；方程豹汽车销售 41,213 辆；腾势汽车销售 19,196 辆；仰望汽车销售 485 辆；海外销售 179,841 辆；累计销售 411,072 辆。\n\nIT之家整理如下：\n王朝：当月 161148 辆，年度累计 874963 辆\n\n夏：当月 130...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-02 02:57:47",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/19779532-6259-475b-9a60-c41b275371bf.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "《胜利女神：新的希望》x《女神异闻录》联动官宣，8 月 13 日开启",
+      "link": "https://www.ithome.com/0/984/677.htm",
+      "summary": "\nIT之家 8 月 2 日消息，《胜利女神：新的希望》游戏现已确认与《女神异闻录 3 Reload》/《女神异闻录 4 Golden》/《女神异闻录 5 Royal》联动。\n\nIT之家从胜利女神B站官号了解到，本次联动将于 8 月 13 日启动，纪念《女神异闻录》系列作品诞生 30 周年。\n同时，官方还公布了本次联动的视觉图。反击部队成员在图中手持 P3/P4/P5 的标志性元素物品，正准备送出礼...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-02 02:49:24",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/fecbfd68-914b-4757-a570-8f5d39f04f9e.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档",
+      "link": "https://www.tmtpost.com/8088337.html",
+      "summary": "六家拉开三个梯队。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-02 02:43:43",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/22b65760ea2d7218c544157573d14f98_1785638628.jpg"
+    },
+    {
+      "title": "华为鸿蒙 HarmonyOS 7 实装游戏秒启秒开特性，《原神》《洛克王国》等可极速启动",
+      "link": "https://www.ithome.com/0/984/676.htm",
+      "summary": "\nIT之家 8 月 2 日消息，在今年 6 月，华为手机官方宣布，HarmonyOS SDK 26 正式发布，在易用、空间化、智能化全面升级，其中就带来了游戏秒启秒开功能。\n\n据多名用户分享，升级了华为鸿蒙 HarmonyOS 7 开发者 / 花粉 Beta 版系统的平板 / 手机，已实装游戏秒启秒开特性，并支持《原神》《洛克王国》等游戏极速启动。\n\n从网友们分享的视频可以看到，实装了游戏秒启秒开...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-02 02:37:00",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/6/fa78d2e9-f605-4754-9d0d-37a34a7beab7.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1"
+    },
+    {
+      "title": "消息称英特尔发放加班费以加速俄亥俄晶圆厂建设，EMIB-T 封装良率逼近 90%",
+      "link": "https://www.ithome.com/0/984/675.htm",
+      "summary": "\nIT之家 8 月 2 日消息，英特尔目前似乎正全力推动其俄亥俄州晶圆厂综合体建设，并计划在 2031 年实现全面运营。为了达成这一长期目标，公司愿意提供丰厚奖金以激励员工加快进度。与此同时，英特尔的 EMIB-T 先进封装技术也迎来了利好，目前唯一尚未解决的关键问题，就是基板良率。\n\n英特尔正在俄亥俄州建设一座占地约 1000 英亩（IT之家注：约 405 公顷）的大型晶圆厂园区，用于生产其“埃...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-02 02:31:58",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/c81c8d63-877c-4123-a3d2-7128ddb2c49a.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "谷歌 Gemini Spark 智能体对全球更多用户开放，支持订机票、整理收件箱等操作",
+      "link": "https://www.ithome.com/0/984/674.htm",
+      "summary": "\nIT之家 8 月 2 日消息，谷歌于 7 月 31 日宣布将 Gemini Spark 智能体开放给全球大部分用户，这款产品能够在用户指示下，完成整理收件箱、总结通讯邮件、取消订阅等操作。\n\nIT之家了解到，Spark 是谷歌推出的个人 AI 智能体。这款产品目前已经和 Chrome 浏览器整合，用户授权后，智能体可以使用保存的账户密码，代替用户完成一些复杂的网络操作，如搜索航班、预订机票、查询...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-02 02:27:08",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/96c5bb3d-6bfe-4b2b-9ac0-fe90c50b2e09.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "戴尔创始人迈克尔 · 戴尔分享 42 年前公司首份季度财报：“这一页改变了我的人生”",
+      "link": "https://www.ithome.com/0/984/673.htm",
+      "summary": "\nIT之家 8 月 2 日消息，迈克尔 · 戴尔（Michael Dell）是戴尔科技（Dell Technologies）的创始人，近日他分享了自己公司 1984 年 7 月 31 日发布的季度财报，并表示：“这一页改变了我的人生。”\n\n\n这位亿万富翁在 X 平台发文称，正是那张纸上的数字说服了他的父母，让他们相信自己不需要回到大学继续深造。1984 年，他在美国得克萨斯大学奥斯汀分校的宿舍里创...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-02 02:10:54",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/b92b677b-a1e0-4e1d-a658-a1221c20411d.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "初创公司 Majestic 推出 AI 服务器“普罗米修斯”，可选配 8TB-128TB LPDDR6 内存",
+      "link": "https://www.ithome.com/0/984/671.htm",
+      "summary": "\nIT之家 8 月 2 日消息，据科技媒体 TechRadar 今天报道，初创公司 Majestic Labs 最近宣布推出 Prometheus（普罗米修斯） AI 服务器。新品采用 AIU+LPDDR6 内存的组合，旨在挑战英伟达的 GPU+HBM 组合。\n\n据报道，Prometheus 服务器并没有使用 GPU，而是使用 Ignite AI 处理单元（AIU），将 Arm 核心与 RISC-...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-02 02:06:47",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/c0e52f0c-058f-4ac5-8d4d-3866ae285e8a.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "信任资产：上市公司最容易被低估的市值底座",
+      "link": "https://www.tmtpost.com/8088342.html",
+      "summary": "对投资者而言，信任资产代表其对上市公司可靠性的综合判断。它既包括财务指标、经营数据、治理结构等量化信息，也包括管理层稳定性、战略兑现能力、信息披露质量、危机应对表现等定性因素。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-02 01:45:18",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/1t5wtg4.png"
+    },
+    {
+      "title": "如果这不是公关：为什么请伯南克可能是Anthropic的最优解？",
+      "link": "https://www.tmtpost.com/8088340.html",
+      "summary": "如果它真想在没有先例的情况下，为AI的安全发展找一条外部治理的路，那么\"设立一个独立于股东和管理层的信托，再请一位跨界的危机专家来当受托人\"——这套看似古怪的组合，究竟是不是它能拿出的最好答案？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-02 01:45:03",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t35y46ejyt3.png"
+    },
+    {
+      "title": "上市以来中报首亏，卖火腿的莆田富商能靠“追光”逆袭吗？",
+      "link": "https://www.tmtpost.com/8088238.html",
+      "summary": "今年上半年，金字火腿实现营收1.54亿元，同比下降9.26%；录得归母净利润-0.08亿元，同比由盈转亏。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-02 00:25:37",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35y4hrtg3.png"
+    },
+    {
+      "title": "Seedance2.5来了，字节能打败自己吗？",
+      "link": "https://www.tmtpost.com/8088164.html",
+      "summary": "实测Seedance2.5：更长、更稳，细节还不到位。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-02 00:25:32",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/255y4jyhtgf3.png"
+    },
+    {
+      "title": "WorkBuddy给腾讯长脸了",
+      "link": "https://www.tmtpost.com/8088161.html",
+      "summary": "最先需要为腾讯 AI 的节奏破局的人，反而成为了汤道生。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-02 00:22:17",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/3d782fdb69a42ae8ea3efa20c656f163_1785630140.jpg"
+    },
+    {
+      "title": "这种工业副产品半年暴涨2倍多，上游利润翻倍，下游开工腰斩",
+      "link": "https://www.tmtpost.com/8087536.html",
+      "summary": "同一条产业链，一半火焰，一半海水。问题出在哪？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-02 00:18:54",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/54d4c065feba778ac8a711669f53db0d_1785629938.png"
+    },
+    {
+      "title": "Edge AI Daily 早报（8月2日）",
+      "link": "https://www.tmtpost.com/8088267.html",
+      "summary": "DeepSeek-V4-Flash上线，马斯克关注，AI算力竞争转向能源；OpenAI Astra攻克10道数学难题，AI独立研究能力突破；亚马逊500亿美元投资OpenAI，锁定云合同；慕尼黑法院裁定Suno侵权，AI版权规则确立。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-02 00:16:00",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/42353.png"
     },
     {
       "title": "Pixel 11 specs and price leak with no surprises",
@@ -212,28 +333,6 @@
       "thumbnail": ""
     },
     {
-      "title": "半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世：享年 76 岁，公司曾负债 1200 亿逆风翻盘",
-      "link": "https://www.ithome.com/0/984/637.htm",
-      "summary": "\nIT之家 8 月 1 日消息，晶圆代工厂力积电 7 月 31 日发布重大消息公告，董事长暨创办人黄崇仁因心肺衰竭，于当日中午在家里睡梦中安详辞世，享年 76 岁。\n公开资料显示，黄崇仁（1949 年 —2026 年 7 月 31 日）是中国台湾地区半导体产业传奇人物。他被誉为半导体界的“九命怪猫”，以其在绝境中多次带领企业重生的经历闻名。\n\nIT之家综合多家台媒报道，黄崇仁拥有美国纽约西奈山医学...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-01 15:52:30",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "小米手机正式涨价 300 元起，影响小米 17 系列、REDMI K90、Turbo 5",
-      "link": "https://www.ithome.com/0/984/636.htm",
-      "summary": "\n8 月 2 日 0 点更新：小米商城价格显示，通知中提到的手机确实已经涨价。\n\nREDMI Turbo 5：从 2299 元起上涨到 2599 元起\nREDMI Turbo 5 Max：从 2499 元起上涨到 2799 元起\nREDMI K90：从 2799 元起上涨到 3099 元起\nREDMI K90 Max：从 3199 元起上涨到 3499 元起\nREDMI K90 Pro Max：从...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-01 15:25:17",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
       "link": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
       "summary": "The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems, but consensus ...",
@@ -331,6 +430,17 @@
       "pubDate": "2026-08-01 12:30:36",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-500x500.jpg"
+    },
+    {
+      "title": "Fridays With Bob",
+      "link": "https://spectrum.ieee.org/risk",
+      "summary": "\nWhen I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-01 12:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-greenish-yellow-waxwing-bird-sitting-on-a-twig-eating-a-berry.jpg?id=67541842&width=1245&height=700&coordinates=0%2C0%2C0%2C0"
     },
     {
       "title": "The OG reading app just got a big update",
@@ -506,7 +616,7 @@
       "region": "cn",
       "pubDate": "2026-08-01 09:06:13",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/08/20260801140322721390.jpg"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/34t1gqerfav3.png"
     },
     {
       "title": "Astronomers Have Detected an Exomoon for the First Time",
@@ -518,105 +628,6 @@
       "pubDate": "2026-08-01 09:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a6be31e5abc2a8fa7b821ac/master/pass/eso2610a.jpg"
-    },
-    {
-      "title": "数百万本书，被Claude“阅后即焚”",
-      "link": "https://www.tmtpost.com/8088012.html",
-      "summary": "为了让AI读完人类的书，Anthropic先让这些书不再作为书存在。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-01 08:41:40",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/08/20260801140753329474.jpg"
-    },
-    {
-      "title": "字节为什么一定要拆飞书？",
-      "link": "https://www.tmtpost.com/8088001.html",
-      "summary": "豆包需要场景，飞书需要增量。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-01 08:41:39",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/01/9bdafa60634740ab11350a682c11f3ca_1785561240.jpeg"
-    },
-    {
-      "title": "蔡崇信这场离婚，没瓜可吃才是最该看懂的事",
-      "link": "https://www.tmtpost.com/8088043.html",
-      "summary": "本文拆解的不是八卦，而是企业家把私生活\"证券化\"之后必须面对的定价逻辑。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-01 08:33:01",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t43q5hwry3.png"
-    },
-    {
-      "title": "一群富豪的牛津梦，标价108万",
-      "link": "https://www.tmtpost.com/8087957.html",
-      "summary": "一门课程，一个圈子，七天“狼狈”。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-01 08:19:52",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/08/20260801114837357419.jpg"
-    },
-    {
-      "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
-      "link": "https://www.tmtpost.com/8088046.html",
-      "summary": "AI Infra的效率革命...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-01 08:19:49",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/08/20260801155408871459.jpg"
-    },
-    {
-      "title": "自研大模型的马斯克，把豆包装进了特斯拉",
-      "link": "https://www.tmtpost.com/8087804.html",
-      "summary": "180万亿日均Token调用量的豆包，700万辆搭载的智能汽车，100%覆盖的主流车企。这些数字背后是中国AI从跟随到被需要的完整路径。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-01 08:19:41",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t5y4hyhgf3.png"
-    },
-    {
-      "title": "车型越多，死得越快？全球车企正在抛弃车海战术",
-      "link": "https://www.tmtpost.com/8087383.html",
-      "summary": "从“多生孩子好打架”的扩张哲学，到全员“断舍离” ，全球汽车业用几十年走完了一场完整的商业轮回。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-01 08:19:35",
-      "category": "other",
-      "thumbnail": "https://www.tmtpost.com/uploads/postimgs/2026/07/d06bf00b19f99d02ed8d28d00bfdb62d17854936871749.jpg"
-    },
-    {
-      "title": "撤档、提档、空降、点映，什么制造了史上最激烈的暑期档",
-      "link": "https://www.tmtpost.com/8087665.html",
-      "summary": "当大档期变得稀缺，用户选择更加谨慎，在烈度升级的市场竞争中，足够清晰明确的类型、卖点和情绪价值，成为一部影片能在观众有限的注意力里占据「优先级」的先决条件。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-01 08:19:31",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/07/20260731212212200223.jpg"
-    },
-    {
-      "title": "Qwen还是看到了开源的好",
-      "link": "https://www.tmtpost.com/8087652.html",
-      "summary": "手机Agent的独家报价权松动了...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-01 08:19:23",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/mms_upload_image/2026/07/20260731210312621.png"
     },
     {
       "title": ":fire:xbatis-ddl-auto 1.0.1 ORM DDL，最强 mybatis ORM DDL",
@@ -962,7 +973,7 @@
     {
       "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
       "link": "https://36kr.com/p/3919301778288261?f=rss",
-      "summary": "\n文｜张子怡\n  编辑｜袁斯来\n  随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。\n  前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。\n ...",
+      "summary": "\n文｜张子怡\n  编辑｜袁斯来\n  随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。\n  前不久，全球支付平台PingPong联合产业��企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。\n...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
@@ -1070,6 +1081,17 @@
       "thumbnail": ""
     },
     {
+      "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
+      "link": "https://spectrum.ieee.org/ieee-publishing-ethics-research-integrity",
+      "summary": "\nGiven a rising number of publishing misconduct allegations, IEEE in 2022 created the Publishing Ethics Team as a centralized department to assist in handling claims. The group also works to increase ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-07-30 18:00:03",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-stack-of-papers-impaled-onto-a-pencil-that-someone-is-using-to-mark-off-a-checkbox.jpg?id=67547233&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+    },
+    {
       "title": "Montana’s plan to become an experimental medical hub just pushed forward",
       "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
       "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few a...",
@@ -1101,6 +1123,28 @@
       "pubDate": "2026-07-30 16:29:00",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Detect Dark Matter’s Mark From Your Backyard",
+      "link": "https://spectrum.ieee.org/dark-matter",
+      "summary": "\nIf you’re wondering what dark matter is, you’re not alone. Astronomers don’t know. But they’ve determined that this invisible material must be far more abundant than the stars and nebulas that they c...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-07-30 14:00:03",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-inverted-pyramidal-antenna-sits-atop-a-metal-box-with-a-feed-running-to-a-nearby-laptop.png?id=67528383&width=1245&height=700&coordinates=0%2C371%2C0%2C371"
+    },
+    {
+      "title": "A Remote Indigenous Community Built One of Canada’s Fastest Fiber Networks",
+      "link": "https://spectrum.ieee.org/indigenous-fiber-network",
+      "summary": "\nIn February 2024, a young man lay somewhere on the frozen shore of James Bay, Canada, surrounded by snow and darkness, succumbing to hypothermia. When he failed to get home on time, his frantic mothe...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-07-30 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-aerial-photo-shows-utility-lines-stretching-across-a-river.jpg?id=67106655&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     },
     {
       "title": "The Download: tricking LLMs, and reviving geothermal plants",
@@ -1136,6 +1180,28 @@
       "thumbnail": ""
     },
     {
+      "title": "Negotiating Your Salary Is About More Than Money",
+      "link": "https://spectrum.ieee.org/how-to-negotiate-your-salary",
+      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-07-29 14:55:45",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.jpg?id=59104110&width=1245&height=700&coordinates=0%2C232%2C0%2C233"
+    },
+    {
+      "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
+      "link": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
+      "summary": "\nArtificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that p...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-07-29 14:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/smiling-woman-in-nccu-eagles-jersey-stands-with-arms-crossed-in-front-of-red-mural.png?id=67527627&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+    },
+    {
       "title": "The Download: a chip talent battle, and deflating AI hype",
       "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Le...",
@@ -1147,6 +1213,17 @@
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/MIT_AI-Hype_1-2-top.jpg?w=840"
     },
     {
+      "title": "AI Is Hyper-Scaling Digital Inequality",
+      "link": "https://spectrum.ieee.org/ai-digital-divide",
+      "summary": "\nArtificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is in...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-07-29 11:00:04",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-painting-with-overlapping-concentric-shapes-in-blue-and-yellow.jpg?id=67163886&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+    },
+    {
       "title": "The AI Hype Index: Unsexy AI",
       "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
       "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly ...",
@@ -1156,6 +1233,28 @@
       "pubDate": "2026-07-29 08:42:57",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Laboratoria’s Mariana Costa Empowers Women in Tech",
+      "link": "https://spectrum.ieee.org/mariana-costa-women-in-tech",
+      "summary": "\nIn shaping her career, Peru native Mariana Costa has asked herself a question: What can I do to make life better for women in Latin America?\nThe answer she landed on was training them for tech jobs.\n...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-07-28 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/smiling-students-sit-together-at-a-classroom-table-talking-and-working-on-devices.jpg?id=67546488&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
+    },
+    {
+      "title": "Why NIST Researchers Spent 10 Years Measuring Gravity",
+      "link": "https://spectrum.ieee.org/universal-gravitational-constant-nist-schlamminger",
+      "summary": "\nPhysicists have been trying to measure the fundamental gravitational constant for well over two centuries. The current accepted value of big G, as it’s known, is 6.67430 × 10-11 cubic meters per kilo...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-07-28 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/smiling-man-in-glasses-overlaid-with-scientific-diagrams-and-colorful-geometric-shapes.png?id=67527858&width=1245&height=700&coordinates=0%2C102%2C0%2C103"
     },
     {
       "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
@@ -1178,6 +1277,17 @@
       "pubDate": "2026-07-28 09:18:57",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
+      "link": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
+      "summary": "\nAn overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures.\nWhat Attendees will Learn\n\nWhy mode-...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-07-27 17:54:07",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-make-ideas-real-tagline-and-rs-monogram-in-diamond.png?id=67541140&width=980"
     }
   ]
 }
