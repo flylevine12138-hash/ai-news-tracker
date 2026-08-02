@@ -1,7 +1,29 @@
 {
-  "updateTime": "2026-08-02T18:04:28.254Z",
+  "updateTime": "2026-08-02T20:14:27.385Z",
   "total": 107,
   "news": [
+    {
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-02 19:36:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
+      "link": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
+      "summary": "\nIf you have built anything with retrieval-augmented generation (RAG) in the last two years, you have lived its central frustration: You chop your documents into chunks, embed them, retrieve the top f...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-02 19:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
       "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
@@ -22,7 +44,7 @@
       "region": "us",
       "pubDate": "2026-08-02 16:14:20",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
@@ -88,7 +110,7 @@
       "region": "us",
       "pubDate": "2026-08-02 15:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Copy-of-Cal-2-Lifestyle-6.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "联想 ThinkBook X 2026 笔记本新增酷睿 Ultra 7 256V 版本，16GB+1TB 售价 8999 元",
@@ -143,7 +165,7 @@
       "region": "us",
       "pubDate": "2026-08-02 14:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268675_HP_HyperX_Omen_15_gaming_laptop_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "规划总投资 35 亿的哪吒汽车工厂，6030.79 万元甩卖生产机械设备因无人出价最终流拍",
@@ -198,7 +220,7 @@
       "region": "us",
       "pubDate": "2026-08-02 13:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&strip=all&crop=2.6881256103516,0,97.311874389648,100"
+      "thumbnail": ""
     },
     {
       "title": "Foldables are sort of boring now — and that’s great news for Apple",
@@ -209,7 +231,7 @@
       "region": "us",
       "pubDate": "2026-08-02 12:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Samsung-Galaxy-Flip8-Fold8-and-Fold8-Ultra-4.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "8 Best Password Managers (2026), Tested and Reviewed",
@@ -311,17 +333,6 @@
       "thumbnail": "https://media.wired.com/photos/6a6e8e6b40e7cbcad60ecbd7/master/pass/The-Best-Kids%E2%80%99-Backpacks,-Tested-by-Actual-Kids.jpg"
     },
     {
-      "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
-      "link": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
-      "summary": "As more big companies invest in glasses that record audio and video and pack AI on board, privacy concerns are only getting louder....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-02 10:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a6d1675ffa01fba7c8c3164/master/pass/GettyImages-2162375654.jpg"
-    },
-    {
       "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
       "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
       "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”...",
@@ -331,6 +342,17 @@
       "pubDate": "2026-08-02 10:00:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6a6caf7dd48647a2296aebb5/master/pass/073126_Europeans%20Are%20About%20to%20See%20How%20Entrenched%20AI%20Is%20in%20Their%20Daily%20Lives.gif"
+    },
+    {
+      "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
+      "link": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
+      "summary": "As more big companies invest in glasses that record audio and video and pack AI on board, privacy concerns are only getting louder....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-02 10:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a6d1675ffa01fba7c8c3164/master/pass/GettyImages-2162375654.jpg"
     },
     {
       "title": "JPower v3.0.3 已经发布，微服务快速开发平台",
@@ -440,7 +462,7 @@
       "region": "us",
       "pubDate": "2026-08-01 21:31:24",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Inside the London hacker house taking a stand against founder burnout",
@@ -473,7 +495,7 @@
       "region": "us",
       "pubDate": "2026-08-01 20:15:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Angela-Nissel_Author-Headshot.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
@@ -517,7 +539,7 @@
       "region": "us",
       "pubDate": "2026-08-01 18:20:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
@@ -539,7 +561,7 @@
       "region": "us",
       "pubDate": "2026-08-01 17:00:12",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-18-at-9.08.24%E2%80%AFAM.png?quality=90&strip=all&crop=0,0,79.216870117187,100"
+      "thumbnail": ""
     },
     {
       "title": "This $9 key physically locks your most addictive apps",
@@ -551,17 +573,6 @@
       "pubDate": "2026-08-01 15:58:17",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-      "link": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-      "summary": "The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems, but consensus ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-01 15:23:35",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2254307754.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
@@ -693,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-08-01 06:37:32",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260801/v2_3937073717a846c2b4d7b5efc233fc10@16519798_oswg220467oswg1080oswg610_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "1723 天，1460 次提交：canvas-editor 富文本编辑器，今天 1.0 了",
@@ -814,7 +825,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 15:23:43",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260731/v2_2865fd966954450d8a5aa089f8f9fe22@6162492_oswg82637oswg1000oswg230_img_000?x-oss-process=image/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "The Download: Montana’s new experimental drug rules",
@@ -841,13 +852,13 @@
     {
       "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
       "link": "https://36kr.com/p/3910776673064073?f=rss",
-      "summary": "\n文｜王毓婵 兰杰\n  编辑｜乔芊\n  36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。\n  36氪就此事向B站方面求证，对方暂无回应。\n  \n  曾爱玲\n  B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。\n  曾爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经济...",
+      "summary": "\n文｜王毓婵 兰杰\n  编辑｜乔芊\n  36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。\n  36氪就此事向B站方面求证，对方暂无回应。\n  \n  曾爱玲\n  B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。\n  ��爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
       "pubDate": "2026-07-31 10:27:38",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260725/v2_450bbe65a3064be2abe1e6b2b881612c@10269314_oswg1594051oswg1404oswg1250_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
@@ -880,7 +891,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 08:58:59",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260731/v2_93f35a5ba3424ae99e3d2c185a0e3281@394564713_oswg1652050oswg1184oswg1480_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "DeepSeek-V4-Flash 官方 API 现已正式上线公测",
@@ -913,7 +924,7 @@
       "region": "cn",
       "pubDate": "2026-07-31 08:24:28",
       "category": "ai",
-      "thumbnail": "https://img.36krcdn.com/hsossms/20260731/v2_3341a3e3062d4d1394a493013ca06c87@5284654_oswg1558403oswg1829oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      "thumbnail": ""
     },
     {
       "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
@@ -1011,17 +1022,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-07-30 16:57:14",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread",
-      "link": "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
-      "summary": "\nLess than a year after emerging from stealth to tackle non-human identity security, Israeli cybersecurity startup Hush Security believes the enterprise AI security conversation has fundamentally chan...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-07-30 16:29:00",
       "category": "ai",
       "thumbnail": ""
     },
