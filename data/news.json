@@ -1,160 +1,303 @@
 {
-  "updateTime": "2026-08-04T06:33:10.641Z",
+  "updateTime": "2026-08-04T09:42:06.083Z",
   "total": 107,
   "news": [
     {
-      "title": "消息称 PC 大厂惠普、华硕、宏碁已开始使用长鑫内存芯片",
-      "link": "https://www.ithome.com/0/985/460.htm",
-      "summary": "\n北京时间 8 月 4 日，据《日经亚洲》报道，在 AI 基础设施需求引发空前内存芯片短缺的背景下，PC 大厂惠普、华硕和宏碁已开始采用少量长鑫存储芯片。\n据多位知情人士透露，多家大型 PC 制造商已于今年年中前后，完成了长鑫存储 DRAM 内存芯片的认证流程，并已开始在笔记本电脑中有限度地使用该芯片。\n知情人士称，截至目前，这些 PC 公司采用长鑫存储芯片的数量以及搭载这些芯片的笔记本电脑型号仍...",
+      "title": "The Real Story Behind the 2018 Google Walkout",
+      "link": "https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/",
+      "summary": "In 2018, more than 20,000 employees walked out to protest how Google handled allegations of sexual harassment. Here’s how they organized it from inside the company....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-04 09:30:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a70ddf9e3d91d5510f62eb6/master/pass/BookExceprt_GoogleBus2018WalkOut_v1.jpg"
+    },
+    {
+      "title": "广汽集团 7 月新能源汽车销量超 5.15 万辆，同比增长 54.2%",
+      "link": "https://www.ithome.com/0/985/569.htm",
+      "summary": "\nIT之家 8 月 4 日消息，广汽集团今日发布了 2026 年 7 月产销快报，当月汽车产量为 103,284 辆，同比下降 19.62%；当月汽车销量为 112,934 辆，同比下降 5.48%。\n\nIT之家注意到，今年 1 至 7 月，广汽集团累计汽车产量为 900,062 辆，同比下降 3.24%；累计汽车销量为 886,019 辆，同比增长 1.28%。\n新能源板块增长显著，广汽集团 7...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-04 06:23:41",
+      "pubDate": "2026-08-04 09:08:35",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "《莱莎的炼金工房》将推出衍生 AI 聊天游戏：插画全人工绘制，语音和文本使用 AI",
+      "link": "https://www.ithome.com/0/985/567.htm",
+      "summary": "\nIT之家 8 月 4 日消息，据日媒 Game Spark 今天报道，由光荣特库摩游戏授权、SpiralAI 开发的 AI 聊天游戏《RyzaChat:AI 与莱莎共同创造只属于你的盛夏梦幻故事》现已开放预注册，预计本月 18 日正式上线。\n\nIT之家从原报道获悉，本作的剧情世界观将以《莱莎的炼金工房 ～常暗女王与秘密藏身处～》为基础。游戏玩法与传统 RPG 不同，玩家将通过与莱莎聊天的形式，推...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-04 09:07:27",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "俄罗斯量产型全国产化 MC-21-310 客机完成首飞",
-      "link": "https://www.ithome.com/0/985/458.htm",
-      "summary": "\nIT之家 8 月 4 日消息，俄罗斯工业和贸易部当地时间本月 3 日宣布，其首架量产型全国产化 MC-21-310 客机当日完成了首次飞行。\n\nIT之家了解到，本次飞行从伊尔库茨克起飞，时长达 1 小时 23 分钟，高度最高达 6000 米，仪表空速最高达到 600 千米 / 小时，测试了飞机在各种配置下的稳定性和可控性以及俄罗斯本土飞机系统的运行情况。\n\nMC-21-310 是一款中程窄体客机...",
+      "title": "全球首台钠离子电池纯电矿卡在唐山交付，676 度电",
+      "link": "https://www.ithome.com/0/985/565.htm",
+      "summary": "\nIT之家 8 月 4 日消息，中科海钠今日宣布，中科海钠与同力重工联合研发的全球首台套钠离子电池纯电矿卡，于今年 7 月在唐山三友矿山顺利完成交付。\n此次交付的钠电矿卡基于同力重工成熟的 120E 系列平台，搭载中科海钠自主研发的“海星”系列电池系统，总电量 676kWh。\n\n据IT之家 2025 年 3 月报道，中科海钠发布“中科海钠・海星”钠离子电池商用车解决方案，该方案所用电芯能量密度突破...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-04 06:20:00",
+      "pubDate": "2026-08-04 09:07:08",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "阿里云：容器服务 Agent 将于 9 月 3 日起开启商业化收费，支持按量付费和资源包计费方式",
+      "link": "https://www.ithome.com/0/985/564.htm",
+      "summary": "\nIT之家 8 月 4 日消息，阿里云今日宣布，容器服务 Agent 将增加新的技能中心和 IM 频道等功能，并于北京时间 9 月 3 日 10 时开启商业化收费。\n本次调整后，相关对话、自主智能运维及定时任务等功能将开始收费。调整过程不会影响存量用户已有设置和历史任务记录。\n容器服务 Agent 以积分（Credit）作为计量单位，免费开通，支持按量付费及预付费资源包抵扣。使用容器服务 Agen...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-04 09:07:01",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "Cloudflare 推出新开源库，为每个 AI 智能体配备独立工作计算机",
-      "link": "https://www.ithome.com/0/985/457.htm",
-      "summary": "\nIT之家 8 月 4 日消息，Cloudflare 昨日（8 月 3 日）发布博文，宣布以早期预览版形式，推出 @cloudflare/computer 开源库，为每个 AI 智能体独立分配虚拟工作计算机，并包含文件系统与命令执行能力。\n官方指出有别于传统文本方式的聊天 AI，编程类 AI 智能体需要反复读取源代码、改写文件、运行测试、审查结果并继续修正，因此需要保存处理中文件的工作区，也需要运...",
+      "title": "鸿蒙智行公开尊界 V800 / V680 旗舰 MPV 四色官图，新车明日发布",
+      "link": "https://www.ithome.com/0/985/563.htm",
+      "summary": "\nIT之家 8 月 4 日消息，鸿蒙智行官方今日公开了尊界 V800 / V680 旗舰 MPV 四款车色的官图，新车将在明日 14:30 的尊界时代旗舰 MPV 及华为全场景新品发布会登场。\n\n\n从鸿蒙智行此次公布的官图可以看到，尊界 V800 旗舰 MPV 除了此前公布的曜日金棕外，还有破晓金黑、凌云墨白、瑞雪银红三款双拼车色。\n\n\n而华为官网显示，尊界 V800 还将提供星耀黑（单色）、云水...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-04 06:18:31",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "谷歌放出 Pixel 11 Pro Fold 折叠屏手机官方预热视频，8 月 13 日发布",
-      "link": "https://www.ithome.com/0/985/456.htm",
-      "summary": "\nIT之家 8 月 4 日消息，继上周预热 Pixel 11 Pro 之后，谷歌如今又正式放出了 Pixel 11 Pro Fold 的官方预热视频。\n\n这段时长 15 秒的视频延续了此前“Ask more of your phone（让你的手机发挥更大价值）”的宣传风格，旁白写道：“想要换一部手机，你需要拥抱新事物，也需要拥抱能够展开的一切（To switch phones, you have ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-04 06:11:43",
+      "pubDate": "2026-08-04 09:05:24",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "小米汽车澎湃 OS 1.17.0 版本灰度更新，支持画框泊车、雨天自动开后雾灯",
-      "link": "https://www.ithome.com/0/985/455.htm",
-      "summary": "\nIT之家 8 月 4 日消息，据IT之家小伙伴反馈，小米汽车今日迎来澎湃 OS 1.17.0 版本灰度更新，带来画框泊车辅助、车头泊入辅助等功能。\n\n小米汽车 App 支持远程开启快速制冷 / 制热功能；\n新增 20kW 家用直流充电桩车端预约充电与智能复充能力；\n雨天自动开启后雾灯；\n新增画框泊车辅助功能；\n新增车头泊入辅助功能；\n新增车尾泊出辅助功能；\n应用商店上新汽水音乐-抖音官方音乐 A...",
+      "title": "799 元海盗船破浪者 Pro mini 60 磁轴键盘发布：60% 布局、8000Hz 轮询率",
+      "link": "https://www.ithome.com/0/985/557.htm",
+      "summary": "\nIT之家 8 月 4 日消息，海盗船新上架了一款破浪者 Clipper Pro mini 60 磁轴游戏键盘，定价为 799 元。这款键盘专为电竞玩家打造，采用紧凑型 60% 按键布局，支持 AXON 8000Hz 超轮询。\n京东美商海盗船（USCORSAIR）Clipper Pro mini 60 (破浪者) 电竞磁轴游戏键盘 IP57 防水防尘  8000HZ 回报率 可调节触发 799 元...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-04 06:09:15",
+      "pubDate": "2026-08-04 08:50:17",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "AI 助推独行创业者时代到来：1 个人可撑起公司 100 万美元年收入",
-      "link": "https://www.ithome.com/0/985/453.htm",
-      "summary": "\nIT之家 8 月 4 日消息，华尔街日报于 7 月 29 日发布博文，报道称在 AI 时代，一个人撑起整家公司，年收入超过 100 万美元已不再是天方夜谭，市场正迎来“独行创业者时代”。\n\n该报道援引支付服务商 Stripe 的估算数据，在 2023 年，约有 400 万美国人以个体经营为主要收入来源，年销售额超过 10 万美元，比 2010 年代初符合相同条件的人数（约 200 万）几乎翻了一...",
+      "title": "初探苹果 iOS 27“照片”应用：“由我拍摄”功能补齐用户体验",
+      "link": "https://www.ithome.com/0/985/556.htm",
+      "summary": "\nIT之家 8 月 4 日消息，科技媒体 9To5Mac 今日发布博文，带来苹果 iOS 27 系统“照片”应用的初上手体验。本次更新主要加入了幻灯片放映、共享相册等改进，此前消失已久的“相机胶卷”功能也以另一种方式复活。\n相信用过旧版 iOS 的IT之家小伙伴们应该记得，过去的“照片”应用曾有一个名为“相机胶卷”的文件夹，其作用类似如今的“最近项目”，内部不仅包含用户拍摄的照片，也会包含最近下载...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-04 05:58:23",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "蚂蚁阿福否认“1 号位伟鹤调整”传闻：假消息",
-      "link": "https://www.ithome.com/0/985/452.htm",
-      "summary": "\nIT之家 8 月 4 日消息，蚂蚁阿福官方微博今日发文辟谣，网传“蚂蚁阿福 1 号位伟鹤调整”为假消息。\n\n据IT之家此前报道，去年 12 月，蚂蚁集团旗下 AI 健康应用 AQ 品牌升级为蚂蚁阿福，并发布 App 新版本，升级健康陪伴、健康问答、健康服务三大功能。该应用和 8 省市卫健委、18 省市医保局“依保儿”合作，推出 200 家医院就医智能体，并与 16 家机构 AI 联合研究。\n\n今...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-04 05:55:13",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "消息称三大原厂已提前完成 2027 年 DRAM 内存产能分配",
-      "link": "https://www.ithome.com/0/985/451.htm",
-      "summary": "\nIT之家 8 月 4 日消息，台媒《电子时报》今日表示，三大存储半导体制造商（三星电子、SK 海力士、美光）近日提前完成 2027 年的一般 DRAM 与 HBM 分配谈判，产能已然售罄。供应情况略好的 NAND 闪存预计也将在本月内敲定明年产能配额。\n报道指出，在 2026 年遭遇严重短缺后，下游业者在寻求供应上更为积极，导致原本主要出现在 HBM 上的提前预定趋势扩展到整个存储芯片领域。此外...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-04 05:48:49",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "北京一酒吧上线“不限量免费 Token”服务，到店连接 Wi-Fi 即可畅用 DeepSeek V4 Flash 模型",
-      "link": "https://www.ithome.com/0/985/450.htm",
-      "summary": "\nIT之家 8 月 4 日消息，北京一家主打程序员交流的酒吧 AGI Bar 宣布推出一项“Token 免费畅饮”服务，顾客到店消费并连接店内 Wi-Fi 后，即可获得 DeepSeek V4 Flash API 免费使用权限。\n据 AGI Bar 公布的信息，其采购了英伟达 DGX Spark AI 工作站以提供 DeepSeek V4 Flash 算力服务，一切 Token 均由本地推理。顾客...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-04 05:46:39",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "员工上班玩手机被指“摸鱼”并开除：法院判决公司赔偿 11 万元、短暂放松属于正常生理心理需求",
-      "link": "https://www.ithome.com/0/985/449.htm",
-      "summary": "\nIT之家 8 月 4 日消息，据央视新闻今日报道，在上班族中有个流行语叫“摸鱼”，它指的是在工作时间里偷偷做跟工作没关系的事，比如玩手机、逛网站、闲聊等。在有些上班族看来，紧张的工作之余偶尔“摸鱼”放松一下，是平常不过的事。但在江苏南京上班的林某却因为这些行为被公司开除了。林某不服将公司告上法庭。\n\n图源：Pexels林某于 2020 年 8 月入职一家科技服务公司担任技术工程师。2025 年 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-04 05:39:52",
+      "pubDate": "2026-08-04 08:48:42",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "Lenovo Coupon Codes and Deals in August 2026",
-      "link": "https://www.wired.com/story/lenovo-coupon-code/",
-      "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade....",
+      "title": "荣耀 MagicOS 10 本月升级资讯发布：新增夏日主题、文件管理焕新，首批机型 8 月 6 日前推送",
+      "link": "https://www.ithome.com/0/985/555.htm",
+      "summary": "\nIT之家 8 月 4 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发布了 MagicOS 10 本月升级资讯。新版本将带来夏日主题、文件管理焕新等特性。根据规划，各机型推送时间安排如下：\n\n首批机型 8 月 6 日前推送：荣耀 Magic V6、荣耀 Magic8 系列、荣耀 600 系列\n第二批机型 8 月 7 日前推送：荣耀 Magic V5、荣耀Magic7系列、荣耀 WIN / WIN...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-04 08:47:36",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "最后一天：原价 128 元《暗黑破坏神 4》免费领取今晚截止，暴雪首次国服本体免费送",
+      "link": "https://www.ithome.com/0/985/554.htm",
+      "summary": "\nIT之家 8 月 4 日消息，今天是《暗黑破坏神 4》国服本体限时免费领取活动的最后一天，福利领取通道将于 8 月 4 日 23:59 正式关闭。活动结束后游戏本体将恢复 128 元原价售卖，成功领取的账号可永久保留游戏本体自由游玩。\n该福利于 4 月 28 日伴随“憎恨之王”资料片上线开启，原定 5 月 27 日结束，因热度远超预期，官方两次顺延活动周期，最终敲定截止日期为 8 月 4 日深夜...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-04 08:44:03",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "微星推出全套天龙座四十周年典藏版产品，即将限量发售",
+      "link": "https://www.ithome.com/0/985/553.htm",
+      "summary": "\nIT之家 8 月 4 日消息，微星 (MSI) 宣布推出全套天龙座四十周年典藏版 (DRACO EPIC EDITION) 产品，覆盖主板、显卡、散热、电源、机箱、外设、耳机，该系列即将限量发售。\n天龙座的文化原型是希腊神话中守护金苹果并最终化为北极星旁星座的传奇巨龙。微星表示其寓意恒久之力与威严气魄。\n\nMEG X870E ACE MAX 战神 · 天龙座四十周年典藏版\n\n该主板在大尺寸装饰面...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-04 08:44:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
+      "link": "https://36kr.com/p/3924953058605444?f=rss",
+      "summary": "\n【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下，国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-08-04 08:31:59",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash",
+      "link": "https://www.qbitai.com/2026/08/465814.html",
+      "summary": "那还说啥了梁圣，我订阅费全给你就是了呗...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-04 08:18:45",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
+      "link": "https://36kr.com/p/3924913931679877?f=rss",
+      "summary": "\n\n  36氪企业全情报带你发现涨停背后的机会\n  开篇，先给大家送个福利\n  最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。\n  体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。\n  奖品有影石Insta360 Luna Ultra、运动相机挂脖支架、36氪航天徽章。\n  祝大家都能中奖，点击即可参与：👇\n  https://lucky.nocode.com/v2/...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-08-04 08:18:21",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "金茂又开始独立搞酒店了……",
+      "link": "https://www.tmtpost.com/8089513.html",
+      "summary": "告别凯悦，崇明酒店换牌背后，金茂的一场长期试验...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:53:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r4t3qegrsdfbvf3.png"
+    },
+    {
+      "title": "打开你的手机，韩国政府正在帮你亏钱",
+      "link": "https://www.tmtpost.com/8090421.html",
+      "summary": "韩国政府给散户发了一把上膛的枪...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:48:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/a2788810df1166ed3f67711f79a9c0d9_1785823620.jpg"
+    },
+    {
+      "title": "资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地",
+      "link": "https://www.qbitai.com/2026/08/465785.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:47:06",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "物理AI不是下一个风口，而是下一轮工业革命",
+      "link": "https://www.tmtpost.com/8090414.html",
+      "summary": "2026年，就是物理AI的\"1995年时刻\"——互联网泡沫还在酝酿，但万维网已经改变了世界。物理AI的泡沫或许也会来，但物理AI改变世界这件事，已经不可逆了。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:41:00",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/074f1a321db2ab68299b553b9f69601e_1785823615.jpg"
+    },
+    {
+      "title": "泽璟制药：一份漂亮的半年报，一个大跌的交易日",
+      "link": "https://www.tmtpost.com/8090391.html",
+      "summary": "泽璟制药不是孤例。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:36:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/8a6a2119fe24bd507d0f56f510fde43d_1785823603.jpg"
+    },
+    {
+      "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+      "link": "https://36kr.com/p/3924826666301831?f=rss",
+      "summary": "\n \n  文 | 李炤锋\n  编辑 | 张雨忻\n  “长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。”\n  过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。与此同时，随着Agent开始接管更多长链任务，越来越多的通用大模型开始匹配原生...",
+      "source": "36氪",
+      "sourceKey": "36kr",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:32:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "马斯克，又悄悄做出一个独角兽",
+      "link": "https://www.tmtpost.com/8090389.html",
+      "summary": "疯狂的投资版图。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:31:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35yyjthg3.png"
+    },
+    {
+      "title": "别只盯着欧美巨头，印度这个新产业5年翻3倍，已成中国出海最大变数",
+      "link": "https://www.tmtpost.com/8090364.html",
+      "summary": "中国模式的“海外翻版”。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:28:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/06481f90fd23d3437081bffc39c1ecba_1785823196.jpg"
+    },
+    {
+      "title": "自动驾驶下半场，决胜逻辑早已跳出“唯规模论”？",
+      "link": "https://www.tmtpost.com/8089028.html",
+      "summary": "自动驾驶赛道“新变量”。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:22:00",
+      "category": "auto",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y4u65jyhtgr3.png"
+    },
+    {
+      "title": "一个季度多签960亿：Meta把未来20年的机房都租了，谁来兜底？",
+      "link": "https://www.tmtpost.com/8089647.html",
+      "summary": "Meta 豪掷数千亿押注 AI 算力未来。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:16:00",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2f9vubuasv3.png"
+    },
+    {
+      "title": "喊了好久的 “AI选秀元年”，真来了",
+      "link": "https://www.tmtpost.com/8090410.html",
+      "summary": "108进9，百里挑一的9位女爱豆不是真人，而是AI！...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:12:00",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/f6d5bcab151bef2f7fec0baae053bf5e_1785823160.jpg"
+    },
+    {
+      "title": "资本加注引爆前夜，眼科手术机器人首证倒计时",
+      "link": "https://www.tmtpost.com/8090361.html",
+      "summary": "资本密集重仓，抢占全球第一梯队。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-04 06:03:00",
+      "category": "robot",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/e8942f8e7b952efaf634940cb46f3d6f_1785823136.jpg"
+    },
+    {
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "link": "https://www.wired.com/story/lowes-promo-code/",
+      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-08-04 05:00:00",
       "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png"
-    },
-    {
-      "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
-      "link": "https://www.wired.com/story/nomad-discount-code/",
-      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in August 2026....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-04 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg"
-    },
-    {
-      "title": "20% Off Sephora Promo Code | August 2026",
-      "link": "https://www.wired.com/story/sephora-promo-code/",
-      "summary": "Earn more points on skincare purchases when you use our Sephora coupon....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-04 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg"
-    },
-    {
-      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
-      "link": "https://www.wired.com/story/we-vibe-discount-code/",
-      "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-04 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png"
+      "thumbnail": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png"
     },
     {
       "title": "Loop Earplugs Discount Codes: 40% Off",
@@ -177,17 +320,6 @@
       "pubDate": "2026-08-04 05:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png"
-    },
-    {
-      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-      "link": "https://www.wired.com/story/lowes-promo-code/",
-      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-04 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png"
     },
     {
       "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
@@ -223,26 +355,37 @@
       "thumbnail": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg"
     },
     {
-      "title": "千问办公来了，Agent开始争抢企业的任务分配权",
-      "link": "https://www.tmtpost.com/8090369.html",
-      "summary": "办公Agent获得了一种过去没有的权力，任务分配权。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-04 04:28:14",
+      "title": "Best Buy Discount Codes: Up to 60% Off",
+      "link": "https://www.wired.com/story/best-buy-discount-code/",
+      "summary": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-04 05:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png"
     },
     {
-      "title": "汽车产业全球化进入新阶段，GNEV2026将共探合作新路径",
-      "link": "https://www.tmtpost.com/8089985.html",
-      "summary": "共探汽车产业全球合作新路径，GNEV2026将于8月19日-21日在上海启幕。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-04 04:27:49",
+      "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
+      "link": "https://www.wired.com/story/nomad-discount-code/",
+      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in August 2026....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-04 05:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg"
+    },
+    {
+      "title": "20% Off Sephora Promo Code | August 2026",
+      "link": "https://www.wired.com/story/sephora-promo-code/",
+      "summary": "Earn more points on skincare purchases when you use our Sephora coupon....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-04 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg"
     },
     {
       "title": "Gitee AI 队友正式上线，免费领 500 Credits 体验额度",
@@ -300,28 +443,6 @@
       "thumbnail": ""
     },
     {
-      "title": "嘉立创IPO：950万工程师生态背后，硬件创新基础设施的长期价值重估",
-      "link": "https://www.tmtpost.com/8090186.html",
-      "summary": "当市场逐渐读懂嘉立创生态背后的长期价值，当硬件创新的浪潮持续兑现为业绩增长，这家站在千万工程师背后的企业，终将迎来属于它的市值高光时刻。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-04 03:27:23",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "阿斯利康与BMS，悬崖边的双人舞",
-      "link": "https://www.tmtpost.com/8090230.html",
-      "summary": "拆解4000亿美元的合并案传闻的底层逻辑。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-04 03:22:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": ":seedling: Qualia 开源：面向 Java 开发者的 AI Agent 框架",
       "link": "https://www.oschina.net/news/486832",
       "summary": "痛点出发，为 Java 量身定制 Qualia 并非简单的“Java 版 LangChain”，而是一套深度结合 Java 语言特性、模块化设计、生产环境友好的智能体框架。项目团队在多个企业级 AI 落地项目中积累了大量经验，发现绝大多数痛点集中在：模型 API 各异、工具集成散乱、会话状态难管理、提示词无法复用、知识检索重复造轮子。Quali......",
@@ -329,17 +450,6 @@
       "sourceKey": "oschina",
       "region": "cn",
       "pubDate": "2026-08-04 03:17:29",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "外国短剧演员：AI复制自己，工作被抢了",
-      "link": "https://www.tmtpost.com/8090051.html",
-      "summary": "随着AI逐渐进入电影和电视剧制作领域，好莱坞同样面临类似的问题。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-04 03:15:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -355,28 +465,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Algorithmic Workflow Tools Threaten Tech Industry Middle Management",
-      "link": "https://www.tmtpost.com/8090325.html",
-      "summary": "As enterprise firms adopt automated project tracking, code generation, and administrative workflows, the traditional corporate middle manager faces an existential shift. Driven by structural cost disc...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-04 03:10:03",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "奶油第一股，花1.3亿买了个“盒马供应商”",
-      "link": "https://www.tmtpost.com/8089986.html",
-      "summary": "掘金C端，没那么容易。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-04 03:07:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
       "link": "https://36kr.com/p/3924634192673153?f=rss",
       "summary": "\n作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。\n  随着低轨卫星和空间碎片数量快速增长，近地轨道正在变得更加拥挤，卫星碰撞风险...",
@@ -388,42 +476,9 @@
       "thumbnail": ""
     },
     {
-      "title": "中石化一举砍掉三分之一总部部门，当净利润跌破1.27%，这家世界第一炼油公司开启“二次创业”",
-      "link": "https://www.tmtpost.com/8090050.html",
-      "summary": "中石化业绩承压，快速推进架构改革谋转型。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-04 03:01:05",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "排队一小时，代购费比面包贵，谁带火了这家“盐面包”专门店？",
-      "link": "https://www.tmtpost.com/8090187.html",
-      "summary": "盐面包，要成为下一个大单品？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-04 03:00:34",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "瑞士清洁科技公司Verretex研发废旧玻纤升级再造工艺，利用回收玻纤制造高性能无纺布",
-      "link": "https://www.tmtpost.com/8090181.html",
-      "summary": "碳排放量最多降低80%。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-04 03:00:28",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
       "link": "https://36kr.com/p/3924628805351811?f=rss",
-      "summary": "\n作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.4亿元融资。本轮融资由前海金控，广州国控，海川聚义，杭州众燊参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。\n  陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减...",
+      "summary": "\n作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.2亿元融资。本轮融资由国创集团，海川聚义，杭州众燊，新智资本参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。\n  陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减...",
       "source": "36氪",
       "sourceKey": "36kr",
       "region": "cn",
@@ -506,7 +561,7 @@
       "region": "us",
       "pubDate": "2026-08-04 00:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/BoR-Screenshot-66.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
@@ -572,7 +627,7 @@
       "region": "us",
       "pubDate": "2026-08-03 21:24:23",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0036.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
@@ -583,7 +638,7 @@
       "region": "us",
       "pubDate": "2026-08-03 21:13:38",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-M80F-Lifestyle.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Research roundup: 6 cool science stories we almost missed",
@@ -726,7 +781,7 @@
       "region": "us",
       "pubDate": "2026-08-03 17:38:45",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
@@ -737,7 +792,7 @@
       "region": "us",
       "pubDate": "2026-08-03 17:17:54",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24224265/226417__Amazon_Kindle_Scribe_AKrales_0041.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Microsoft is bringing Xbox 360 games to PC",
@@ -748,7 +803,7 @@
       "region": "us",
       "pubDate": "2026-08-03 16:31:35",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
@@ -770,7 +825,7 @@
       "region": "us",
       "pubDate": "2026-08-03 15:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260803_Schneider.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Palworld’s expanding to mobile with a new MMORPG",
@@ -781,7 +836,7 @@
       "region": "us",
       "pubDate": "2026-08-03 14:50:29",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
@@ -803,7 +858,7 @@
       "region": "us",
       "pubDate": "2026-08-03 14:26:47",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/spider-man-brand-new-day.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
@@ -814,7 +869,7 @@
       "region": "us",
       "pubDate": "2026-08-03 14:16:13",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/9100.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Trump wants the power to stop the public from suing polluters",
@@ -836,7 +891,7 @@
       "region": "us",
       "pubDate": "2026-08-03 12:08:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f453.png"
     },
     {
       "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
@@ -982,61 +1037,6 @@
       "thumbnail": ""
     },
     {
-      "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
-      "link": "https://36kr.com/p/3923371035831684?f=rss",
-      "summary": "\n文｜张子怡\n  编辑｜袁斯来\n  36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。\n  「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量化制...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-08-03 05:40:12",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
-      "link": "https://36kr.com/p/3923367465266824?f=rss",
-      "summary": "\n文｜张子怡\n  编辑｜袁斯来\n  从大疆走出的 Ebike 公司 Amflow 进入赛道的时机谈不上好，那一年，不少中国Ebike厂商已选择战略性放弃或者转向美国市场。没人想到，它能将6499欧元起的高端Ebike卖出3万辆。\n  36氪独家获悉，从大疆独立的Ebike公司Amflow，整体营收已突破10亿元。同样从大疆诞生的Ebike助力系统品牌Avinox，已经有60多个客户，目前也已从大疆...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-08-03 05:36:21",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
-      "link": "https://www.qbitai.com/2026/08/465215.html",
-      "summary": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-03 04:58:17",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "阿里“千问办公”开启公测",
-      "link": "https://www.qbitai.com/2026/08/465211.html",
-      "summary": "阿里巴巴旗下“千问办公”（QwenWork）开启公测，个人和企业用户均可体验。用户可在“千问办公”体验阿里最新旗舰模型Qwen3.8。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-03 04:47:44",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段",
-      "link": "https://36kr.com/p/3923317976526208?f=rss",
-      "summary": "\n作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，电动垂直起降飞行器（eVTOL）研发制造商「亿维特航空」近日完成数亿元A+轮融资。本轮融资由上城资本、普华资本等投资，深蓝资本担任独家财务顾问。截至目前，亿维特航空已获得国家级基金、上市公司及地方国资等多方资本支持。\n  亿维特航空（以下简称“亿维特”）成立于2022年，定位为载人eVTOL飞行器研发制造。公司核心团队来自中国商飞体系，包括4...",
-      "source": "36氪",
-      "sourceKey": "36kr",
-      "region": "cn",
-      "pubDate": "2026-08-03 04:46:57",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
       "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
       "link": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
       "summary": "\nIf you have built anything with retrieval-augmented generation (RAG) in the last two years, you have lived its central frustration: You chop your documents into chunks, embed them, retrieve the top f...",
@@ -1100,7 +1100,7 @@
       "region": "us",
       "pubDate": "2026-07-31 12:16:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MA25-ota-01.jpg?w=840"
     },
     {
       "title": "Montana’s new “right to try” law can’t come soon enough for some",
@@ -1111,7 +1111,7 @@
       "region": "us",
       "pubDate": "2026-07-31 09:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/family-inset.jpg?w=840"
     },
     {
       "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
@@ -1144,7 +1144,7 @@
       "region": "us",
       "pubDate": "2026-07-30 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Helsing_CA-1_Europa_design_study_2.jpg?w=840"
     },
     {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -1177,7 +1177,7 @@
       "region": "us",
       "pubDate": "2026-07-29 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/12/MIT_AI-Hype_1-2-top.jpg?w=840"
     }
   ]
 }
