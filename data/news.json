@@ -1,7 +1,95 @@
 {
-  "updateTime": "2026-08-05T17:47:02.158Z",
+  "updateTime": "2026-08-05T19:44:16.885Z",
   "total": 97,
   "news": [
+    {
+      "title": "TikTok Says ‘Moderator Error’ Kept Perez Hilton Livestream Up",
+      "link": "https://www.wired.com/story/tiktok-says-moderator-error-kept-perez-hilton-livestream-on-platform/",
+      "summary": "The gossip blogger was on TikTok covered in what appeared to be blood and wielding a knifelike object before the platform cut his stream. He’s since been hospitalized....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-05 19:35:22",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a73774deeb49c70308c3eb2/master/pass/TikTok-Says-Moderator-Error-Caused-Delays-in-Cutting-Perez-Hilton-Livestream-Culture-2246294769.jpg"
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-05 19:30:19",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI Worms and Viruses Are Coming",
+      "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-05 18:30:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a72158094df13865615789b/master/pass/AI-Lab-How-Future-AI-Agents-Might-Actually-Escape-Our-Control-Business.jpg"
+    },
+    {
+      "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+      "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+      "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easi...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-05 18:00:40",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know",
+      "link": "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know",
+      "summary": "\nThe UK AI Security Institute (AISI) disclosed last night that the leading two frontier AI models from Anthropic and OpenAI took 19 unsanctioned actions against the live internet during cybersecurity ...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-05 18:00:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lucid Motors just delayed its affordable EV. Now what?",
+      "link": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
+      "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-05 17:57:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Two of Ring’s latest video doorbells are a lot cheaper than usual",
+      "link": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
+      "summary": "Ring’s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand’s most well-rounded video doorbells, whether you’re looking for a hardwired model or one that runs on a battery. Right now, its...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-05 17:53:43",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ring_wired_doorbell_plusghfhg_lifestyle_1500x1500.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Uber CEO brushes off reports of a Waymo break-up",
+      "link": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
+      "summary": "After Uber and Waymo ended their partnership in Phoenix earlier this year, experts and robotaxi watchers wondered whether the companies' improbable bromance was fraying. Not so, Uber CEO Dara Khosrows...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-05 17:34:48",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "DHS Is Hiring Bounty Hunters to Find and Photograph Deported People’s Homes Abroad",
       "link": "https://www.wired.com/story/dhs-is-hiring-bounty-hunters-to-find-and-photograph-deported-peoples-homes-abroad/",
@@ -14,6 +102,17 @@
       "thumbnail": "https://media.wired.com/photos/6a72748a3cdcb14c0b52a581/master/pass/CBP-Hiring-Bounty-Hunters-to-Photograph-Deportees-Homes-in-Mexico-Security.jpg"
     },
     {
+      "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+      "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+      "summary": "Disney is interested in \"price-sensitive\" streaming customers....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-08-05 17:12:39",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1232471426-500x500-1758659083.jpg"
+    },
+    {
       "title": "Meet the eight startups pitching at Startup Battlefield Australia",
       "link": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
       "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!...",
@@ -23,6 +122,17 @@
       "pubDate": "2026-08-05 17:02:00",
       "category": "other",
       "thumbnail": ""
+    },
+    {
+      "title": "EVgo starts building Tesla Superchargers under license",
+      "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+      "summary": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-08-05 17:00:38",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/evgo-tesla-partnership-1920x1080.jpg-500x500-1785947344.webp"
     },
     {
       "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
@@ -69,14 +179,14 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "D-Wave on rails: Company tests entanglement on its dual-rail qubits",
+      "title": "D-Wave shows off its new entry in quantum computing race",
       "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
       "summary": "Company noted for building quantum annealers now also making gate-based hardware....",
       "source": "Ars Technica",
       "sourceKey": "arstechnica",
       "region": "us",
       "pubDate": "2026-08-05 16:37:07",
-      "category": "ai",
+      "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/v5-500x500.webp"
     },
     {
@@ -341,7 +451,7 @@
       "region": "cn",
       "pubDate": "2026-08-05 14:48:52",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/2958c4a69f05105428bff088d9909407_1785941335.png"
+      "thumbnail": ""
     },
     {
       "title": "35亿定增获受理与创始人被刑拘同期发酵：ST人福的国资改造与旧局清算",
@@ -352,7 +462,7 @@
       "region": "cn",
       "pubDate": "2026-08-05 14:47:40",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/d02a1cbd19d1602ca5f97ee0b3e8405e_1785941263.png"
+      "thumbnail": ""
     },
     {
       "title": "森峰激光三重困局：净利润连续下滑，重营销轻研发，实控人对赌债务悬顶｜IPO观察",
@@ -363,7 +473,7 @@
       "region": "cn",
       "pubDate": "2026-08-05 14:47:20",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/8180b33bc437bd973552d7e202c21562_1785941242.png"
+      "thumbnail": ""
     },
     {
       "title": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
@@ -374,28 +484,6 @@
       "region": "us",
       "pubDate": "2026-08-05 14:45:06",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
-      "link": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/",
-      "summary": "Climate nonprofits can again access their federal funding more than a year after the Trump EPA ordered Citibank to freeze their accounts....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-05 14:40:13",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic is hiring an AI chip design team",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-05 14:13:18",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -432,17 +520,6 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ring1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Traveling this summer? Don’t go without these essential gadgets",
-      "link": "https://www.theverge.com/gadgets/974436/summer-travel-tech-gadget-gift-guide",
-      "summary": "There's a chance that you've already taken your big summer trip. If not, August and early autumn are wonderful times to travel. No matter when or where you go, there are some products that can make th...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-05 14:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268642_guide_to_the_best_summer_travel_tech_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "SpaceX spooks investors with debut earnings report",
       "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
       "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled....",
@@ -465,28 +542,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Disney says it’s ‘exploring’ adding a free tier to Disney Plus",
-      "link": "https://www.theverge.com/streaming/975543/disney-plus-free-tier-q3-2026-earnings",
-      "summary": "Disney is looking into launching a free streaming option. When asked about Disney's plans for free, ad-supported streaming during an earnings call on Wednesday, Disney CEO Josh D'Amaro confirmed the c...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-05 13:44:14",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954702/acastro_STK080_disneyPlus_03.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-      "link": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
-      "summary": "As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-05 13:21:43",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "当电竞显示不再卷参数，谁在定义下一代屏幕？",
       "link": "https://www.tmtpost.com/8090539.html",
       "summary": "从“参数领先”走向“体验标准化”，电竞显示真正的竞争早已不只是刷新参数纪录，而是谁能够重新定义“什么才是一块好屏幕”。...",
@@ -495,7 +550,7 @@
       "region": "cn",
       "pubDate": "2026-08-05 13:00:21",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/24d6eeaedcae105e8bd456e3605e943f_1785934825.jpg"
+      "thumbnail": ""
     },
     {
       "title": "又一家AI基金暴雷了",
@@ -572,7 +627,7 @@
       "region": "cn",
       "pubDate": "2026-08-05 11:13:00",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/0a6a50ca3f9cf9ae5e9a706ccb713632_1785939823.png"
+      "thumbnail": ""
     },
     {
       "title": "BenQ GV50 Review: Highly Portable, but With Quality Trade-Offs",
@@ -597,28 +652,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_1971-500x500.jpeg"
     },
     {
-      "title": "Cougars Lower the Risks of Car Crashes by Hunting Deer",
-      "link": "https://www.wired.com/story/cougars-lower-risks-car-crashes-by-hunting-deer/",
-      "summary": "A new study shows how the big cats cause deer to move away from roads and deeper into the forest, where they pose less of a hazard to motorists....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-05 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a722554fb6a38d5e63c17fb/master/pass/Cougars-Lower-Risks-of-Car-Crashes-by-Eating-All-the-Deer-Science-1399723814.jpg"
-    },
-    {
-      "title": "Gene-Edited Puppies Will Melt Your Heart—but Won’t Trigger Your Allergies",
-      "link": "https://www.wired.com/story/gene-edited-puppies-wont-trigger-allergies/",
-      "summary": "A startup has created beagles without the gene that causes runny noses and watery eyes for allergy sufferers....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-05 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a71e1f5ae3498c6a7a1f51b/master/pass/Alfie%20and%20Bailey%201.jpg"
-    },
-    {
       "title": "The Office Agent Race Shifts From Chatbots to Organizational Work",
       "link": "https://www.tmtpost.com/8092632.html",
       "summary": "Traffic data and rapid product consolidations show large technology firms racing to turn AI from a personal assistant into a system that can operate inside company workflows, with Alibaba’s new platfo...",
@@ -627,7 +660,7 @@
       "region": "cn",
       "pubDate": "2026-08-05 10:51:04",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2y354u6wj5yethgr3.png"
+      "thumbnail": ""
     },
     {
       "title": "顺丰终于又找到了一个单价更高的业务",
@@ -638,7 +671,7 @@
       "region": "cn",
       "pubDate": "2026-08-05 10:43:37",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/05/186b742d7293ed9a16ec463ecbbae8d6_1785923398.png"
+      "thumbnail": ""
     },
     {
       "title": "默沙东“接棒”计划",
@@ -649,7 +682,7 @@
       "region": "cn",
       "pubDate": "2026-08-05 10:43:35",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/05/f9cb253bf9fb7643f61424a55704d491_1785923022.png"
+      "thumbnail": ""
     },
     {
       "title": "五路零售巨头入场，竞速硬折扣",
@@ -660,7 +693,7 @@
       "region": "cn",
       "pubDate": "2026-08-05 10:25:47",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/1e28da59689d87235cc28898b5ff9508_1785925552.png"
+      "thumbnail": ""
     },
     {
       "title": "三星中国，再退一步",
@@ -671,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-08-05 10:22:54",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/05/23df14932d4f935439716d40a339c388_1785920968.png"
+      "thumbnail": ""
     },
     {
       "title": "Notepad-- v3.8.3 已经发布，文本编辑器",
@@ -916,28 +949,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-      "link": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
-      "summary": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-08-04 16:11:05",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/HiLight-crop-500x500-1785858830.jpg"
-    },
-    {
-      "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
-      "link": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
-      "summary": "Congress set ownership limit at 39%, but FCC claims authority to kill the rule....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-08-04 15:51:00",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-500x500-1771622581.jpg"
-    },
-    {
       "title": "Commerce AI has a measurement problem no one is talking about",
       "link": "https://venturebeat.com/technology/commerce-ai-has-a-measurement-problem-no-one-is-talking-about",
       "summary": "\nPresented by Rezolve Ai\n\nMost brands know something is shifting in how consumers find and choose products. What most don't know is how much of that shift has already taken place, where it's happening...",
@@ -989,17 +1000,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-08-03 23:50:58",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Asana's AI agents share memory across your company — but not your secrets",
-      "link": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
-      "summary": "\nEnterprise teams building AI agents keep hitting the same wall: a chatbot that can answer a prompt but can't remember what the last five people asked it, and can't tell you whether last month's versi...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-03 23:14:48",
       "category": "ai",
       "thumbnail": ""
     },
