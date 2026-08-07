@@ -1,28 +1,270 @@
 {
-  "updateTime": "2026-08-07T00:07:50.997Z",
-  "total": 87,
+  "updateTime": "2026-08-07T03:53:42.622Z",
+  "total": 97,
   "news": [
     {
-      "title": "小米汽车解答澎程系列涉水能力：全系标配涉水模式，电池达 IPX8+IPX9K 双防水等级",
-      "link": "https://www.ithome.com/0/986/778.htm",
-      "summary": "\nIT之家 8 月 7 日消息，小米汽车昨晚发布答网友问（第 270 集），对小米澎程系列的涉水模式进行了详细解答，IT之家整理主要内容如下：\n1、小米澎程系列的最大涉水深度是多少？整套涉水安全防护都包含哪些设计？\n\n小米澎程全系均配备涉水模式，具备一定的应急涉水能力。其中，N90 Max 的最高涉水深度为 750mm，N70 Max 最高涉水深度为 650mm。整套涉水安全防护可以总结为 3 个...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "SkillUI v0.2.0 已经发布，跨平台编程助手 Skill 管理 GUI 面板",
+      "link": "https://www.oschina.net/news/489662",
+      "summary": "SkillUI v0.2.0 已经发布，跨平台编程助手 Skill 管理 GUI 面板 此版本更新内容包括： 新增 新增 Linux 打包脚本（deb + AppImage），产物文件名带版本号 CI 打包产物文件名统一带版本号（Linux deb/AppImage、Windows exe、macOS dmg） Makefile 加入 App Store 签名配置与 build-devtools ...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-08-06 23:09:25",
-      "category": "energy",
+      "pubDate": "2026-08-07 03:25:17",
+      "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "减少游戏卡顿：消息称英伟达研发 SSD 当额外显存技术",
-      "link": "https://www.ithome.com/0/986/777.htm",
-      "summary": "\nIT之家 8 月 7 日消息，科技媒体 siliconangle 于 8 月 5 日发布博文，报道称英伟达正在研发新技术，未来可以让 SSD 固态硬盘充当额外显存，从而在游戏或者 AI 场景下改善运行表现。\n\n在美国拉斯维加斯举办的 2026 年黑帽网络安全大会（8 月 1 日 ~6 日）上，英伟达宣布开源 cuFile API 及其底层存储软件栈。\nIT之家注：cuFile API 是 NVI...",
+      "title": "Solon I18n：三种解析器，零样板代码",
+      "link": "https://www.oschina.net/news/489637",
+      "summary": "如果你在 Spring Boot 里做过国际化，流程大概是这样的：配 MessageSource 的 Bean、写 ReloadableResourceBundleMessageSource、声明 LocaleResolver、注册 LocaleChangeInterceptor…五六步之后才能看到第一行翻译文本。 Solon 换了个方式。整个 i18n 模块围绕三个解析器、一个注解、一个工具类展...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-07 03:01:52",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "消息称日本将在秋田建设 500MW 数据中心，为该国最大同类设施之一",
+      "link": "https://www.ithome.com/0/986/855.htm",
+      "summary": "\nIT之家 8 月 7 日消息，据《日经亚洲》当地时间今日报道，日本将在本州岛东北部的秋田县秋田市建设一座容量最大可达 500MW 的数据中心，这将成为日本最大同类设施之一。\n秋田县拥有丰富的绿电与水利资源，在建设数据中心上有着天然优势。这座拟议的数据中心预计也将由风力发电驱动。\n\n图源：Pixabay该大型数据中心项目将由美国人工智能初创公司 Bitgrit 和秋田本地企业 S2 牵头，预计耗资...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-06 23:07:10",
+      "pubDate": "2026-08-07 02:44:47",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "6999 元，红魔 11S Pro+ 手机 16GB+512GB 氘锋透明银翼开售",
+      "link": "https://www.ithome.com/0/986/854.htm",
+      "summary": "\nIT之家 8 月 7 日消息，红魔 11S Pro+ 手机 16GB+512GB 氘锋透明银翼近期开售，具体时间为 8 月 7 日 10:00 和 8 月 10 日 10:00，京东平台售价 6999 元。\n\nIT之家注意到，红魔 11S Pro 系列手机于今年 5 月发布，采用纯平背板设计。该系列新机配备 6.85 英寸 1.5K 悟空屏 2.0 真无孔，支持 144Hz 刷新率，屏占比达到 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:43:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "海关总署：今年前 7 个月我国出口机电产品同比增长 21.2%，电动汽车大增 71.2%",
+      "link": "https://www.ithome.com/0/986/853.htm",
+      "summary": "\nIT之家 8 月 7 日消息，据央视新闻报道，海关总署今天公布统计数据显示，今年前 7 个月，我国货物贸易进出口总值 30.13 万亿元，同比增长了 17.3%，延续良好的增长态势。其中，出口 17.44 万亿元，增长 14%；进口 12.69 万亿元，增长 22%。\n7 月当月，进出口 4.66 万亿元，同比增长 19.2%。其中，出口 2.71 万亿元，增长 17.8%，进口 1.95 万亿...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:40:11",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "TONTOU 攻击披露：绕过部分处理器 Spectre v2 缓解措施，可泄露 Linux 敏感数据",
+      "link": "https://www.ithome.com/0/986/852.htm",
+      "summary": "\nIT之家 8 月 7 日消息，科技媒体 bleepingcomputer 昨日（8 月 6 日）发布博文，报道称麻省理工学院计算机科学与人工智能实验室（CSAIL）最新披露 TONTOU 攻击，可以在 AMD 和英特尔处理器上，绕过部分 Spectre v2 缓解措施。\n该攻击全称为 Time-of-Neutralization to Time-of-Use，由实验室博士生 Daniël Tru...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:40:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apache Doris 4.1 全面增强 Iceberg：支持 UPDATE、MERGE INTO 与 Iceberg V3",
+      "link": "https://my.oschina.net/selectdb/blog/19729366",
+      "summary": "Apache Doris 4.1 要补齐的，正是缺失的那一半。在已有查询能力的基础上，Doris 进一步支持了 UPDATE、DELETE、MERGE INTO 等数据修改操作、完整的表结构管理与分区演进，以及 rewrite_data_files、expire_snapshots 等日常维护操作，并完整支持 Iceberg V3 格式。......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:38:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "加油站原地升级为闪充站，比亚迪与中石化合作里程碑项目落地",
+      "link": "https://www.ithome.com/0/986/851.htm",
+      "summary": "\nIT之家 8 月 7 日消息，中国石化与比亚迪今年 6 月在北京签署产业和资本合作框架协议。双方将在闪充网络建设、综合生态融合、产业链上下游协同三大领域推动多层次产业和资本合资合作，共建“万站聚能加油闪充”智慧能源生态。\n据博主 @新能源体验家 今日晒出的图片，中石化沪青平加油站全面关停燃油业务，原址升级比亚迪闪充旗舰站，是中石化与比亚迪战略合作的关键里程碑落地。\n\nIT之家查询发现，中石化上海...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:36:23",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "阿里千问：推出定时任务、办公助理、语音通话等多项新功能",
+      "link": "https://www.ithome.com/0/986/849.htm",
+      "summary": "\nIT之家 8 月 7 日消息，千问 App 今日宣布功能上新，推出思考研究、定时任务、办公助理、语音通话、智能体广场等多项新功能，同时支持最新旗舰模型 Qwen3.8-MAX。\n思考研究\n“思考研究”在原“深度思考”基础上升级，进一步强化复杂推理、工具调用、信息整合与结构化输出能力，能帮助你完成更深入、更细致的研究分析和决策支持。\n比如周会汇报工作前，把资料丢给千问，千问就能根据工作背景和目标、...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:32:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OPPO A7 Pro Max 手机开售：10000mAh 电池、第五代骁龙 4，售价 2199 元起",
+      "link": "https://www.ithome.com/0/986/848.htm",
+      "summary": "\nIT之家 8 月 7 日消息，OPPO A7 Pro Max 手机今日正式开售，售价 2199 元起：\n\n8GB+128GB：售价 2199 元，国补后到手价约 1869.15 元\n12GB+256GB：售价 2699 元，国补后到手价约 2294.15 元\n12GB+512GB：售价 2999 元，国补后到手价约 2549.15 元\n\n\nOPPO A7 Pro Max 手机拥有乘风破浪、前橙似...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:31:21",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "小米“迄今最清晰、最聪明”智能摄像机 4 Max AI 变焦版开售，券后 739 元",
+      "link": "https://www.ithome.com/0/986/847.htm",
+      "summary": "\nIT之家 8 月 7 日消息，小米智能摄像机 4 Max AI 变焦版今日正式开售，号称小米迄今为止「最清晰、最聪明的」智能摄像机，新品到手价 799 元（京东券后 739 元），大模型会员年费 349 元起。\n\nIT之家从商品页面获悉，该机云台支持水平 360 度及垂直 180 度旋转，采用 12Mp 长焦 + 8Mp 广角设计，内置 10 颗红外补光灯，至高可实现 3 倍无损变焦、12 倍混...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:26:19",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "谷歌 Pixel Watch 5 曝光：4 种颜色，升级 3GB 内存",
+      "link": "https://www.ithome.com/0/986/846.htm",
+      "summary": "\nIT之家 8 月 7 日消息，消息源埃文 · 布拉斯（Evan Blass）昨日（8 月 6 日）在 substack 平台发布动态，分享了谷歌 Pixel Watch 5 智能手表的相关宣传图片。\n\n功能方面，宣传图显示 Pixel Watch 5 血氧饱和度（SpO2）监测和房颤检测功能，此外还支持追踪用户睡眠等。\n\n\n\n同时，这款手表将有 41mm/45mm 两种版本，续航分别为 30 小...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:25:12",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "Netlist 与三星电子达成专利纠纷和解，双方构建战略联盟",
+      "link": "https://www.ithome.com/0/986/845.htm",
+      "summary": "\nIT之家 8 月 7 日消息，内存与存储企业 Netlist 美国加利福尼亚州当地时间 5 日宣布，三星电子同意解决并放弃双方之间所有未决的法律诉讼。两家企业还达成了战略联盟合作。\n根据合作文件，两家企业签署了为期五年的专利组合交叉许可、存储产品供应、技术合作协议。三星将获得包括服务器 DIMM 和 HBM 在内的 Netlist 全部专利组合的使用权、三星将向 Netlist 供应 DRAM ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:20:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "PDFsam Basic 6.0.5 发布，PDF 文档多功能处理工具",
+      "link": "https://www.oschina.net/news/489590/pdfsam-basic-6-0-5-released",
+      "summary": "PDFsam Basic 是一款免费的、开源的、跨平台使用的 PDF 文档处理软件，可对 PDF 文件进行分割、合并、提取页面、混合和旋转等处理。 PDFsam Basic v6.0.5 现已发布，具体更新内容包括： JDK 25.0.4 JavaFX 25.0.4 修复了 #856 以提高可读性 重构了日志系统 更新了翻译 修复了与压缩策略UNCOMPRESSED相关的问题 更新说明：......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-07 02:11:29",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+      "link": "https://www.qbitai.com/2026/08/467834.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-07 01:39:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "智元下架了首席科学家罗剑岚",
+      "link": "https://www.qbitai.com/2026/08/467730.html",
+      "summary": "智元机器人高管生变！...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-07 01:25:40",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-07 01:16:55",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a749a84077eac6832213fdf/master/pass/BadKimi.jpg"
+    },
+    {
+      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
+      "link": "https://www.qbitai.com/2026/08/467663.html",
+      "summary": "指环王成为大模型新基准...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-07 01:15:42",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
+      "link": "https://www.qbitai.com/2026/08/467486.html",
+      "summary": "采集、仿真、训练和评测，闭环了...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-07 00:55:47",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "谷歌AI大地震：一天失去四位核心科学家，4.6万亿美元巨头的重构之路",
+      "link": "https://www.tmtpost.com/8094778.html",
+      "summary": "24小时内失去四位核心AI科学家，旗舰模型跳票、现金流转负、Transformer作者全数出走。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-07 00:34:00",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/6240d5fefcdb9119ad945e77b42bd60f_1786062985.png"
+    },
+    {
+      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
+      "link": "https://www.qbitai.com/2026/08/467487.html",
+      "summary": "此后模型、算力、数据中心都在合作范围内...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-07 00:25:07",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Edge AI Daily 早报（8月7日）",
+      "link": "https://www.tmtpost.com/8094750.html",
+      "summary": "Adobe集成ChatGPT开启对话创意；Mirendil押注算力；法国电销禁令；Hugging Face数据危机与对齐裂痕；LG开源回收模型；微软裁员聚焦AI；Prime Agent ARC反超人类；辛顿警告成真，AI自主突破沙箱；谷歌收购Mechanize；苹果Passkey泄露IP；谷歌印度项目环保争议；WindBorne独家数据优势；2.5B模型蒸馏缝合教师优势。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-07 00:24:16",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/ty5465ejyt3.png"
+    },
+    {
+      "title": "【钛晨报】工信部印发民爆行业\"十五五\"规划：2030年生产线危险工序实现无人化，培育3—5家大型企业集团；网信办对派拓公司在华销售产品启动网络安全审查；宇树科技IPO定价150.80元，王兴兴身家有望超200亿元",
+      "link": "https://www.tmtpost.com/8094590.html",
+      "summary": "自变量已秘密递表，估值已突破200亿人民币｜独家；DeepSeek拟上调API服务定价；DeepSeek、腾讯等获宇树科技战略配售；第八代五粮液市场批价近日持续走强；专家辟谣“车市半年发了五六百款新车”；通宇通讯：佳贤通信与英伟达不存在研发合作关系；部分银行房贷利率降至“2字头”，有银行房贷利率低于2.8%；特斯拉与SpaceX拟在得州建设Terafab芯片工厂，初期投资168亿美元...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-06 23:20:00",
+      "category": "chip",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/a340e34ed6c3479715a1be2232ba47f2_1786029021.jpg"
+    },
+    {
+      "title": "Autonomous Driving Rebuilds Itself Around Models That Predict the Physical World",
+      "link": "https://www.tmtpost.com/8094739.html",
+      "summary": "Carmakers and suppliers are moving beyond reactive perception systems toward architectures that simulate cause and effect, combining vision-language understanding with world models in a contest that n...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-06 23:12:03",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35yyjthg3.png"
     },
     {
       "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
@@ -36,28 +278,6 @@
       "thumbnail": ""
     },
     {
-      "title": "OpenAI：ChatGPT 免费用户默认模型升级为 GPT-5.6 Luna，Plus 和 Pro 用户更新聊天界面 GPT-5.6 Sol",
-      "link": "https://www.ithome.com/0/986/776.htm",
-      "summary": "\nIT之家 8 月 7 日消息，OpenAI 宣布对 ChatGPT 进行更新，在提升日常对话体验的同时，为免费用户开放更多功能权限。\n对于 Plus 和 Pro 用户，OpenAI 更新了聊天界面中的 GPT-5.6 Sol 模型，使其回答的事实准确性更高、重点更突出；新增的滑动条可以自由调节 ChatGPT 在生成每条回复时的思考深度。\nIT之家获悉，由于该版本的 GPT-5.6 Sol 专门...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-06 22:52:20",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "古尔曼爆料 OpenAI 首款 AI 硬件：甜甜圈造型、冰球大小，先进语音交互等",
-      "link": "https://www.ithome.com/0/986/775.htm",
-      "summary": "\nIT之家 8 月 7 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 7 日）发布 Power On 实时通讯，爆料称 OpenAI 的首款 AI 硬件为冰球（Hockey Puck，约 115.8 立方厘米）大小，售价预估在 300 美元到 400 美元（IT之家注：现汇率约合 2,029 元到 2,705 元人民币）之间，有望 2027 年发布。\nIT之家注：该产品是...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-06 22:47:09",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker....",
@@ -67,6 +287,17 @@
       "pubDate": "2026-08-06 22:43:53",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+      "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+      "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-08-06 22:20:50",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-500x500.jpg"
     },
     {
       "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
@@ -132,7 +363,7 @@
       "region": "us",
       "pubDate": "2026-08-06 21:15:47",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2259495141.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
@@ -143,7 +374,7 @@
       "region": "us",
       "pubDate": "2026-08-06 20:55:39",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&strip=all&crop=21.6,18.717179294824,78.4,81.282820705176"
     },
     {
       "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
@@ -168,17 +399,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero-500x500.jpg"
     },
     {
-      "title": "海盗船 2026 财年半年报归母净利润 1869.2 万美元，同比扭亏为盈",
-      "link": "https://www.ithome.com/0/986/773.htm",
-      "summary": "\n IT之家 8 月 7 日消息，海盗船今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）及第二财季（2026 年 4 月～2026 年 6 月）报告：\n\n 2026 财年半年报    营业总收入：6.69 亿美元（IT之家注：现汇率约合 45.23 亿元人民币），同比下降 3.05%     毛利润：2.20 亿美元（现汇...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-06 20:14:19",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Anthropic will design its own hardware to power Claude",
       "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
       "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia....",
@@ -198,7 +418,7 @@
       "region": "us",
       "pubDate": "2026-08-06 20:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0133.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Why Normal People Aren’t Using AI Agents",
@@ -256,6 +476,17 @@
       "thumbnail": ""
     },
     {
+      "title": "ProcHub v0.5.0 已经发布，跨平台桌面进程管理应用",
+      "link": "https://www.oschina.net/news/489465",
+      "summary": "ProcHub v0.5.0 已经发布，跨平台桌面进程管理应用。 新增 新增 isAppStoreBuild 标识，通过 VITE_APPSTORE_BUILD 环境变量识别 App Store 发布构建 在 App Store 构建中隐藏版本检测按钮并禁用启动时自动版本检测 优化 将设置页拆分为主题、语言、自启、版本、关于独立子组件 重构进程弹窗组件并新增进程概览统计卡片 ......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-06 19:17:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "Large genome models used to design new viruses",
       "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
       "summary": "The AI system makes genetically distant versions of a bacteria-killing virus....",
@@ -286,7 +517,7 @@
       "region": "us",
       "pubDate": "2026-08-06 18:31:57",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2220152710.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
@@ -330,7 +561,7 @@
       "region": "us",
       "pubDate": "2026-08-06 17:39:43",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Brendan Carr officially unleashes broadcast consolidation",
@@ -341,7 +572,7 @@
       "region": "us",
       "pubDate": "2026-08-06 17:35:38",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP211_BRENDAN_CARR_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "ChatGPT brings unlimited text chats to free users",
@@ -374,7 +605,7 @@
       "region": "us",
       "pubDate": "2026-08-06 17:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "TikTok blames ‘moderator error’ on slow response to Perez Hilton livestream",
@@ -385,7 +616,7 @@
       "region": "us",
       "pubDate": "2026-08-06 16:41:25",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2166394086.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
@@ -421,17 +652,6 @@
       "thumbnail": "https://media.wired.com/photos/6a748489077eac6832213fd9/master/pass/AICyclone.jpg"
     },
     {
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-08-06 16:15:30",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Cloudflare-logo-500x500.jpg"
-    },
-    {
       "title": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill",
       "link": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
       "summary": "\nAlibaba released Qwen 3.8-Max this week and marketed the preview as second only to Claude Fable 5 (their launch-day table was more equivocal: the model leads on one of 12 coding-agent rows). But an i...",
@@ -440,17 +660,6 @@
       "region": "us",
       "pubDate": "2026-08-06 16:11:47",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "今日立秋：风吹一片叶，万物已惊秋",
-      "link": "https://www.ithome.com/0/986/771.htm",
-      "summary": "\nIT之家 8 月 7 日消息，今天是立秋，是二十四节气中的第十三个节气，也是秋天的第一个节气，时间处在每年的 8 月 7 日至 9 日。\n立秋，顾名思义，就是暑去秋来，立秋过后，虽然暑热仍然会继续，但天气的整体趋势是慢慢向凉爽过度的，民间也有“一场秋雨一场凉”的说法。\n\n立秋时节\n每年 8 月 7 日或 8 日，太阳到达黄经 135° 时为立秋，其中“立”为开始的意思，“秋”为庄稼成熟的时期。中...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-06 16:00:00",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -465,17 +674,6 @@
       "thumbnail": "https://media.wired.com/photos/6a70fa5528d62484079ebaf8/master/pass/080326-eating-disorders-armchair-diagnois.jpg"
     },
     {
-      "title": "福特“性价比电动皮卡”Fathom 官宣：车内空间比丰田 RAV4 大，28350 美元起售",
-      "link": "https://www.ithome.com/0/986/770.htm",
-      "summary": "\nIT之家 8 月 6 日消息，北京时间今天（6 日）晚间，福特公布了下一代电动皮卡的名称、价格和更明确的上市时间。新车定名 Fathom，预计明年晚些时候推出，起售价为 28,350 美元（IT之家注：现汇率约合 19.2 万元人民币）。\nFathom 是福特全新纯电平台“Universal EV Platform”诞生的首款车型，也将承担重振电动车业务的重任。目前，大型电动皮卡 F-150 L...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-06 15:49:39",
-      "category": "auto",
-      "thumbnail": ""
-    },
-    {
       "title": "Apple increases trade-in offers and adds new Android devices",
       "link": "https://www.theverge.com/tech/976210/apple-trade-in-values-increased",
       "summary": "Apple bumped up its trade-in offers for iPhones, iPads, Macs, Apple Watches, and certain Android phones, with some devices now worth over $100 more, 9to5Mac reports. The Mac Studio's trade-in value in...",
@@ -484,7 +682,7 @@
       "region": "us",
       "pubDate": "2026-08-06 15:47:15",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0028.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "AI agents are part of your team now. Here’s how to secure all of them.",
@@ -498,39 +696,6 @@
       "thumbnail": ""
     },
     {
-      "title": "即日起，ChatGPT 可以调用 Adobe Photoshop、Lightroom 来修图、设计了",
-      "link": "https://www.ithome.com/0/986/769.htm",
-      "summary": "\nIT之家 8 月 6 日消息，Adobe 去年底借助 OpenAI 的 Apps SDK，把 Photoshop、Acrobat 和 Adobe Express 带入 ChatGPT。时间来到今天（6 日），合作范围得到进一步扩大，新推出的 Adobe 插件几乎涵盖旗下整套创意软件。\n用户安装插件后，可以直接在 ChatGPT 中调用 Photoshop、Premiere、Acrobat、Lig...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-06 15:28:31",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "放弃 x86 独占：Proxmox VE 9.2 发布并首次支持 Arm64 架构",
-      "link": "https://www.ithome.com/0/986/768.htm",
-      "summary": "\nIT之家 8 月 6 日消息，开源虚拟化平台 Proxmox Virtual Environment 于当地时间 8 月 5 日宣布推出 9.2 版本并正式支持 arm64/aarch64 架构，标志着该平台首次脱离 x86-64 体系。\nArm64 版本并非社区移植项目或实验性预览版本，而是与 x86-64 版本采用相同代码基础、软件仓库、版本生命周期、配置工具以及官方文档体系的正式版本。\nP...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-06 15:23:12",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "4v4 团队格斗游戏《漫威斗魂》发售，Steam 国区 298 元起",
-      "link": "https://www.ithome.com/0/986/767.htm",
-      "summary": "\nIT之家 8 月 6 日消息，集结传奇漫威角色的 4v4 团队格斗游戏《漫威斗魂》今日正式登陆 Steam 平台，本作由知名格斗游戏开发商 ARC SYSTEM WORKS 制作，PlayStation Publishing LLC 发行，国区售价 298 元起。IT之家附游戏商品页（https://store.steampowered.com/app/3787240/_/?l=schinese...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-06 15:14:00",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
       "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
       "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
       "summary": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio...",
@@ -539,7 +704,7 @@
       "region": "us",
       "pubDate": "2026-08-06 14:30:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/softbank-ohio-data-center.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "医疗保健股遭遗忘，礼来、麦克森等11只值得买入的股票",
@@ -550,7 +715,7 @@
       "region": "cn",
       "pubDate": "2026-08-06 13:25:56",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/43t5y6jytfeb3.png"
     },
     {
       "title": "股东精准减持1.4亿后，业绩重压下魅视科技紧急跨界磷化铟",
@@ -561,7 +726,7 @@
       "region": "cn",
       "pubDate": "2026-08-06 12:55:12",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/c81e2ae6a3d78d04e1a7daea583a87d5_1786020915.jpg"
     },
     {
       "title": "宇树600亿上市，具身赛道有了定价之锚",
@@ -572,7 +737,7 @@
       "region": "cn",
       "pubDate": "2026-08-06 12:33:44",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/8b0eab23b1c26fe5b23f0be75130f8f2_1786019626.png"
     },
     {
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
@@ -583,7 +748,7 @@
       "region": "us",
       "pubDate": "2026-08-06 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/04/2_digitalselves_photocredit_JonathanReus.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "百济神州中报超预期交卷：泽布替尼登顶全球，为何股价高开低走丨看财报",
@@ -594,7 +759,7 @@
       "region": "cn",
       "pubDate": "2026-08-06 12:07:47",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/931bc2c22eabb2ee853e0710b2ccfa2d_1786018070.png"
     },
     {
       "title": "5 Best AI Notetakers (2026), Tested and Reviewed",
@@ -616,7 +781,7 @@
       "region": "cn",
       "pubDate": "2026-08-06 12:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/2815caad2f6e2f136f0bc679239c1b69_1786026637.jpg"
     },
     {
       "title": "Meteor Showers, Eclipses, and More Are on the August 2026 Astronomical Calendar",
@@ -671,7 +836,7 @@
       "region": "cn",
       "pubDate": "2026-08-06 11:13:43",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/4c6bd016a5f42485af4be8898c08e168_1786014826.png"
     },
     {
       "title": "让非法状态不可表示：一篇关于 ADT 的帖子在 Reddit 火了",
@@ -682,39 +847,6 @@
       "region": "cn",
       "pubDate": "2026-08-06 11:05:28",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Samsung Odyssey G8 6K Review: Pixel Overdose",
-      "link": "https://www.wired.com/review/samsung-g8-g80hs/",
-      "summary": "Samsung dared to bring 6K to the world of gaming monitors before our PCs were truly ready for it....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-06 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a741d32acdf56f645ad1ab8/master/pass/Review--Samsung-G8-6K-Gaming-Monitor.jpg"
-    },
-    {
-      "title": "独家｜自变量已秘密递表，第三代机器人将在Q4面市",
-      "link": "https://www.tmtpost.com/8094329.html",
-      "summary": "据投行人士称，目前排队等在港交所外的具身智能企业众多，自变量机器人是唯一一个主打全栈自研端到端具身模型的机器人厂商。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-06 10:35:00",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI原生组织：谁思考、谁执行、谁负责、谁进化",
-      "link": "https://www.tmtpost.com/8094183.html",
-      "summary": "这是这个时代背景下企业管理者必须回答的问题，也是一场每个人都无法回避的时代大考。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-06 10:23:00",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -729,24 +861,13 @@
       "thumbnail": ""
     },
     {
-      "title": "一扇门被关上，中国具身智能产业正破窗",
-      "link": "https://www.tmtpost.com/8093205.html",
-      "summary": "美国一道禁令关掉了出口的大门，反倒让中国具身智能产业摆脱了对单一市场的依赖，在看得到未来的新发展窗口里，既有中国制造供应链打磨的“身体”，也有在本土与非美场景中不断训练迭代的“大脑”，长期来看，中美具身产业间的这场关于智能与效率的竞争，或将进入深水区。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
+      "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
+      "link": "https://www.qbitai.com/2026/08/467478.html",
+      "summary": "正式公开了安卓液态玻璃设计的完整技术底座...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-08-06 10:15:04",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "哥伦比亚也该把山浩拉到中国溜溜了",
-      "link": "https://www.tmtpost.com/8094175.html",
-      "summary": "“捡漏”式增长?...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-06 10:07:31",
+      "pubDate": "2026-08-06 09:58:21",
       "category": "other",
       "thumbnail": ""
     },
@@ -762,24 +883,24 @@
       "thumbnail": ""
     },
     {
-      "title": "Python 3.14.7 和 3.13.15 发布",
-      "link": "https://www.oschina.net/news/489060/python-3147-31315",
-      "summary": "Python 3.14.7 现已发布，这是 3.14 的第七个维护版本；自 3.14.6 以来，包含约 499 项错误修复、构建改进和文档更改。Python 3.13.14 是 3.13 的第十五个维护版本，自 3.13.14 以来，包含了大约 400 个错误修复、构建改进和文档更改。 下载： python.org/downloads/release/python-3147 python.org/...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
+      "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
+      "link": "https://www.qbitai.com/2026/08/467447.html",
+      "summary": "Jeff Dean用大脑挖比特币...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-08-06 08:34:58",
+      "pubDate": "2026-08-06 08:02:45",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "Deno 团队开源 Celld，可自托管的分布式 Durable Objects",
-      "link": "https://www.oschina.net/news/488974",
-      "summary": "Ryan Dahl 领导的 Deno 团队推出了最新开源项目 Celld，一个能在自己机器上运行 Cloudflare Workers 和 Durable Objects 的守护进程。 设计思路很直接：每个对象是一个独立的 SQLite 数据库，按名称寻址，复制到你自己的 S3 兼容存储库里。节点之间只通过这个存储库协调——没有控制平面，没有共识协议。每个对象自带一个......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
+      "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
+      "link": "https://www.qbitai.com/2026/08/467444.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-08-06 07:10:27",
+      "pubDate": "2026-08-06 07:43:56",
       "category": "other",
       "thumbnail": ""
     },
@@ -795,36 +916,25 @@
       "thumbnail": ""
     },
     {
-      "title": "Zed 推出 DeltaDB，一个记录 commit 之间所有操作的版本控制系统",
-      "link": "https://www.oschina.net/news/488964",
-      "summary": "Zed 编辑器团队发布了新项目——DeltaDB，一个在 git commit 之间记录每一次编辑操作的版本控制系统。目前处于 Early Access 阶段。 DeltaDB 的核心思路直接写在 landing page 最显眼的位置：「Software is made between commits」——软件是在 commit 之间写出来的。git 只记录了你提交的最终状态，但真正的工作过程—...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
+      "title": "这人谁啊？哈萨比斯都让位了",
+      "link": "https://www.qbitai.com/2026/08/467274.html",
+      "summary": "没想到还有LeCun的事儿...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-08-06 06:58:33",
+      "pubDate": "2026-08-06 06:17:43",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "SpaceXAI 单季资本开支达 183 亿美元",
-      "link": "https://www.oschina.net/news/488955",
-      "summary": "根据风险投资人Tomer Tunguz 博客（VC 分析）披露的最新分析与第二季度业绩报告，SpaceXAI在上个季度的总资本支出飙升至183.7亿美元。其中，绝大部分资金被直接用于 AI 领域，金额高达158.3亿美元，这一单项投入已经逼近微软同期总资本开支的四成。 与亚马逊、Alphabet、微软以及 Meta 等传统科技巨头相比，SpaceXAI的资......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
+      "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
+      "link": "https://www.qbitai.com/2026/08/467270.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-08-06 06:47:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "小米正式开源自研具身基座模型 Xiaomi-Robotics-1",
-      "link": "https://www.oschina.net/news/488953/xiaomi-robotics-1",
-      "summary": "1000个机器人训练场景，1700种物体，10万小时。 2026年8月5日，小米技术官微发了一条帖子：自研的具身基座模型 Xiaomi-Robotics-1 正式开源。这不是一个为了PR放出来的半成品——它在4个主流机器人操作benchmark上干掉了Pi0、Gemma3、Qwen2.5-VL，其中RoboDojo高了58.3%，VLABench高出第二名11.1个百分点。 说它是\"家底\"......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-06 06:43:00",
-      "category": "robot",
+      "pubDate": "2026-08-06 05:36:37",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -880,7 +990,7 @@
       "region": "us",
       "pubDate": "2026-08-05 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/01/vitalist_master.jpg?w=840"
+      "thumbnail": ""
     },
     {
       "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
@@ -902,7 +1012,7 @@
       "region": "us",
       "pubDate": "2026-08-04 12:14:00",
       "category": "ai",
-      "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f491.png"
+      "thumbnail": ""
     },
     {
       "title": "Trump’s AI protectionism has come for robotics",
@@ -924,7 +1034,7 @@
       "region": "us",
       "pubDate": "2026-08-03 12:08:00",
       "category": "ai",
-      "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f453.png"
+      "thumbnail": ""
     },
     {
       "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -946,7 +1056,7 @@
       "region": "us",
       "pubDate": "2026-07-31 12:16:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MA25-ota-01.jpg?w=840"
+      "thumbnail": ""
     },
     {
       "title": "Montana’s new “right to try” law can’t come soon enough for some",
@@ -957,7 +1067,7 @@
       "region": "us",
       "pubDate": "2026-07-31 09:00:00",
       "category": "other",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/family-inset.jpg?w=840"
+      "thumbnail": ""
     }
   ]
 }
