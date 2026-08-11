@@ -1,50 +1,369 @@
 {
-  "updateTime": "2026-08-11T02:09:35.253Z",
+  "updateTime": "2026-08-11T04:24:34.798Z",
   "total": 107,
   "news": [
     {
-      "title": "5000亿美元算力融资：英伟达把GPU变成了华尔街可投资资产",
-      "link": "https://www.tmtpost.com/8098476.html",
-      "summary": "黄仁勋亲赴华尔街，六家巨头无一拒绝。...",
+      "title": "当AI成为中间介质，究竟是谁在帮品牌讲故事？",
+      "link": "https://www.tmtpost.com/8097477.html",
+      "summary": "AI已经开始深度参与消费决策，推荐会如何发生，往往取决于大模型如何认知品牌，而GEO（生成式引擎优化）要做的，是介入这一过程，重构与消费者对话的叙事方式。...",
       "source": "钛媒体",
       "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-08-11 01:04:43",
+      "pubDate": "2026-08-11 04:07:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "拼多多上线“最快明天达”，主要面向多多买菜业务",
+      "link": "https://www.tmtpost.com/8098781.html",
+      "summary": "此次上线的“最快明天达”仅涉及多多买菜业务，品类覆盖水果生鲜、日用百货等。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:52:06",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "为应对 HBM 短缺，消息称英伟达 Rubin Ultra 测试 192GB/256GB HBM4 版本",
+      "link": "https://www.ithome.com/0/988/231.htm",
+      "summary": "\nIT之家 8 月 11 日消息，科技媒体 The Information 昨日（8 月 10 日）发布博文，报道称英伟达为应对先进 HBM（高带宽内存）芯片短缺问题，正计划为 Rubin Ultra 加速器规划更低配置版本。\n在 2026 年 GTC 大会上，英伟达黄仁勋展示了 Rubin Ultra 计算托架实物，其中搭载了 4 个计算芯片以及 1TB 的 HBM4E 显存。单颗 GPU 采用...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:45:03",
       "category": "chip",
       "thumbnail": ""
     },
     {
-      "title": "Edge AI Daily 早报（8月11日）",
-      "link": "https://www.tmtpost.com/8098420.html",
-      "summary": "Anthropic未发布Claude将黎曼零点下限提升至67.2%，AI首次纯数学原创贡献。Meta开源Muse Glimmer，30B参数本地运行。用户反AI情绪蔓延，平台限制AI内容，数据中心抗议致1300亿美元项目推迟。Atlassian Rovo漏洞严重。微软涨价7%-10%，PC出货下滑。美国提升阿联酋芯片准入。OpenAI研发新底座Doug。英伟达开源语音模型。GitHub Model...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
+      "title": "Navitas 起诉瑞萨氮化镓 (GaN) 产品侵权，化合物半导体专利战升温",
+      "link": "https://www.ithome.com/0/988/230.htm",
+      "summary": "\nIT之家 8 月 11 日消息，功率半导体企业 Navitas（纳微）当地时间 10 日宣布，已在美国得克萨斯州东区地区法院对 Renesas（瑞萨）提起专利侵权诉讼，指控瑞萨的主要氮化镓 (GaN) 产品线侵犯了该企业的多项该领域美国专利。\n\nNavitas 总裁兼首席执行官 Chris Allexandre 表示：\n\nNavitas 是氮化镓领域早期创新者和领导者，正在成功把握高功率解决方案...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-11 00:13:55",
+      "pubDate": "2026-08-11 03:41:36",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "通过知识截止日期，反向推断 AI 模型的真实训练时间线",
+      "link": "https://www.oschina.net/news/492855/exploring-claudegpt-knowledge-cutoffs",
+      "summary": "开发者写了一篇博客，通过分析 Claude 和 GPT 系列模型的知识截止日期，来推断它们的实际预训练时间线。方法很简单：问模型一系列事件发生在什么时候，看它知道什么、不知道什么，从中画出知识边界。 结果发现了一些有趣的模式。模型的知识截止日期并不总是与官方给出的版本号匹配——有时一个模型声称是某个版本，但知识......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:39:52",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "【钛晨报】央行印发\"十五五\"改革发展规划，配套九份行动方案、部署五大重点任务；微软计划最快9月发布其下一代MAIA 300人工智能芯片；阿里云计划将全球数据中心产能提升两倍以上",
-      "link": "https://www.tmtpost.com/8098284.html",
-      "summary": "宇树科技：科创板IPO网上发行最终中签率0.0181%；英特尔宣布拟议的150亿美元普通股发行计划；Meta发布轻量化AI模型，单张显卡即可运行；花旗Q2持仓市值突破3000亿美元，大举增持半导体产业链；7月IPO注册批文创年内单月新高，北交所占比过半；近200家硅谷初创企业反对限制中国开源模型；《煤炭工业发展“十五五”规划》、《生态保护“十五五”规划》印发...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
+      "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+      "link": "https://www.qbitai.com/2026/08/469880.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-08-10 23:20:00",
+      "pubDate": "2026-08-11 03:37:31",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "国产大飞机 C919 明日执飞首个国际商业航班，北京首都⇌乌兰巴托",
+      "link": "https://www.ithome.com/0/988/229.htm",
+      "summary": "\nIT之家 8 月 11 日消息，中国国际航空今日宣布，明天（8 月 12 日），国航 C919 的第 12 条航线（北京⇌蒙古国首都乌兰巴托）即将开启 —— 这也是 C919 的首个国际商业航班。\n截至目前，国航已累计引进 C919 飞机 12 架，开通国内航线 11 条。\n\nIT之家查询获悉，C919 的首个国际商业航班号为 CA723，计划于 8 月 12 日 15:00 从北京首都飞往乌兰...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:32:34",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "HKC 推出“神盾 27U165B”27 英寸显示器：4K 165Hz / FHD 320Hz 双模 QD-Mini LED，3199 元",
+      "link": "https://www.ithome.com/0/988/228.htm",
+      "summary": "\nIT之家 8 月 11 日消息，HKC 现已在京东上架“神盾 27U165B”27 英寸显示器，该机主打 4K 165Hz / FHD 320Hz，定价为 3199 元。\n\n该机配备的 2304 分区 QD-Mini LED 背光 Fast IPS 面板支持以 4K 165Hz 或 FHD 320Hz 显示，其 SDR 亮度 550 尼特，HDR 亮度 1400 尼特，响应速度 1ms，支持 1...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:31:08",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "报告称超 70% 美国人反对建设 AI 数据中心，7 月禁令数激增至 500+ 个",
+      "link": "https://www.ithome.com/0/988/227.htm",
+      "summary": "\nIT之家 8 月 11 日消息，科技媒体 The Information 昨日（8 月 10 日）发布博文，报道称美国公众反对建设 AI 数据中心的声浪持续增强，调查称超过 70% 的美国人反对 AI 数据中心。\n该媒体分析美国各州政府公示的法律文件和地方新闻报道，指出在 2026 年 7 月美国各地禁止新建数据中心的禁令数量激增至 500 多个，而今年 6 月相关禁令数量为 300 多个。\n报...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:22:37",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "Franchise Operators Struggle as Meituan and Alibaba Densify Instant Neighborhood Depots",
-      "link": "https://www.tmtpost.com/8098406.html",
-      "summary": "Individual investors pour savings into tight-knit networks of rapid-delivery stores that major platforms need for urban dominance, only to confront oversaturation, thin margins, and the steady pressur...",
+      "title": "扎克伯格发表万字长文，要重新定义「超级智能应该属于谁」",
+      "link": "https://www.oschina.net/news/492836/meta-zuck-thefutureisforeveryone",
+      "summary": "8月10日，扎克伯格在 Meta 官网发了一篇文章，标题叫《The Future is for Everyone》。这不是一篇产品发布公告，也不是一次技术路线说明。这是一篇超过 8000 字的哲学宣言。 它要回答的问题只有一个：当超级智能变得比人类更强，它应该被谁掌控？ 扎克伯格的答案直接写在标题里——属于所有人。但一万字的篇幅意味着他要......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:19:22",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "九州风神推出 LCD 版 CH690 机箱：集成 7\" 1024×600 LCD，899 元",
+      "link": "https://www.ithome.com/0/988/226.htm",
+      "summary": "\nIT之家 8 月 11 日消息，九州风神 (DeepCool) 此前曾推出过 DIGITAL 数显版 CH690 机箱，现在这家企业又带来了 LCD 屏显版本。新的 CH690 LCD 机箱售价 899 元。\n\nCH690 LCD 整体采用上下分舱布局和无左前柱双面侧透设计，主舱底部包含 ARGB 灯带，左侧前方集成了一块 7\" 1024×600 500nits 规格的 LCD 显示模组。该屏幕...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:16:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "对话橡木果机器人姜峣：让机器人像人一样，凭“本能”干活",
+      "link": "https://www.tmtpost.com/8098687.html",
+      "summary": "触觉是第一“目击者”，视觉只是旁观者。...",
       "source": "钛媒体",
       "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-08-10 23:05:02",
+      "pubDate": "2026-08-11 03:15:30",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "小米 REDMI 投影仪 5 标准版发售：1080P 400 CVIA 流明，999 元",
+      "link": "https://www.ithome.com/0/988/225.htm",
+      "summary": "\nIT之家 8 月 11 日消息，小米 REDMI 投影仪 5 标准版现已在有品（点此访问）发售，标准价 1299 元，首发价 999 元。\n\n\n该投影仪延续米家产品线简约现代风格，整体造型圆润，配备了一体式金属云台，支持 360° 调节。其搭载了定制密闭式光机，提供 1080P 物理分辨率，拥有 400 流明 CVIA 亮度及 1.2:1 的投射比，配备了 ToF 激光感知模组，结合无感自动对焦...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:14:03",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "link": "https://www.qbitai.com/2026/08/469869.html",
+      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:11:12",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "上千家企业参展、规模再创新高，2026 中国摩博会 9 月 19 日在重庆开幕",
+      "link": "https://www.ithome.com/0/988/222.htm",
+      "summary": "\nIT之家 8 月 11 日消息，中国摩托车商会今日宣布，第二十四届中国国际摩托车博览会（以下简称中国摩博会）将于 2026 年 9 月 19 日-22 日在重庆国际博览中心举行。展会同期，2026 中国摩托车重庆论坛将于 9 月 19 日举办。\n\n作为我国唯一的国家级摩托车专业博览会，中国摩博会创办于 2002 年，历经二十三年的发展，成为全球摩托车新产品、新技术的重要发布平台。\nIT之家从公告...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:07:35",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "豆包多收 4% 佣金：AI 流量贵在哪？",
+      "link": "https://www.tmtpost.com/8098474.html",
+      "summary": "字节开始收租，阿里还在招商。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:03:32",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "三星 Galaxy S26 等手机有望迎原生深色应用图标",
+      "link": "https://www.ithome.com/0/988/221.htm",
+      "summary": "\nIT之家 8 月 11 日消息，科技媒体 sammyguru 昨日（8 月 10 日）发布博文，通过挖掘 v1.3.07.3791 版 Nearby Device 应用程序，三星计划在 One UI 9.5 更新中，为应用引入原生深色主题图标。\n在手机视觉体验上，Galaxy 手机用户遇到的问题之一，就是在深色主屏和壁纸上，应用图标仍保留白色背景，夜间使用时显得突兀。三星原生界面此前不会根据主题...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-11 03:02:28",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "国产FPGA，机会来了",
+      "link": "https://www.tmtpost.com/8098056.html",
+      "summary": "FPGA供给收紧，国产厂商迎来良机。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-11 02:53:23",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "我国第四艘 075 两栖攻击舰“湖北舰”通过全训考核，形成整体作战能力",
+      "link": "https://www.ithome.com/0/988/220.htm",
+      "summary": "\nIT之家 8 月 11 日消息，据央视新闻今日报道，全训考核是海军舰艇从新舰入列到全面形成战斗力的关键一步。近日，075 型两栖攻击舰湖北舰，顺利通过南部战区海军组织的全训考核，形成了平台整体作战能力。\n\n抵达训练海域后，湖北舰随即展开舰炮对空抗击课目考核。火控系统操作舰炮对目标进行跟踪；射击指挥员下发射击诸元；操作手锁定目标开火，成功击落靶机。\n随后，考核组又下达“蛙人渗透”特情。官兵们迅速布...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-11 02:50:24",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta 发布 30B 参数的本地开放权重模型 “Muse Glimmer”",
+      "link": "https://www.oschina.net/news/492790/meta-muse-glimmer-open-agentic-model",
+      "summary": "Meta 的 Superintelligence Labs 昨天放出了一个 30B 参数的开源模型，叫 Muse Glimmer。Apache 2.0 许可，单张消费级 GPU 就能跑。 这个数字放在今天有点反常。30B 在 2024 年算是大模型，到了 2026 年中，大家已经习惯了千亿甚至万亿参数，Mythos 5 是 8 万亿，字节跳动在训 10 万亿。Meta 在这个节点推一个 30B 的...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-11 02:38:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "只失业了一秒钟！离开谷歌后，“AI教父”创业了",
+      "link": "https://www.tmtpost.com/8098009.html",
+      "summary": "Jeff Dean告别谷歌，创办Discovery Loop。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-11 02:31:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "宇树IPO，谁都输不起",
+      "link": "https://www.tmtpost.com/8098378.html",
+      "summary": "一次不能输的样板工程。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-11 02:09:20",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "算法费减免为0，元气森林鲸吞无人零售？",
+      "link": "https://www.tmtpost.com/8097996.html",
+      "summary": "四年不披露营收后，元气森林把增长押给货柜。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-11 02:09:18",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026，跨境电商奔向“Agent 2 Agent”时刻",
+      "link": "https://www.tmtpost.com/8098002.html",
+      "summary": "选好AI，做好新电商的第一步。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-11 02:09:16",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "找人！OSCHINA 技术影响力合伙人计划「交付之星」评选启动",
+      "link": "https://www.oschina.net/news/492760",
+      "summary": "自 2026 年 3 月「OSCHINA 技术影响力合伙人计划」启动以来，OSCHINA 已招募、链接到了近百位来自各大技术生态的社区级专家，他们活跃在 OSChina.net ，无私分享自己的开发灵感、技术链路，以及超越“程序员”这三个字于生活上的处事经学...... 在此，我们非常感谢大家，同时也希望在未来的日子里—— 一路前行！ 当然，......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-11 01:56:21",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI吃掉SaaS利润后：Zoho为什么自研服务器",
+      "link": "https://www.tmtpost.com/8098550.html",
+      "summary": "一家成立30年的软件企业，在AI时代切入硬件研发赛道。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-11 01:54:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+      "link": "https://www.qbitai.com/2026/08/469860.html",
+      "summary": "三视角世界模型谁更稳?...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-11 00:46:23",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "summary": "San Francisco's housing market is in trouble again....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-11 00:03:18",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-10 23:56:15",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
+      "link": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
+      "summary": "\nEarlier today, OpenAI launched GPT-5.6-Cyber, a specialized model designed to perform advanced vulnerability research and exploit development for approved defenders — including categories of work tha...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-10 23:53:23",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jeff Bezos might finally get his hands on a sports team",
+      "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+      "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-10 23:16:44",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Now Rippling is counter-suing tiny startup Runlayer",
+      "link": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+      "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-10 22:26:54",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holdi...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-10 22:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
@@ -56,6 +375,17 @@
       "pubDate": "2026-08-10 21:20:04",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Anker’s travel charger works in almost any country and is down to $20",
+      "link": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
+      "summary": "If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from our ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-10 21:18:15",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/anker_travel1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
@@ -168,94 +498,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
-      "link": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
-      "summary": "Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-10 18:00:39",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "苹果 iOS/iPadOS 18.7.10 正式版发布",
-      "link": "https://www.ithome.com/0/988/067.htm",
-      "summary": "\n IT之家 8 月 11 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.10 更新（内部版本号：22H373），本次更新距离上次发布正式版间隔 98 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 \n 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-10 17:58:13",
-      "category": "robot",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2022/4/415e6b6f-de4b-468d-be0e-b92e95688ee8.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
-    },
-    {
-      "title": "苹果 macOS 26.6.2 正式版发布",
-      "link": "https://www.ithome.com/0/988/066.htm",
-      "summary": "\n IT之家 8 月 11 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6.2 更新（内部版本号：25G82），本次更新距离上次发布正式版间隔 14 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 \n 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 26 发布历史： \n20...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-10 17:58:12",
-      "category": "robot",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/12/a7f18aa0-8a31-4d67-965a-febba272993f.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
-    },
-    {
-      "title": "苹果 iOS/iPadOS 26.6.1 正式版发布",
-      "link": "https://www.ithome.com/0/988/065.htm",
-      "summary": "\n IT之家 8 月 11 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6.1 更新（内部版本号：23G82），本次更新距离上次发布正式版间隔 14 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 \n 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/i...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-10 17:58:12",
-      "category": "robot",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2025/12/d0e15ea8-5fc4-406b-a093-9f0f02aee587.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
-    },
-    {
-      "title": "苹果 watchOS 27.0 开发者预览版 Beta 5 发布",
-      "link": "https://www.ithome.com/0/988/064.htm",
-      "summary": "\n 【点此直达升级教程】 \n IT之家 8 月 11 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 5 更新（内部版本号：24R5347a），本次更新距离上次发布 Beta/RC 间隔 20 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-10 17:58:12",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2022/4/8bd386fb-ecc7-474d-bd95-4c69ba122e7a.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
-    },
-    {
-      "title": "苹果 visionOS 27.0 开发者预览版 Beta 5 发布",
-      "link": "https://www.ithome.com/0/988/063.htm",
-      "summary": "\n IT之家 8 月 11 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 5 更新（内部版本号：24M5348b），本次更新距离上次发布 Beta/RC 间隔 20 天。  \n 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n 本文由机器人发布，IT之家稍后将为大家带来...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-10 17:58:11",
-      "category": "robot",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2024/2/0a176a39-e916-49c8-ba8b-1241019bd125.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "苹果 macOS 27.0 开发者预览版 Beta 5 发布",
-      "link": "https://www.ithome.com/0/988/062.htm",
-      "summary": "\n IT之家 8 月 11 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 5 更新（内部版本号：26A5406e），本次更新距离上次发布 Beta/RC 间隔 21 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-10 17:58:11",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2022/4/43319a24-e228-40a9-9047-44c5a77893d4.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
-    },
-    {
-      "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 5 发布",
-      "link": "https://www.ithome.com/0/988/061.htm",
-      "summary": "\n 【点此直达升级教程】 \n IT之家 8 月 11 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 5 更新（内部版本号：24A5408d），本次更新距离上次发布 Beta/RC 间隔 21 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple B...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-10 17:58:10",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2022/4/415e6b6f-de4b-468d-be0e-b92e95688ee8.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100"
-    },
-    {
       "title": "What to expect from Google’s 2026 Pixel hardware launch event",
       "link": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
       "summary": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartp...",
@@ -311,17 +553,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-10 16:20:13",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Valve slowly expands SteamOS support on non-Valve hardware",
       "link": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
       "summary": "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others....",
@@ -331,17 +562,6 @@
       "pubDate": "2026-08-10 16:01:04",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/powered-by-steam-os-500x500-1786375747.jpg"
-    },
-    {
-      "title": "Meta 扎克伯格：美国若想取得开源 AI 领先，就得减少政策障碍",
-      "link": "https://www.ithome.com/0/988/059.htm",
-      "summary": "\nIT之家 8 月 10 日消息，据路透社报道，Meta CEO 马克 · 扎克伯格呼吁美国减少开源 AI 面临的政策障碍，以便更好地与中国竞争对手抗衡。\n今天早些时候，Meta 发布了新的开放权重模型 Muse Glimmer，更多模型很快也将推出。与竞争对手的顶尖 AI 模型相比，Muse Glimmer 规模更小，定位也有所不同。模型可以在只有一张显卡的 Mac 或 PC 上运行智能体任务，...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-10 15:46:58",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
@@ -355,39 +575,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/googleplay-500x500-1759849988.jpeg"
     },
     {
-      "title": "华为 MatePad Edge 鸿蒙二合一平板电脑开启 HarmonyOS 7 花粉 Beta 招募",
-      "link": "https://www.ithome.com/0/988/058.htm",
-      "summary": "\nIT之家 8 月 10 日消息，据博主 @Adak封狼居胥 消息，华为 MatePad Edge 鸿蒙二合一平板电脑今日开启 HarmonyOS 7 花粉 Beta 招募。\n\nIT之家附招募详情：\n\n招募时间：2026 年 8 月 10 日\n适配机型：\n\n报名方式：设置＞搜索“软件更新”（右上角: : ）＞升级尝鲜\n审核周期：提交报名信息后，预计于 7 个工作日内完成审核\n\n\n相关阅读：\n《鸿蒙...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-10 15:38:32",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/3e8bd687-8e5b-4f2b-9cff-33a0dc868f60.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "宝马最新研究：先进技术可回收报废车辆 51% 材料，并用于新车",
-      "link": "https://www.ithome.com/0/988/057.htm",
-      "summary": "\nIT之家 8 月 10 日消息，据外媒 BMW Blog 今天（10 日）晚间报道，宝马集团及合作伙伴开展的 Car2Car 研究项目显示，报废汽车中真正能够重新用于新车制造的材料比例，还有提升空间。\nCar2Car 项目研究如何让报废车辆中的钢、铝、铜、塑料和玻璃重新进入汽车生产体系。采用更先进的处理和分选技术后，宝马定义的“Car2Car 回收率”从 6% 提高到了 51%。\nIT之家注：这...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-10 15:30:23",
-      "category": "energy",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/299ebf54-c84a-4903-b253-3716243e97c2.png"
-    },
-    {
-      "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
-      "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
-      "summary": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington state....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-10 15:22:42",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
       "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
       "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter...",
@@ -396,29 +583,7 @@
       "region": "us",
       "pubDate": "2026-08-10 15:19:05",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "字节高调转To B，为何回避To B主舞台？",
-      "link": "https://www.tmtpost.com/8098332.html",
-      "summary": "当战略口号、组织动作、市场行为三者错位，是转型期的正常阵痛，还是内在矛盾无法消解的显性征兆？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-10 15:13:52",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Archer buys former rival Wisk Aero",
-      "link": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
-      "summary": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-10 15:09:39",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "One of China's workhorse rockets just exploded in flight",
@@ -452,17 +617,6 @@
       "pubDate": "2026-08-10 15:00:00",
       "category": "ai",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-Friday-Night-Immersive-Baseball.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "英伟达、礼来和迪士尼印证：是时候押注那些领头羊了",
-      "link": "https://www.tmtpost.com/8098338.html",
-      "summary": "投资者仍然相当谨慎，以至于他们只愿意买入那些已经被证明是赢家的标的，因此在当下押注热门强者是个明智的策略。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-10 14:50:27",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
@@ -520,17 +674,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/rubbish-500x500.jpg"
     },
     {
-      "title": "英特尔因150亿美元股票发行而股价下跌，为何现在筹集资金？",
-      "link": "https://www.tmtpost.com/8098317.html",
-      "summary": "英特尔表示，在刚刚上调今年的资本支出预测后不久，将通过股票发行筹资150亿美元。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-10 14:16:44",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "What happens to Bose when headphones become AI?",
       "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
       "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to ...",
@@ -562,39 +705,6 @@
       "pubDate": "2026-08-10 13:53:22",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Boeing is selling its air taxi startups to Archer Aviation",
-      "link": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-      "summary": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company. The subsidiares ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-10 13:51:46",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Gen6_ApronSunset_3840x2160.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "股价年内翻倍，复牌20CM跌停，宝莱特“芯片借壳”剧本落幕",
-      "link": "https://www.tmtpost.com/8098227.html",
-      "summary": "易主折戟，对于公司目前的实控人来说，迫在眉睫的问题是如何脱离亏损泥沼...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-10 12:48:29",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-      "link": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-      "summary": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logi...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-10 12:48:12",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
@@ -663,17 +773,6 @@
       "thumbnail": ""
     },
     {
-      "title": "天广实：22年无产品商业化，累亏超18亿，两轮定增后再募资3.49亿｜IPO观察",
-      "link": "https://www.tmtpost.com/8097690.html",
-      "summary": "天广实能成功过会吗？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-10 11:33:11",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "The AI Slop Backlash Is Actually Having an Impact",
       "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
       "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content....",
@@ -729,17 +828,6 @@
       "thumbnail": "https://media.wired.com/photos/6a7655fee85ba359de1ff2c1/master/pass/Science_How%20Heat%20Pump%20Group-Buys%20Are%20Bringing%20Down%20the%20Cost%20of%20Heating%20and%20Cooling_v1.jpg"
     },
     {
-      "title": "汽水音乐翻过了网易云的那道墙",
-      "link": "https://www.tmtpost.com/8096734.html",
-      "summary": "汽水音乐月活跃用户1.56亿，网易云音乐1.47亿。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-10 10:46:35",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "他把芯片制造做成了“过山车大亨”：一个浏览器里的半导体工厂",
       "link": "https://www.oschina.net/news/492323/chip-tycoon",
       "summary": "如果你玩过《过山车大亨》，你大概记得那种俯瞰视角——小人在公园里走来走去，游乐设施运转着，一切都在你的注视下运行。现在想象同样的视角，但公园里不是过山车，而是一座完整的芯片制造工厂。 这就是 Chip Tycoon。 一个黄色的小车载着一片硅晶圆，穿过 20 栋建筑，从石英砂一路走到封装好的芯片。晶圆在每一站都会发......",
@@ -791,39 +879,6 @@
       "sourceKey": "oschina",
       "region": "cn",
       "pubDate": "2026-08-10 10:26:53",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Atlassian Rovo 被曝可绕过管控泄露 Jira 和 Confluence 数据，厂商两个月没回复",
-      "link": "https://www.oschina.net/news/492298/atlassian-rovo-exfiltrates-data",
-      "summary": "安全公司 PromptArmor 发布了一篇报告，披露 Atlassian 的 AI agent Rovo 存在严重的数据泄露漏洞：攻击者可以通过 indirect prompt injection（间接提示注入）窃取整个 Atlassian 租户内的 Jira 工单和 Confluence 文档，全程不需要任何人工审批。 更值得注意的是，这个漏洞在 5 月 23 日就报告给了 Atlassian...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-10 10:20:41",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "一个 4B 开源模型，检索能力追平了 GPT-5.6 Sol，成本降到 1/100",
-      "link": "https://www.oschina.net/news/492295",
-      "summary": "Neon 和 Castform 联合发布了一篇博客，展示了一个惊人的结果：一个 4B 参数的开源模型，经过 RL 后训练之后，在检索任务上的准确率追平了 GPT-5.6 Sol，但每次请求的成本只有对方的 1/100。 具体来说，GPT-5.6 Sol 做一次典型的多轮搜索请求需要超过 10 秒，端到端成本约 0.03 美元。对于需要反复搜索的 agent 工作流来......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-10 10:16:40",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vibelf：面向 Scratch 的 AI 编程助手",
-      "link": "https://www.oschina.net/news/492287/vibelf-scratch",
-      "summary": "VibelF 是一款用于 Scratch 的 AI 编程助手（AI Copilot）。打开 app.vibelf.com 就是一个对话界面。你说「我想做一个猫抓老鼠的游戏」，它不给你生成代码——Scratch 本来就不是写代码的——而是用自然语言一步步引导你搭积木。语音也行，打字也行。 Vibelf 把整条创作链路都包了：设计角色、搭建场景、编写算法、测试调......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-10 10:08:42",
       "category": "ai",
       "thumbnail": ""
     },
@@ -883,17 +938,6 @@
       "thumbnail": ""
     },
     {
-      "title": ":tada:为 AI 员工分配插件技能：开源无代码 / 低代码平台 NocoBase",
-      "link": "https://www.oschina.net/news/492087",
-      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支：main、next 和 develop。 main：截至目前最稳定的版本，推荐安装此版本。 next：包含即将发布的新功能，经过初步测试的版本，可能存在部分已知或未知问题。主要面向测试用户，用于收集反馈和进一步优化功能。适合愿意提前体验新功......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-10 07:16:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
       "link": "https://www.qbitai.com/2026/08/469520.html",
       "summary": "“我们90天就成了独角兽”...",
@@ -938,39 +982,6 @@
       "thumbnail": ""
     },
     {
-      "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
-      "link": "https://www.qbitai.com/2026/08/469454.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-10 02:25:55",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
-      "link": "https://www.qbitai.com/2026/08/469213.html",
-      "summary": "全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。\r\n\r\n需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-10 01:34:10",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
-      "link": "https://www.qbitai.com/2026/08/469076.html",
-      "summary": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-10 01:12:33",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
       "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
       "summary": "The massive Toba eruption seems to have had little climate impact....",
@@ -1002,17 +1013,6 @@
       "pubDate": "2026-08-07 18:00:01",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/a-young-black-woman-speaking-into-a-microphone-while-seated-in-an-auditorium-crowd.jpg?id=67577640&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
-      "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
-      "link": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
-      "summary": "\nFor developers, the operating assumption has been one engineer, one agent — the model Claude Code and similar tools. At VB Transform 2026, James Zou, associate professor of biomedical data science at...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-07 17:05:52",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
