@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-12T19:09:40.135Z",
+  "updateTime": "2026-08-12T20:52:48.380Z",
   "total": 107,
   "news": [
     {
@@ -36,6 +36,28 @@
       "thumbnail": ""
     },
     {
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "link": "https://www.ithome.com/0/989/001.htm",
+      "summary": "\nIT之家 8 月 13 日消息，阿里云“魔搭 ModelScope 社区”公众号昨天（12 日）深夜宣布，阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重。\n此次是 Qwen-Max 级别的模型首次开源权重：模型总参数为 2.4T，每个 Token 激活 95B 参数，原生支持 262,144 Token 上下文，并可扩展至 1,010,000 Token。\nQwen3...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-12 16:10:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "深夜放大招！DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 5",
+      "link": "https://www.ithome.com/0/989/000.htm",
+      "summary": "\nIT之家 8 月 13 日消息，据IT之家小伙伴反馈，DeepSeek V4 Pro 正式版今日晚间正式发布，已更新至 API，调用模型名不变。\n新版本增强了 Agent 能力，支持 Responses API 和 Codex 接入。\n\n从官方群放出的评测对比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多项测试中接近 Fable 5 水平，相比...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-12 16:05:28",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "Lovable confirms new $13.3B valuation, raises another $400M",
       "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
       "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch....",
@@ -54,6 +76,17 @@
       "sourceKey": "theverge",
       "region": "us",
       "pubDate": "2026-08-12 16:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "剑指 GPT-5.6 Sol，SpaceXAI 发布 Grok 4.6 模型",
+      "link": "https://www.ithome.com/0/988/999.htm",
+      "summary": "\nIT之家 8 月 12 日消息，北京时间今天（12 日）晚间，Grok 4.6 正式发布。新模型在 Grok 4.5 基础上进一步强化长时间运行的智能体任务，以及复杂的交互和视觉工作。\n按照发布信息，Grok 4.6 能够持续处理包含大量步骤的复杂任务，包括资料研究、信息分析、大型代码库处理，以及将产品构想转化为完整应用或工作成果。\n基准测试方面，Grok 4.6 在多项智能体编程和知识工作测试...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-12 15:57:46",
       "category": "ai",
       "thumbnail": ""
     },
@@ -91,7 +124,7 @@
       "thumbnail": ""
     },
     {
-      "title": "DeepSeek 官网 API 文档新增“DeepSeek-V4-Pro-0813”模型",
+      "title": "深夜放大招？DeepSeek 官网 API 文档新增“DeepSeek-V4-Pro-0813”模型",
       "link": "https://www.ithome.com/0/988/998.htm",
       "summary": "\nIT之家 8 月 12 日消息，今天（12 日）晚间，DeepSeek 官网“API 文档”上的“模型 &amp; 价格”页面中，模型版本新增了 DeepSeek-V4-Pro-0813，其支持非思考与思考模式。\n\n不过截至IT之家发稿，官方尚未发布 DeepSeek-V4-Pro-0813 的更新日志。\n\n值得一提的是，就在不久前的 7 月 31 日，DeepSeek-V4-Flash 正式版...",
       "source": "IT之家",
@@ -201,17 +234,6 @@
       "thumbnail": ""
     },
     {
-      "title": "谷歌 Pixel Buds Pro 2 耳机升级：主动降噪、同声传译功能均获增强",
-      "link": "https://www.ithome.com/0/988/991.htm",
-      "summary": "\nIT之家 8 月 12 日消息，今天（12 日）晚间随 Pixel 11 系列一同亮相的 Pixel Buds Pro 2 和 Pixel Buds 2a，将从今年秋季起加入一系列免手操作功能，让日常使用更加灵活。\n谷歌新款耳机把升级重点从硬件转向了更智能的软件功能。其中最重要的升级是动态 ANC（主动降噪），针对的是耳机使用中一个很常见的问题：佩戴一段时间后，耳机与耳道之间的贴合程度可能发生变...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-12 14:33:27",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Google aims for influencers with the Pixel 11 Creator Suite",
       "link": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
       "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building ...",
@@ -245,17 +267,6 @@
       "thumbnail": "https://spectrum.ieee.org/media-library/voxel51-logo-with-geometric-cube-icon-and-stylized-text.png?id=67607900&width=980"
     },
     {
-      "title": "漫威索尼《蜘蛛侠：崭新之日》上映两周杀入影史票房 TOP10，暂列 2026 年度冠军",
-      "link": "https://www.ithome.com/0/988/989.htm",
-      "summary": "\nIT之家 8 月 12 日消息，蜘蛛侠系列电影官方微博今日宣布，由漫威与索尼联合出品的《蜘蛛侠：崭新之日》上映两周强势杀入影史票房 TOP10，并拿下 2026 全球票房冠军。\n\nIT之家查询获悉，漫威索尼《蜘蛛侠：崭新之日》全球票房成绩已来到 19.52 亿美元（IT之家注：现汇率约合 131.93 亿元人民币），位列榜单第十位。\n\n值得一提的是，索尼影业蜘蛛侠系列电影 11 部大银幕作品跨越...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-12 14:17:49",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
       "link": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
       "summary": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able to check out the dev...",
@@ -275,17 +286,6 @@
       "region": "us",
       "pubDate": "2026-08-12 14:13:03",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "谷歌首款追踪器 Pixel Tag 发布：UWB 超宽带 + 防尘防水 + 可更换电池",
-      "link": "https://www.ithome.com/0/988/988.htm",
-      "summary": "\nIT之家 8 月 12 日消息，北京时间今天（12 日）晚间，谷歌推出旗下首款 Android 物品追踪器 Pixel Tag。Pixel Tag 支持超宽带（UWB）精确查找，具备防尘防水能力，同时采用用户可自行更换的电池。\nPixel Tag 仅提供 Fog 一种配色，正面为金属材质，背部则采用聚碳酸酯外壳。机身尺寸为 28×46.1×5.4 毫米，含电池重量 11.8 克，不含电池时为 8...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-12 14:12:24",
-      "category": "energy",
       "thumbnail": ""
     },
     {
@@ -660,7 +660,7 @@
       "region": "cn",
       "pubDate": "2026-08-12 10:13:16",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/96729a9726998506313e47946ffb14c7_1786529602.jpg"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/1345y24htrwfgn3.png"
     },
     {
       "title": "彭迦信回购腾讯音乐",
@@ -693,7 +693,7 @@
       "region": "cn",
       "pubDate": "2026-08-12 10:09:44",
       "category": "robot",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4365768u3.png"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/fd6dc6e71f1d1cc2541bc58c9947473a_1786529388.png"
     },
     {
       "title": "How we picked 35 of the world’s top young scientists and engineers",
