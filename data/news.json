@@ -1,7 +1,29 @@
 {
-  "updateTime": "2026-08-13T13:26:13.321Z",
+  "updateTime": "2026-08-13T15:04:26.225Z",
   "total": 107,
   "news": [
+    {
+      "title": "DeepSeek-V4-Pro 正式版上线",
+      "link": "https://www.oschina.net/news/501923",
+      "summary": "DeepSeek V4 Pro 正式版已发布。 当前，DeepSeek V4 Pro 正式版已同步在 APP、网页端和 API 更新上线。用户可以通过 APP 或网页端选择“专家模式”使用全新的 V4 Pro 正式版模型， API 模型名不变，其他更新细节详见 DeepSeek API 官方接口文档。 Agent 能力大幅提升 正式版 DeepSeek V4 Pro 增强了 Agent 能力，在生...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-13 11:31:34",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Zed 推出多人协作 AI 编程环境 “Delta”",
+      "link": "https://www.oschina.net/news/501922",
+      "summary": "Zed编辑器团队正式发布了Delta，一个面向AI Agent编程的多人协作环境。这标志着Zed从\"最好的代码编写工具\"进入了\"最好的代码讨论工具\"的第二阶段战略。 Delta的核心理念是将代码和对话保持连接。与传统的基于commit的代码审查平台不同，Delta允许开发者在工作树的任意一行代码上添加评论，这些评论会随着代码的演变而保持......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-13 11:03:03",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "中产三宝要加个ALO了",
       "link": "https://www.tmtpost.com/8101691.html",
@@ -528,28 +550,6 @@
       "region": "cn",
       "pubDate": "2026-08-13 02:53:13",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tailscale 花费六个月追踪一个 16 年的 SQLite 漏洞",
-      "link": "https://www.oschina.net/news/501911/tailscale-sqlite-wal-reset-bug",
-      "summary": "去年年底，Tailscale 的 uptime开始变得不稳定。19 次独立的数据库损坏事件，横跨六个月——每次都是同一个 SQLite bug 在作祟。 Tailscale 控制平面内部用 SQLite 存储每个 tailnet 的配置元数据。每个 shard 由一个 Go 进程独占访问数据库，这是 SQLite 推荐的单写入者架构。他们从 2022 年就开始用这套方案，一直相安......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-13 02:31:05",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": ":trophy: 腾讯 APIJSON 8.3 🧠 A2API :rocket: KingbaseES 3 模式、金融项目",
-      "link": "https://www.oschina.net/news/501909",
-      "summary": "腾讯 APIJSON 是一种专为 API 而生的 JSON 网络传输协议 以及 基于这套协议实现的 ORM 库。 为各种增删改查提供了完全自动化的万能 API，零代码实时满足千变万化的各种新增和变更需求。 能大幅降低开发和沟通成本，简化开发流程，缩短开发周期。适合中小型前后端分离的项目。 自 2016 年 11 月开源 9 年多来发展迅速，目......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-13 00:09:30",
-      "category": "other",
       "thumbnail": ""
     },
     {
