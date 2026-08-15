@@ -1,7 +1,18 @@
 {
-  "updateTime": "2026-08-14T23:27:10.217Z",
-  "total": 97,
+  "updateTime": "2026-08-15T01:38:25.944Z",
+  "total": 107,
   "news": [
+    {
+      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
+      "link": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+      "summary": "\nChinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, today released GLM-5.3 with substantial gains in long-horizon cod...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-14 22:56:16",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
       "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
@@ -124,6 +135,17 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-500x500.jpg"
     },
     {
+      "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
+      "link": "https://spectrum.ieee.org/digital-signal-processing",
+      "summary": "\nBede Liu, a digital signal processing pioneer, died on 7 May. He was 91.\nLiu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorith...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-14 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/portrait-of-an-elderly-asian-man-softly-smiling-in-a-suit-jacket-and-tie.jpg?id=67609508&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+    },
+    {
       "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
       "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
       "summary": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it w...",
@@ -155,6 +177,17 @@
       "pubDate": "2026-08-14 17:34:14",
       "category": "other",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-back-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
+      "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
+      "summary": "\nLearn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.\nDownloa...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-14 17:27:12",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/wipl-d-logo-with-stylized-antenna-arcs-above-the-text.png?id=26851692&width=980"
     },
     {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
@@ -671,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-08-14 10:31:46",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/f8d7080f7bcbb7f80ce34276d83f6032_1786703510.jpg"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t5y4hyhgf3.png"
     },
     {
       "title": "拉夫劳伦爱涨价，代购货要更贵了",
@@ -971,6 +1004,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
+      "link": "https://spectrum.ieee.org/product-engineer",
+      "summary": "\nIf you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-13 14:44:50",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+    },
+    {
       "title": "Why Capital One built its multi-agent AI platform around open-weight models",
       "link": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
       "summary": "\nPresented by Capital One \n\nAt VB Transform 2026, Kel Vanee, MVP of machine learning engineering at Capital One, spoke with Sam Witteveen, Senior Technology Contributor at VentureBeat, about how the b...",
@@ -1059,15 +1103,81 @@
       "thumbnail": ""
     },
     {
-      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
-      "link": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
-      "summary": "\nElon Musk's company SpaceXAI, formerly known as xAI, has released Grok 4.6, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pricing strategy desig...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
+      "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
+      "link": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
+      "summary": "\nA survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.\nDownload this free whitepaper now!\n...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-08-12 17:26:58",
+      "pubDate": "2026-08-12 14:18:05",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/voxel51-logo-with-geometric-cube-icon-and-stylized-text.png?id=67607900&width=980"
+    },
+    {
+      "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
+      "link": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
+      "summary": "\nIn collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.\nHeld on 9 and 10 June in Paro, in the eastern Himalayas, t...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-11 19:50:54",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-middle-aged-white-woman-receiving-a-gift-of-a-folded-white-cloth-from-a-younger-asian-woman.jpg?id=67605013&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
+      "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+      "summary": "\nIn a tranquil Boston suburb, on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a half-meter-long cylinder with co...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-11 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/on-the-left-a-man-in-a-collared-shirt-stands-smiling-with-hands-in-his-pockets-and-lab-equipment-in-the-background-on-the-ri.jpg?id=67598580&width=1245&height=700&coordinates=0%2C258%2C0%2C259"
+    },
+    {
+      "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
+      "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
+      "summary": "\nThe transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from rely...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-07 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-black-woman-speaking-into-a-microphone-while-seated-in-an-auditorium-crowd.jpg?id=67577640&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Cars Communicating Badly Is an Already-Solved Problem",
+      "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
+      "summary": "\nThe history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back, in part, to a team of Australian radio astronomers trying t...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-07 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-two-cars-with-cell-towers-on-top-communicating-via-speech-bubbles.jpg?id=67571736&width=1245&height=700&coordinates=0%2C66%2C0%2C66"
+    },
+    {
+      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
+      "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+      "summary": "\nToday’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record su...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-05 18:00:03",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-man-holding-a-ginormous-lightbulb-with-ai-written-on-it.jpg?id=67568096&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Why R&amp;D Waste Persists Despite Widespread AI Adoption",
+      "link": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
+      "summary": "\nThis report examines R&amp;D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well.\nWhat Attendees will Learn\n\nWhere R&amp;D budget is lost. More than a ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-04 14:51:55",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/patsnap-logo-with-abstract-connected-circle-design-in-grayscale.png?id=67571651&width=980"
     }
   ]
 }
