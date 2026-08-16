@@ -1,7 +1,161 @@
 {
-  "updateTime": "2026-08-16T22:27:34.679Z",
+  "updateTime": "2026-08-16T23:25:42.604Z",
   "total": 107,
   "news": [
+    {
+      "title": "消息称英特尔计划推出入门级 Panther Lake 掌机芯片，配备 4 个 Xe3 核心",
+      "link": "https://www.ithome.com/0/990/411.htm",
+      "summary": "\nIT之家 8 月 17 日消息，英特尔的掌机产品线可能即将迎来一款更便宜的小弟。据爆料人士 Jaykihn 透露（这位爆料者此前曾多次准确曝光英特尔产品规格），英特尔似乎正在准备一款采用“4+0+4+4”架构布局的 Panther Lake 掌机芯片。这一配置意味着芯片拥有 4 个 P-Core 性能核心、0 个 E-Core 能效核心、4 个 LPE 低功耗核心以及 4 个 Xe3 图形核心。...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-16 22:59:21",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/15e3f30d-d21c-4a2d-8f89-3ceaf941a31d.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "支付巨头 Stripe 敲定收购 AI 初创公司 OpenRouter，金额超 70 亿美元",
+      "link": "https://www.ithome.com/0/990/410.htm",
+      "summary": "\nIT之家 8 月 17 日消息，据彭博社报道，支付巨头 Stripe 已经敲定收购 AI 基础设施初创公司 OpenRouter 的交易，收购金额超过 70 亿美元（IT之家注：现汇率约合 473.24 亿元人民币）。\nOpenRouter 主要帮助用户根据具体需求和预算，在不同 AI 模型之间进行选择，从而为不同任务匹配合适的模型。该公司今年 5 月宣布完成 1.13 亿美元（现汇率约合 7....",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-16 22:56:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "凯迪拉克在北美市场全面转向 NACS 充电接口",
+      "link": "https://www.ithome.com/0/990/409.htm",
+      "summary": "\nIT之家 8 月 17 日消息，凯迪拉克宣布正式转向 NACS 充电接口，公司将为旗下 2027 款 Escalade IQ 车型中换用 NACS 充电接口，后续其他车型也将陆续跟进。作为参考，目前凯迪拉克北美市场在售车辆中只有 Optiq 车型原生配备 NACS 充电接口。\n\n公开信息显示，NACS 充电接口目前已几乎成为北美地区统一的电动汽车充电接口标准。该标准最初由特斯拉于 2012 年为...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-16 22:52:15",
+      "category": "auto",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/8c061267-55d6-460c-b4ce-83ea44b2a922.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "告别老旧硬件：Linux 内核将 TSC 设为 x86 处理器硬性要求",
+      "link": "https://www.ithome.com/0/990/408.htm",
+      "summary": "\nIT之家 8 月 17 日消息，Linux 内核终于将时间戳计数器（TSC）设为 x86 处理器的硬性要求，而微软早在十多年前就已经开始将其作为兼容 Windows 系统中高精度计时的首选依据。\n\nLinux 内核近期提交的一项修改，移除了剩余的配置逻辑，使 x86 内核无法在不支持 TSC 的情况下进行构建。这项提交名为“x86/cpu: Make CONFIG_X86_TSC uncondi...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-16 22:46:00",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/90e35448-056f-42bb-a961-f7e012a9bf5c.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "HMD 2760 Flip 4G 翻盖机曝光：搭载安卓 13 Go 系统、展锐 T310 处理器",
+      "link": "https://www.ithome.com/0/990/407.htm",
+      "summary": "\nIT之家 8 月 17 日消息，消息源 smashx_60 发文，透露 HMD Global 即将推出一款 HMD 2760 Flip 4G 翻盖机，该机提供黑色、青色和粉色三种选择，整体造型沿用诺基亚 2760 Flip，延续 2.8 英寸主屏、1.77 英寸外屏、500 万像素主摄。\n\n该机最大的特色是运行基于安卓 13 Go 的“Icon OS 13”系统，作为参考，先前诺基亚 2760 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-16 22:45:40",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/46c0d5b8-a7cc-49c3-98b0-04791e85c93d.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "筹备 IPO 之际，消息称 OpenAI 已解散旗下风险防范团队",
+      "link": "https://www.ithome.com/0/990/406.htm",
+      "summary": "\nIT之家 8 月 17 日消息，据《金融时报》报道，OpenAI 已于上月末解散旗下风险防范团队。该团队的核心工作是评估公司模型是否存在重大风险，并制定风险缓解措施，比如模型失控入侵其他企业这类极端场景。报道称，相关职责现已按生物安全、网络安全等细分领域拆分，并入公司现有业务团队。\n\nIT之家注意到，这是 OpenAI 近期最新的架构变动。眼下公司正筹备市场预期中规模空前的 IPO，内部始终处于...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-16 22:42:30",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "上线仅半年多，字节旗下付费小说 App“红烛故事”正式关停",
+      "link": "https://www.ithome.com/0/990/405.htm",
+      "summary": "\nIT之家 8 月 17 日消息，综合字节跳动公告，字节旗下付费小说 App 红烛故事于今起正式停止服务，服务器正式关闭，届时及以后将无法登录 App 或访问相关服务。\n不同于字节旗下的“番茄免费小说”，红烛故事除了有免费专区外，还有会员专区，用户需付费开通会员，而一些付费书会员可以享 8 折优惠购买。\n\n从竞争格局看，当前市场早已形成“一超多强”态势。艾媒金榜《2025 年中国网文 IP 平台排...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-16 22:39:51",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/5a8e86b8-4880-4b2f-99ef-b8cf7b11db27.jpg"
+    },
+    {
+      "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
+      "link": "https://www.ithome.com/0/990/404.htm",
+      "summary": "\nIT之家 8 月 17 日消息，综合外媒 bleepingcomputer，Anthropic Claude 目前出现大规模服务故障，多名用户反馈无法正常登录，Anthropic 旗下多项服务的运行性能也受到影响。\n\n根据 Anthropic 通报，此次故障于 2026 年 8 月 17 日 5:58（北京时间）左右开始，目前影响 Claude.ai、Claude Code 和 Claude C...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-16 22:36:24",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/cc07c5a2-51f2-4b8c-b9f2-1ac9a6067dbf.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to miti...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-16 21:32:56",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-16 20:57:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-16 20:32:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+      "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+      "summary": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revel...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-16 20:31:37",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a4080481202_10.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Amazon is trying to crush class-action suits before they get started",
+      "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+      "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said us...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-16 17:35:02",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-16 16:53:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
       "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
@@ -22,18 +176,7 @@
       "region": "cn",
       "pubDate": "2026-08-16 15:55:41",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "美国建造时间最长的航母“肯尼迪”号完成验收海试：最快 2027 年交付，项目总投资超 130 亿美元",
-      "link": "https://www.ithome.com/0/990/402.htm",
-      "summary": "\nIT之家 8 月 16 日消息，当地时间 8 月 15 日，美国舰艇制造商亨廷顿英格尔斯工业公司（HII）宣布，其纽波特纽斯造船厂已成功完成“约翰 ·F· 肯尼迪”号航空母舰（CVN 79）的验收海试。该舰为第二艘“杰拉尔德 ·R· 福特”级核动力航母，满载排水量 10 万吨。\n\n据介绍，“肯尼迪”号在完成对重要舰载系统和组件在海上的进一步测试与评估后，已返回纽波特纽斯造船厂。\n\n“肯尼迪”号于...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-16 15:45:05",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/a92567a6-d3fc-4578-b2b9-37384345398b.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "三星 One UI 9.5 系统相机界面曝光，优化弹出菜单圆角和模糊效果",
@@ -44,62 +187,7 @@
       "region": "cn",
       "pubDate": "2026-08-16 15:36:55",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "创客把 2.9MB 歌曲压缩至 21KB，用 8 个二维码打印到纸上保存",
-      "link": "https://www.ithome.com/0/990/400.htm",
-      "summary": "\nIT之家 8 月 16 日消息，据 Tom's Hardware 今日报道，一位名为 Makestreme 的创作者展示了一种特殊的“纸质磁带”：他将一首时长约 2 分钟、大小约 2.9MB 的 MP3 歌曲压缩至约 21KB，再拆分成 8 个二维码打印到纸张两面。\n整张纸因此可以保存完整歌曲，但播放时仍需要 Meta 开发的 EnCodec 神经音频编解码器进行解码。\n\n这一项目的关键并不是传...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-16 15:36:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "奇瑞捷豹路虎神行者 8 预售订单突破 1 万台，售价 33.99 万元起",
-      "link": "https://www.ithome.com/0/990/399.htm",
-      "summary": "\nIT之家 8 月 16 日消息，奇瑞官方今晚宣布，旗下新车捷豹路虎 FREELANDER 神行者 8 在 48 小时内，预售订单突破 1 万台。\n\nIT之家了解到，路虎 FREELANDER 神行者 8 全系标配华为乾崑智驾 ADS 5；全球首批搭载高通骁龙最新一代 8397 车规级芯片，标配 800V 高压平台，售价 33.99 万元起。\n\n神行者 8 整车设计语言延续 Concept 97 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-16 15:25:13",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "斯坦福调查显示：84% 中国受访者对 AI 感到兴奋，美国比例仅为 38%",
-      "link": "https://www.ithome.com/0/990/398.htm",
-      "summary": "\nIT之家 8 月 16 日消息，斯坦福大学发布的《AI Index 2026》报告显示，中国受访者对 AI 的态度明显比美国人积极。\n数据显示，84% 的中国受访者表示对 AI 产品和服务感到兴奋，美国这一比例为 38%。另一项爱德曼信任度调查则显示，72% 的中国受访者表示信任 AI，美国仅为 32%。\n\n斯坦福报告指出，美国与中国在 AI 模型性能上的差距已基本消失，两国模型自 2025 年...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-16 15:22:29",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "雷克沙 PexarBolt Ultra 扩展坞亮相：雷电 5、NVMe 插槽、5 寸触屏，479 美元",
-      "link": "https://www.ithome.com/0/990/397.htm",
-      "summary": "\nIT之家 8 月 16 日消息，雷克沙近日宣布推出 PexarBolt Ultra 扩展坞，该产品主打高端定位，拥有多个雷电 5 接口，还带有 5 英寸触屏、NVMe 扩展插槽，目前已在海外市场开启众筹。\n\n据介绍，这款扩展坞配备 3 个雷电 5 接口，带宽可达 80Gbps，支持向笔记本设备提供 140W 电力，并支持下行 15W 供电。搭载 DisplayPort 2.1 和 HDMI 2....",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-16 15:17:55",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "开罗游戏暑期捆绑包上线 Steam，国区 14.4 元起",
-      "link": "https://www.ithome.com/0/990/396.htm",
-      "summary": "\nIT之家 8 月 16 日消息，开罗游戏（Kairosoft）现已在 Steam 平台上架暑期捆绑包。本次上架的捆绑包产品共有 16 款，国区售价 14.4 元起，含开罗在 Steam 上架的 62 款游戏，IP 联动作除外。\n作为参考，开罗游戏是一家位于日本东京的手机游戏、电脑游戏和游戏机游戏开发商，旗下作品大多是模拟经营类型，画面多为像素风格。\n\nIT之家附各捆绑包详情如下：\nVol.1\n国...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-16 15:07:16",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/5a213f4b-7e53-4258-bcdf-0dc089ce14bb.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
@@ -110,18 +198,7 @@
       "region": "us",
       "pubDate": "2026-08-16 14:56:40",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "段永平基金二季度持仓总市值 191 亿美元：大幅增持拼多多、减持苹果和英伟达，重新买入阿里",
-      "link": "https://www.ithome.com/0/990/395.htm",
-      "summary": "\nIT之家 8 月 16 日消息，根据当地时间 8 月 14 日披露的 SEC 13F 文件，段永平管理的 H&amp;H International Investment 基金截至 2026 年 6 月 30 日持仓总市值约 191.01 亿美元（IT之家注：现汇率约合 1,291.34 亿元人民币），较一季度末的约 200 亿美元小幅下降，持股数量从 19 只降至 18 只。\n\n苹果仍为头号重...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-16 14:55:03",
-      "category": "chip",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "ST中路控制权暗战：控股股东持股仅剩6.79%，举牌资本隐现“银河系”身影",
@@ -133,17 +210,6 @@
       "pubDate": "2026-08-16 14:40:10",
       "category": "other",
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/57de8ac77869f62512eaf72fdc35bc40_1786891212.png"
-    },
-    {
-      "title": "中消协：近期 AI 客服相关投诉显著增多",
-      "link": "https://www.ithome.com/0/990/394.htm",
-      "summary": "\nIT之家 8 月 16 日消息，中国消费者协会（中消协）本月（8 月 5 日）发布报告指出，AI 客服投诉显著增多，部分平台人工客服难以接通，被消费者形容为玩起“躲猫猫”。\n\n据北京卫视近期测试，记者尝试拨打某短视频平台客服电话后发现，AI 客服多次提示人工客服繁忙，直到记者说出 4 次转人工后，相关程序才开始转接人工服务。从播发电话到真正接通人工客服，总共用时近 6 分钟。\n同时，部分平台的 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-16 14:33:15",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "光模块没有死，但\"可插拔\"死了：英伟达CPO量产的产业链账",
@@ -231,7 +297,7 @@
       "region": "us",
       "pubDate": "2026-08-16 12:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "杭州95后小伙，5亿买走硅谷城堡",
@@ -385,7 +451,7 @@
       "region": "us",
       "pubDate": "2026-08-16 03:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Polaroid-Go-Generation-2.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "中国科技板块的资金偏好正在改变：为什么是硬件先拿到钱",
@@ -429,7 +495,7 @@
       "region": "us",
       "pubDate": "2026-08-15 21:56:13",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/simpsons-hit-and-run.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -462,7 +528,7 @@
       "region": "us",
       "pubDate": "2026-08-15 20:45:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
@@ -495,7 +561,7 @@
       "region": "us",
       "pubDate": "2026-08-15 17:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
@@ -539,40 +605,7 @@
       "region": "us",
       "pubDate": "2026-08-15 15:00:00",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
-      "link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
-      "summary": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 2...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-15 14:58:27",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
-      "link": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
-      "summary": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, t...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-15 14:20:33",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "I finally found a magnetic phone grip I never want to remove",
-      "link": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
-      "summary": "I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound up s...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-15 14:10:16",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Switched_On_Pop_-_Photo_by_Daniel_Randall.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Every fusion startup that has raised over $100M",
@@ -725,39 +758,6 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-08-14 22:43:24",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Self-driving trucks are officially testing on California highways",
-      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-14 20:37:49",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-      "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-14 19:33:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "What we know about the alleged Iranian hacks on US water utilities",
-      "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
-      "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly c...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-14 19:04:32",
       "category": "other",
       "thumbnail": ""
     },
