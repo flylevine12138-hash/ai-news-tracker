@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-16T18:36:45.420Z",
+  "updateTime": "2026-08-16T19:25:23.523Z",
   "total": 107,
   "news": [
     {
@@ -198,6 +198,17 @@
       "region": "cn",
       "pubDate": "2026-08-16 13:18:07",
       "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+      "link": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+      "summary": "\nDeepSeek's V4 Flash has topped model leaderboards and been hailed by developers as a \"total monster\" since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent ...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-16 13:00:00",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -1055,17 +1066,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-08-13 13:41:10",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-      "link": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-      "summary": "\nWriter, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuilt agent orchestrati...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-13 13:00:00",
       "category": "ai",
       "thumbnail": ""
     },
