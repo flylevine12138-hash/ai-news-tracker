@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-15T23:25:29.783Z",
-  "total": 97,
+  "updateTime": "2026-08-16T01:45:07.381Z",
+  "total": 107,
   "news": [
     {
       "title": "安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍",
@@ -54,6 +54,17 @@
       "sourceKey": "theverge",
       "region": "us",
       "pubDate": "2026-08-15 20:45:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+      "link": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+      "summary": "\nThere is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it's tedious, time-consuming, and doesn't produce results visible to end users:...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-15 19:00:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -685,6 +696,28 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-500x500.jpg"
     },
     {
+      "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
+      "link": "https://spectrum.ieee.org/digital-signal-processing",
+      "summary": "\nBede Liu, a digital signal processing pioneer, died on 7 May. He was 91.\nLiu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorith...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-14 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/portrait-of-an-elderly-asian-man-softly-smiling-in-a-suit-jacket-and-tie.jpg?id=67609508&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+    },
+    {
+      "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
+      "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
+      "summary": "\nLearn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.\nDownloa...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-14 17:27:12",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/wipl-d-logo-with-stylized-antenna-arcs-above-the-text.png?id=26851692&width=980"
+    },
+    {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
       "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate....",
@@ -993,6 +1026,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
+      "link": "https://spectrum.ieee.org/product-engineer",
+      "summary": "\nIf you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-13 14:44:50",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+    },
+    {
       "title": "Why Capital One built its multi-agent AI platform around open-weight models",
       "link": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
       "summary": "\nPresented by Capital One \n\nAt VB Transform 2026, Kel Vanee, MVP of machine learning engineering at Capital One, spoke with Sam Witteveen, Senior Technology Contributor at VentureBeat, about how the b...",
@@ -1059,15 +1103,81 @@
       "thumbnail": ""
     },
     {
-      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
-      "link": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
-      "summary": "\nVisa's president of technology, Rajat Taneja, walked the VB Transform 2026 audience through aiming Anthropic's Mythos at Visa's own payment network. The model stitched minor weaknesses into working e...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
+      "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
+      "link": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
+      "summary": "\nA survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.\nDownload this free whitepaper now!\n...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-08-12 18:44:50",
+      "pubDate": "2026-08-12 14:18:05",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/voxel51-logo-with-geometric-cube-icon-and-stylized-text.png?id=67607900&width=980"
+    },
+    {
+      "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
+      "link": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
+      "summary": "\nIn collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.\nHeld on 9 and 10 June in Paro, in the eastern Himalayas, t...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-11 19:50:54",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-middle-aged-white-woman-receiving-a-gift-of-a-folded-white-cloth-from-a-younger-asian-woman.jpg?id=67605013&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
+      "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+      "summary": "\nIn a tranquil Boston suburb, on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a half-meter-long cylinder with co...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-11 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/on-the-left-a-man-in-a-collared-shirt-stands-smiling-with-hands-in-his-pockets-and-lab-equipment-in-the-background-on-the-ri.jpg?id=67598580&width=1245&height=700&coordinates=0%2C258%2C0%2C259"
+    },
+    {
+      "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
+      "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
+      "summary": "\nThe transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from rely...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-07 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-black-woman-speaking-into-a-microphone-while-seated-in-an-auditorium-crowd.jpg?id=67577640&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Cars Communicating Badly Is an Already-Solved Problem",
+      "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
+      "summary": "\nThe history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back, in part, to a team of Australian radio astronomers trying t...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-07 13:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-two-cars-with-cell-towers-on-top-communicating-via-speech-bubbles.jpg?id=67571736&width=1245&height=700&coordinates=0%2C66%2C0%2C66"
+    },
+    {
+      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
+      "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+      "summary": "\nToday’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record su...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-05 18:00:03",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-man-holding-a-ginormous-lightbulb-with-ai-written-on-it.jpg?id=67568096&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Why R&amp;D Waste Persists Despite Widespread AI Adoption",
+      "link": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
+      "summary": "\nThis report examines R&amp;D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well.\nWhat Attendees will Learn\n\nWhere R&amp;D budget is lost. More than a ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-04 14:51:55",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/patsnap-logo-with-abstract-connected-circle-design-in-grayscale.png?id=67571651&width=980"
     }
   ]
 }
