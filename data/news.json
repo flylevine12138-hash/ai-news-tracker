@@ -1,7 +1,18 @@
 {
-  "updateTime": "2026-08-17T18:48:40.689Z",
+  "updateTime": "2026-08-17T19:32:47.690Z",
   "total": 97,
   "news": [
+    {
+      "title": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
+      "link": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers",
+      "summary": "\nA retrieval-augmented generation (RAG) system is built to answer strictly from the documents it retrieves. But when engineers optimize these AI pipelines end-to-end, the reader module can learn a sho...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-17 17:14:46",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "Trump’s dumb border wall",
       "link": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit",
@@ -32,6 +43,17 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-08-17 16:15:12",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
+      "link": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
+      "summary": "\nA company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the fai...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-17 16:11:44",
       "category": "ai",
       "thumbnail": ""
     },
@@ -190,6 +212,17 @@
       "thumbnail": ""
     },
     {
+      "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
+      "link": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+      "summary": "\nEnterprise AI has a new infrastructure problem: companies are accumulating agents faster than they are developing systems to govern them.\nGartner estimates that the average global Fortune 500 company...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-17 14:37:08",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
       "link": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
       "summary": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not...",
@@ -198,6 +231,17 @@
       "region": "us",
       "pubDate": "2026-08-17 14:35:25",
       "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "How Heidi built production-ready AI for healthcare at global scale",
+      "link": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
+      "summary": "\nPresented by MongoDB\n\nBuilding AI that is accurate, secure, and reliable is a major engineering feat for organizations subject to the compliance obligations that govern healthcare, financial services...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-17 14:30:00",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -927,17 +971,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-500x500.jpg"
     },
     {
-      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
-      "link": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
-      "summary": "\nChinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, today released GLM-5.3 with substantial gains in long-horizon cod...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-14 22:56:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
       "summary": "Screen-sharing bug lets remote hackers log in without a password....",
@@ -1015,17 +1048,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
-      "link": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
-      "summary": "\nEvery Claude model Anthropic tested turned on its own, and no attacker made them do it. Given three agents, four hours on one server, and conflicting orders none knew the others held, the models disa...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-13 20:14:20",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Building a practical path to post-quantum cryptography",
       "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
       "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for busin...",
@@ -1035,28 +1057,6 @@
       "pubDate": "2026-08-13 18:11:42",
       "category": "other",
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg"
-    },
-    {
-      "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-      "link": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
-      "summary": "\nGoogle is rolling out Gemini 3.7 Flash, a new version of its workhorse AI model that puts coding, agentic workflows and knowledge work at the center of the upgrade — while temporarily cutting API pri...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-13 18:02:54",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-      "link": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
-      "summary": "\nDeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.\nThe Chinese AI lab on Thursday launched the official version of DeepSeek-V4-Pro, an ...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-13 16:47:55",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
