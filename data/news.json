@@ -1,7 +1,40 @@
 {
-  "updateTime": "2026-08-17T03:05:35.184Z",
-  "total": 107,
+  "updateTime": "2026-08-17T04:50:29.385Z",
+  "total": 97,
   "news": [
+    {
+      "title": "开放签电子签 3.5.1 版本 更新内容",
+      "link": "https://www.oschina.net/news/501948",
+      "summary": "1、用户登录首页优化；1.1优化企业登录后首页展示内容 1.2优化个人登录后首页展示内容 2、修复非必填项提前签署时，未执行签署任务创建的缺陷； 3、修复企业管理后台添加成员未创建个人租户空间的缺陷； 4、优化企业管理后台各类慢查询问题； 5、修复签署文件验签的bug; 6、优化API接口发起合同时模板名称不是最新的问题......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-17 02:38:47",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "小猫开源-在线考试系统发布 v6.2.0 版本",
+      "link": "https://www.oschina.net/news/501947",
+      "summary": "优化改进：创建考试发布前，支持预览试卷以便检查调整 优化改进：创建考试随机抽题时，及时验证抽题规则有效性（原先需要等到发布，提示无效再返回修改） 优化改进：考试统计恢复错题分析功能 优化改进：考试统计支持答题活跃度分析，辅助评估试卷难度与题量合理性 优化改进：考试统计可查看作弊记录，实现溯源凭证； 优......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-17 02:37:48",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "RXThinkCMF 敏捷开发框架 ThinkPhp8+EleVue 版本 v2.6.1 发布",
+      "link": "https://www.oschina.net/news/501945",
+      "summary": "v2.6.1 更新内容： 1、修复近用户反馈的问题； 项目介绍 一款 PHP 语言基于 ThinkPhp8、Vue、ElementUI、MySQL 等框架精心打造的一款模块化、插件化、高性能的前后端分离架构敏捷开发框架，可用于快速搭建前后端分离后台管理系统，本着简化开发、提升开发效率的初衷，框架自研了一套个性化的组件，实现了可插拔的组件式开......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-17 00:09:55",
+      "category": "other",
+      "thumbnail": ""
+    },
     {
       "title": "【钛晨报】跨国公司本外币跨境资金集中运营业务将推广至全国；1600亿翻倍牛股，签下超亿元芯片合同；今年以来最贵新股，定于8月18日上市",
       "link": "https://www.tmtpost.com/8105146.html",
@@ -110,7 +143,7 @@
       "region": "us",
       "pubDate": "2026-08-16 21:32:56",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -154,7 +187,7 @@
       "region": "us",
       "pubDate": "2026-08-16 20:31:37",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a4080481202_10.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Amazon is trying to crush class-action suits before they get started",
@@ -165,7 +198,7 @@
       "region": "us",
       "pubDate": "2026-08-16 17:35:02",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
@@ -220,7 +253,7 @@
       "region": "us",
       "pubDate": "2026-08-16 14:56:40",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "ST中路控制权暗战：控股股东持股仅剩6.79%，举牌资本隐现“银河系”身影",
@@ -319,7 +352,7 @@
       "region": "us",
       "pubDate": "2026-08-16 12:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "杭州95后小伙，5亿买走硅谷城堡",
@@ -473,7 +506,7 @@
       "region": "us",
       "pubDate": "2026-08-16 03:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Polaroid-Go-Generation-2.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "纽蒙特矿业股在大涨66%后光芒不减，我们继续看多",
@@ -506,7 +539,7 @@
       "region": "us",
       "pubDate": "2026-08-15 21:56:13",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/simpsons-hit-and-run.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -539,7 +572,7 @@
       "region": "us",
       "pubDate": "2026-08-15 20:45:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
@@ -572,7 +605,7 @@
       "region": "us",
       "pubDate": "2026-08-15 17:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
@@ -616,7 +649,7 @@
       "region": "us",
       "pubDate": "2026-08-15 15:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Switched_On_Pop_-_Photo_by_Daniel_Randall.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Every fusion startup that has raised over $100M",
@@ -626,6 +659,17 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-08-15 13:15:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SmartCall v1.0.3 发布 新增短信发送节点",
+      "link": "https://www.oschina.net/news/501944",
+      "summary": ":book: 项目简介 SmartCall 是一套基于 AI 大模型 + Asterisk 通信引擎构建的新一代智能客服呼叫中心系统。系统深度融合了 AI 语音机器人、智能 IVR 流程编排、实时语音识别（ASR）、语音合成（TTS）、大模型意图识别 等核心能力，为企业提供从呼入智能应答到智能外呼的全链路 AI 客服解决方案。 无论是电商售后、金融催......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-15 11:12:31",
       "category": "ai",
       "thumbnail": ""
     },
@@ -795,28 +839,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-500x500.jpg"
     },
     {
-      "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
-      "link": "https://spectrum.ieee.org/digital-signal-processing",
-      "summary": "\nBede Liu, a digital signal processing pioneer, died on 7 May. He was 91.\nLiu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorith...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-14 18:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/portrait-of-an-elderly-asian-man-softly-smiling-in-a-suit-jacket-and-tie.jpg?id=67609508&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
-    },
-    {
-      "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
-      "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
-      "summary": "\nLearn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.\nDownloa...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-14 17:27:12",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/wipl-d-logo-with-stylized-antenna-arcs-above-the-text.png?id=26851692&width=980"
-    },
-    {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
       "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate....",
@@ -949,50 +971,6 @@
       "thumbnail": ""
     },
     {
-      "title": "GLM-5.3 正式发布：编程能力最强的开源模型",
-      "link": "https://www.oschina.net/news/501931",
-      "summary": "智谱宣布正式发布 GLM-5.3。且 GLM Coding Plan 全员额度在今天 13:00 重置，所有用户后台「用量统计」可见使用额度回满。 与 GLM-5.2 相比，GLM-5.3 基座模型没变，但通过极致的后训练 Scaling 大大提高了模型的智能上界：数十倍的长程任务环境、更丰富多样的环境类型、超长的后训练时间。 公告称，充分的模型后训练涌现......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-14 05:51:38",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "TIOBE 8 月榜单：MATLAB 时代已接近尾声？",
-      "link": "https://www.oschina.net/news/501930/tiobe-index-202608",
-      "summary": "TIOBE 公布了 2026 年 8 月的编程语言排行榜。 本月 TIOBE 指数波动主要集中在排名靠后的语言上。例如，OCaml 和 Zig 在过去几个月里都保持了持续增长，未来有望跻身前 20 名。另一个值得关注的现象是，MATLAB 十多年来首次跌出前 20 名。“这仅仅是暂时的下滑，还是更长期衰落的开始？” TIOBE CEO Paul Jansen 认为，M......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-14 03:19:20",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "嵌赛南京决胜时刻：移远通信赛道20支队伍荣获国奖，大学计划同步启航",
-      "link": "https://www.oschina.net/news/501929",
-      "summary": "2026年8月13日，随着颁奖典礼的圆满落幕，第九届全国大学生嵌入式芯片与系统设计竞赛总决赛在南京正式画上句号。青春的热情与硬核科技激烈碰撞，在这场汇聚了全国900余所高校学子的竞技舞台上，移远通信作为核心协办企业，深度融入赛事全程，用物联网技术和平台托举起学子的创意，并正式发布了一项意义深远的蓝图——“移......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-14 02:57:44",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "wastnet 与 Undertow 性能压测对比报告",
-      "link": "https://www.oschina.net/news/501928",
-      "summary": "选型一个 Java Web 框架，性能是绕不开的考量。wastnet 作为一款自研、零第三方依赖的网络框架，外界很自然就会问：它和成熟的工业级服务器比，到底处在什么位置？ 为此，以与 Undertow 完全相同的压测口径，跑了一组对照数据。Undertow 是 WildFly 的默认 Web 服务器，也是 Java 领域久经考验的高性能 NIO 实现，把它作......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-14 02:15:05",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
       "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
       "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. Thi...",
@@ -1048,17 +1026,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
-      "link": "https://spectrum.ieee.org/product-engineer",
-      "summary": "\nIf you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-13 14:44:50",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
-    },
-    {
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
       "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ...",
@@ -1101,83 +1068,6 @@
       "pubDate": "2026-08-13 09:00:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
-      "link": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
-      "summary": "\nA survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.\nDownload this free whitepaper now!\n...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-12 14:18:05",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/voxel51-logo-with-geometric-cube-icon-and-stylized-text.png?id=67607900&width=980"
-    },
-    {
-      "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
-      "link": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
-      "summary": "\nIn collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.\nHeld on 9 and 10 June in Paro, in the eastern Himalayas, t...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-11 19:50:54",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-middle-aged-white-woman-receiving-a-gift-of-a-folded-white-cloth-from-a-younger-asian-woman.jpg?id=67605013&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
-      "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
-      "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-      "summary": "\nIn a tranquil Boston suburb, on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a half-meter-long cylinder with co...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-11 13:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/on-the-left-a-man-in-a-collared-shirt-stands-smiling-with-hands-in-his-pockets-and-lab-equipment-in-the-background-on-the-ri.jpg?id=67598580&width=1245&height=700&coordinates=0%2C258%2C0%2C259"
-    },
-    {
-      "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
-      "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
-      "summary": "\nThe transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from rely...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-07 18:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-black-woman-speaking-into-a-microphone-while-seated-in-an-auditorium-crowd.jpg?id=67577640&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
-      "title": "Cars Communicating Badly Is an Already-Solved Problem",
-      "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
-      "summary": "\nThe history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back, in part, to a team of Australian radio astronomers trying t...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-07 13:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-two-cars-with-cell-towers-on-top-communicating-via-speech-bubbles.jpg?id=67571736&width=1245&height=700&coordinates=0%2C66%2C0%2C66"
-    },
-    {
-      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
-      "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
-      "summary": "\nToday’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record su...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-05 18:00:03",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-man-holding-a-ginormous-lightbulb-with-ai-written-on-it.jpg?id=67568096&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
-      "title": "Why R&amp;D Waste Persists Despite Widespread AI Adoption",
-      "link": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
-      "summary": "\nThis report examines R&amp;D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well.\nWhat Attendees will Learn\n\nWhere R&amp;D budget is lost. More than a ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-04 14:51:55",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/patsnap-logo-with-abstract-connected-circle-design-in-grayscale.png?id=67571651&width=980"
     }
   ]
 }
