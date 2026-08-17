@@ -1,7 +1,18 @@
 {
-  "updateTime": "2026-08-17T11:31:25.832Z",
+  "updateTime": "2026-08-17T12:55:43.439Z",
   "total": 97,
   "news": [
+    {
+      "title": "Pi 的上下文压缩如何工作？",
+      "link": "https://www.oschina.net/news/501967/compaction-in-pi",
+      "summary": "你和 AI 编程助手聊了 30 轮。突然，它报错了。不是你的代码有问题，是对话历史太长，token 超过了上下文窗口限制。 这是所有 LLM 编程助手都必须面对的问题。Earendil 官方博客最近发表了一篇技术文章，详细解释他们的编码助手 Pi 是如何处理这个问题的——通过一个叫「compaction」的机制。 两个选择，都不完美 当上下......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-17 11:39:23",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "《蜘蛛侠：崭新之日》全球票房破 136.6 亿跻身影史第 8，登顶索尼影业影史单片票房冠军",
       "link": "https://www.ithome.com/0/990/796.htm",
@@ -12,6 +23,72 @@
       "pubDate": "2026-08-17 11:07:37",
       "category": "ai",
       "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/c787e034-f512-4c93-a801-9a0781f07768.jpg"
+    },
+    {
+      "title": "智谱 VS Deepseek，两条分叉的自进化树",
+      "link": "https://www.tmtpost.com/8105866.html",
+      "summary": "智谱精准狙击DeepSeek，跑分八项赢了七项，但自进化路线的胜负才刚刚分晓...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-17 11:04:55",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI为主人插队踢飞第一名，千万别让黄牛知道",
+      "link": "https://www.tmtpost.com/8105869.html",
+      "summary": "主人求它收手都没用。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-17 11:04:52",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "左手推Harness，右手涨价：DeepSeek为何把开发者往外推？",
+      "link": "https://www.tmtpost.com/8105986.html",
+      "summary": "绝对的低价终究只是梁文峰刺破商业壁垒的一柄短刃，而非能够长期持有的壁垒。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-17 11:04:45",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "马斯克华人前高管，5亿拿下硅谷豪宅，AI正批量制造富豪？",
+      "link": "https://www.tmtpost.com/8105983.html",
+      "summary": "xAI联创吴宇怀购入硅谷豪宅。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-17 11:04:43",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "利好连发，股价滞涨：特锐德仍需努力",
+      "link": "https://www.tmtpost.com/8105980.html",
+      "summary": "2025年全年，特锐德电力设备板块利润增速是收入增速的13倍，驱动力不是量，是结构：高压预制舱产品占比提升，海外项目毛利率达34.78%，较国内高出约10个百分点。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-17 11:04:41",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "月薪4.5万招聘首店店总，朴朴5000平线下模式仍待验证",
+      "link": "https://www.tmtpost.com/8105973.html",
+      "summary": "围挡 8 个月，朴朴首家线下超市 “朴朴生活” 仍未开业，高薪招聘店总从零搭建整套线下运营体系，验证新模式。其合作的念山海火锅已先行试营业，借力外部团队试水堂食。线上已实现盈利的朴朴，面临增长瓶颈与行业竞争，线下首店的成败或将影响其估值与资本走向。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-17 11:04:39",
+      "category": "other",
+      "thumbnail": ""
     },
     {
       "title": "Galaxy Z Fold9 系列要有五款机型？消息称三星明年再推一款全新阔折叠手机，更适合看视频",
@@ -80,6 +157,17 @@
       "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/ca65487c-cee5-4843-9b59-dc288d26c16f.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11"
     },
     {
+      "title": "deeptide：一个专为 DeepSeek 打造的 Mac 原生终端编码 Agent",
+      "link": "https://www.oschina.net/news/501966",
+      "summary": "DeepSeek 的编码 agent 生态又多了一个新玩家。 deeptide 是一个 Mac 原生的终端编码 agent，由 Paean AI 团队开发，MIT 协议开源。它用 Swift 编写，编译为 macOS 原生二进制，签名并公证，安装到 ~/.local/bin/tide。 和 Claude Code、DeepSeek Harness 这些通用 agent 不同，deeptide 的定...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-17 10:37:53",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "华为鸿蒙 HarmonyOS 7.0.0.102 版本新特性曝光，支持端侧 AI 机型可查看本地模型版本等",
       "link": "https://www.ithome.com/0/990/776.htm",
       "summary": "\nIT之家 8 月 17 日消息，华为今日开启了鸿蒙 HarmonyOS 7.0.0.102 SP8 版本推送，首批面向 Mate 80、Mate 70 等系列机型，系统包大小约 6.79 GB。新版本带来了 3D 空间壁纸、亲密圈、户外探索模式等功能。\n\n▲ IT之家开箱：华为 nova 16 Pro 手机美图IT之家注意到，升级 HarmonyOS 7.0.0.102 版本后，支持端侧 AI ...",
@@ -100,6 +188,17 @@
       "pubDate": "2026-08-17 10:31:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a822e6c9045a101f59f1d12/master/pass/Review--Skylight-Buddy.jpg"
+    },
+    {
+      "title": "AI订单涌入，万国数据上调全年业绩指引，今年投100亿元扩建数据中心｜看财报",
+      "link": "https://www.tmtpost.com/8105732.html",
+      "summary": "万国数据董事长兼首席执行官黄伟表示，今年的销售签约有望创下纪录，并大幅高于年初目标，他将订单增长主要归因于中国市场的AI需求。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-17 10:29:05",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "联发科 Day-0 适配阿里 Qwen 3.8 模型，覆盖天玑汽车座舱平台 C-X1 与天玑旗舰移动芯片",
@@ -124,6 +223,28 @@
       "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/8afbed2a-837f-4be9-960f-0460ac6141e1.png?x-bce-process=image/format,f_auto"
     },
     {
+      "title": "狂飙的AI，成了手机“斩杀线”上涨的新幌子？",
+      "link": "https://www.tmtpost.com/8101636.html",
+      "summary": "AI手机狂热背后，厂商又找到了涨价的理由。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-17 10:12:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "茶特调出圈一年，喜茶把竞争推向上游",
+      "link": "https://www.tmtpost.com/8105130.html",
+      "summary": "茶特调这种以茶为主角的全新产品形态，正在反向促进着行业的供应链升级，也将新茶饮的竞争推向了产业链更深处。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-17 10:11:21",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "El Niño and Saharan Dust Silence Atlantic Hurricane Season",
       "link": "https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/",
       "summary": "El Niño coupled with Saharan dust is making this year’s hurricane season a dud. But there’s still potential for dangerous storms....",
@@ -135,6 +256,28 @@
       "thumbnail": "https://media.wired.com/photos/6a7f7eb517c50f32a0cf2973/master/pass/Science_TheOne-TwoPunchThatHasAtlanticHurricaneSeason.gif"
     },
     {
+      "title": "AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察",
+      "link": "https://www.tmtpost.com/8105860.html",
+      "summary": "芯片算力的增长速度，已经远远超过了数据在芯片之间搬运的速度。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-17 09:42:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "link": "https://www.qbitai.com/2026/08/474537.html",
+      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-17 09:30:49",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
       "title": "Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms",
       "link": "https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/",
       "summary": "From threats to the safety of poll workers to voters who can’t distinguish between odds and results, prediction markets are already scrambling the political process....",
@@ -144,6 +287,28 @@
       "pubDate": "2026-08-17 09:30:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a7cc625da9d4129dd619236/master/pass/Politics_Officials%20Brace%20for%20Prediction%20Markets%20to%20Sow%20Midterm%20Election%20Chaos_v2.1.jpg"
+    },
+    {
+      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+      "link": "https://www.qbitai.com/2026/08/474518.html",
+      "summary": "没有遥控、没人喂球...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-17 09:04:37",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": ":fire: 新增默认空间配置，新用户自动加入默认空间：开源无代码 / 低代码平台 NocoBase",
+      "link": "https://www.oschina.net/news/501965",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支：main、next 和 develop。 version.png main：截至目前最稳定的版本，推荐安装此版本。 next：包含即将发布的新功能，经过初步测试的版本，可能存在部分已知或未知问题。主要面向测试用户，用于收集反馈和进一步优化功能。适合愿意......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-17 09:03:09",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "There’s a New Link Between Gut Health and Alzheimer’s Disease",
@@ -190,6 +355,28 @@
       "thumbnail": ""
     },
     {
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "link": "https://www.qbitai.com/2026/08/474381.html",
+      "summary": "AI最近最出圈的数学突破，都在“找反例”...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-17 08:36:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+      "link": "https://www.qbitai.com/2026/08/474361.html",
+      "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-17 08:26:25",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "2026 IEAE深圳国际消费类电子及家用电器展",
       "link": "https://www.oschina.net/event/8598377",
       "summary": "全国领先的专注于消费类电子及家用电器垂直领域的B2B专业展会。是消费类电子家用电器的一站式全品类平台和推广平台。定档3月和9月，是消费类电子和家用电器行业的选品采购，行业交流和品牌推广年度黄金旺季的开始，为参展成果提供充分保障。...",
@@ -219,6 +406,17 @@
       "sourceKey": "oschina",
       "region": "cn",
       "pubDate": "2026-08-17 07:44:56",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+      "link": "https://www.qbitai.com/2026/08/474334.html",
+      "summary": "即将完全开源...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-17 07:39:56",
       "category": "other",
       "thumbnail": ""
     },
@@ -256,17 +454,6 @@
       "thumbnail": ""
     },
     {
-      "title": "基于 WebSocket 的 HTML：不写 JavaScript 也能构建实时单页应用",
-      "link": "https://www.oschina.net/news/501956/html-over-websockets-real-time-spas",
-      "summary": "开发者 Andros Fenollosa 近日分享了一种构建实时单页应用的新思路——HTML over WebSockets。这种架构的核心思想是：服务器直接通过 WebSocket 连接向浏览器推送 HTML 片段，而不是像传统 SPA 那样先发送 JSON 数据，再让前端 JavaScript 框架渲染 DOM。 传统 SPA 架构通常需要三套独立系统：一个 JavaScript 前端框架负....",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-17 07:08:18",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "I’m hooked on Peak Design’s new City bags",
       "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
       "summary": "It's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its abi...",
@@ -276,138 +463,6 @@
       "pubDate": "2026-08-17 07:00:00",
       "category": "other",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3791.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "uBlock Origin 停止追踪 Facebook 广告拦截对抗",
-      "link": "https://www.oschina.net/news/501955/ublock-origin-stops-chasing-facebook-ads",
-      "summary": "知名开源广告拦截器 uBlock Origin 的志愿开发团队近日宣布，将不再持续更新针对 Facebook 的广告过滤规则。这意味着当 Facebook 找到绕过现有过滤器的办法后，uBlock Origin 不会再主动修复。 这一决定源于一场持续多年的猫鼠游戏。据开发团队成员在 Reddit 上透露，Facebook 的工程师会专门观察 uBlock Origin 等开源广......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-17 06:59:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "「选择无聊的技术」这篇 2015 年的文章，AI 时代突然又火了",
-      "link": "https://www.oschina.net/news/501954",
-      "summary": "一篇 2015 年的博客文章，最近突然爆火了。 Dan McKinley 在 Etsy 做工程师时写的《Choose Boring Technology》。核心思想很简单：每家公司只有大约三个「创新积分」。每选一个新技术（Node.js、MongoDB、自己写数据库），就花掉一个。积分用完了就没有了——直到你达到稳定和成熟状态之前不会再补充。 「无聊」不是说技......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-17 06:50:29",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Token未来更贵还是更便宜？定价权之争白热化",
-      "link": "https://www.tmtpost.com/8101913.html",
-      "summary": "中国头部模型厂商的价格战正走向精细化。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-17 05:39:20",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "真正考验星巴克中国的时候到了",
-      "link": "https://www.tmtpost.com/8105625.html",
-      "summary": "星巴克中国，“断腕自救”...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-17 05:25:04",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "物理AI的操作系统战争——谁在定义机器人的「小脑」？",
-      "link": "https://www.tmtpost.com/8105533.html",
-      "summary": "物理AI没有「安卓」...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-17 05:25:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "烟蒂，腾盛博药",
-      "link": "https://www.tmtpost.com/8105585.html",
-      "summary": "高光，坠落，燃烧，赌注。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-17 05:24:59",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "阿里甩卖游戏帝国，一切只为AGI？",
-      "link": "https://www.tmtpost.com/8105655.html",
-      "summary": "传言信宸资本15亿美元接盘阿里游戏帝国，大厂集体“割肉”非核心业务换AI门票。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-17 05:15:49",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "监管穿透时代，谁来为A股“关键少数”系上安全带？",
-      "link": "https://www.tmtpost.com/8104142.html",
-      "summary": "董平安，让守规矩的人更安心，让专业的人更敢作为。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-17 05:04:38",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "【Fintech 周报】银行能办结婚证了；37家险资豪掷10.3亿获配宇树科技；多位明星持证开播卖保险",
-      "link": "https://www.tmtpost.com/8105607.html",
-      "summary": "中互金在沪召开助贷会议，以自律稳市场信心；证监会通报公募基金风格漂移等违规问题；银行总部大迁徙；新三板保险中介批量“退群”；新能源车险增速腰斩；现货黄金涨破4400美元/盎司关口；广东推出“Token贷”；杨兵兵履新光大资产党委书记；腾讯Q2金融科技及企服收入破600亿；海尔小贷接手易极付99%股权；美国金融科技委员会呼吁对金融行业AI实施风险导向监管；美国科罗拉多州发布自动化决策技术监管草案。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-17 04:53:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "算力之后是语料：AI的新瓶颈正在重塑内容产业的定价权？",
-      "link": "https://www.tmtpost.com/8105410.html",
-      "summary": "AI语料、数据枯竭 、版权授权、内容产业、AI基础设施...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-17 04:28:42",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "150+人团队，腾讯投资的国产3A大作，制作人:在最好的时代尽力而为",
-      "link": "https://www.tmtpost.com/8105576.html",
-      "summary": "关二爷怒砍日本武士，把我看爽了...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-17 04:28:40",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "一级市场已经不能叫“回暖”了，这是“盛夏”｜暨2026年H1先锋榜发布",
-      "link": "https://www.tmtpost.com/8105515.html",
-      "summary": "不要停下...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-17 04:18:41",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
@@ -804,61 +859,6 @@
       "pubDate": "2026-08-15 11:09:57",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-500x500.jpg"
-    },
-    {
-      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-      "link": "https://www.qbitai.com/2026/08/473876.html",
-      "summary": "理解大模型，无需再训练一个替代网络...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-15 06:42:23",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
-      "link": "https://www.qbitai.com/2026/08/473866.html",
-      "summary": "音潮API限时免费开放...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-15 06:36:05",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
-      "link": "https://www.qbitai.com/2026/08/473669.html",
-      "summary": "推理能力还能自定义...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-15 06:05:31",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
-      "link": "https://www.qbitai.com/2026/08/473597.html",
-      "summary": "大家已经给DeepSeek装上了啥...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-15 05:53:01",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
-      "link": "https://www.qbitai.com/2026/08/473407.html",
-      "summary": "1.9万字全文实录...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-15 04:21:09",
-      "category": "robot",
-      "thumbnail": ""
     },
     {
       "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
