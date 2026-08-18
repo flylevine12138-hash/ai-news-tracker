@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-18T11:30:30.943Z",
+  "updateTime": "2026-08-18T12:57:11.673Z",
   "total": 107,
   "news": [
     {
@@ -33,6 +33,17 @@
       "region": "cn",
       "pubDate": "2026-08-18 11:07:50",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "WSL 上的 Ubuntu 用户数量将超过原生 Linux 桌面用户",
+      "link": "https://www.oschina.net/news/501989/canonical-wsl-growth",
+      "summary": "Canonical 工程副总裁 Jon Seager 在接受 The Pragmatic Engineer 采访时透露了一个数据：Ubuntu 在 WSL 中的增长，远高于原生桌面版的增长。他预计在未来几个月内，WSL 上的 Ubuntu 用户数量将超过原生 Linux 桌面用户。 一年内，我们的 WSL 用户增长显著高于桌面用户增长。WSL 让 Windows 用户可以在 Windows 环境中...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-18 11:05:01",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -102,6 +113,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Firefox iOS 版内置原生广告拦截器，但搜索引擎广告例外",
+      "link": "https://www.oschina.net/news/501988/block-ads-firefox-ios",
+      "summary": "Firefox for iOS 终于内置了原生广告拦截功能。 这个拦截器基于 EasyList 过滤列表，在网络层面阻止第三方广告网络、广告追踪器和弹窗广告。默认关闭，用户可以在设置中开启。Mozilla 将其标记为「实验性功能」，正在通过渐进式推送向用户群体开放。 但有两个明确的例外不拦截：搜索引擎结果页的广告，以及 Firefox 主页......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-18 10:31:21",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
       "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
       "summary": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers....",
@@ -146,6 +168,17 @@
       "thumbnail": ""
     },
     {
+      "title": "We still don’t know how people are really using AI",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “The...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-08-18 10:06:43",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
       "link": "https://www.qbitai.com/2026/08/474857.html",
       "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”...",
@@ -154,6 +187,17 @@
       "region": "cn",
       "pubDate": "2026-08-18 10:04:14",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bluesky 截图里多出来的 Logo 是怎么来的？一个 iOS 的「隐私功能」被用成了增长黑客",
+      "link": "https://www.oschina.net/news/501987/bluesky-screenshots",
+      "summary": "你有没有注意到，在 Bluesky 里截图分享帖子时，截出来的图片右上角会多一个 Bluesky 的 Logo，而正常使用 App 时那个位置显示的是「Follow」按钮？ 这不是你的错觉。Tim Marinin 翻了一遍 Bluesky 的开源代码，找到了这个功能的具体实现。 GrowthHack.tsx 文件名就叫 GrowthHack.tsx。对，你没看错，增长黑客（Growth ......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-18 10:03:10",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -190,6 +234,17 @@
       "thumbnail": ""
     },
     {
+      "title": "你想替代 GitHub，先得做到不依赖 GitHub",
+      "link": "https://www.oschina.net/news/501986",
+      "summary": "2026 年 8 月 17 日，周一，中国时间晚上 9:40 左右，GitHub 开始大面积宕机。 这次宕机持续了超过 7 个小时，直到 8 月 18 日凌晨 5:15（北京时间）才宣告完全恢复。受影响的服务覆盖了 GitHub 几乎全部核心功能：网站、API、Pull Request、Actions、Webhooks、Issues、Git Operations，以及 GitHub Copilot...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-18 09:43:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
       "link": "https://www.qbitai.com/2026/08/474840.html",
       "summary": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp...",
@@ -198,6 +253,83 @@
       "region": "cn",
       "pubDate": "2026-08-18 09:38:21",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "DTC的5大阶段3.0：社交媒体与数字原生品牌时代",
+      "link": "https://www.tmtpost.com/8107477.html",
+      "summary": "内容种草 × 流量转化 × 流量采买。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-18 09:22:25",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "订单已排到2030年，电子织布机需求爆发，国产织机迎来窗口期",
+      "link": "https://www.tmtpost.com/8107442.html",
+      "summary": "电子布涨价只是表象，真正的瓶颈不在产线，而在织布机。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-18 09:22:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "字节下场“漫剧工业化”，LibTV们迎来大考？",
+      "link": "https://www.tmtpost.com/8107419.html",
+      "summary": "即梦与小云雀均都已布局漫剧赛道，字节为何还要再推一款工具？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-18 09:22:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "英伟达开始给电做担保了：1050亿美元押注8GW算力的电力账",
+      "link": "https://www.tmtpost.com/8107418.html",
+      "summary": "英伟达这一步，标志着一个判断被正式确认：AI竞赛的下半场，胜负手不在制程，在电力。谁先把电的问题解决，谁就先解锁下一轮算力扩张。  对供电链条上的公司来说，这既是天量的订单预期，也是一次价值重估——过去数据中心电源被当成\"配套件\"，如今它成了卡住8GW落地的关键路径。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-18 09:21:54",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "一份精确到小数点后两位的\"错误作业\"",
+      "link": "https://www.tmtpost.com/8105820.html",
+      "summary": "段永平减持英伟达54.63%——一个SEC官方精确数字，却可能与其真实意图完全相反。13F剥离了期权、现金与港股，散户抄到的是一份\"精确的错误\"的假作业。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-18 09:12:21",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "不产松子，它凭何垄断全球七成加工市场？",
+      "link": "https://www.tmtpost.com/8106728.html",
+      "summary": "梅河口松子产业“从无到有”的背后，藏着怎样的产业升级密码？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-18 09:12:15",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nokia Closes Hangzhou R&amp;D Site and Cuts 1,600 Jobs as China Business Shrinks",
+      "link": "https://www.tmtpost.com/8107475.html",
+      "summary": "The Finnish equipment maker is reducing its research footprint in China after years of falling sales and market share. The move forms part of a larger effort to align the local operation with global s...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-18 09:06:07",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -234,6 +366,28 @@
       "thumbnail": "https://media.wired.com/photos/69101cf42807788d808a6daf/master/pass/The%20Best%20Merino%20Wool%20Clothing%20Keeps%20You%20Comfy%20in%20Any%20Weather.png"
     },
     {
+      "title": "The role of the astronaut is in flux",
+      "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-08-18 09:00:00",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-08-18 09:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "银行风控逻辑开始\"看Token不看砖头\"了",
       "link": "https://www.tmtpost.com/8106372.html",
       "summary": "AI时代看不懂AI公司，Token消耗成了\"翻译器\"。...",
@@ -242,7 +396,7 @@
       "region": "cn",
       "pubDate": "2026-08-18 08:10:22",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r4t3hrn3.png"
+      "thumbnail": ""
     },
     {
       "title": "从厨师到高管，黄仁勋女儿四年薪资暴涨670%",
@@ -253,7 +407,7 @@
       "region": "cn",
       "pubDate": "2026-08-18 08:10:17",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/r24qtgreshtg3.png"
+      "thumbnail": ""
     },
     {
       "title": "3 个月亏掉 100 亿美元，DAT 公司开始回归理性",
@@ -264,62 +418,18 @@
       "region": "cn",
       "pubDate": "2026-08-18 08:10:13",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t43y546hjyhtg3.png"
+      "thumbnail": ""
     },
     {
-      "title": "腾讯的AI Capex，还可以更高",
-      "link": "https://www.tmtpost.com/8106867.html",
-      "summary": "硬的东西，比软的故事更值得信任。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
+      "title": "Rust 编译器原生支持 GPU 卸载了：一份论文试图终结「安全」和「快」的二选一",
+      "link": "https://www.oschina.net/news/501985",
+      "summary": "GPU 编程一直有一个绕不开的权衡：想跑得快，就得写 CUDA/HIP 这种厂商绑定的 DSL，或者手动摆弄裸指针；想安全，就得接受一层又一层的抽象，性能随之打折。一篇提交到 arXiv 的论文提出，这条路可能有第三种走法——把 GPU 卸载直接做进 Rust 编译器里。 论文标题就叫《GPU Offload in Rust: Portable, Safe, and Fast......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-08-18 08:04:57",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/42353.png"
-    },
-    {
-      "title": "AI中转站的生死一梦",
-      "link": "https://www.tmtpost.com/8107107.html",
-      "summary": "一边是名人砸钱入场、媒体争相报道，一边是普通从业者排队进局子、社交账号连夜注销。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-18 07:50:06",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/7f2b1ec2ac0d204fb15ce0e74c1f24cd_1787039411.jpg"
-    },
-    {
-      "title": "AI代码过剩后，给代码“冲厕所”的公司贵了十倍",
-      "link": "https://www.tmtpost.com/8107004.html",
-      "summary": "AI越会写代码，Blacksmith需要跑的机器反而越多。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-18 07:47:26",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t5y4hyhgf3.png"
-    },
-    {
-      "title": "年费2100元，英超开始做自己的「Netflix」",
-      "link": "https://www.tmtpost.com/8107003.html",
-      "summary": "摒弃「中间商」，是体育版权的出路吗？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-18 07:47:21",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/df9ab82ae0096b0ed75e7115569fb7a1_1787039246.png"
-    },
-    {
-      "title": "WorkBuddy们，正在终结钉钉、飞书、企业微信的旧战争",
-      "link": "https://www.tmtpost.com/8107000.html",
-      "summary": "协同办公已\"死\",AI办公当“立”？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-18 07:47:16",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/c3d7ad20ece65f04cb38fac236bfd364_1787039240.jpg"
+      "pubDate": "2026-08-18 07:48:45",
+      "category": "chip",
+      "thumbnail": ""
     },
     {
       "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
@@ -340,6 +450,17 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-08-18 07:17:42",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub 爆发严重宕机事故，开发者开始认真找退路",
+      "link": "https://www.oschina.net/news/501984",
+      "summary": "GitHub 又宕机了。Hacker News 社区毫无意外又有人发起了那个老生常谈问题：\"有没有值得迁移的替代方案？\" 讨论质量很高，社区给出的答案分成了几个阵营。 自托管 GitLab 是传统答案，但没人把它当免费的午餐。多位评论者点出它的真实成本：运维负担太重。\"GitLab 的可靠性权衡你得想清楚——自托管意味着你得自己盯着备......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-18 07:04:52",
       "category": "other",
       "thumbnail": ""
     },
@@ -377,26 +498,15 @@
       "thumbnail": ""
     },
     {
-      "title": "GitHub宕机七小时，代码世界的“权威源”第一次有了挑战者",
-      "link": "https://www.tmtpost.com/8106430.html",
-      "summary": "Cursor上线代码托管平台Origin，以一键迁移争夺开发者代码的“中心节点”地位。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
+      "title": "StreamSQL v1.2.0 发布：边缘 SQL 流处理引擎，补齐 CEP 与分析函数能力",
+      "link": "https://www.oschina.net/news/501980",
+      "summary": "这是 v1.0.0 之后一次比较完整的能力升级。 这一版补上了 CEP 模式识别、分析函数、资源边界和可观测性相关能力，让 StreamSQL 不只是能做实时聚合，也能处理更复杂的连续事件和状态判断。 一、本次升级最值得关注的三件事 1. CEP：边缘事件序列检测终于有了原生 SQL 表达 CEP（Complex Event Processing，复杂事件处理）......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-08-18 05:48:34",
+      "pubDate": "2026-08-18 05:52:15",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/70d2f36dbac6585e1aff9bb9f7d289ae_1787015083.png"
-    },
-    {
-      "title": "海底捞叫停宠物友好：携宠进店，到底谁在赚钱",
-      "link": "https://www.tmtpost.com/8107114.html",
-      "summary": "宠物友好的商业模式能否走通，不取决于口号，而看场景中的人宠空间风险。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-18 05:07:57",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/9095c5401b5830194a89806567ea366f_1787029681.png"
+      "thumbnail": ""
     },
     {
       "title": "SteelSeries Coupon Codes: 15% Off in August 2026",
@@ -509,72 +619,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Google AI 重组内幕：创始人 Brin 亲自督战，DeepMind 权力洗牌",
-      "link": "https://www.oschina.net/news/501977",
-      "summary": "路透社发表独家报道，揭示了 Google 过去几个月 AI 部门动荡的内幕。核心剧情线有三条：一位联合创始人亲自下场干预模型训练，一位深度学习之父被架空，以及两位创始技术负责人出走创业。 Brin 的四月讲话 2026 年 4 月，Google 联合创始人 Sergey Brin 临时召集了一场面向数百名 DeepMind 员工的 town hall。他的信息很......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-18 03:12:58",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI 文本水印是一场注定失败的战争",
-      "link": "https://www.oschina.net/news/501976/text-ai-watermarks-always-be-trivial-to-remove",
-      "summary": "从 2026 年 8 月起，欧盟 AI 法案开始对新系统生效。法案第 50 条要求 AI 提供者让输出内容「可被检测为人工生成」。换句话说，LLM 必须在输出中嵌入水印。 开发者 Sean Goedecke 写了一篇分析文章，结论很直接：文本水印永远可以被轻松移除。 不是图片水印，是文本隐写 Goedecke 首先澄清了一个常见误解。图片水印可以在......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-18 02:58:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic 公开 Claude 全系列模型 System Prompt 历史版本",
-      "link": "https://www.oschina.net/news/501975/claude-system-prompts",
-      "summary": "Anthropic 在一个新页面上公开了 Claude 全系列模型的 system prompt 历史版本，覆盖从 Claude 3 到 Claude Opus 5 的所有模型，最早可以追溯到 2024 年 7 月。 这些 prompt 用于 claude.ai 网页端和移动端 App，不适用于 API。从 Claude 4.6 开始，每个模型 ID 是固定快照，所以只有一个 prompt 条目；...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-18 02:47:58",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "DuckDB v2.0 预览：自研 SQL 解析器、异步 I/O、40 倍递归查询提速",
-      "link": "https://www.oschina.net/news/501974/duckdb-2-0-highlights-preview",
-      "summary": "开源列式关系数据库管理系统（RDBMS）DuckDB 发布了 v2.0 预览版，代号 \"Cyanoptera\"，预计今年秋季正式发布。这是一次大版本升级，将带来以下亮点特性： 全新的 SQL 解析器 新的默认存储格式 重写的 C API 以及少量精心挑选的破坏性变更 自 3 月发布的 v1.5 以来，v2.0 积累了超过 10,000 个 commit。 最引人注目的变化......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-18 02:43:13",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ollmo v0.1.0 正式发布｜生产级全功能 RAG+Agent 可视化平台上线",
-      "link": "https://www.oschina.net/news/501973",
-      "summary": "项目简介 ollmo 是面向私有化、团队协作场景打造的生产级 RAG (检索增强生成) 平台。上传文档、提出问题、拿到带精准出处的答案。内置混合检索、完整多租户隔离、流式对话、可视化 Agent 画布、GraphRAG、全链路可观测能力，开箱即可搭建私有知识库问答系统。 后端基于 Go + Fiber，前端 Next.js App Router + shadcn‑u......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-18 02:37:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vercel 开发了专门给 AI Agent 用的编程语言 Zero",
-      "link": "https://www.oschina.net/news/501972/vercel-labs-zerolang",
-      "summary": "Vercel Labs 在 GitHub 上开源了一个实验性编程语言 Zero，5310 个 star，339 个 fork。但数字不是重点——重点是它的定位：给 AI Agent 用的编程语言。 不是给人用的。 传统编程的流程是「人写代码 → 编译器编译 → 人看报错修 bug」。这个循环里，文本是真正源头。而 Zero 把这个源头换成了图（graph）：Agent 查询程......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-18 02:35:43",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
       "link": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
       "summary": "\nThe biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google.\nIt was a 27-billio...",
@@ -606,17 +650,6 @@
       "pubDate": "2026-08-17 23:46:01",
       "category": "ai",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-17-at-4.32.56-PM.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "开源分销系统 EDEN-MACE 全新升级",
-      "link": "https://www.oschina.net/news/501968",
-      "summary": "【项目背景】 2018 年上线的开源分销管理系统 EDEN-MACE，把分润、等级计算做成后台可配置，API 松耦合对接。六年后，全新一代 dist-admin 重构完成并开源：分销引擎与旧版逐行对齐，金额一分不差；技术底座全部重写。 【技术升级】 Spring Boot 1.5 + JDK 8 → Spring Boot 3.2.5 + Java 21；guns + Shiro → RBAC +...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-17 23:17:50",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
@@ -1077,39 +1110,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-08-14 09:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloning could be used to save species—or make human “organ sacks”",
-      "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create fem...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-08-14 09:00:00",
-      "category": "biotech",
-      "thumbnail": ""
-    },
-    {
-      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-      "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. Thi...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-08-13 21:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Building a practical path to post-quantum cryptography",
-      "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for busin...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-08-13 18:11:42",
       "category": "other",
       "thumbnail": ""
     },
