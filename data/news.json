@@ -1,7 +1,18 @@
 {
-  "updateTime": "2026-08-18T12:57:11.673Z",
+  "updateTime": "2026-08-18T13:49:16.383Z",
   "total": 107,
   "news": [
+    {
+      "title": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x",
+      "link": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
+      "summary": "\nEnterprise teams running AI agents at scale are finding that a single model handles every task poorly — either the model is too expensive for simple questions or not capable enough for hard ones. Mod...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-18 13:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "OpenAI 宣布与 CodeAI 合作：ChatGPT 青少年版正式上线，内置学习模式与家长控制",
       "link": "https://www.ithome.com/0/991/297.htm",
@@ -1045,17 +1056,6 @@
       "region": "us",
       "pubDate": "2026-08-17 09:00:00",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
-      "link": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
-      "summary": "\nMost teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust th...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-16 20:45:00",
-      "category": "ai",
       "thumbnail": ""
     },
     {
