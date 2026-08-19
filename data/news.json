@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-19T06:54:11.715Z",
+  "updateTime": "2026-08-19T07:43:36.771Z",
   "total": 107,
   "news": [
     {
@@ -286,6 +286,17 @@
       "region": "cn",
       "pubDate": "2026-08-19 02:15:27",
       "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
+      "link": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+      "summary": "\nAfter a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source language model from C...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-19 02:00:00",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -1013,17 +1024,6 @@
       "pubDate": "2026-08-17 18:00:04",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/three-high-school-students-posing-with-their-individual-award-plaques-next-to-a-middle-aged-white-woman.jpg?id=67634200&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
-    },
-    {
-      "title": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
-      "link": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers",
-      "summary": "\nA retrieval-augmented generation (RAG) system is built to answer strictly from the documents it retrieves. But when engineers optimize these AI pipelines end-to-end, the reader module can learn a sho...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-17 17:14:46",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "From AI Copilots to Agent Swarms",
