@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-20T08:47:31.786Z",
+  "updateTime": "2026-08-20T09:40:32.327Z",
   "total": 97,
   "news": [
     {
@@ -91,6 +91,17 @@
       "thumbnail": ""
     },
     {
+      "title": "OpenCode × DeepSeek 配置方案完成重大升级：应对 API 涨价",
+      "link": "https://www.oschina.net/news/502035",
+      "summary": "针对 DeepSeek API 调用价格实际上涨 3 至 5 倍的市场变化，一套面向 OpenCode Agent 框架与 DeepSeek V4 双模型（Pro + Flash）的配置方案今日完成系统性重构，核心目标是在控制成本的同时维持开发效率。本次升级涉及 31 个文件，净精简约 3400 行配置。 应对涨价：Flash-First 模型重分配 面对 Pro 模型成本显著上升，......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-20 07:56:43",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "远信储能：前五大客户贡献超九成收入，经营现金流大起大落｜IPO观察",
       "link": "https://www.tmtpost.com/8105462.html",
       "summary": "笔者注意到，报告期内远信储能业绩增长十分突出，营收、净利润复合增长率分别高达107.3%、94.31%，但高速增长之下多项经营信号值得关注。...",
@@ -135,6 +146,39 @@
       "thumbnail": ""
     },
     {
+      "title": "Unsloth Dynamic 3.0 GGUF 发布，同体积下准确率再提 10%",
+      "link": "https://www.oschina.net/news/502032/unsloth-ai-dynamic-3.0-ggufs",
+      "summary": "Unsloth 今天发布了 Dynamic 3.0 量化方案，首发 Qwen3.8-27B 量化版本。相比 v2.0，新版本在同等磁盘空间下 top-1% 准确率提升超过 10%，KL Divergence 指标全面优于所有其他量化提供商。 准确率提升来自几个方面：更高质量的 imatrix 校准数据集（从多样化数据源构建，针对 agent 编程、聊和多语言场景优化），更好的层......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-20 06:39:21",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026北京开源行业解决方案创新赛正式启动报名",
+      "link": "https://www.oschina.net/news/502031",
+      "summary": "第四届开放原子大赛·2026 开源行业解决方案创新赛即日起正式启动报名，本次大赛由开放原子开源基金会主办，开源中国承办，北京市经济和信息化局作为联合主办单位，参与赛事方向指导、产业资源协调和重点成果对接。 大赛以“开源赋能行业创新，方案驱动场景落地”为主题，设置「开源基础软件与解决方案」、「开源智能硬件......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-20 06:33:44",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "openKylin X-Kernel 走出实验室：一场关于“高校与企业如何做开源”的分享",
+      "link": "https://www.oschina.net/news/502028",
+      "summary": "继上月OpenAtom openKylin（简称“openKylin”） 社区X-TeeOS SIG 发布 Rust 操作系统内核 X-Kernel 首个里程碑版本 v0.1.0-2606 后，项目迎来了新的进展。（错过上篇的可以点这里回顾： openKylin 深耕可信计算：X-Kernel 里程碑版本筑牢自主安全根基 ）。 近日，在第二十届全国高校操作系统课程教学研讨会上，X-TeeOS......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-20 05:46:15",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "当无人驾驶开始领“工资”，AI司机订阅能成为L4的新生意吗？",
       "link": "https://www.tmtpost.com/8110263.html",
       "summary": "L4下一阶段，比拼的不只是技术，更是赚钱能力。...",
@@ -168,6 +212,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Goodlink v3.0.0 发布, 全网最简单, 最快的免费内网穿透",
+      "link": "https://www.oschina.net/news/502025",
+      "summary": "docs(ui): 删除fyne的UI框架, 改用Webview方式, 功能更加强大, 资源占用更小 feat(ui): 增加可配置的动态端口转发功能 feat(ui): remote端不需要管理员权限 feat(ui): local端默认创建虚拟网卡, 需要管理员权限. 如果使用转发模式, 则不需要管理员权限 feat(release): 为跨平台发布包附加完整性校验文件 fix(forward...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-20 04:59:58",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "GitHub Copilot 的自动修复把 Snowflake 的 Jira 搞穿了",
       "link": "https://www.oschina.net/news/502024/wiz-red-agent-snowflake-copilot-cicd-bug",
       "summary": "Wiz Research 的红队 Agent 搞了个大新闻：它用完全自主的方式，通过 GitHub Actions 模板注入漏洞，拿下了 Snowflake 的内部 Jira 实例。 更让人不安的是，这个漏洞的引入者不是人类开发者，而是 GitHub Copilot 的 Autofix 功能。 攻击链条 Snowflake 的某个仓库里有一个 GitHub Actions workflow，用 i...",
@@ -176,6 +231,28 @@
       "region": "cn",
       "pubDate": "2026-08-20 04:06:18",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "纯开源制品仓库 kkRepo v0.9.0 发布，新增 Alpine、Hugging Face Models 与全局搜索",
+      "link": "https://www.oschina.net/news/502023",
+      "summary": "距离上个版本 0.8.0 时隔一周，这次 v0.9.0 也正式发布了。 这一版不只是继续增加仓库格式，还补上了全局制品搜索、版本更新提醒、代理重定向白名单，以及一批界面和稳定性改进。 项目地址：https://github.com/klboke/kkRepo v0.9.0 Release：https://github.com/klboke/kkRepo/releases/tag/v0.9.0 kk...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-20 03:50:59",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Erupt 2.0.4：一个注解，让表格行能拖着排序了",
+      "link": "https://www.oschina.net/news/502022",
+      "summary": "谁说低代码只能 CRUD？现在表单里能塞一个\"真按钮\"了 聊起注解驱动、零前端的后台框架，总有一个声音会跳出来： \"这类东西不就是自动生成个增删改查嘛，稍微复杂点的交互根本做不了。\" 这句话，过去有一半是对的。列表、表单、搜索、导出——这些标准动作框架能包圆；但一旦业务要一个\"点一下算个价再回填\"的按钮，或者运......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-20 03:49:27",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -234,28 +311,6 @@
       "thumbnail": ""
     },
     {
-      "title": "PostgreSQL for Everything？PG 到底能不能替代 Kafka、Elasticsearch、Redis、MongoDB",
-      "link": "https://www.oschina.net/news/502019/postgresql-for-everything",
-      "summary": "\"PostgreSQL 能替代 Kafka、Elasticsearch、Redis、MongoDB、Clickhouse……\"这个说法每隔一阵就会在社区引发激辩。今天 Raphael Bauer 的一篇《PostgreSQL for Everything》又把它炸了出来。 Bauer 的论点很直接：PG 的生态扩展已经覆盖了绝大部分专用数据系统的功能——全文搜索替代 Solr/ES，JSONB 替...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-20 03:00:19",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "程序员为 8 岁女儿创建了一个游戏引擎，教她写代码",
-      "link": "https://www.oschina.net/news/502018",
-      "summary": "Nick 的八岁女儿想制作电子游戏。她不满足于只是玩游戏——她想创造世界。 于是 Nick 给她做了一个\"可以制作游戏的游戏\"：一个由文字、图片和一门微型脚本语言组成的多人世界。女儿可以在里面拆解一切，看看它们是如何运作的。 他把这个项目叫做 Canon，灵感来自互联网早期那些文字 MUD。 三十年前的 HyperCard Nick 讲这......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-20 02:48:47",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "硅谷VC闭门课：判断AI创业公司的五个维度",
       "link": "https://www.tmtpost.com/8108556.html",
       "summary": "理想收在心里，纪律写进流程。...",
@@ -263,39 +318,6 @@
       "sourceKey": "tmt",
       "region": "cn",
       "pubDate": "2026-08-20 02:34:31",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "DeepSeek  Harness 、ChatGPT 登陆玲珑商店，Linux 发行版热门 AI 工具",
-      "link": "https://www.oschina.net/news/502017",
-      "summary": "如意玲珑社区迎来一则令人振奋的消息——DeepSeek Harness 和 ChatGPT 客户端上架如意玲珑应用商店！这意味着无论你使用的是 deepin、Ubuntu、Debian 还是其他主流 Linux 发行版，都可以通过如意玲珑应用商店一键安装这两款热门 AI 工具，轻松体验人工智能的魅力。 玲珑应用商店社区版 在 Arch Linux 和 Ubuntu上安装后效......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-20 02:14:43",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Go 1.27 发布：泛型方法来了，JSON 包重写，还内置了 UUID 和 SIMD",
-      "link": "https://www.oschina.net/news/502015/golang-1-27",
-      "summary": "Go 1.27 今天正式发布。这个版本最大的亮点是泛型方法（Generic Methods）——期待已久的语言特性终于落地。 泛型方法允许方法声明自己的类型参数，这意味着你可以为特定类型的方法添加泛型约束而不影响整个类型。不过接口方法不能声明类型参数，泛型方法也不能满足接口方法的要求。 标准库方面，改动最大的当属 encodi......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-20 02:11:17",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenRouter 加入 Stripe，「LLM 的 Stripe」真的成了 Stripe 的一部分",
-      "link": "https://www.oschina.net/news/502014/openrouter-is-joining-stripe",
-      "summary": "OpenRouter 卖了个好价钱。去年被传 Stripe 以超 70 亿美元收购的 AI 模型路由平台，今天正式官宣加入 Stripe。 对，就是那个常年被开发者称为\"Stripe for LLMs\"的公司，现在真的成了 Stripe 的一部分。 OpenRouter 的体量远超大多数人的直觉：每天处理 10+ 万亿 tokens，覆盖 400+ 个 AI 模型，服务超过 1000 万开发者和....",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-20 02:10:06",
       "category": "ai",
       "thumbnail": ""
     },
@@ -329,17 +351,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-08-20 01:06:45",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bun 1.4 迟迟未至：一场高调 Rust 重写背后的现实考验",
-      "link": "https://www.oschina.net/news/502012",
-      "summary": "2022年，Bun以惊人的速度和性能横空出世，迅速成为JavaScript生态中最受瞩目的新星之一。它用Zig语言构建，承诺更快的启动、更低的内存占用、更完整的工具链。无数开发者从Node.js转向它，把它当作日常开发的默认选择。三年多过去，Bun的故事却走到了一个令人意外的拐点：1.4版本的Rust重写，原本被寄予厚望，如今却成了......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-20 00:51:25",
       "category": "other",
       "thumbnail": ""
     },
@@ -738,17 +749,6 @@
       "pubDate": "2026-08-19 15:56:56",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-2-500x500.jpeg"
-    },
-    {
-      "title": "AI 换台电脑就失忆？我们自己写了个开源项目解决它",
-      "link": "https://www.oschina.net/news/502011",
-      "summary": "大家好，我们是 agentctxsync（Agent Context Sync）的作者，道荣和露。这个项目最近开源了，写篇文章介绍一下，顺便记录一下做这个东西的过程。 起因很简单，我们俩都是 AI 工具的重度用户，Hermes、Codex、opencode 换着用。用得越多，越被一个问题困扰：AI 的记忆是\"绑设备\"的。 白天在公司电脑上跟 AI 聊了一下午，上......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-19 14:36:06",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Why Is It Absolute Hell to Buy a Movie Ticket Now?",
