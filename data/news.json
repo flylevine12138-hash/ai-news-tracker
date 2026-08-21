@@ -1,94 +1,204 @@
 {
-  "updateTime": "2026-08-21T15:39:22.775Z",
+  "updateTime": "2026-08-21T16:40:41.987Z",
   "total": 107,
   "news": [
     {
-      "title": "华硕推出灵光岛 AP304 悬浮海景房机箱：一体化弧面防爆玻璃、配 USB-C 20Gbps 接口，780 元起",
-      "link": "https://www.ithome.com/0/992/846.htm",
-      "summary": "\nIT之家 8 月 21 日消息，华硕现已在京东上架灵光岛 AP304 悬浮海景房机箱，该产品提供黑白双色可选，其中黑色售价 780 元，白色售价 849 元。\n\n\n该机箱整体尺寸为 240x535x450mm，使用悬浮海景房设计，拥有嵌入式 RGB 灯带，兼顾外观和散热性能。机箱兼容 ATX、Micro-ATX、Mini-ITX 主板，搭载“升级版显卡支架”，号称能够进一步强化显卡稳定性。\nI/...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-21 12:33:35",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/e0cdbae8-e5ba-42b2-9b7f-5f420a051e51.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "GitHub 通报 8 月 17 日大规模宕机事件原因：基础设施容量未能跟上平台使用量的快速增长",
-      "link": "https://www.ithome.com/0/992/844.htm",
-      "summary": "\nIT之家 8 月 21 日消息，GitHub 现已公布 8 月 17 日平台大规模宕机事件的调查结果，确认此次事故并非由程序代码或配置变更引起，而是“基础设施容量未能跟上平台使用量的快速增长”。本次大规模宕机合计造成 GitHub 网站、身份验证、GitHub Actions、API、Pull Request、Issues 等多项服务中断 7 小时 47 分钟。\nGitHub 表示，当日平台流量...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-21 12:20:56",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/481bbb9f-e391-457d-9bc9-551a928c05f5.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "国产 NAND 龙头长江存储冲刺科创板：IPO 审核状态变更为已受理，拟融资 330 亿元",
-      "link": "https://www.ithome.com/0/992/843.htm",
-      "summary": "\nIT之家 8 月 21 日消息，上海证券交易所网站显示，长江存储控股股份有限公司（IT之家下称“长江存储”）首次公开发行股票并在科创板上市的 IPO 审核状态已变更为“已受理”。公司拟融资金额为 330 亿元，保荐机构为中信证券和中信建投。\n\n此前 8 月 19 日，长江存储 IPO 辅导状态刚由证监会官网公示变更为“辅导验收”。中信证券与中信建投于当日签署了《辅导工作完成报告》。公司于 202...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-21 12:14:46",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/fcad47ed-d177-495f-ba8d-28d65cb1ae9f.jpg"
-    },
-    {
-      "title": "长芯博创 2026 年半年度归母净利润 3.21 亿元，同比增长 91.08%",
-      "link": "https://www.ithome.com/0/992/842.htm",
-      "summary": "\nIT之家 8 月 21 日消息，长芯博创今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告：\n\n营业总收入：16.88 亿元，同比增长 40.72%\n归母净利润：3.21 亿元，同比增长 91.08%\n扣非净利润：3.15 亿元，同比增长 94.49%\n经营现金流：3.11 亿元，同比增长 4.57%\n加权平均净资产收益率：15.32%\n基本每股收益：1.1 元，同比...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-21 12:11:52",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/120f54da-dae7-4b29-9810-bec57f64faef.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "《寂静岭：Townfall》在主机平台将由 PS5 独占至少半年，后续再登陆 XBOX",
-      "link": "https://www.ithome.com/0/992/840.htm",
-      "summary": "\nIT之家 8 月 21 日消息，科乐美在旗下《Silent Hill：Townfall（寂静岭：Townfall）》游戏实机演示中透露本作在主机平台将由 PS5 独占至少半年（本作将于 9 月 24 日登陆 PC 和 PS5），后续再登录 XBOX 平台。\n作为参考，科乐美的《寂静岭 2：重制版》最初于 2024 年 10 月 8 日登陆 PC 和 PS5 平台，直到 2025 年 11 月才登...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-21 12:07:58",
+      "title": "US government lab is probing Chinese lidar for security vulnerabilities",
+      "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
+      "summary": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-21 16:01:54",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/e1cbb118-963b-4d0d-b5d7-f5e01a62d3fd.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "东方甄选 2026 财年年报归母净利润 5.44 亿元，同比增长 9377.8%",
-      "link": "https://www.ithome.com/0/992/839.htm",
-      "summary": "\nIT之家 8 月 21 日消息，东方甄选今日发布 2026 财年（2025 年 6 月 1 日～2026 年 5 月 31 日）年报报告：\n\n营业总收入：57.01 亿元，同比增长 29.8%\n毛利润：20.39 亿元，同比增长 45.2%\n毛利率：35.8%\n归母净利润：5.44 亿元，同比增长 9377.8%\n经营现金流：8.02 亿元，同比增长 798.39%\n基本每股收益：0.52 元，...",
+      "title": "东风日产王骞谈“速成车”：快消式造车是行业最大风险",
+      "link": "https://www.ithome.com/0/992/885.htm",
+      "summary": "\nIT之家 8 月 21 日消息，东风日产汽车销售有限公司副总经理王骞今日公开发声，认同上汽大众提出的“不造速成车、不造卡线车、不造双标车”三大造车准则。\n王骞指出，“汽车快消品化”是伪命题，“快消式造车”才是行业真正的风险。所谓“不造速成车”，核心在于拒绝为抢占市场而压缩产品研发与验证周期。\n他表示，东风日产对发动机开展累计等效 750 万公里耐久测试，完成超 10000 次极端环境启动验证，以...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-21 11:54:02",
+      "pubDate": "2026-08-21 15:40:05",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/56879e02-b3d9-4a7f-b6d2-3ad9639c3888.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "R 星母公司 T2 出手追查《GTA6》泄密人大葱哥，向微软和 Discord 发传票",
+      "link": "https://www.ithome.com/0/992/884.htm",
+      "summary": "\nIT之家 8 月 21 日消息，据游戏媒体 VGC 今天报道，Rockstar 母公司 Take-Two 正在动用法律手段，追查泄密《GTA6》的“大葱哥”（Cyberleek）。\n\nT2 已经向美国联邦地区法院提交多份传票，要求微软和 Discord 提供发布、传播《侠盗猎车手 VI》的网络账号活动记录。\n据悉，T2 要求两家公司提供各个泄密账号的 ID、注册邮箱、IP 地址、电话号码、关联账...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-21 15:39:02",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/f78962a7-3f74-4459-9fa4-34f0432fa1a1.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
+      "link": "https://www.ithome.com/0/992/883.htm",
+      "summary": "\n8 月 21 日，据《商业内幕》报道，旧金山机器人大会 Actuate 吸引了约 1500 名投资者、创业者和工程师参与，但现场展示的机器人数量却远少于预期。\n在人工智能从软件领域向现实世界延伸的背景下，机器人行业正迎来投资热潮，但硬件供应不足、训练数据短缺以及供应链限制，成为行业进一步发展的关键挑战。\n\n硅谷最热门的机器人技术大会上为数不多的机器人之一报道称，Actuate 大会由机器人软件公...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-21 15:34:51",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/27456728-0b61-4e19-9b9c-c90b2c313a30.png"
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/9c177561-5733-4e4d-8afb-9e80d1235214.png"
     },
     {
-      "title": "Counterpoint 预测 2026 年全球智能手机出货量下降 14.3%，三星、华为逆势增长",
-      "link": "https://www.ithome.com/0/992/838.htm",
-      "summary": "\nIT之家 8 月 21 日消息，受存储芯片供应短缺及成本上涨影响，Counterpoint Research 预测市场下行压力预计将持续至 2027 年，2028 年方能迎来复苏。\nCounterpoint Research 今日发布了最新《智能手机市场展望追踪报告》，预测 2026 年全球智能手机出货量将同比下降 14.3%，预计 2026 年第二季度主流手机使用的 LPDDR4 和 LPDD...",
+      "title": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
+      "link": "https://www.ithome.com/0/992/882.htm",
+      "summary": "\n据《连线》报道，随着人工智能快速进入工作、教育和日常生活，美国社会对 AI 的抵触情绪正在上升。\n最新调查显示，超过一半的 30 岁以下美国人对 AI“担忧多于兴奋”，这一比例相比五年前增加了 24%；超过 70% 的受访者认为，AI 将导致就业岗位减少。\n\n《连线》指出，硅谷正在试图解释这股反 AI 情绪，但部分科技公司领导者可能没有真正理解公众担忧的根源。\n公众对 AI 的不安已经不只集中在...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-21 11:50:33",
+      "pubDate": "2026-08-21 15:32:33",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/0d64582f-1be9-4da4-976d-c3001f897344.png"
+    },
+    {
+      "title": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
+      "link": "https://www.ithome.com/0/992/881.htm",
+      "summary": "\nIT之家 8 月 21 日消息，Mercury Research 当地时间 8 月 20 日发布的最新数据显示，AMD 在 2026 年第二季度首次占据超过 30% 的 x86 客户端 CPU 出货份额（30.3%），相比两年前 21.1% 的份额明显提升，进一步缩小了与英特尔（69.7%）之间的市场差距。\n与 2026 年第一季度相比，AMD 份额提升 0.7 个百分点；与 2025 年第二季...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-21 15:25:50",
       "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/cbf0a5e0-a307-4f8e-946f-2d44532f9ec9.png?x-bce-process=image/format,f_auto"
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/66f99c15-a03f-4f8c-a2fa-8e5fc3d8f6d8.jpg"
     },
     {
-      "title": "创历史新高！我国 44 名专家斩获“IEC 1906 奖”",
-      "link": "https://www.ithome.com/0/992/837.htm",
-      "summary": "\nIT之家 8 月 21 日消息，据央视新闻今天报道，国际电工委员会（IEC）近期公布“IEC 1906 奖”获奖名单。我国共有 44 名专家荣膺该奖项，获奖人数创历史新高，再次彰显我国在国际电工标准化领域的技术实力与不断攀升的全球影响力。\n\n2026 年，全球共有来自 26 个国家的 231 名专家获得该奖，我国获奖人数占获奖总人数的 19%。我国的 44 位获奖专家来自 33 个领域，这些领域...",
+      "title": "多年后的妥协：沃尔玛、山姆会员商店终于开始支持 Apple Pay、Google Pay",
+      "link": "https://www.ithome.com/0/992/880.htm",
+      "summary": "\nIT之家 8 月 21 日消息，据科技媒体 TechCrunch 今天报道，沃尔玛宣布旗下门店将从下周开始接受非接触式付款（Tap to Pay），涵盖苹果的 Apple Pay 和 Google Pay。\n\n据报道，部分沃尔玛超市和山姆会员商店将从 8 月 24 日开始引入非接触式付款。到今年年底，所有的沃尔玛和山姆都将支持该付款方式，公司还计划在明年年中之前，将非接触式付款引入旗下所有加油站...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-08-21 11:48:46",
+      "pubDate": "2026-08-21 15:25:25",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/e1de4947-345c-43c2-9e7e-e8b3d07eb099.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "美银分析师：特努斯出任苹果 CEO 或推行更大规模收购，拓展公司业务阵容",
+      "link": "https://www.ithome.com/0/992/878.htm",
+      "summary": "\nIT之家 8 月 21 日消息，蒂姆 · 库克的苹果 CEO 任期即将结束，约翰 · 特努斯将于 9 月 1 日接替他的工作。美国银行分析师 Wamsi Mohan 认为，特努斯以后可能会让苹果变得加大胆、风险偏好更高。\n\n苹果的 CEO 交接工作差不多已经完成。到目前为止，苹果一直强调特努斯将延续此前战略。而 Wamsi Mohan 则在维持“买入”评级的同时表示，特努斯在延续库克战略的同时，...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-21 15:14:55",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/55a67ece-4917-4db3-8fd8-fd4b946f1aa5.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/304435c9-d6f6-4fb1-a10d-2bffd4c6bd43.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "利用电商“仅退款”漏洞倒卖商品：收货地址直接填写二手买家地址，女子非法获利近 13 万元被刑拘",
+      "link": "https://www.ithome.com/0/992/877.htm",
+      "summary": "\nIT之家 8 月 21 日消息，据央视新闻今日报道，上海闵行警方近日侦破一起利用网购售后规则漏洞非法牟利的案件。\n\n犯罪嫌疑人朱某通过“退款不退货”方式，在近一年内累计骗取某品牌火鸡面价值近 13 万元，目前因涉嫌诈骗罪已被依法刑事拘留。\n\n今年 4 月，一家食品企业向警方报案称，其在电商平台的官方旗舰店出现大量异常的售后申请：消费者选择自行寄回退货后，系统按规则先行退款，但企业实际从未收到退回...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-21 15:00:04",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/c071e36e-ede1-47bf-89ed-3387adb311b6.jpg"
+    },
+    {
+      "title": "金标联盟要求开发者适配 Android 导航条，10 月末前未完成将被小米、荣耀、OPPO、vivo 应用市场打标",
+      "link": "https://www.ithome.com/0/992/876.htm",
+      "summary": "\nIT之家 8 月 21 日消息，移动智能终端生态联盟（ITGSA）今日发布公告，邀请各大开发者评估“谷歌 Android 导航条适配”计划。\n\n金标联盟在公告中表示，导航条几乎覆盖所有 App 界面包括高频交互场景（如直播页、评论页、转发页、搜索页、菜单页、对话框页等）。随着越来越多终端设备默认开启系统导航条，当前导航条 UI 背景色与 App 界面存在的反差与割裂感，已影响海量，并容易让用户产...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-21 14:44:53",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/801f1567-247c-42e3-897d-5b2e3b05db58.jpg"
+    },
+    {
+      "title": "微信灰度测试“按住转文字”新功能引热议：苹果 iOS 及安卓用户率先体验，鸿蒙用户仍需等待",
+      "link": "https://www.ithome.com/0/992/874.htm",
+      "summary": "\nIT之家 8 月 21 日消息，微信 iOS 平台今日迎来了 8.0.76 正式版更新。根据用户反馈，微信 iOS 更新 8.0.76 版本后，全新“深色”图标已经上线。\n\n除此之外，微信近期还灰度测试了一项名为“按住转文字”的聊天输入框新功能，但根据用户反馈，目前该功能的识别率不如录入语音后转文字。\n如图所示，该功能将原本独立的麦克风按钮整合进输入框，用户长按输入框即可直接进行语音输入并实时转...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-21 14:44:13",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/214e9830-6b82-49ce-a03d-7bfde9adf52d.jpg"
+    },
+    {
+      "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
+      "link": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
+      "summary": "The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-21 14:39:24",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
+      "link": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
+      "summary": "\nAbout this Webinar\nTurn Yield Excursions into Faster, More Confident Root Cause Analysis\nWhen a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metro...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-21 14:32:37",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/spotfire-logo-with-circular-icon-and-stylized-black-text.png?id=67657308&width=980"
+    },
+    {
+      "title": "Walmart to finally start accepting Apple Pay and Google Pay",
+      "link": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
+      "summary": "Are pigs flying? Walmart has finally caved on its refusal to support Apple Pay and Google Pay....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-21 14:30:23",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-21 14:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
+      "link": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
+      "summary": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-21 13:48:26",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
+      "link": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
+      "summary": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-21 13:35:23",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Senator asks US government watchdog to review how feds use hacking tools",
+      "link": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
+      "summary": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-21 13:05:00",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
@@ -100,28 +210,6 @@
       "pubDate": "2026-08-21 11:47:27",
       "category": "auto",
       "thumbnail": ""
-    },
-    {
-      "title": "中国音数协游戏工委：7 月国内游戏市场实际销售收入同比增长 6.92%",
-      "link": "https://www.ithome.com/0/992/836.htm",
-      "summary": "\nIT之家 8 月 21 日消息，中国音数协游戏工委披露数据显示，2026 年 7 月，中国国内游戏市场实际销售收入为 310.98 亿元，环比增长 3.55%，同比增长 6.92%。\n\nIT之家附该报告主要数据如下：\n\n中国移动游戏市场实际销售收入 230.75 亿元，环比增长 2.58%，同比增长 8.03%；\n中国客户端游戏市场实际销售收入 68.64 亿元，环比增长 7.83%，同比增长 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-21 11:39:32",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/0640c419-f5ba-4cea-85b5-64f8a855614d.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "优派“VX27G60Z-2K-3”26.5 英寸显示器发售：2K 360Hz QD-OLED、内置电源，3499 元",
-      "link": "https://www.ithome.com/0/992/834.htm",
-      "summary": "\nIT之家 8 月 21 日消息，优派现已在京东上架“VX27G60Z-2K-3”26.5 英寸显示器，该机主打 2K 360Hz，定价为 3499 元。\n京东优派 VX27G60Z-2K-3 显示器 3499 元直达链接\n\n该机配备一块 2560x1440 分辨率 360Hz QD-OLED 面板，显示器 HDR 峰值亮度 1000 尼特，GtG 响应速度 0.03ms，显示器支持原生 10-B...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-21 11:33:46",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/510223/18/1925/57451/6a86c2f7F8350d1b3/0083320320f7f478.jpg"
     },
     {
       "title": "开源连接器网关 OpenConnector：让 AI Agent 安全调用 1000+ SaaS 服务",
@@ -641,28 +729,6 @@
       "thumbnail": ""
     },
     {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-20 22:36:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-20 22:09:51",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
       "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
       "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans....",
@@ -707,39 +773,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-500x500-1786893438.jpg"
     },
     {
-      "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
-      "link": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-      "summary": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-20 21:08:34",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-20 20:53:13",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-      "link": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-      "summary": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-20 20:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Riot is ending development on its League of Legends fighting game",
       "link": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
       "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of...",
@@ -762,17 +795,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Mark buys a castle",
-      "link": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
-      "summary": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-20 19:55:40",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
       "link": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
       "summary": "Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90. And arguably it has some of the wildest designs and features in the auto market ...",
@@ -780,17 +802,6 @@
       "sourceKey": "theverge",
       "region": "us",
       "pubDate": "2026-08-20 19:52:57",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-20 19:18:21",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1167,17 +1178,6 @@
       "pubDate": "2026-08-11 13:00:01",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/on-the-left-a-man-in-a-collared-shirt-stands-smiling-with-hands-in-his-pockets-and-lab-equipment-in-the-background-on-the-ri.jpg?id=67598580&width=1245&height=700&coordinates=0%2C258%2C0%2C259"
-    },
-    {
-      "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
-      "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
-      "summary": "\nThe transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from rely...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-07 18:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-black-woman-speaking-into-a-microphone-while-seated-in-an-auditorium-crowd.jpg?id=67577640&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     }
   ]
 }
