@@ -1,7 +1,18 @@
 {
-  "updateTime": "2026-08-21T20:31:39.269Z",
+  "updateTime": "2026-08-21T21:30:09.465Z",
   "total": 107,
   "news": [
+    {
+      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
+      "link": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+      "summary": "\nWhen an agentic AI system hands a task from a small model to a larger one — or back down again — it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, drivin...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-21 16:33:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "US government lab is probing Chinese lidar for security vulnerabilities",
       "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
@@ -1077,17 +1088,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-08-19 12:10:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
-      "link": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
-      "summary": "\nAfter a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source language model from C...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-19 02:00:00",
       "category": "ai",
       "thumbnail": ""
     },
