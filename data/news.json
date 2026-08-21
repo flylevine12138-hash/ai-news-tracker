@@ -1,7 +1,73 @@
 {
-  "updateTime": "2026-08-21T03:08:56.047Z",
-  "total": 97,
+  "updateTime": "2026-08-21T04:45:22.249Z",
+  "total": 107,
   "news": [
+    {
+      "title": "演出前一晚机器人集体拖拍，宇树团队通宵重写代码保住王力宏演唱会",
+      "link": "https://www.oschina.net/news/502049",
+      "summary": "宇树科技上市答谢午宴上，王力宏讲了一段往事。 2025 年 12 月，他的成都演唱会，6 台宇树 G1 人形机器人要上台伴舞《火力全开》。这是全球首次机器人群体舞蹈演出。准备期几个月。编舞老师绑上动作捕捉器，几千个动作逐帧输入到机器人关节里。彩排时一切正常——机器人跳得很完美。 然后出问题了。 王力宏原话是：\"一开......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-21 02:59:39",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "AIGCPanel v2.2.0 一句话让图片动起来，AIGCPanel 把视频生成装进了桌面",
+      "link": "https://www.oschina.net/news/502048",
+      "summary": "以前做一条 AI 视频，要凑齐画面、声音、动作三样东西。现在，你只需要一句话，或一张图。 AIGCPanel 是一款一站式 AI 数字人桌面应用，Windows / macOS / Linux 都能跑。v2.2.0 在工具页直接加入了「文生视频」和「图生视频」两个入口：输入文字描述就能生成视频，上传一张图片加几句描述，画面就自己动起来。配合结果文......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-21 02:55:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI 正吞噬一切，开源基础软件如何求生？",
+      "link": "https://my.oschina.net/u/4487475/blog/19745346",
+      "summary": "“大模型时代 SaaS 可以没有了，但数据不能没有。”...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-21 02:45:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub 8 月 17 日宕机复盘，负载均衡配置错误引爆重试风暴",
+      "link": "https://www.oschina.net/news/502045/github-the-august-17-outage-and-the-work-ahead",
+      "summary": "8 月 17 日，GitHub 宕机了 7 小时 47 分钟。影响范围不只是 github.com 打不开。认证系统瘫痪、Actions 中断、Pull Request 和 Issue 不可用、Copilot 也挂了。 官方事后分析了故障原因：负载均衡配置错误触发了客户端的重试风暴。故障发生时，负载均衡的错误配置导致部分请求处理不当，客户端在收到错误响应后发起大量......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-21 02:15:26",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "DeepSeek Harness 公测一周迎来多模态大招，纯文本模型也能“看图”了",
+      "link": "https://www.oschina.net/news/502044/deepseek-harness-0-1-0-rc8",
+      "summary": "公测刚满一周，DeepSeek Harness 发布了 v0.1.0-rc.8。 14 项更新，多模态是重头戏。新版支持原生图片请求和图文混合输入，/goal、/plan 等命令可以直接接收图片；Claude Code 和 Codex 进一步接入子 Agent 体系；Windows 终端加入持久 PowerShell 会话，极简模式预设默认开启。 但最值得聊的，不是这些明面上的更新。 ......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-21 01:44:46",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-21 00:23:36",
+      "category": "other",
+      "thumbnail": ""
+    },
     {
       "title": "国家邮政局：“快递进村”建制村新增 2244 个，已完成兜底目标的 94%",
       "link": "https://www.ithome.com/0/992/432.htm",
@@ -23,6 +89,17 @@
       "pubDate": "2026-08-21 00:15:55",
       "category": "other",
       "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/857b9bf9-5a3c-4977-8c33-77722eece7eb.png"
+    },
+    {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-21 00:13:44",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "消息称苹果重心转向智能眼镜：裁掉整个 VR 研发团队，影响至少 60 人",
@@ -111,6 +188,17 @@
       "pubDate": "2026-08-20 23:36:48",
       "category": "ai",
       "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/80f7aad2-613a-4732-b6e8-59bb23be4007.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11"
+    },
+    {
+      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+      "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders lev...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-20 23:32:27",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "联想拯救者云游戏掌机 C700 定档 8 月 25 日发布，支持腾讯 START",
@@ -278,28 +366,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-20 19:15:05",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-      "link": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
-      "summary": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-20 19:01:41",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Mark Zuckerberg bought an Irish castle",
       "link": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
       "summary": "Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland \"several weeks ago,\" according to The Irish Times...",
@@ -320,17 +386,6 @@
       "pubDate": "2026-08-20 18:49:07",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6a8606ab1997359abc4212b4/master/pass/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-20 18:20:35",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Australia says Roblox hasn’t fixed its child predator problem",
@@ -432,6 +487,17 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lgb6.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "title": "Kairoa v1.1.24 发布：开发者工具箱新增 SAML 解码器与日期差计算器",
+      "link": "https://www.oschina.net/news/502042",
+      "summary": "Kairoa 是一款跨平台开发者桌面工具箱，把日常开发里高频用到的哈希计算、编解码、REST API 客户端、WebSocket 测试、AI 聊天、网络诊断等 30 余种工具聚合到一个应用里，数据全部本地处理，开箱即用。支持 Windows、macOS 和 Linux。 本次 v1.1.24 版本主要带来以下更新： 新增工具 SAML 解码器：面向做身份认证（SSO）......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-20 14:42:36",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
       "link": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
       "summary": "\nServal is making Catalyst, its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers — allowing teams of AI agents to decide what should ...",
@@ -474,6 +540,17 @@
       "pubDate": "2026-08-20 13:59:50",
       "category": "space",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/yeetcycling-500x500.jpg"
+    },
+    {
+      "title": "开源终端 uniTerm v1.8.0 发布：新增 SOCKS5 隧道、密钥库等 50 余项功能更新，仅 14MB 覆盖 27 种协议",
+      "link": "https://www.oschina.net/news/502041",
+      "summary": "uniTerm 是一款轻量级一站式终端软件，Windows 版本安装包仅 14MB。整合终端、文件传输、远程桌面、数据库客户端、容器等 5 大类协议于一身；内置可自主执行的 AI Agent，能规划并执行多轮 Shell 命令。 本次 v1.8.0 是一次大规模集中更新，累计 50 余项功能、改进与修复。重点新增 SSH 密钥库（Vault）与 SOCKS5 / HTT......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-20 13:51:31",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "Reverse-lookup service exposed millions of photos of people’s faces",
@@ -641,6 +718,28 @@
       "thumbnail": "https://media.wired.com/photos/6a84a77abfc92084d8656772/master/pass/Politics_Tina%20Peters%20Was%20Convicted%20of%20Election%20Tampering.%20This%20MAGA%20County%20Wants%20Her%20to%20Help%20It%20Run%20Elections_v5.jpg"
     },
     {
+      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
+      "link": "https://www.qbitai.com/2026/08/476280.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-20 10:17:47",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
+      "link": "https://www.qbitai.com/2026/08/476281.html",
+      "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-20 10:13:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
       "link": "https://www.wired.com/story/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
       "summary": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire....",
@@ -685,6 +784,28 @@
       "thumbnail": ""
     },
     {
+      "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
+      "link": "https://www.qbitai.com/2026/08/476199.html",
+      "summary": "经典RSI剧本开始动摇...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-20 09:46:23",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "今年WRC最大展台，预告具身智能未来",
+      "link": "https://www.qbitai.com/2026/08/476141.html",
+      "summary": "从自主泛化到真生产力...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-20 09:42:44",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "Vercel 发布 fx：Zig 语言实现的轻量 Agent，能直接在浏览器里跑",
       "link": "https://www.oschina.net/news/502038/vercel-fx",
       "summary": "Vercel 今天开源了一个新的编码 agent，名字叫 fx。它的二进制文件只有 6.39MB，用 Zig 编写，能在浏览器里跑，冷启动 10 微秒。 它不是一个\"IDE in the terminal\"式的重型 TUI。团队说得很清楚——fx 的输出风格更接近 Unix shell，而不是 IDE。用最少的系统 prompt、最少的工具、最少的 I/O 来完成工作。 这个定位很有......",
@@ -693,6 +814,17 @@
       "region": "cn",
       "pubDate": "2026-08-20 09:27:42",
       "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
+      "link": "https://www.qbitai.com/2026/08/476129.html",
+      "summary": "全栈自研，真机叠衣ICRA夺冠...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-20 09:22:05",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -729,36 +861,14 @@
       "thumbnail": ""
     },
     {
-      "title": "Unsloth Dynamic 3.0 GGUF 发布，同体积下准确率再提 10%",
-      "link": "https://www.oschina.net/news/502032/unsloth-ai-dynamic-3.0-ggufs",
-      "summary": "Unsloth 今天发布了 Dynamic 3.0 量化方案，首发 Qwen3.8-27B 量化版本。相比 v2.0，新版本在同等磁盘空间下 top-1% 准确率提升超过 10%，KL Divergence 指标全面优于所有其他量化提供商。 准确率提升来自几个方面：更高质量的 imatrix 校准数据集（从多样化数据源构建，针对 agent 编程、聊和多语言场景优化），更好的层......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
+      "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
+      "link": "https://www.qbitai.com/2026/08/476120.html",
+      "summary": "这几个玩家或可被“押注”...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-08-20 06:39:21",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026北京开源行业解决方案创新赛正式启动报名",
-      "link": "https://www.oschina.net/news/502031",
-      "summary": "第四届开放原子大赛·2026 开源行业解决方案创新赛即日起正式启动报名，本次大赛由开放原子开源基金会主办，开源中国承办，北京市经济和信息化局作为联合主办单位，参与赛事方向指导、产业资源协调和重点成果对接。 大赛以“开源赋能行业创新，方案驱动场景落地”为主题，设置「开源基础软件与解决方案」、「开源智能硬件......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-20 06:33:44",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "openKylin X-Kernel 走出实验室：一场关于“高校与企业如何做开源”的分享",
-      "link": "https://www.oschina.net/news/502028",
-      "summary": "继上月OpenAtom openKylin（简称“openKylin”） 社区X-TeeOS SIG 发布 Rust 操作系统内核 X-Kernel 首个里程碑版本 v0.1.0-2606 后，项目迎来了新的进展。（错过上篇的可以点这里回顾： openKylin 深耕可信计算：X-Kernel 里程碑版本筑牢自主安全根基 ）。 近日，在第二十届全国高校操作系统课程教学研讨会上，X-TeeOS......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-20 05:46:15",
-      "category": "other",
+      "pubDate": "2026-08-20 06:17:10",
+      "category": "robot",
       "thumbnail": ""
     },
     {
@@ -773,46 +883,35 @@
       "thumbnail": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg"
     },
     {
-      "title": "Goodlink v3.0.0 发布, 全网最简单, 最快的免费内网穿透",
-      "link": "https://www.oschina.net/news/502025",
-      "summary": "docs(ui): 删除fyne的UI框架, 改用Webview方式, 功能更加强大, 资源占用更小 feat(ui): 增加可配置的动态端口转发功能 feat(ui): remote端不需要管理员权限 feat(ui): local端默认创建虚拟网卡, 需要管理员权限. 如果使用转发模式, 则不需要管理员权限 feat(release): 为跨平台发布包附加完整性校验文件 fix(forward...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
+      "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+      "link": "https://www.qbitai.com/2026/08/476078.html",
+      "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-08-20 04:59:58",
+      "pubDate": "2026-08-20 01:37:34",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
+      "link": "https://www.qbitai.com/2026/08/476075.html",
+      "summary": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-20 01:21:07",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "GitHub Copilot 的自动修复把 Snowflake 的 Jira 搞穿了",
-      "link": "https://www.oschina.net/news/502024/wiz-red-agent-snowflake-copilot-cicd-bug",
-      "summary": "Wiz Research 的红队 Agent 搞了个大新闻：它用完全自主的方式，通过 GitHub Actions 模板注入漏洞，拿下了 Snowflake 的内部 Jira 实例。 更让人不安的是，这个漏洞的引入者不是人类开发者，而是 GitHub Copilot 的 Autofix 功能。 攻击链条 Snowflake 的某个仓库里有一个 GitHub Actions workflow，用 i...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
+      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+      "link": "https://www.qbitai.com/2026/08/476070.html",
+      "summary": "成本也正成为Agent商业化需要考虑的重要因素...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-08-20 04:06:18",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "纯开源制品仓库 kkRepo v0.9.0 发布，新增 Alpine、Hugging Face Models 与全局搜索",
-      "link": "https://www.oschina.net/news/502023",
-      "summary": "距离上个版本 0.8.0 时隔一周，这次 v0.9.0 也正式发布了。 这一版不只是继续增加仓库格式，还补上了全局制品搜索、版本更新提醒、代理重定向白名单，以及一批界面和稳定性改进。 项目地址：https://github.com/klboke/kkRepo v0.9.0 Release：https://github.com/klboke/kkRepo/releases/tag/v0.9.0 kk...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-20 03:50:59",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Erupt 2.0.4：一个注解，让表格行能拖着排序了",
-      "link": "https://www.oschina.net/news/502022",
-      "summary": "谁说低代码只能 CRUD？现在表单里能塞一个\"真按钮\"了 聊起注解驱动、零前端的后台框架，总有一个声音会跳出来： \"这类东西不就是自动生成个增删改查嘛，稍微复杂点的交互根本做不了。\" 这句话，过去有一半是对的。列表、表单、搜索、导出——这些标准动作框架能包圆；但一旦业务要一个\"点一下算个价再回填\"的按钮，或者运......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-20 03:49:27",
+      "pubDate": "2026-08-20 01:06:45",
       "category": "other",
       "thumbnail": ""
     },
@@ -913,6 +1012,17 @@
       "region": "us",
       "pubDate": "2026-08-19 12:10:00",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+      "link": "https://www.qbitai.com/2026/08/475931.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-19 10:54:07",
+      "category": "other",
       "thumbnail": ""
     },
     {
