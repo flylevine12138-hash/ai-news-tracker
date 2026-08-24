@@ -1,7 +1,238 @@
 {
-  "updateTime": "2026-08-24T13:01:54.120Z",
-  "total": 97,
+  "updateTime": "2026-08-24T14:48:57.645Z",
+  "total": 107,
   "news": [
+    {
+      "title": "美国音乐人 Dr. Dre 公开支持 AI 音乐，将其类比鼓机、合成器",
+      "link": "https://www.ithome.com/0/993/745.htm",
+      "summary": "\nIT之家 8 月 24 日消息，据科技媒体 TechRadar 今天报道，美国音乐人安德烈 · 罗梅勒 · 杨（艺名 Dr. Dre）近日公然承认自己在音乐创作时使用 AI。\n\nIT之家从原报道了解到，Dr. Dre 对此表示：“这是一种全新的创意工具，我拥抱它，并迫不及待想看看它最终能带来什么。”\n他还将 AI 工具与鼓机、合成器等进行类比，并说这些当今时代十分普遍的工具，最初出现时同样遭到了...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-24 14:34:21",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/2cdb55f4-7ebd-4f36-8db0-7ccec9e029ea.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "法国出台有关法律，今秋新学年起实施高中校园手机禁令",
+      "link": "https://www.ithome.com/0/993/744.htm",
+      "summary": "\nIT之家 8 月 24 日消息，据央视新闻，当地时间 8 月 24 日，法国总统马克龙表示，他已颁布有关法律，从今年秋季新学年起禁止高中生在校使用手机。\n马克龙表示，保护儿童免受电子屏幕带来的负面影响已刻不容缓，“没有手机的学校意味着重新找回安宁的学习环境”。\n\n法国议会此前于 7 月 21 日通过旨在保护未成年人免受社交网络风险影响的相关法律。法律规定，学生在小学、初中和高中校园内不得使用手机...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-24 14:29:02",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/ef841820-7bc0-4fde-98ca-ec145ce6d68d.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/auto-orient,o_1"
+    },
+    {
+      "title": "消息称三星 Galaxy S27 Ultra 手机尺寸与前代几乎完全相同，主要重新设计摄像头布局",
+      "link": "https://www.ithome.com/0/993/743.htm",
+      "summary": "\nIT之家 8 月 24 日消息，博主 @i冰宇宙 今日透露，三星 Galaxy S27 Ultra 的尺寸和显示屏尺寸将与 Galaxy S26 Ultra 几乎完全相同。\n博主称新机的 S Pen 将继续位于左侧，扬声器也将保留在左侧。除了重新设计的摄像头布局外，这两款手机的外观几乎一模一样，仅有一些细微的差异。\n\n作为参考，三星 Galaxy S26 Ultra 手机搭载 6.9 英寸 AM...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-24 14:26:24",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/a5869ef8-5982-4148-831b-ecec02772852.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "苹果 Apple Store 应用 AI 助手悄悄上线，目前处于早期预览状态",
+      "link": "https://www.ithome.com/0/993/742.htm",
+      "summary": "\nIT之家 8 月 24 日消息，据 X 平台博主 ShrimpApplePro 今日发文，苹果 Apple Store 应用已在逐步推送 AI 助手，截图显示其处于“早期预览”（IT之家注：Early Preview）状态。\n具体而言，该功能可以列出不同苹果产品、比较两款 iPhone、查询订单和处理以旧换新等。\n\n苹果给出的实例提示语是“帮我挑选一款 Apple Watch”，这意味着该助手可...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-24 14:19:49",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/c020e81b-f2f5-48b9-8ee9-b6f57640c3f9.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "卡迪夫大学新研究：AI 尚无法像人类教师一样可靠地批改作业",
+      "link": "https://www.ithome.com/0/993/741.htm",
+      "summary": "\nIT之家 8 月 24 日消息，据外媒 Phys.org 今天（24 日）报道，卡迪夫大学和墨尔本大学的一项新研究发现，生成式人工智能（GenAI）目前还无法像人类教师一样可靠地评判学生的书面作业。\n研究人员使用 ChatGPT 的两个版本，对 50 篇生物科学专业本科生论文进行评分，以测试大模型评估学生作业的能力。ChatGPT 需要按照 7 项标准批改这些论文，研究人员还采用了 4 种不同的...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-24 14:16:15",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/e4bcbf0c-873c-462c-bda7-ea6c0ba140e3.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "成功举起 16 公斤，第二届世界人形机器人运动会首个举重冠军诞生",
+      "link": "https://www.ithome.com/0/993/740.htm",
+      "summary": "\nIT之家 8 月 24 日消息，据央视新闻报道，今晚（8 月 24 日），第二届世界人形机器人运动会举重项目完赛。\n\nIT之家获悉，北京人形-华科联队的机器人在 15 公斤基础重量上连续加码，最终成功举起 16 公斤，夺得本赛事首个人形机器人举重冠军。\n\n据介绍，本届赛事共吸引了六大洲 16 个国家的 666 支队伍、2056 台机器人同台竞技，队伍总量同比增长 138%，机器人数量翻了两番。\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-24 14:05:51",
+      "category": "robot",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/745d6bd4-454c-468b-a68e-903418a4e43f.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "What It Takes to Be an Adaptable Engineer",
+      "link": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
+      "summary": "\nThe AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. T...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-24 14:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/silhouette-of-person-at-computer-atop-a-weather-vane-labeled-ai-against-sky-background.png?id=67652283&width=1245&height=700&coordinates=0%2C251%2C0%2C252"
+    },
+    {
+      "title": "路透社母公司汤森路透花 4000 万美元研发 AI 模型，基于阿里千问",
+      "link": "https://www.ithome.com/0/993/738.htm",
+      "summary": "\nIT之家 8 月 24 日消息，路透社母公司汤森路透集团近日正式公布其首款大语言模型“Thomson”。该模型基于阿里千问构建，号称拥有顶级表现。\n据介绍，该模型的研发成本大约是 4,000 万美元（IT之家注：现汇率约合 2.69 亿元人民币），外界广泛传播的 45 万美元（现汇率约合 302.8 万元人民币）数字只是最后一次训练成本。\n该模型的基础模型源自阿里巴巴的千问，目前使用的版本为 Q...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-24 13:57:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "一代经典越野车宣告回归，三菱全新帕杰罗 9 月 2 日全球首秀",
+      "link": "https://www.ithome.com/0/993/737.htm",
+      "summary": "\nIT之家 8 月 24 日消息，三菱第五代帕杰罗将于 2026 年 9 月 2 日全球首发，新车确认重新采用梯形车架底盘，而非上一代车型的承载式车身。\n据外媒 motor1 今天（24 日）报道，新帕杰罗还将搭载与 Triton 皮卡相同的 Super All-Wheel Control（S-AWC）四驱控制系统。\n\n目前流出的设计信息显示，新帕杰罗有望针对不同市场采用两种前脸设计。新车最大的机...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-24 13:52:27",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/2265e6dc-5378-490d-839f-1c9a21806eb2.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "纯电 K-Car：铃木推出 e Sky 小车，26 kWh 磷酸铁锂电池、310 公里续航",
+      "link": "https://www.ithome.com/0/993/736.htm",
+      "summary": "\nIT之家 8 月 24 日消息，铃木现已在日本公布 e Sky，这款汽车属于纯电 K-Car（軽乗用 EV）品类，今年秋季在日本上市，预计明年登陆欧洲市场。\n\n据介绍，这款汽车定位城市代步出行，强调平顺加速感、舒适乘坐感。该车的外观基本延续了 Vision e-Sky 概念车的设计思路，车头采用大尺寸 LED 大灯，并配有深色灯罩，铃木徽标位于雕刻感明显的车头中央，保险杠加入独立散热口。\n\n规格...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-24 13:35:13",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/3a5f0140-3601-43ac-bf40-fc01c7db728f.jpg"
+    },
+    {
+      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+      "link": "https://www.qbitai.com/2026/08/478670.html",
+      "summary": "Visa看到的AI未来...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-24 13:32:13",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "千里科技上半年营收 51.2 亿元：智驾业务覆盖 16 款车型、净利润大增 151%",
+      "link": "https://www.ithome.com/0/993/735.htm",
+      "summary": "\nIT之家 8 月 24 日消息，8 月 24 日，千里科技发布 2026 年半年度报告。报告显示，公司上半年实现营业收入 51.20 亿元，同比增长 22.36%；归属于上市公司股东的净利润为 0.78 亿元，同比增长 151.25%；扣除非经常性损益后的归母净利润为 0.56 亿元。千里科技称，加大研发投入的同时实现收入利润双增长，核心经营指标全面改善。\n业务方面，智能辅助驾驶业务商业化进展较...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-24 13:31:28",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/7efa4581-e295-4551-a6bd-73b90a75e20f.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "link": "https://www.qbitai.com/2026/08/478568.html",
+      "summary": "全球大厂开始押注的AI科研，终于有了统一标准...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-24 13:21:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "说好AI三年回本，阿里转头找股东要800亿“救急”？",
+      "link": "https://www.tmtpost.com/8113703.html",
+      "summary": "AI是印钞机，怎么最后印的是新股？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-24 12:18:43",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/y54htrg3.png"
+    },
+    {
+      "title": "说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？",
+      "link": "https://www.tmtpost.com/8114555.html",
+      "summary": "多模态这事上，梁文锋还是梁文锋，但他学会了放低姿态。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-24 12:17:47",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/d4900d1aef3566cbd975eda7cbc6fac8_1787573873.jpg"
+    },
+    {
+      "title": "越失败越要上，这项运动为什么反而让人留下来",
+      "link": "https://www.tmtpost.com/8114522.html",
+      "summary": "继拼豆之后，又一项能产生“心流”的游戏。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-24 12:17:42",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/8ff93e9525032a9933b50061ae5e7a4c_1787573869.jpg"
+    },
+    {
+      "title": "网易云音乐不想被汽水抢走最后一个音符",
+      "link": "https://www.tmtpost.com/8113993.html",
+      "summary": "“死不了”和“活得好”之间，中间隔着一道选择题。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-24 12:17:38",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/3e8d9611d11c32e7b88727a62233a6ae_1787573862.jpg"
+    },
+    {
+      "title": "两天卖出十万份，从GAME JAM到爆款独游需要《多少兄弟？》",
+      "link": "https://www.tmtpost.com/8113947.html",
+      "summary": "上阵兄弟兵。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-24 12:17:30",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/d418ef3f95460762eab13709cdcd78e8_1787573857.png"
+    },
+    {
+      "title": "影石似乎讲不出新故事",
+      "link": "https://www.tmtpost.com/8113717.html",
+      "summary": "是助推增长的神话还是笑话？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-24 12:17:10",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/fa02e370d722e725b66b7bee418cb346_1787573835.jpg"
+    },
+    {
+      "title": "荣耀太想进步了",
+      "link": "https://www.tmtpost.com/8114496.html",
+      "summary": "聚光灯下的荣耀，太想进步了。‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-24 12:16:29",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t3qwhtrnh3.png"
+    },
+    {
+      "title": "机器人会干活了，但还没学会“别多管闲事”",
+      "link": "https://www.tmtpost.com/8114648.html",
+      "summary": "行业一直给机器人的运动和作业能力分级，却没有给机器人“介入人的生活”分级。文章提出自主交互的三级框架： - L1：接受明确指令，被动响应 - L2：理解事件和状态，提供选择 - L3：在限定条件下主动介入，并在越界前交还给人。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-24 12:16:24",
+      "category": "robot",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r34qtwhtrdn3.png"
+    },
     {
       "title": "The Download: kids outlearning AI, and space travel agents",
       "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
@@ -14,6 +245,28 @@
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Small-Reactor-Tablet-top.jpg?fit=2880,1920"
     },
     {
+      "title": "Building Technology People Can Trust",
+      "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
+      "summary": "\nThis article is brought to you by Emerson.\nI’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-24 11:37:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/stacked-green-printed-circuit-boards-with-electronic-components-on-a-work-surface.jpg?id=67598440&width=1245&height=700&coordinates=0%2C260%2C0%2C261"
+    },
+    {
+      "title": "离开了上海家化，丝芙兰如何破解连亏三年的困局？",
+      "link": "https://www.tmtpost.com/8114859.html",
+      "summary": "如何在固定折扣期之外，让消费者为体验与选品能力支付原价，仍是丝芙兰中国独资后面临的核心商业命题。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-24 11:34:31",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/556c66ef046061864ebbceb2d78be49d_1787571273.png"
+    },
+    {
       "title": "一款灵巧手打磨14个月才发售：这家交大系公司在攒什么",
       "link": "https://www.tmtpost.com/8114762.html",
       "summary": "先解决过热和使用寿命，再谈卖。...",
@@ -22,95 +275,7 @@
       "region": "cn",
       "pubDate": "2026-08-24 11:05:05",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "成都高新减灾研究所删除否认冒用“中国地震预警网”的声明，所长王暾称为了降低热度",
-      "link": "https://www.ithome.com/0/993/702.htm",
-      "summary": "\nIT之家 8 月 24 日消息，在否认四川省地震局对其冒用“中国地震预警网”名义发布震级为 7.7 级的预警信息几个小时后，成都高新减灾研究所在其微信公众号上删除了该声明。\n\n据第一财经报道，记者电话联系上成都高新减灾研究所所长王暾，对于关于冒用“中国地震预警网”名义发布地震信息的问题，他表示，“现在太忙了，一切以声明为准。”对于为何撤下声明，他表示，“为了降低热度。”\nIT之家附前情提要：\n8...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-24 11:02:07",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/54819fca-ad19-4f33-8db1-68c37b9d3f62.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "消息称蔚来智驾负责人任少卿创立具身智能公司，蔚来将战略投资",
-      "link": "https://www.ithome.com/0/993/696.htm",
-      "summary": "\nIT之家 8 月 24 日消息，据晚点 Auto 消息，8 月 24 日，蔚来 CEO 李斌在智驾全员会上宣布，智能驾驶负责人任少卿已创立物理 AI 基础模型和具身智能独立公司，蔚来将战略投资并与之开展合作。知情人士称，“会议很简短，没有提及组织架构变动。”\n一位参与此次全员会的人士称，李斌和任少卿在会议上明确表示，任少卿将继续担任蔚来智能驾驶业务负责人。报道称任少卿创立的新公司已经完成注册，估...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:46:59",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/6cf7e358-0f80-4668-b6be-880686b09630.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "HMD 诺基亚 300 Charge 手机发布：3700mAh 电池、支持 10W 反向充电",
-      "link": "https://www.ithome.com/0/993/695.htm",
-      "summary": "\nIT之家 8 月 24 日消息，HMD 现已在海外市场推出诺基亚 300 Charge 手机，这是一台功能手机，没有什么花哨的功能。\n\n据介绍，这款手机最大的亮点就是 3700mAh 电池和 USB-C 接口，这个容量对功能手机来说已经是海量。其待机时间最长可达 40 天，连续通话时长可达 37 小时。\n\n\n同时，这款手机侧面带有一个“Out”按键，按下后可开启 10W 反向充电功能，让手机变身...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:45:03",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/c778989a-b7b7-4ce2-85bf-6e77378f301c.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "豪威集团 2026 年上半年归母净利润 12.2 亿元，同比下降 39.85%",
-      "link": "https://www.ithome.com/0/993/693.htm",
-      "summary": "\nIT之家 8 月 24 日消息，豪威集团今日发布 2026 年上半年（2026 年 1 月～2026 年 6 月）报告：\n\n营业总收入：140.25 亿元，同比增长 0.49%\n归母净利润：12.2 亿元，同比下降 39.85%\n扣非净利润：12.42 亿元，同比下降 36.33%\n经营现金流：4.08 亿元，同比下降 78.4%\n加权平均净资产收益率：3.73%\n基本每股收益：0.97 元，同...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:41:09",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/d49f4dea-71d3-4886-bff7-9e08b4f7d4c5.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "小鹏集团 2026 财年上半年归母亏损 31.21 亿元，同比扩大 173.35%",
-      "link": "https://www.ithome.com/0/993/692.htm",
-      "summary": "\nIT之家 8 月 24 日消息，小鹏集团今日发布 2026 财年（2026 年 1 月～2026 年 12 月）上半年（2026 年 1 月～2026 年 6 月）报告：\n\n营业总收入：327.77 亿元，同比下降 3.8%\n毛利润：67.66 亿元，同比增长 20.25%\n毛利率：20.6%，同比增长 4.1 个百分点\n归母净利润：-31.21 亿元，同比亏损扩大 173.35%\n基本每股收益...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:34:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "天马微电子 2026 年上半年归母亏损 7.28 亿元，同比由盈转亏",
-      "link": "https://www.ithome.com/0/993/691.htm",
-      "summary": "\nIT之家 8 月 24 日消息，天马微电子今日发布 2026 年上半年（2026 年 1 月～2026 年 6 月）报告：\n\n营业总收入：166.91 亿元，同比下降 4.49%\n归母净利润：-7.28 亿元，同比由盈转亏\n扣非净利润：-8.8 亿元，同比亏损扩大 250.73%\n经营现金流：26.31 亿元，同比下降 33.69%\n加权平均净资产收益率：-2.71%，同比由盈转亏\n基本每股收益...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:33:51",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/79e98a49-66a9-4cee-ab14-e247e3eb7926.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "拼多多 2026 财年上半年归母净利润 397.29 亿元，同比下降 12.68%",
-      "link": "https://www.ithome.com/0/993/690.htm",
-      "summary": "\nIT之家 8 月 24 日消息，拼多多今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）及第二财季（2026 年 4 月～2026 年 6 月）报告：\n\n2026 财年半年报\n营业总收入：2185.87 亿元，同比增长 9.48%\n毛利润：1236.77 亿元\n毛利率：56.58%\n归母净利润：397.29 亿元，同比下降...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:33:22",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/8b1f295b-42f7-4de8-82f9-8487795ed493.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "玩家吐槽后，《黎明行者之血》游戏主机版将追加 60 帧模式",
-      "link": "https://www.ithome.com/0/993/688.htm",
-      "summary": "\nIT之家 8 月 24 日消息，《黎明行者之血》开发商 Rebel Wolves 近日宣布，本作的 PS5、PS5 Pro 和 Xbox Series X 版本将加入 60 FPS 性能模式。\n\n据悉，本作开发团队曾在上周公布不同主机性能目标，但玩家很快发现所有模式都没有 60 帧，引发玩家担忧。\n如今，本作将在首日更新中加入性能模式，目标帧率为 60 FPS。\n加入性能模式后，《黎明行者之血》...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:31:04",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/1a2cb6da-3cde-4a59-bbbc-1b01de1e6630.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/a52ab6485968e0b7f2aa42c4514bf2d6_1787569510.png"
     },
     {
       "title": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
@@ -124,50 +289,6 @@
       "thumbnail": "https://media.wired.com/photos/6a87862020408e2e1b24b43a/master/pass/All-Work-Virtual-Play-Gear.jpg"
     },
     {
-      "title": "维泛智能完成过亿元种子+轮融资，机器人端侧算力芯片进入产品化阶段",
-      "link": "https://www.tmtpost.com/8113528.html",
-      "summary": "专注泛机器人\"大小脑\"融合一体类脑芯片的研发...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:19:45",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "Beijing Robot Conference Marks Industry Turn Toward Usable Machines",
-      "link": "https://www.tmtpost.com/8114886.html",
-      "summary": "The five-day gathering in the capital’s southern development zone showed a field moving past pure demonstration, testing whether robots can settle into factories, logistics lines, and daily services w...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:03:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "中国PD-1启示录",
-      "link": "https://www.tmtpost.com/8114785.html",
-      "summary": "中国PD-1，不仅仅是一个关于竞争的故事，也是关于泡沫、淘汰与重生的寓言。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:01:03",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "零跑汽车 2026 年上半年归母净利润 2.08 亿元，同比增长 530.97%",
-      "link": "https://www.ithome.com/0/993/680.htm",
-      "summary": "\nIT之家 8 月 24 日消息，零跑汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：\n\n营业总收入：381.07 亿元，同比增长 57.2%\n毛利润：44.45 亿元，同比增长 29.7%\n毛利率：11.7%\n归母净利润：2.08 亿元，同比增长 530.97%\n经营现金流：21.7 亿元，同比下降 24.06...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-24 10:00:38",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/d4272735-39de-426a-a408-5aeb04026cf0.png?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame",
       "link": "https://www.wired.com/story/best-multi-use-air-purifiers/",
       "summary": "These WIRED-tested dual-purpose air purifiers also function as heaters, fans, art pieces, and more, offering the best of both worlds....",
@@ -179,46 +300,13 @@
       "thumbnail": "https://media.wired.com/photos/6a89ff0f423b44b6336c94c7/master/pass/The-Best-Multiuse-Air-Purifiers.jpg"
     },
     {
-      "title": "佰维存储 2026 年上半年归母净利润 71.66 亿元，同比扭亏转盈",
-      "link": "https://www.ithome.com/0/993/673.htm",
-      "summary": "\nIT之家 8 月 24 日消息，佰维存储今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告：\n\n营业总收入：155.75 亿元，同比增长 298.1%\n归母净利润：71.66 亿元，上年同期为-2.26 亿元，增加约 73.91 亿元；按亏损绝对值计算，同比改善约 3273.48%。\n扣非净利润：66.33 亿元，上年同期为-2.32 亿元，增加约 68.64 亿元；...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "调问更新 8.8 ~ 8.22：新增审核与多方评审，数据导出及问卷能力全面优化",
+      "link": "https://www.oschina.net/news/502096",
+      "summary": "坚持前后端代码 100% 开源 助力企业建设自主可控的问卷调研系统 官网地址www.diaowen.net ➔ 源码下载Gitee 仓库 ➔ 本次更新新增人工审核、举报问卷、多方评审、判断题等功能，并完善文本智能识别、模板管理及数据导出能力。同时针对问卷编辑、填写、审核、题库、模板等场景进行了多项体验优化，并修复一批影响使用的问......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-08-24 09:56:32",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/60eda849-7e2c-4a91-9abb-d3125237c4d2.png"
-    },
-    {
-      "title": "给快手和可灵算笔账",
-      "link": "https://www.tmtpost.com/8114783.html",
-      "summary": "AI 时代两张确定性的“船票”，可灵拿到其一。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-24 09:51:45",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "夜市摊位月租27万元，摆摊比开店还烧钱？",
-      "link": "https://www.tmtpost.com/8114572.html",
-      "summary": "夜市小吃5年涨价87%，摊主却喊亏，钱被谁赚走了？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-24 09:44:37",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "鸭脖存量战，“卤味三雄”分道突围",
-      "link": "https://www.tmtpost.com/8114655.html",
-      "summary": "休闲卤味赛道的高速增长不再。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-24 09:44:32",
+      "pubDate": "2026-08-24 09:37:33",
       "category": "other",
       "thumbnail": ""
     },
@@ -232,17 +320,6 @@
       "pubDate": "2026-08-24 09:30:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6a7658f0de0a40f999466656/master/pass/080726-teachers-deepfakes-ai.gif"
-    },
-    {
-      "title": "九年接住银行做不了的生意，跨境支付遇到AI新变量 ｜ 出海参考",
-      "link": "https://www.tmtpost.com/8114087.html",
-      "summary": "AI大模型的到来让跨境B2B支付行业的竞争转变为：谁能把AI用在可以沉淀专属数据、夯实基建平台的地方，而不是仅仅用来提效。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-24 09:28:37",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Humanoid robots smash Usain Bolt’s 100-meter record",
@@ -278,6 +355,28 @@
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/2_Mobile.jpg?w=840"
     },
     {
+      "title": "WePush 5.1.2 发布，专注批量推送的小而美的工具",
+      "link": "https://www.oschina.net/news/502095",
+      "summary": "WePush 5.1.2 已发布，这是一个专注批量推送的小而美的工具。 更新内容: 新增多消息类型并优化推送网络层 新增支持飞书群自定义机器人消息 企业微信：新增小程序通知消息类型 公众号客服消息：新增图片、语音、视频、音乐类型，并修复素材上传 钉钉：Markdown消息支持变量替换 网络层升级为HTTP/2，优化批量推送 下载地址......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-24 08:31:48",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "SonnetDB 3.1.0 发布，一个集时序、关系表、键值、JSON 文档、全文检索、向量检索、对象存储和消息队列的工业数据产品",
+      "link": "https://www.oschina.net/news/502094",
+      "summary": "SonnetDB 3.1.0 正式发布。本次版本覆盖自 v3.0.1 以来、截至 2026 年 8 月 24 日合入的 200+ 次提交，重点完成了多模型管理工作台、工业协议接入、关系 SQL 与查询规划、Document 易用性、语义内容、存储可靠性和可观测性的系统升级。 3.1.0 继续坚持“八种数据模型，一套引擎”： 时序、关系表、键值、JSON 文档、全文......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-24 08:11:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
       "link": "https://www.qbitai.com/2026/08/478473.html",
       "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON...",
@@ -286,28 +385,6 @@
       "region": "cn",
       "pubDate": "2026-08-24 08:07:59",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "【Fintech 周报】多家银行积存金克价涨破1000元；民生人寿否认董事长因“生肖不和”裁员",
-      "link": "https://www.tmtpost.com/8114520.html",
-      "summary": "央行明确稳步发展数字人民币；央行新增8家数字人民币业务运营机构；上半年银行业净利润微降至1.2万亿元；银行违规设考核指标罚单密集落地；多家外资机构出手买入港股保险股；宁波银行上半年净利增12.12%；友邦保险纯利大增69%；蚂蚁国际推出专用金融AI模型；爱租机易主；美国SEC正式提出《加密资产监管条例》；香港首个合规港元稳定币HKDAP正式进入商业运营。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-24 08:06:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "谷子餐厅的漂亮饭，年轻人为什么抢着买单？",
-      "link": "https://www.tmtpost.com/8114568.html",
-      "summary": "谷子餐厅扎堆开店，但和传统餐饮完全不是一套逻辑。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-24 07:56:27",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -377,7 +454,7 @@
       "thumbnail": ""
     },
     {
-      "title": "给智能体的记忆力打分，openKylin 命题公布",
+      "title": "给智能体的记忆力打分，上海开源大赛openKylin命题公布",
       "link": "https://www.oschina.net/news/502088",
       "summary": "2026 年，大模型智能体正从实验室走进办公、研发和个人助理场景，能不能长期、稳定、可控地记住用户信息，成了影响智能体可用性的关键。偏好、路径、模板这类稳定信息要记住；临时信息、敏感信息、风险指令又得排除。记不住，每次对话都从头开始；记太死，不该留的信息又会一直留在系统里。 2026 上海开源软件应用创新大......",
       "source": "开源中国",
@@ -428,39 +505,6 @@
       "sourceKey": "oschina",
       "region": "cn",
       "pubDate": "2026-08-24 02:46:57",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Code 工程最佳实践 | 主数据平台 1.5.0 震撼来袭",
-      "link": "https://www.oschina.net/news/502083",
-      "summary": "更新周期：2026-07-06 ~ 2026-08-21，前端 132 次提交、后端 43 次提交 项目地址： github：https://github.com/henhen6/mdp gitee：https://gitee.com/henhen6/mddata gitcode：https://gitcode.com/henhen6/mdp :sparkles: 亮点特性 :bar_chart:...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-24 02:42:31",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "🔥🔥Skyeye 云企业级AI+零代码智能制造系统 - v4.1.1 发布",
-      "link": "https://www.oschina.net/news/502082",
-      "summary": "Skyeye 云企业级AI+零代码智能制造，智能制造一体化，采用 SpringBoot+ UNI-APP + Ant Design Vue 的零代码平台开发模式。包含 100 多种电子流程，CRM、PM、ERP、MES、ADM、OA、EHR、AI、项目、商城、财务、多班次考勤、薪资、招聘、云售后、论坛、问卷、报表设计、工作流、Saas 等功能。打造全网首套零代码、AI应用最广......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-24 02:38:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": ":fire:Star 6.3k 支持 AI 工作流引擎 FlowLong 1.2.6 发布",
-      "link": "https://www.oschina.net/news/502081",
-      "summary": "开源地址：https://gitee.com/aizuda/flowlong 开源地址：https://github.com/aizuda/flowlong 官网文档：https://flowlong.aizuda.com 更新日志： feat: 新增支持无节点条件执行能力 feat: 升级 mybatis-plus 依赖 3.5.17 版本 feat: 新增重审已结束的流程实例恢复实例并将当前任...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-24 02:10:30",
       "category": "ai",
       "thumbnail": ""
     },
@@ -597,6 +641,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Poetry for Engineers: Safe Distance",
+      "link": "https://spectrum.ieee.org/poetry-for-engineers-safe-distance",
+      "summary": "\n\nHow do I touch youacross the ocean,across cold depthswhere light travels through glass.\nNot copper—fibers. Optical. \nThrough liquid glass, through flickering lightthat carries you in fragments. Ligh...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-23 13:00:01",
+      "category": "other",
+      "thumbnail": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-fiber-optic-cables-pointing-in-opposite-directions-with-each-one-inside-a-differently-colored-bu.jpg?id=67652120&width=1245&height=700&coordinates=0%2C0%2C0%2C1"
+    },
+    {
       "title": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
       "link": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
       "summary": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table....",
@@ -627,17 +682,6 @@
       "region": "cn",
       "pubDate": "2026-08-23 11:20:13",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-      "link": "https://www.qbitai.com/2026/08/478234.html",
-      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-23 11:17:22",
-      "category": "robot",
       "thumbnail": ""
     },
     {
@@ -683,17 +727,6 @@
       "pubDate": "2026-08-23 10:37:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6870914c7df7ab0fb03f65d5/master/pass/The%20Best%20Laptop%20Docking%20Stations%20to%20Supercharge%20Your%20Workstation.png"
-    },
-    {
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "link": "https://www.qbitai.com/2026/08/478191.html",
-      "summary": "Tokenizer、视频编码、API报错全扒一遍...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-23 09:56:12",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
@@ -927,6 +960,17 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2290777035-500x500.jpg"
     },
     {
+      "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+      "link": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
+      "summary": "\nBalaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gath...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-21 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-professionally-dressed-indian-man-smiling-with-a-trophy-in-one-hand-and-an-award-certificate-in-the-other.jpg?id=67657769&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
       "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
       "link": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
       "summary": "\nWhen an agentic AI system hands a task from a small model to a larger one — or back down again — it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, drivin...",
@@ -936,6 +980,17 @@
       "pubDate": "2026-08-21 16:33:56",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
+      "link": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
+      "summary": "\nAbout this Webinar\nTurn Yield Excursions into Faster, More Confident Root Cause Analysis\nWhen a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metro...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-21 14:32:37",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/spotfire-logo-with-circular-icon-and-stylized-black-text.png?id=67657308&width=980"
     },
     {
       "title": "The Download: threats from space mirrors and credit for AI drugs",
@@ -1068,6 +1123,61 @@
       "pubDate": "2026-08-20 09:47:22",
       "category": "ai",
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Fetcherr-COVERV9_81426.png?w=840"
+    },
+    {
+      "title": "Gaining Leadership Backing for Your Innovations",
+      "link": "https://spectrum.ieee.org/leadership-backing-innovation",
+      "summary": "\nThis article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society.\nImagine this: You have a strong idea for a new product for your ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-19 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-three-different-hands-placing-puzzle-pieces-together-in-the-shape-of-a-lightbulb.jpg?id=67643651&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
+      "link": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026",
+      "summary": "\nAbout 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mo...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-17 18:00:04",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/three-high-school-students-posing-with-their-individual-award-plaques-next-to-a-middle-aged-white-woman.jpg?id=67634200&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
+    },
+    {
+      "title": "From AI Copilots to Agent Swarms",
+      "link": "https://spectrum.ieee.org/amd-agent-swarms",
+      "summary": "\nThe impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps i...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-17 14:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/colorful-3d-blocks-piled-behind-glass-panels-displaying-white-code-snippets.jpg?id=67609515&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
+      "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
+      "link": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
+      "summary": "\nBede Liu, a digital signal processing pioneer, died on 7 May. He was 91.\nLiu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorith...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-14 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/portrait-of-an-elderly-asian-man-softly-smiling-in-a-suit-jacket-and-tie.jpg?id=67609508&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+    },
+    {
+      "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
+      "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
+      "summary": "\nLearn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.\nDownloa...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-14 17:27:12",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/wipl-d-logo-with-stylized-antenna-arcs-above-the-text.png?id=26851692&width=980"
     }
   ]
 }
