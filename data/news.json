@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-25T21:34:15.793Z",
+  "updateTime": "2026-08-25T22:33:07.871Z",
   "total": 97,
   "news": [
     {
@@ -111,6 +111,17 @@
       "pubDate": "2026-08-25 19:39:03",
       "category": "other",
       "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/1ce8e498-e712-4bd8-845b-815fe4e09312.jpg"
+    },
+    {
+      "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
+      "link": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
+      "summary": "\nA CISO who sees a low CVE count and deprioritizes prompt injection is reading the scoreboard wrong. Prompt injection has held the No. 1 spot on the OWASP Top 10 for LLM Applications for three consecu...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-25 17:24:22",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
@@ -1056,17 +1067,6 @@
       "region": "us",
       "pubDate": "2026-08-21 09:00:00",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
-      "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
-      "summary": "\nSlack wants to drag AI coding out of the terminal and into the group chat.\nThe Salesforce-owned messaging platform today announced Slack Code, a new product that embeds AI coding agents — including A...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-21 00:00:00",
-      "category": "ai",
       "thumbnail": ""
     }
   ]
