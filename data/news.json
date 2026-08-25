@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-25T15:49:50.737Z",
+  "updateTime": "2026-08-25T16:44:12.133Z",
   "total": 97,
   "news": [
     {
@@ -113,6 +113,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "summary": "\nPerplexity is launching Portable Computer today, a version of its agentic \"Computer\" platform that runs entirely on hardware users already own — starting with Nvidia's DGX Spark desktop supercomputer...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-25 13:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
       "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took...",
@@ -132,7 +143,7 @@
       "region": "cn",
       "pubDate": "2026-08-25 11:29:39",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/d9cbf20d624db8b4db11993978526038_1787657383.jpg"
+      "thumbnail": ""
     },
     {
       "title": "二手半导体设备成抢手货了",
@@ -143,7 +154,7 @@
       "region": "cn",
       "pubDate": "2026-08-25 11:29:22",
       "category": "chip",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t3qwhtrnh3.png"
+      "thumbnail": ""
     },
     {
       "title": "OpenAI 的 2027：资本周期下的上市平衡术",
@@ -154,7 +165,7 @@
       "region": "cn",
       "pubDate": "2026-08-25 11:27:08",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/ty5465ejyt3.png"
+      "thumbnail": ""
     },
     {
       "title": "两个“AI角斗场”加起来卖出1500亿天价，巨头图什么？",
@@ -165,7 +176,7 @@
       "region": "cn",
       "pubDate": "2026-08-25 11:27:05",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/08/20260825122849053536.jpg"
+      "thumbnail": ""
     },
     {
       "title": "222人年薪超百万，84家零售上市公司薪酬全景图",
@@ -176,7 +187,7 @@
       "region": "cn",
       "pubDate": "2026-08-25 11:27:03",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/25/47e62037d462f4aa58b35bad103192bd_1787629433.png"
+      "thumbnail": ""
     },
     {
       "title": "新石器VS九识，谁能赢下无人车下半场？",
@@ -187,7 +198,7 @@
       "region": "cn",
       "pubDate": "2026-08-25 11:27:00",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/08/20260825154339234108.jpg"
+      "thumbnail": ""
     },
     {
       "title": "会算账之后，蔚来汽车终于不焦虑了",
@@ -198,7 +209,7 @@
       "region": "cn",
       "pubDate": "2026-08-25 11:26:58",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/453654uujhg3.png"
+      "thumbnail": ""
     },
     {
       "title": "中远海控的\"表里山河\"：一家千亿央企控股平台的财报真相",
@@ -209,7 +220,7 @@
       "region": "cn",
       "pubDate": "2026-08-25 11:26:56",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/24/5f3a30507266be6f3c0f9cb5cd2258e1_1787557946.webp"
+      "thumbnail": ""
     },
     {
       "title": "Linus Torvalds 的“地狱级调试”：AI 帮了大忙，但也多次准备放弃",
@@ -253,7 +264,7 @@
       "region": "cn",
       "pubDate": "2026-08-25 10:54:51",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/55y4jthngbg3.png"
+      "thumbnail": ""
     },
     {
       "title": "Go Agent 框架 covonaut v1.0.8 发布：新增行内补全与多后端可观测性支持",
@@ -286,7 +297,7 @@
       "region": "cn",
       "pubDate": "2026-08-25 10:29:51",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r4t3hrn3.png"
+      "thumbnail": ""
     },
     {
       "title": "Border Wall Construction Threatens 6,000 Years of History on Private Lands",
@@ -1055,17 +1066,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-08-21 00:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
-      "link": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
-      "summary": "\nEnterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a single vendor to r...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-20 19:57:01",
       "category": "ai",
       "thumbnail": ""
     }
