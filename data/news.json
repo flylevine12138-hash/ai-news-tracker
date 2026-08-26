@@ -1,7 +1,18 @@
 {
-  "updateTime": "2026-08-26T11:34:59.039Z",
+  "updateTime": "2026-08-26T13:03:53.916Z",
   "total": 107,
   "news": [
+    {
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use o...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-08-26 12:10:00",
+      "category": "ai",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/mirror-dna.webp?w=840"
+    },
     {
       "title": "消息称鸿蒙智行共光路舱内激光雷达能力基本等效于 192 线激光雷达",
       "link": "https://www.ithome.com/0/994/716.htm",
@@ -267,6 +278,50 @@
       "thumbnail": ""
     },
     {
+      "title": "AI视频应用井喷，美图打开新的增长空间",
+      "link": "https://www.qbitai.com/2026/08/479895.html",
+      "summary": "从图像到视频，美图找到了一门更赚钱的生意...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-26 10:18:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+      "link": "https://www.qbitai.com/2026/08/479811.html",
+      "summary": "AI内容创作者增长187%，相关节目数量增长239%...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-26 10:17:15",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+      "link": "https://www.qbitai.com/2026/08/479834.html",
+      "summary": "具身智能迈向GPT时刻...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-26 10:07:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "“05 后”开发者两周建起 20K Star 的开源项目社区",
+      "link": "https://www.oschina.net/news/502135",
+      "summary": "要说本月技术人朋友圈里最火的东西，横空出世的 DeepSeek Harness 当之无愧。不少朋友都在 DSH 刚出来的那晚通宵把玩，各大开源技术交流群热闹非凡，基于 DSH 的二创项目很快攻占各平台趋势热榜。 但 DSH 官方版本要装 Node.js，要从命令行启动本地服务，要处理一堆环境问题，很多普通用户想试试，卡在第一步就放弃了。就......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-26 10:04:52",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "Ikea’s Xbox collection includes a giant thumbstick stool",
       "link": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
       "summary": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby c...",
@@ -289,6 +344,50 @@
       "thumbnail": "https://media.wired.com/photos/6a8c1c817e094df45d7c1f8f/master/pass/PH210899.jpg"
     },
     {
+      "title": "DeepSeek 今年前七个月营收约 4.75 亿元",
+      "link": "https://www.oschina.net/news/502134",
+      "summary": "5000 亿。 这是 DeepSeek 第二轮融资的投前估值。按当前汇率，约合 740 亿美元。一家成立不到三年的公司，正在以这个数字向资本市场递出投名状。 据《南华早报》和 The Information 从知情人士处获得的消息，DeepSeek 正接近完成新一轮约 500 亿元人民币的融资，预计 8 月底前关闭。老股东 Monolith、拾象资本和宁德时代......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-26 09:54:12",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "PHASE-Tree｜为长线 AI 角色构建可演化的人格骨架",
+      "link": "https://www.oschina.net/news/502133",
+      "summary": "今年 6 月，NVIDIA 在 Unreal Fest 2026 公布了面向 Unreal Engine 5 的本地 AI 角色工具，并展示了将 NPC 的角色设定与具体表演过程分开的工作流，让角色能够根据现场情况行动和回应，同时保持角色一致性。 当 AI 角色进入真实游戏运行时，一句台词通常会同时受到多组信号影响。 Quest Flag 记录任务已经推进到哪个分支......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-26 09:42:43",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "PHASE-Tree｜CPC 不只要会聊、会打，还要会成长：AI 队友的状态演化难题",
+      "link": "https://www.oschina.net/news/502132",
+      "summary": "今年 6 月，KRAFTON 与 NVIDIA 将 PUBG Ally 带入公开 Beta。这名 AI 队友能记住玩家偏好的武器、常去的跳点和过往战绩，并在下一局继续使用这些信息。跨局记忆已经进入真实游戏测试，背后的开发团队则需要进一步回答，角色记得过去以后，它的立场和说话方式会不会跟着经历变化？ 假设我们在一段长线游戏剧情里。 一名年......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-26 09:24:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
+      "link": "https://www.qbitai.com/2026/08/479808.html",
+      "summary": "长乐机场综保区智算中心全栈算电协同服务...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-26 09:17:08",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread",
       "link": "https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/",
       "summary": "New findings shed light on what’s making the parasite less treatable using the drug that’s considered a first line of defense....",
@@ -298,6 +397,50 @@
       "pubDate": "2026-08-26 09:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a8e0d868d6075ca30d3eb17/master/pass/139813972"
+    },
+    {
+      "title": "Raised on AI",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In sh...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-08-26 09:00:00",
+      "category": "ai",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=840"
+    },
+    {
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-08-26 09:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "从导航工具到AI基础设施，上海开源大赛百度地图命题公布",
+      "link": "https://www.oschina.net/news/502131",
+      "summary": "2026 年的 AI 正在吞噬一切，在线地图也在经历身份转变。 过去地图只是导航工具，现在已然成为 AI 时代的基础设施，给智能体和大模型应用提供位置感知能力。智能定位、路线规划、时空数据这些能力，正在从“给 App 调用”变成“给 AI 调用”。这个转变背后，是两个真实的需求场景。 一个是工业场景。工业数字化让工业园区......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-26 07:32:41",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-08-26 07:01:00",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
@@ -619,50 +762,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Taking your temperature from the inside",
-      "link": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
-      "summary": "Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstru...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-08-25 21:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Seeing through murky waters",
-      "link": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
-      "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait ...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-08-25 21:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Your brain on AI",
-      "link": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
-      "summary": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy.  Participants who eva...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-08-25 21:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "MIT tech powered the Artemis II livestreams",
-      "link": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/",
-      "summary": "During the original US missions to the moon in the 1960s and ’70s, astronauts relied on radio-­frequency systems to communicate, sending grainy, low-quality images and videos to Earth. But on the Arte...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-08-25 21:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "World humanoid robot games show runners breaking records, bursting into flames",
       "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
       "summary": "Record-breaking robot races are less substantial than household chore challenges....",
@@ -905,28 +1004,6 @@
       "thumbnail": ""
     },
     {
-      "title": "让经典回归：极点五笔在 openKylin 3.0的新生",
-      "link": "https://www.oschina.net/news/502122",
-      "summary": "很多使用五笔输入的小伙伴都绕不开一个名字：极点五笔。它曾是中文输入的效率神器，也是一代人的共同记忆。 现在，这份记忆有了新去处——极点五笔输入法 4.0 完成全新重构，已上架 OpenAtom openKylin（简称“openKylin”） 软件商店，同时兼容支持 fcitx5、fcitx4 和 ibus 输入法框架。 对老用户：编码规则、输入习惯都......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 13:30:14",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "MemOS Skill 上线｜一句话即可接入 MemOS Cloud",
-      "link": "https://www.oschina.net/news/502121",
-      "summary": "Agent 已经不只是聊天窗口了，它们在 IDE 里改代码，在终端里跑命令，在办公流里处理文档，也开始替大家连接插件、调用工具、串起自动化流程。 为了帮助开发者在 Claude Code、Cursor 等 Agent 开发工具中更快接入 MemOS Cloud，我们上线了 MemOS Skill。 我们希望，只需一句提示词，即可让 Agent 自动通过 MemOS Skill ......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 13:16:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
       "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
       "summary": "\nAt the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the...",
@@ -949,28 +1026,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Linus Torvalds 的“地狱级调试”：AI 帮了大忙，但也多次准备放弃",
-      "link": "https://www.oschina.net/news/502120/linus-torvalds-debug-ai",
-      "summary": "Linus Torvalds 自己提交了一个 Intel Xe 内核图形驱动的补丁。这件事本身就不常见——Linux 图形驱动补丁通常不经过他手。 但真正让这次提交引人注目的，是 Linus 在 commit message 里写下的一段话： &gt;&gt; 这是一次地狱级的调试（debug session from hell），AI 帮我做了大量粗活，帮了很大的忙。 &gt; &gt; 我想叫...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 11:07:17",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Go Agent 框架 covonaut v1.0.8 发布：新增行内补全与多后端可观测性支持",
-      "link": "https://www.oschina.net/news/502119",
-      "summary": "covonaut 是一款使用 Go 语言编写的生产级 AI Agent 框架。框架提供了完整的 Agent 能力，包括智能体执行循环、工具系统与中间件、MCP 工具桥接、多 Agent 协作（Handoff）、DAG/Pregel 双模式图引擎、工作流编排、会话管理与分支、HTTP 服务，以及一套无第三方依赖的终端 UI（TUI）。模型接入方面支持 OpenAI、DeepSee......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 10:47:36",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
       "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
       "summary": "\nThis article is brought to you by Ollobot.\nFrom about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answe...",
@@ -980,61 +1035,6 @@
       "pubDate": "2026-08-25 10:00:03",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=1245&height=700&coordinates=0%2C260%2C0%2C261"
-    },
-    {
-      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-      "link": "https://www.qbitai.com/2026/08/479314.html",
-      "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-25 09:31:16",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "从GPU池化到节省token，上海开源大赛「智算云赛道」情报公开",
-      "link": "https://www.oschina.net/news/502117",
-      "summary": "2026 上海开源软件应用创新大赛正火热报名中，本次大赛由开源中国主办，总奖池 100 万，设 AI+工业软件、智算云、开源 AI 工具三个赛道。 其中「智算云」这条赛道，面向用云加速、简化或稳定 AI 运行的开源项目。从底层的异构算力调度、GPU 池化、分布式训练，到上层的 AI 应用开发平台、模型部署服务、Serverless 推理、......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 08:33:38",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "开源国产8B模型，比肩闭源Image 2了！",
-      "link": "https://www.qbitai.com/2026/08/479192.html",
-      "summary": "SenseNova U1.5 Lite...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-25 06:53:26",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
-      "link": "https://www.qbitai.com/2026/08/479132.html",
-      "summary": "字节、汇川等已入股未来不远机器人最新一轮融资...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-25 06:39:51",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
-      "link": "https://www.qbitai.com/2026/08/479096.html",
-      "summary": "AI科研能力从工具级转向系统级...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-25 05:48:05",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "IEEE Senior Membership Demystified",
