@@ -1,7 +1,425 @@
 {
-  "updateTime": "2026-08-26T16:23:31.692Z",
+  "updateTime": "2026-08-26T19:08:36.095Z",
   "total": 97,
   "news": [
+    {
+      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "summary": "Google has updated Gemini Audio with some new Gemini 3.5 models, introducing new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Live, 3....",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-26 17:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple is holding its iPhone launch event on September 9",
+      "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+      "summary": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the rei...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-26 16:53:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+      "link": "https://www.qbitai.com/2026/08/479919.html",
+      "summary": "GLM-5.3 Flash...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-26 16:48:12",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+      "link": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
+      "summary": "\nA security agent read a Cloudflare log, found an attacker’s prompt-injection payload sitting inside it, and rewrote the company’s DNS. The firewall had already blocked that payload, and blocking it i...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-26 16:13:50",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日",
+      "link": "https://www.ithome.com/0/994/787.htm",
+      "summary": "\nIT之家 8 月 27 日消息，苹果官方宣布将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为“惊喜闪耀”（Surprise and shine）。\n这将是约翰 · 特努斯（John Ternus）于 9 月 1 日正式接任苹果 CEO 后的首场发布会，预计将推出全新一代 iPhone 18 Pro / Max 以及 Ultra 系列折叠屏新机。后续...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-26 16:06:30",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple announces September iPhone launch event",
+      "link": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+      "summary": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-26 16:03:49",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
+      "link": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+      "summary": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-26 16:03:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora ",
+      "link": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+      "summary": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers late...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-26 16:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软 Win11 新功能曝光：未来将支持手机远程操控关机、重启电脑",
+      "link": "https://www.ithome.com/0/994/785.htm",
+      "summary": "\nIT之家 8 月 26 日消息，Windows Latest 今日在对 Link to Windows 应用（原名“你的手机”）安装包进行拆包分析时发现，微软正在为该应用开发一种涉及远程关机、重启及睡眠的远程控制功能。\n\n相关代码出现在一个标记为 RemoteControlManager 的组件中。一份日期为 2026 年 8 月 25 日的调试日志显示，该功能的启用标志（isRemotePcC...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-26 15:59:55",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Waymo：我们的无人驾驶出租车严重事故发生率仅有人驾的 1/16",
+      "link": "https://www.ithome.com/0/994/784.htm",
+      "summary": "\nIT之家 8 月 26 日消息，在把自动驾驶 Robotaxi 带到伦敦复杂的城市道路几个月后，Waymo 又把欧洲扩张的下一站选在了德国慕尼黑。慕尼黑将成为 Waymo 继英国和日本之后进入的第三个海外市场，公司计划当地推出自动驾驶网约车服务。\nWaymo 通过官方新闻稿披露了一组数据：现有网约车车队每周完成数十万次出行，主要在美国城市运营。根据累计超过 3.5 亿公里的完全自动驾驶数据，其车...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-26 15:50:22",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-26 15:47:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
+      "link": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
+      "summary": "Republicans demanded that parties and fundraising committees be given lowest ad rates....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-08-26 15:45:07",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/vote-sign-500x500-1787756263.jpg"
+    },
+    {
+      "title": "英特尔 18A-P 工艺详解：0.5V 低电压频率跃升 30%，Diamond Rapids 与 Nova Lake 率先搭载",
+      "link": "https://www.ithome.com/0/994/781.htm",
+      "summary": "\nIT之家 8 月 26 日消息，Hot Chips 2026 会议于当地时间 2026 年 8 月 23 日至 8 月 25 日在斯坦福大学纪念礼堂举行，是全球计算架构和芯片设计领域的顶级学术与产业界盛会。\n英特尔此次会上公布了 Intel 18A-P 制程技术的更多细节。据介绍，基于量产芯片的直接测试显示，18A-P 在 0.5V 工作电压下可实现 30% 的频率提升。该制程将率先用于 Dia...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-26 15:41:35",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "沃尔沃在欧美上线危险预警功能，车辆之间可相互分享道路施工、交通事故信息",
+      "link": "https://www.ithome.com/0/994/780.htm",
+      "summary": "\nIT之家 8 月 26 日消息，沃尔沃将为 EX90、ES90 和 EX60 三款车型增加新的危险预警功能，前方出现大型动物、行人或骑行者等风险时，车辆可以提前提醒驾驶员。据了解，这一新功能主要依靠旗下联网汽车彼此共享道路信息。\n\n系统会利用沃尔沃在欧洲、美国和加拿大车队收集的联网车辆数据。车辆通过传感器和摄像头识别道路风险，一旦发现危险，就会自动记录具体位置并上传至沃尔沃服务器，再向同一路段的...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-26 15:39:40",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Volvo’s cars will warn one another about hazards in the road",
+      "link": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
+      "summary": "Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's ca...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-26 15:28:14",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "更新至 iOS / macOS 27 后“聚焦搜索”重建索引需要好几天？苹果回应",
+      "link": "https://www.ithome.com/0/994/779.htm",
+      "summary": "\nIT之家 8 月 26 日消息，如果你已经将手头的苹果设备更新至 iOS 27、macOS 27 Golden Gate、iPadOS 27 或 visionOS 27 测试版，就可能遇到过系统更新后“聚焦搜索”长时间重建索引的问题。为此，苹果发布了支持文档，对这一过程作出解释。\n\n苹果表示，索引可能需要数小时，甚至持续数天，所需时间取决于设备中保存的数据量。设备没有使用、连接电源和互联网时，索...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-26 15:25:54",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "第二届世界人形机器人运动会闭幕：智元首次参赛斩获 18 金 16 银 12 铜登顶双榜第一，超 2500 小时真实数据免费开放",
+      "link": "https://www.ithome.com/0/994/778.htm",
+      "summary": "\nIT之家 8 月 26 日消息，第二届世界人形机器人运动会今日晚间在北京国家速滑馆“冰丝带”落下帷幕。\n在为期五天的赛程中，来自 16 个国家的 666 支参赛队伍、2056 台机器人“运动员”围绕 51 个赛项展开竞技。\n\n本届赛事多项成绩较上届实现质的飞跃。田径项目中，400 米大型组冠军成绩由上届 1 分 28 秒 03 提升至 38 秒 15；1500 米冠军成绩由上届 6 分 34 秒...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-26 15:20:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "成都高新减灾研究所发第四份声明：首报预警震级偏差大表示道歉，但该预警不是误报",
+      "link": "https://www.ithome.com/0/994/777.htm",
+      "summary": "\nIT之家 8 月 26 日消息，成都高新减灾研究所今晚再发声明“关于 8 月 24 日宜宾长宁 4.7 级地震的预警首报震级偏差大的声明四”。\n\n\n摘要：\n1、成都高新减灾研究所（以下简称减灾所）再次对 24 日宜宾长宁 4.7 级地震的首报预警震级偏差大表示道歉，但该预警不是误报；\n2、减灾所未冒用“中国地震预警网”，因为中国地震局与减灾所的合作备忘录及中国地震局的红头文件《中国地震预警网地震...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-26 15:16:17",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "莲花科技 100% 收购 Lotus UK 股权，莲花英国业务并入“吉利系”",
+      "link": "https://www.ithome.com/0/994/776.htm",
+      "summary": "\nIT之家 8 月 26 日消息，莲花科技 25 日宣布，已完成对英国莲花业务 Lotus UK 的全面整合。截至 2026 年 8 月 21 日，莲花科技正式持有英国莲花 100% 股权，海瑟尔的跑车制造业务以及莲花工程咨询业务由此全部纳入同一家公司。\n\n莲花集团 CEO 冯擎峰表示：“莲花只有一个品牌、一项战略，从今天起也只有一个业务主体。”至此，英国跑车业务与拥有中国资本支持的母公司长期独立...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-26 15:07:16",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "英伟达发布 GeForce 616.56 WHQL 驱动：为《星球大战：零号连队》提供首发优化",
+      "link": "https://www.ithome.com/0/994/775.htm",
+      "summary": "\nIT之家 8 月 26 日消息，英伟达今晚发布了最新的 GeForce Game Ready 616.56 WHQL 版驱动程序。有需要的用户可通过 NVIDIA 应用或 GeForce 官网下载。\n该版本为《星球大战：零号连队》、《共鸣：瘟疫传说传承》及《人间地狱：越南》三款新游戏提供了首发优化。\n\nIT之家注：《星球大战：零号连队》是一款由 Bit Reactor 开发、EA 发行的单人回合...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-26 15:02:18",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Researchers get two genetic codes to work at the same time",
+      "link": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
+      "summary": "Messing with the genetic code might have gotten a bit easier to do....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-08-26 15:00:34",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2080373895-500x500.jpg"
+    },
+    {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-26 15:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
+      "link": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/",
+      "summary": "Ring says  users can still opt for end-to-end encryption....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-26 14:44:33",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-26 14:37:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "CISA confirms hackers targeted over 100 US water systems during July",
+      "link": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
+      "summary": "The federal cyber agency's warning comes amid a wave of suspected Iran-backed cyberattacks targeting critical water systems across the United States....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-26 14:31:05",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Xbox announces disc-to-digital feature that digitizes your physical games",
+      "link": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
+      "summary": "Microsoft is officially announcing a new Xbox feature that will allow Xbox owners to digitize their existing physical game collections. The disc-to-digital feature, which The Verge exclusively reveale...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-26 14:30:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "summary": "\nPresented by Tata Communications \n\nEnterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most o...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-08-26 14:30:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-26 14:19:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
+      "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
+      "summary": "\"We're living in this world of scarcity with the Moon.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-08-26 14:14:52",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/interlune-500x457.jpg"
+    },
+    {
+      "title": "Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All",
+      "link": "https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
+      "summary": "In addition to sending billions of dollars to states, Meta will make substantive changes to its platforms as part of a landmark settlement....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-26 14:08:37",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a8eee8f85384b803654439f/master/pass/GettyImages-2261841633.jpg"
+    },
+    {
+      "title": "Microsoft’s 25th anniversary Xbox will cost $899",
+      "link": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
+      "summary": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-26 14:05:38",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Elden Ring on the Switch 2 isn’t tarnished",
+      "link": "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review",
+      "summary": "FromSoftware is hoping to make a splash on the Switch 2 later this year when it launches The Duskbloods, a gothic competitive multiplayer game that's unlike anything the studio has made before. But be...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-26 14:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "You can now buy music on SoundCloud",
+      "link": "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch",
+      "summary": "SoundCloud has launched a new beta feature that allows artists on the audio streaming platform to sell music directly from their profiles, instead of diverting fans to purchase from third-party servic...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-26 14:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Your Oura Ring can’t measure what’s going on in your skull",
+      "link": "https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-26 14:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
+      "link": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
+      "summary": "Biology is coming to psychiatry’s diagnostic manual, even as reliable biomarkers remain rare....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-08-26 13:53:32",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/psychotherapy-500x500.jpg"
+    },
+    {
+      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+      "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+      "summary": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-26 13:43:01",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
+      "link": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement",
+      "summary": "Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars. Under the...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-26 13:31:32",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "PeopleFinders’ New Website Runs Background Checks on Your Dates",
+      "link": "https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/",
+      "summary": "The site, called Stud or Dud, helps daters dig up dirt on potential paramours. It’s fueled by the same public data as PeopleFinders.com—and comes with many of the same concerns....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-26 13:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a8dec9960465935e0bb1ba6/master/pass/Background-Check-Company-Makes-Dating-App-Culture.jpg"
+    },
     {
       "title": "*ST香雪的生死关口：重整卡壳，半年亏掉2.7亿元丨看财报",
       "link": "https://www.tmtpost.com/8118088.html",
@@ -10,6 +428,17 @@
       "sourceKey": "tmt",
       "region": "cn",
       "pubDate": "2026-08-26 12:56:27",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/d437be4eaa627c82b50a17ed4046a3da_1787748990.png"
+    },
+    {
+      "title": "Ring says its new encryption limits what it can give police",
+      "link": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement",
+      "summary": "Ring has a new way to protect your videos. It's developed an encryption method called TAKE, short for Throw Away the Key Encryption, that the Amazon-owned company says will protect your videos without...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-08-26 12:55:45",
       "category": "other",
       "thumbnail": ""
     },
@@ -22,7 +451,7 @@
       "region": "us",
       "pubDate": "2026-08-26 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/mirror-dna.webp?w=840"
+      "thumbnail": ""
     },
     {
       "title": "Unitree’s Market Cap Evaporates Nearly 50% From Its Peak in Six Days",
@@ -33,7 +462,7 @@
       "region": "cn",
       "pubDate": "2026-08-26 12:00:06",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/b17df0e36908eaf87abd66a7cf36301c_1787745605.jpg"
     },
     {
       "title": "为什么核聚变和液氢都要走「矩阵式」路线丨对话科安创能姜伟",
@@ -44,40 +473,18 @@
       "region": "cn",
       "pubDate": "2026-08-26 11:53:41",
       "category": "energy",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/11e8216bf75445c7e2eeb121b6367a28_1787745225.png"
     },
     {
-      "title": "消息称鸿蒙智行共光路舱内激光雷达能力基本等效于 192 线激光雷达",
-      "link": "https://www.ithome.com/0/994/716.htm",
-      "summary": "\nIT之家 8 月 26 日消息，据博主 @未来的学习笔记 分享，鸿蒙智行举行了一场关于共光路舱内激光雷达的技术沟通会。博主表达了自己对于这颗共光路舱内激光雷达的看法，称通俗能力对标情况是高于 128 线，基本等效于 192 线。\n博主透露，搭载共光路舱内激光雷达的车型支持城区 / 高速 NCA、园区巡航泊车、离车泊入、智能泊车等功能，未来还会加入 eAES、失能辅助等功能。\n\n有网友询问博主共光...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-26 11:27:01",
-      "category": "auto",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/a72aef90-af3e-4745-bbc2-cb0232713624.png"
-    },
-    {
-      "title": "真我新机 realme P4s 印度发布：144Hz 高刷屏、8000mAh 电池，3.5 万卢比起售",
-      "link": "https://www.ithome.com/0/994/715.htm",
-      "summary": "\nIT之家 8 月 26 日消息，真我今天在印度发布了最新机型 realme P4s，目前 P4 系列已经拥有超过 6 款智能手机产品。\nP4s 采用三星供应的 6.77 英寸 144Hz AMOLED 屏幕，基于 M14 OLED 技术打造，覆盖 AGC DT Star D+ 玻璃，分辨率 2772×1272，峰值亮度 6500 尼特，并支持 HDR10+。屏幕还支持湿手和油手触控，手指沾水或油...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-26 11:20:14",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/f5d343db-65f1-4503-aad8-644ab0d91360.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "星曜光学 MF 35mm F1.4 相机镜头新增富士 X 卡口黑色版，首发价 699 元",
-      "link": "https://www.ithome.com/0/994/714.htm",
-      "summary": "\nIT之家 8 月 26 日消息，星曜光学今日为 MF 35mm F1.4 相机镜头新增了富士 X 卡口黑色版，新品首发价 699 元。\n\n这款手动对焦全画幅镜头重约 218 克，采用复古外观设计，全金属材质外壳；提供支持索尼 E、尼康 Z、佳能 RF、徕卡 L 卡口以及富士 X 卡口（富士 X 卡口需要 ×1.5 系数，等效 52.5mm），支持 49mm 滤镜接口，配有 10 片光圈叶片，最近...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-26 11:18:01",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/572fd4e8-2b11-4658-8a23-7fe492f38f1a.jpg?x-bce-process=image/format,f_auto"
+      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
+      "link": "https://www.wired.com/gallery/best-wifi-routers/",
+      "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-26 11:30:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/686729e7c3e228b35983727d/master/pass/Best%20Wifi%20Routers.png"
     },
     {
       "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
@@ -89,28 +496,6 @@
       "pubDate": "2026-08-26 11:10:49",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-500x500-1787698921.jpg"
-    },
-    {
-      "title": "凯迪拉克全新 XT5 PHEV 将于 9 月 7 日上市，搭载 Momenta R7 世界模型",
-      "link": "https://www.ithome.com/0/994/712.htm",
-      "summary": "\nIT之家 8 月 26 日消息，据汽车之家消息，凯迪拉克全新 XT5 PHEV 将于 9 月 7 日上市。该车已在 2026 成都车展正式亮相。\n\nIT之家注意到，新车将成为首款量产搭载 Momenta R7 世界模型的豪华混动 SUV，车身长宽高为 4888/1957/1688mm，轴距达到 2863mm。\n新车整体延续了现款燃油车型的设计风格，车顶配备激光雷达，采用传统结构车门把手。\n凯迪拉...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-26 11:03:27",
-      "category": "energy",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/00f0c6af-9888-452f-be55-345894731da2.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "特斯拉中国再回应 FSD 上海数据中心“撤离”传闻：不实信息，已向公安机关报案",
-      "link": "https://www.ithome.com/0/994/711.htm",
-      "summary": "\nIT之家 8 月 26 日消息，针对网传上海特斯拉数据中心人去楼空的消息，特斯拉中国今天（26 日）向第一财经作出回应：“不实消息，已向公安机关报案。我们的数据中心正常运转，辅助驾驶招聘工作也在加速进行。相关工作都在稳步推进中。”\n而在今天早些时候，《每日经济新闻》则就同一网传内容向特斯拉中国方面求证，一位内部人士回应称“不实”。\n\n综合IT之家此前报道，特斯拉官网近期更新了 FSD 监督版全球...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-26 11:02:14",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/89a1f1b7-5706-40c6-99f0-51e4825429c8.jpg"
     },
     {
       "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
@@ -143,18 +528,7 @@
       "region": "cn",
       "pubDate": "2026-08-26 10:58:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "面壁智能：MiniCPM 系列开源模型全球累计下载量突破 5000 万次",
-      "link": "https://www.ithome.com/0/994/708.htm",
-      "summary": "\nIT之家 8 月 26 日消息，面壁智能官方今日宣布，在面壁智能四周年之际，MiniCPM 系列开源模型全球累计下载量突破 5000 万次。\n\nIT之家注：面壁智能于 2022 年 8 月在北京成立，孵化自清华大学自然语言处理实验室。联合创始人、CEO 李大海曾任知乎合伙人、CTO；联合创始人、首席科学家刘知远现任清华大学计算机系教授；联合创始人、CTO 曾国洋在 22 岁时作为核心工程负责人，...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-26 10:55:00",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/c029f7c4-6dc9-4ce5-904c-7d91004ac1e8.png?x-bce-process=image/format,f_auto"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/967dbba09c198b1f2d92442f2603ae23_1787742147.png"
     },
     {
       "title": "不打AI与即时零售的仗，拼多多是清醒，还是保守？",
@@ -165,7 +539,7 @@
       "region": "cn",
       "pubDate": "2026-08-26 10:51:38",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/4ada48c5dfd45f434fdbc1b9e9323c40_1787741501.jpg"
     },
     {
       "title": "长城汽车：国内销量掉两成，海外成了主战场",
@@ -176,7 +550,7 @@
       "region": "cn",
       "pubDate": "2026-08-26 10:51:24",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/6d05eeb33a0df8b429e101aff85d7371_1787741487.jpg"
     },
     {
       "title": "恒瑞医药被创新药开除了吗？",
@@ -187,7 +561,7 @@
       "region": "cn",
       "pubDate": "2026-08-26 10:51:12",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/b1ed0e60ebaad4c42e9761a296791d85_1787741477.jpg"
     },
     {
       "title": "英维克，又拿下个季度“骗”涨停？",
@@ -198,7 +572,7 @@
       "region": "cn",
       "pubDate": "2026-08-26 10:50:46",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5hyjtngf3.png"
     },
     {
       "title": "小鹏的新车很热，财报有点冷",
@@ -209,7 +583,7 @@
       "region": "cn",
       "pubDate": "2026-08-26 10:50:18",
       "category": "robot",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/34t1gqerfav3.png"
     },
     {
       "title": "艾罗能源业绩暴雷的真相",
@@ -220,29 +594,7 @@
       "region": "cn",
       "pubDate": "2026-08-26 10:50:07",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 中国电信研究院 AITMark 奖项出炉，华为小艺获 AI 手机智能体综合评分第一",
-      "link": "https://www.ithome.com/0/994/706.htm",
-      "summary": "\nIT之家 8 月 26 日消息，华为官方今日宣布，2026 中国电信研究院 AITMark 奖项出炉，小艺获 AI 手机智能体综合评分第一。\n\n同时，华为 Pura X Max 获旗舰手机场景智能评测综合评分第一，影像、办公等场景智能评分均第一。\n\nIT之家附中国电信终端研究测试中心本次测试排名如下：\n\n\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-26 10:44:52",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/800cf6c4-171c-4163-9ae8-6fe7ab00e290.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "立昂微拟投资 30 亿元建设 12 英寸半导体硅片项目，落户嘉兴南湖",
-      "link": "https://www.ithome.com/0/994/704.htm",
-      "summary": "\nIT之家 8 月 26 日消息，杭州立昂微电子股份有限公司今日发布公告，宣布与嘉兴市南湖区人民政府签署《项目投资合作框架协议》。\n公司计划在嘉兴市南湖区投资建设“月产 20 万片 12 英寸轻掺衬底片、12 万片 12 英寸硅外延片项目”，项目意向总投资约 30 亿元（IT之家注：其中固定资产投资约 29 亿元）。\n\n据介绍，该项目建设周期为 5 年。项目将依托立昂微控股子公司金瑞泓微电子（嘉兴...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-26 10:42:31",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/1fbc3d9e-abeb-4db6-8e70-e1e3efb6a036.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/95eb36e21eb1c45a83a7e0376932e535_1787741414.jpg"
     },
     {
       "title": "Green Chef Meal Kit Review (2026): Great Ingredients, Layered Flavor",
@@ -252,28 +604,6 @@
       "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-08-26 10:39:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "All in 尚界：上汽追加 10 亿投资用于浦东金桥工厂，遵循工业 4.0 设计和制造标准",
-      "link": "https://www.ithome.com/0/994/702.htm",
-      "summary": "\nIT之家 8 月 26 日消息，据博主 @电动扒士 分享，在 2026 成都车展期间，尚界汽车总经理祝勇在接受媒体采访时，谈及了尚界品牌的规划与发展。\n\n祝勇表示，上汽和华为合作是战略性的长期合作，尚界立足于全生态的创新。对于上汽而言，是全力 All in 尚界品牌的。上汽投入了 5000 人的团队，并且还已经投入了 60 亿的投资。\n他还透露，今年还追加了 10 个亿的投资，主要用于上海浦东的...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-26 10:38:07",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/d013b066-c3d2-49b1-b57b-e09c970cbca1.png"
-    },
-    {
-      "title": "顺丰回应“月薪 15% 划为季度绩效”调整：非降薪，旨在完善员工激励机制、不涉及一二线员工",
-      "link": "https://www.ithome.com/0/994/701.htm",
-      "summary": "\n8 月 26 日下午消息，近日，有多位顺丰员工在社交平台发文称，收到公司邮件通知调整薪酬结构，将固定月薪的 15% 划为季度绩效。有员工认为是“变相降薪”、“付押金上班”。\n对此调整，顺丰官方回应称，集团本次薪酬结构优化调整并非降薪，旨在持续完善员工激励机制，实现业绩与员工收益协同发展，调整后公司整体薪酬支出将略有增加。此次调整是将年度现金薪酬的 15% 拆分作为季度考核基数，调整后将会有 10...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-26 10:34:31",
       "category": "other",
       "thumbnail": ""
     },
@@ -320,17 +650,6 @@
       "pubDate": "2026-08-26 10:04:52",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Ikea’s Xbox collection includes a giant thumbstick stool",
-      "link": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
-      "summary": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby c...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-26 10:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ikea-Xbox-Yxstaby-collection.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range",
@@ -407,7 +726,7 @@
       "region": "us",
       "pubDate": "2026-08-26 09:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=840"
+      "thumbnail": ""
     },
     {
       "title": "AI models flub these intelligence tests. Can you fare any better?",
@@ -439,17 +758,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-08-26 07:01:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
-      "link": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
-      "summary": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-26 07:00:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -509,39 +817,6 @@
       "thumbnail": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg"
     },
     {
-      "title": "Google Workspace Promo Codes: 14% Off for August 2026",
-      "link": "https://www.wired.com/story/google-workspace-promo-code/",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-26 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png"
-    },
-    {
-      "title": "Surfshark Promo Codes: 87% Off | August 2026",
-      "link": "https://www.wired.com/story/surfshark-coupon/",
-      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-26 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg"
-    },
-    {
-      "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
-      "link": "https://www.wired.com/story/nomad-discount-code/",
-      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in August 2026....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-26 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg"
-    },
-    {
       "title": "扎心：Anthropic 最贵的模型，企业几乎不用",
       "link": "https://www.oschina.net/news/502129",
       "summary": "《金融时报》拿到了一份数据，然后提了一个让 Anthropic 在 IPO 之前很难堪的问题：你的最强模型到底有没有人用？ 根据支付服务集团 Ramp 收集的 7 万家公司支出数据，Anthropic 最贵的模型 Fable 5 发布两个多月后，企业支出占比仅稳定在 11% 左右。旧款、更便宜的模型吃掉了其余 89%。 这不是小样本。7 万家公司的支出......",
@@ -561,17 +836,6 @@
       "region": "cn",
       "pubDate": "2026-08-26 03:56:25",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-26 03:30:00",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -608,17 +872,6 @@
       "thumbnail": ""
     },
     {
-      "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
-      "link": "https://www.qbitai.com/2026/08/479320.html",
-      "summary": "不和老黄商量...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-26 01:24:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "gtk-zlang v0.7.14.0发布，基于 zlang 编程语言的 GTK 封装包装库",
       "link": "https://www.oschina.net/news/502127",
       "summary": "目录 一、gtk-zlang简介 二、更新日志 一、gtk-zlang介绍 gtk-zlang是基于zlang编程语言的GTK封装包装库，打造跨平台的开源GUI技术栈，让开发者快速开发跨平台的桌面应用软件。 二、底层优势 zlang编程语言是一门原创自研、支持中文编程、融合和创新语法设计并保持简洁高效、开箱即用、跨平台+高性能的编程语言； GTK是一......",
@@ -641,28 +894,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-26 00:40:59",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-26 00:06:20",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
       "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
       "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely....",
@@ -672,28 +903,6 @@
       "pubDate": "2026-08-25 22:21:06",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/f9_streak1-500x500.jpg"
-    },
-    {
-      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
-      "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
-      "summary": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predec...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-25 22:20:17",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/garmin-fenix-9.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Trump is upping the price of Big Tech’s favorite visa",
-      "link": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
-      "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans o...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-25 21:45:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257976_h1b_visa_chaos__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Addressing a sticking point in sustainable adhesives",
@@ -773,61 +982,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-500x500.jpg"
     },
     {
-      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-      "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-25 20:44:12",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "At just $8, you owe it to yourself to grab Inscryption",
-      "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-      "summary": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-25 20:38:37",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The Witcher 3 is getting a remaster",
-      "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
-      "summary": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered w...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-25 20:24:24",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/3-2.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-      "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-      "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have mu...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-25 19:22:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "summary": "The company's new fundraising total now stands at $232 million....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-25 19:03:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Preserving glow-in-the-dark art and fashion for future generations",
       "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
       "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition....",
@@ -837,17 +991,6 @@
       "pubDate": "2026-08-25 18:59:12",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glowindark3-500x500.jpg"
-    },
-    {
-      "title": "Dreame’s dream of a rocket-powered car is dead",
-      "link": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
-      "summary": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChin...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-25 18:52:53",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268500_Dreame_NEXT_2026_KMcClellan_0065.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
@@ -861,83 +1004,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motion-Assist-Pixel-11-500x500.jpg"
     },
     {
-      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
-      "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
-      "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-25 18:26:55",
-      "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit ",
-      "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-      "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-25 18:22:50",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Take a look at Microsoft’s new 25th anniversary Halo accessories",
-      "link": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
-      "summary": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almos...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-25 18:16:29",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/xbox-25th-anniversary-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-25 18:01:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
-      "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
-      "summary": "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-08-25 17:39:38",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-500x500.jpg"
-    },
-    {
-      "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
-      "link": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
-      "summary": "Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-25 17:39:20",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Bose-Soundlink-Micro-Gen2-roundup.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
-      "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
-      "summary": "\"This will be a project like no other.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-08-25 17:26:15",
-      "category": "space",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-500x500.jpg"
-    },
-    {
       "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
       "link": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
       "summary": "\nA CISO who sees a low CVE count and deprioritizes prompt injection is reading the scoreboard wrong. Prompt injection has held the No. 1 spot on the OWASP Top 10 for LLM Applications for three consecu...",
@@ -947,50 +1013,6 @@
       "pubDate": "2026-08-25 17:24:22",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-      "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-      "summary": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red t...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-25 17:20:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-      "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-      "summary": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and p...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-08-25 17:12:31",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/insta-first-draft.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Lab supply companies have been selling antibodies using manipulated images",
-      "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
-      "summary": "Image changes that would get a paper retracted are widespread among suppliers....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-08-25 16:16:57",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1184711342-500x500.jpg"
-    },
-    {
-      "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
-      "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
-      "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-08-25 16:04:37",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/quest1-500x500.png"
     },
     {
       "title": "告别背命令：Pragmatic AI Shell 把自然语言带进日常终端操作",
@@ -1044,28 +1066,6 @@
       "sourceKey": "venturebeat",
       "region": "us",
       "pubDate": "2026-08-23 23:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
-      "link": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
-      "summary": "\nFor much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-22 21:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
-      "link": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
-      "summary": "\nWhen an agentic AI system hands a task from a small model to a larger one — or back down again — it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, drivin...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
-      "region": "us",
-      "pubDate": "2026-08-21 16:33:56",
       "category": "ai",
       "thumbnail": ""
     }
