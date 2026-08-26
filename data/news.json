@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-26T05:39:18.367Z",
+  "updateTime": "2026-08-26T06:58:31.472Z",
   "total": 107,
   "news": [
     {
@@ -223,6 +223,28 @@
       "thumbnail": ""
     },
     {
+      "title": "扎心：Anthropic 最贵的模型，企业几乎不用",
+      "link": "https://www.oschina.net/news/502129",
+      "summary": "《金融时报》拿到了一份数据，然后提了一个让 Anthropic 在 IPO 之前很难堪的问题：你的最强模型到底有没有人用？ 根据支付服务集团 Ramp 收集的 7 万家公司支出数据，Anthropic 最贵的模型 Fable 5 发布两个多月后，企业支出占比仅稳定在 11% 左右。旧款、更便宜的模型吃掉了其余 89%。 这不是小样本。7 万家公司的支出......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-26 04:03:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苦等四年，JPEG XL 终于要进 Mozilla 和 Chrome 浏览器了",
+      "link": "https://www.oschina.net/news/502128",
+      "summary": "Mozilla 和 Google 在同一天发出了 intent to ship。Firefox 157 和 Chrome 将默认启用 JPEG XL 解码支持。对 Web 开发者来说，这是四年来最好的图像格式新闻。 “Intent to Ship” 是 Web 标准开发流程的重要环节，特指浏览器引擎在发布新 CSS/HTML 特性前的公开声明阶段。旨在征求社区反馈、评估兼容性风险，避免破坏 ......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-26 03:56:25",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
       "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
       "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension....",
@@ -385,6 +407,28 @@
       "region": "cn",
       "pubDate": "2026-08-26 01:24:47",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "gtk-zlang v0.7.14.0发布，基于 zlang 编程语言的 GTK 封装包装库",
+      "link": "https://www.oschina.net/news/502127",
+      "summary": "目录 一、gtk-zlang简介 二、更新日志 一、gtk-zlang介绍 gtk-zlang是基于zlang编程语言的GTK封装包装库，打造跨平台的开源GUI技术栈，让开发者快速开发跨平台的桌面应用软件。 二、底层优势 zlang编程语言是一门原创自研、支持中文编程、融合和创新语法设计并保持简洁高效、开箱即用、跨平台+高性能的编程语言； GTK是一......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-26 01:14:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "zlang v0.12.2.0 发布，支持中文编程、支持Web开发/桌面应用开发的国产全自研编程语言",
+      "link": "https://www.oschina.net/news/502126",
+      "summary": "目录 一、zlang简介 二、更新日志 三、技术专栏 3.1. 《zlang不需要getter、setter八股文》 3.2. 《构造和解析二进制数据包》 zlang是一门完全国产自研的、追求干净观感的、基于对象克隆、支持中文编程的编程语言： 完全从底层开始编写，语言引擎（词法 / 语法分析等）、对象库等均未基于 / 采用任何已有语言进行改造、包......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-26 01:09:20",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -817,6 +861,39 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280376449-500x500.jpg"
     },
     {
+      "title": "告别背命令：Pragmatic AI Shell 把自然语言带进日常终端操作",
+      "link": "https://www.oschina.net/news/502123",
+      "summary": "用自然语言驱动终端，Pragmatic AI Shell 让运维排障\"说话就行\" 还在为记不住 lsof、awk、find 的参数写法头疼？还在 ps + netstat + 文档之间来回切换？Pragmatic AI Shell（smartcli） 试图改变这一切——你只需要用自然语言描述意图，它替你生成命令，安全过滤后确认执行，全程可审计。 一句话介绍 你说人话，它出命令......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-25 13:53:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "让经典回归：极点五笔在 openKylin 3.0的新生",
+      "link": "https://www.oschina.net/news/502122",
+      "summary": "很多使用五笔输入的小伙伴都绕不开一个名字：极点五笔。它曾是中文输入的效率神器，也是一代人的共同记忆。 现在，这份记忆有了新去处——极点五笔输入法 4.0 完成全新重构，已上架 OpenAtom openKylin（简称“openKylin”） 软件商店，同时兼容支持 fcitx5、fcitx4 和 ibus 输入法框架。 对老用户：编码规则、输入习惯都......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-25 13:30:14",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "MemOS Skill 上线｜一句话即可接入 MemOS Cloud",
+      "link": "https://www.oschina.net/news/502121",
+      "summary": "Agent 已经不只是聊天窗口了，它们在 IDE 里改代码，在终端里跑命令，在办公流里处理文档，也开始替大家连接插件、调用工具、串起自动化流程。 为了帮助开发者在 Claude Code、Cursor 等 Agent 开发工具中更快接入 MemOS Cloud，我们上线了 MemOS Skill。 我们希望，只需一句提示词，即可让 Agent 自动通过 MemOS Skill ......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-25 13:16:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "Apple's new desktop computers are designed specifically for local AI development",
       "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
       "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind....",
@@ -938,28 +1015,6 @@
       "thumbnail": ""
     },
     {
-      "title": "deepin 电脑管家正式上线，一键守护你的系统安全！",
-      "link": "https://www.oschina.net/news/502113",
-      "summary": "电脑怎么又卡了…… 这破网络到底咋回事？ 我的硬盘空间怎么又红了？ …… 大家遇到系统问题，要么硬着头皮去终端里敲命令，要么翻论坛找教程贴，一顿操作猛如虎，问题却未必能解决。 我们一直都在思考一个问题：有没有一个工具，能让deepin 系统的日常维护变得像手机管家一样简单？答案是：有！ 现在我们正式向大家宣布......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 05:46:15",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "qData数据中台专业版V2.6.0发布：血缘全链路再升级，在线接口测试与帮助中心正式上线",
-      "link": "https://www.oschina.net/news/502112",
-      "summary": "qData数据中台专业版V2.6.0围绕数据血缘、数据集成、数据开发、数据服务、整库同步、数据连接等核心能力进行调整，同时新增在线接口测试、数据源诊断和帮助中心，扩展多类数据源适配，并进一步优化任务日志、作业管理、数据标准及全局交互能力。 从“能接、能算、能用”，进一步走向可追踪、可调试、可排查 企业数据中台......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 05:36:32",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
       "link": "https://www.qbitai.com/2026/08/478996.html",
       "summary": "下一代Agent天然会走向云端和更大规模的计算资源...",
@@ -979,61 +1034,6 @@
       "region": "cn",
       "pubDate": "2026-08-25 05:15:23",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "qData 开源版 v1.6.1 发布：数据集成和数据开发日志持续优化，任务执行更清晰",
-      "link": "https://www.oschina.net/news/502111",
-      "summary": "qData数据中台开源版V1.6.1围绕数据接入、基础数据处理、任务运行查看和部署体验进行了一轮完善，主要包括：DataX新增Excel、CSV组件，新增9种基础清洗规则，升级数据集成与数据开发日志展示，并新增SH、BAT一键部署脚本，同时调整标准数据元及部分页面交互。 从“把任务配置出来”，到把接入、处理、运行和部署链路补得......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 03:56:08",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "qKnow开源版v2.4.1发布：非结构化抽取逻辑优化，打造更丝滑的知识治理体验",
-      "link": "https://www.oschina.net/news/502110",
-      "summary": "qKnow智能体构建平台开源版v2.4.1围绕非结构化抽取与知识文档解析逻辑进行优化，重点处理单个抽取任务失败影响其他任务、空白文档解析报错，以及批量解析过程中单个文件失败导致整批任务失败等问题，进一步提升知识文件处理过程中的稳定性与容错能力。 从“能够解析文档”，到让批量知识处理更稳定 对于企业智能体构建平......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 03:52:41",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": ":fire::fire: API 智能管理平台 6.0 发布",
-      "link": "https://www.oschina.net/news/502109",
-      "summary": "ApiGo（www.apigo.cn） 是一款基于 AI 技术的企业级低代码 API 开发与治理平台。 通过 AI 办公智能体使用自然语言对话即可将数据变成标准 REST API， 实现从设计、开发到运维的全生命周期AI智能化管理。支持WorkBuddy、千问办公、Trea Work、豆包等AI办公平台MCP接入。平台内置支持多数据源（mysql、oracle 、postgresq......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 03:47:57",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "天工机器人捂脸跑夺冠，团队：没找人教，它自己决定的",
-      "link": "https://www.oschina.net/news/502105",
-      "summary": "第二届世界人形机器人运动会 400 米（小型组）决赛，天工 Omni 以 45.66 秒的成绩夺冠。但让它出圈的，是那个捂脸狂奔的跑姿——网友说\"神似章若楠\"。 面对\"是不是找个了小姑娘去模仿\"的猜测，天工 Omni 400 米小型组研发团队负责人、运动控制算法专家韩刚用一句话让讨论换了方向：都是强化学习自己迭代出来的。 \"一开始......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 02:29:25",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "【AI 报表】JimuReport v2.5.1 版本发布，免费开源的 AI 报表工具",
-      "link": "https://www.oschina.net/news/502104",
-      "summary": "项目介绍 真正的 AI 报表来了，一句话描述需求，AI 自动生成报表与数据大屏，支持对话式修改报表；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景 :sparkles: 积木报表是一款免费的数据可视化报表工具，集报表、打印、大屏、仪表盘于一体，像搭积木一样完全在线设计。分两大模块：JimuRep......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-25 01:48:16",
-      "category": "ai",
       "thumbnail": ""
     },
     {
