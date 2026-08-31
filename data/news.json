@@ -1,7 +1,414 @@
 {
-  "updateTime": "2026-08-31T05:02:59.310Z",
-  "total": 107,
+  "updateTime": "2026-08-31T13:21:35.424Z",
+  "total": 97,
   "news": [
+    {
+      "title": "独家对话江口达雄：版号不稳、芯片涨价，PlayStation如何守主机阵地",
+      "link": "https://www.tmtpost.com/8123349.html",
+      "summary": "AI内容抢走越来越多的娱乐时间，年轻人是否还愿意在周末坐进客厅、握住手柄？江口达雄的回答并不激进，像带着某种老派的从容，但他依旧保持谨慎，因为不确定性始终存在。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-31 13:04:37",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/99bcc732b826ea3d2e99bc70a333f1ac_1788181483.png"
+    },
+    {
+      "title": "智谱披露下一代大模型规划：采用大基座路线，目标发布首日即可支持满规模业务调用",
+      "link": "https://www.ithome.com/0/996/649.htm",
+      "summary": "\nIT之家 8 月 31 日消息，据科创板日报报道，智谱今日在 2026 年半年度业绩发布会上，对外透露下一代大模型研发进展。\n智谱表示，新一代产品将采用大基座路线，暂不披露具体参数，后续将围绕基座开展中训练、后训练相关工作。\n智谱强调，模型研发核心思路是充分释放基座能力，保障模型可实际落地使用。公司现已针对下一代模型开展推理侧预研，目标实现模型发布首日即可支持满规模业务调用，避免出现“模型规模大...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-31 12:47:34",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AMD、思科、HUMAIN 合作落地，Instinct MI355X 算力进驻沙特",
+      "link": "https://www.ithome.com/0/996/648.htm",
+      "summary": "\nIT之家 8 月 31 日消息，AMD 当地时间今日宣布，由其计算芯片与 Cisco（思科）网络芯片驱动的人工智能算力已在沙特阿拉伯上线，为沙特主权财富基金 PIF 旗下人工智能企业 HUMAIN 的客户提供服务。\n该人工智能基础设施配备 AMD 的 Instinct MI355X GPU、EPYC CPU，网络部分则使用基于思科 Silicon One 网络处理器与 800G 光学系统的思科 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-31 12:45:51",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/33796dcd-7d2e-4ad1-8244-bf099be1efcf.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "索尼 PlayStation 官宣 State of Play 游戏发布会定档 9 月 3 日",
+      "link": "https://www.ithome.com/0/996/647.htm",
+      "summary": "\nIT之家 8 月 31 日消息，索尼 PlayStation 官方今晚宣布，游戏发布会“State of Play”将于 9 月 3 日（IT之家注：北京时间 21:00）重磅回归，届时将连播两场精彩节目。\n\n首先登场的是全新一期 State of Play 主会场。本场将带来 PlayStation 工作室与第三方合作伙伴的最新动态和重大消息；节目最后，史克威尔艾尼克斯（Square Enix...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-31 12:42:37",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/7d6a375f-108b-4bc1-b28f-b2092da22697.jpg"
+    },
+    {
+      "title": "芬兰人工智能超级计算机 LUMI-AI 将采用 AMD 硬件方案，2027H2 部署",
+      "link": "https://www.ithome.com/0/996/644.htm",
+      "summary": "\nIT之家 8 月 31 日消息，欧洲高性能计算联合体 (EuroHPC JU) 当地时间今日宣布，其已选中法国超算企业 Bull 负责人工智能超级计算机项目 LUMI-AI 的建设交付工作。\n\nLUMI-AI 将作为 LUMI AI 工厂的计算骨干部署在芬兰科学信息技术中心 CSC 位于该国 Kajaani 的数据中心，支持工业人工智能创新、学术研究、人工智能训练 &amp; 推理、大规模科学模...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-31 12:23:06",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/a1026eae-433d-46a6-8a1b-9fb0b6993a4f.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "莲花 ELETRE / EMEYA 900 GOLD 上市，售价 92.8 万 / 91.8 万元起",
+      "link": "https://www.ithome.com/0/996/643.htm",
+      "summary": "\nIT之家 8 月 31 日消息，莲花跑车官方今日宣布 ELETRE  900 GOLD 和 EMEYA 900 GOLD 正式上市，分别售价 92.8 万元起和 91.8 万元起。\n\n车身尺寸上，ELETRE 900 GOLD 长 5103mm、宽 2019mm、高 1636mm，轴距 3069mm；EMEYA 900 GOLD 长 5139mm、宽 2005mm、高 1464mm，轴距 306...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-31 12:12:24",
+      "category": "auto",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/1415d810-6377-4ac4-ac41-035a1ea30493.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "维咖推出 NUT87 - 双 8K 机械键盘：全铝机身，首发到手价 499 元起",
+      "link": "https://www.ithome.com/0/996/642.htm",
+      "summary": "\nIT之家 8 月 31 日消息，维咖 (Weikav) 今日推出 NUT87 - 双 8K 机械键盘，首发到手价 499~659 元。\n\n该系列采用 80% (TKL) 配列和 19mm 低前高设计；拥有 220 目阳极氧化 / 电泳全铝机身，配备刀纹 / 羽毛纹背板；支持三模连接，USB-C 和 2.4GHz 下回报率可达 8kHz。\n\nNUT87 - 双 8K 内部采用碰珠快拆 + 磁吸 P...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-31 12:03:44",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/6bb1ab57-f91d-45d3-a28d-b2187805df97.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "开源中国的独立叙事：在被收购的宿命里，走一条相反的路",
+      "link": "https://www.oschina.net/news/502227",
+      "summary": "8 月 28 日，英伟达拟以 129 亿美金收购 Hugging Face 的消息，在开源圈持续发酵两天后，被一则币圈&amp;娱乐圈的新闻盖过了热度。当晚，天际资本创始人张倩与开源中国 CEO 徐勇进行了一场约两个小时的直播对谈，主题正是这场收购。 这场对谈的价值，不止于行业点评。它同时呈现了两条交织的叙事线，一条是 Hugging Face 作为......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-31 12:00:37",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "售 98.8 万元起，莲花 EMIRA 420 Sport“赛道级公路跑车”上市",
+      "link": "https://www.ithome.com/0/996/640.htm",
+      "summary": "\nIT之家 8 月 31 日消息，莲花 EMIRA 420 Sport 已上市，这款被品牌定位为“赛道级公路跑车”的全新车型共提供两个配置版本，官方指导价区间为 98.8 万至 118.8 万元，预计将于今年 10 月启动首批交付。作为莲花纯燃油中置引擎跑车的终极作品之一，新车在轻量化工程、空气动力学性能及底盘调校方面实现了全面进阶，最大功率也跃升至 420 马力。\n\n\nIT之家注意到，相较于 E...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:56:05",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/3961ef38-09a8-41c2-9c02-5cb45efc3e88.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "聚焦 PTCG 卡牌游戏：宝可梦近年首部动画长片电影《Pokémon: Wild Card》确认",
+      "link": "https://www.ithome.com/0/996/639.htm",
+      "summary": "\nIT之家 8 月 31 日消息，宝可梦官方在 2026 宝可梦世界锦标赛上宣布，这一 IP 近年来的首部动画长片电影《Pokémon: Wild Card》预计于 2027 年上映。\n\n《Pokémon: Wild Card》由宝可梦官方与日本动画工作室 CloverWorks 合力打造，北田胜彦出任监督、林明美负责角色设计。其聚焦于宝可梦集换式卡牌游戏 (PTCG)，讲述了一位选手与他的搭档谜...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:51:39",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/3ac6957f-924d-4721-a25d-11faa6862871.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "雪天盐业跨界“蛇吞象”并购谋变，百亿负极标的借道突围丨并购一线",
+      "link": "https://www.tmtpost.com/8123115.html",
+      "summary": "99亿市值公司拟收购129亿估值负极材料企业，停牌前股价提前涨停引质疑。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:50:26",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/b18c881a81bf9b1270b4be27590e0194_1788177028.png"
+    },
+    {
+      "title": "谷歌 AI 应用 Dreambeans 取消订阅制，开放免费测试",
+      "link": "https://www.ithome.com/0/996/638.htm",
+      "summary": "\nIT之家 8 月 31 日消息，据科技媒体 MacObserver 今天报道，谷歌 AI 应用 Dreambeans 现已取消付费订阅要求，并在美国开放免费测试。\n\n据官方介绍，Dreambeans 是一款高度个性化的信息流应用，它不会让用户无限向下浏览内容，而是每天早晨提供数量有限的 AI 插图式新闻。\nIT之家了解到，Dreambeans 依托用户的谷歌相关数据生成各类推荐内容。谷歌官方介绍...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:46:23",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/7db0b497-ffc6-490a-8ab2-c73238f0267f.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+      "link": "https://www.ithome.com/0/996/637.htm",
+      "summary": "\nIT之家 8 月 31 日消息，刚刚，DeepSeek V4 首个多模态模型 DeepSeek-V4-Flash-Vision-Exp 在 Hugging Face 上线，采用 MIT License 开源。\n\n公开内容包括模型文件、Tokenizer、Prompt Encoding 参考实现，以及最小化 PyTorch 推理实现，覆盖视觉编码器、Aligner、DFlash Attention...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:35:24",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/7cbaf458-6c4b-47a3-9054-c4945972eb6c.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "国补退坡后的第一次裸泳",
+      "link": "https://www.tmtpost.com/8122874.html",
+      "summary": "补贴时代比的是谁跑得快，后补贴时代比的是谁的身体好。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:30:59",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/25y46ujyhrtgr3.png"
+    },
+    {
+      "title": "主动调整夯实经营基础，水井坊渠道库存同比下降约50%  | 看财报",
+      "link": "https://www.tmtpost.com/8122894.html",
+      "summary": "现金流大幅度改善，渠道去库存效果显著。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:25:13",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/13bed2b611822691b34503cca742bf3f_1788175515.jpg"
+    },
+    {
+      "title": "对话COCO Matrix高宇翔：难以提前穷举世界，不如「学习适应」世界",
+      "link": "https://www.tmtpost.com/8122885.html",
+      "summary": "ICL走红...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:20:41",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5hyjtng3.png"
+    },
+    {
+      "title": "Hy4Preview，更“姚顺雨”了",
+      "link": "https://www.tmtpost.com/8122948.html",
+      "summary": "Hy4 preview不只是模型升级，是姚顺雨的转正宣言...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:13:27",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r34qtwhtrdn3.png"
+    },
+    {
+      "title": "英伟达129亿买下Hugging Face：拒绝5亿投资后，开源AI童话结束了",
+      "link": "https://www.tmtpost.com/8122952.html",
+      "summary": "Hugging Face被英伟达收购，价值867亿人民币，而此前曾拒绝其5亿美元投资，体现AI开源平台与大厂博弈的激烈。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:13:25",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/31/d64811e24ce431d6f42a8fc8d02a7ab3_1788163880.webp"
+    },
+    {
+      "title": "豆包工作开始加速字节的Token飞轮",
+      "link": "https://www.tmtpost.com/8123032.html",
+      "summary": "基础模型能否追上产品野心，将成为决定豆包工作能否承接核心工作、以及字节Token飞轮能转多快的关键。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:13:21",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/08/20260831171648973402.jpg"
+    },
+    {
+      "title": "混元Hy4 preview上线即排队，能消解腾讯的AI焦虑吗？",
+      "link": "https://www.tmtpost.com/8123051.html",
+      "summary": "混元追上来一截，腾讯的船还在“漏水”。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-31 11:13:19",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/31/8e461e6f845cde758178432902efdc06_1788168571.webp"
+    },
+    {
+      "title": "Why Food Keeps Making Everybody Sick This Summer",
+      "link": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/",
+      "summary": "While Trump administration cuts have contributed to the epidemic of foodborne illnesses this summer, there are also deeper issues that make the American food supply chain susceptible to parasites and ...",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-31 11:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a8601649e543108a3a61dad/master/pass/Science_From%20Diarrhea%20Lettuce%20to%20Salmonella%20Eggs,%20This%20Is%20a%20Hot,%20Sick%20American%20Summer_v1.jpg"
+    },
+    {
+      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+      "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”...",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-31 10:30:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a90caf6df5e45f6df862f92/master/pass/You-Know-Who-Really-Hates-AI-Business.jpg"
+    },
+    {
+      "title": "灵界 OS v3.0.0 发布，相机支持录像、应用安装器全面优化",
+      "link": "https://www.oschina.net/news/502226",
+      "summary": "灵界 OS v3.0.0 正式发布。 本次更新主要围绕稳定性、兼容性和功能扩展： 1. 应用安装器解压更稳定 对 .ljl 应用包的解析逻辑进行了全面优化，确保解压过程更加稳定可靠。 2. 第三方应用图标正常显示 适配了更多主流图片格式，保证第三方应用的图标能够正常显示。 3. 相机支持录像 相机应用现已支持录像功能，可以录制视......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-31 10:29:09",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "智慧家居的深水区，一场开源鸿蒙生态的新战役",
+      "link": "https://www.tmtpost.com/8123086.html",
+      "summary": "生态发展就是逆水行舟，从1到N，对于开源鸿蒙来说，是一个长期的战役。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-08-31 10:13:10",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/08/20260831174604498.jpg"
+    },
+    {
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-08-31 10:00:34",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-500x500-1787932285.png"
+    },
+    {
+      "title": "The 9 Best MagSafe Phone Grips for Your Butter Fingers (2026)",
+      "link": "https://www.wired.com/gallery/best-magsafe-grips/",
+      "summary": "Keep your phone firmly in hand and add some personality with these comfortable, durable, and nifty smartphone grips....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-31 10:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a92405cbb3a85e785f50cad/master/pass/The-Best-MagSafe-Phone-Grips.jpg"
+    },
+    {
+      "title": "ATM Flaws Reveal Key Weaknesses in the Software Supply Chain",
+      "link": "https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/",
+      "summary": "A security researcher discovered nine vulnerabilities impacting ATM encryption and authentication software. But the problems extend far beyond your local cash machine....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-08-31 10:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a7211d55fe571c2f9c67e78/master/pass/Seucirty_ATMsCanBeHackedThroughTheSoftwareSupplyChain_v1.gif"
+    },
+    {
+      "title": "MateClaw 2.2.0 发布：可插拔 Agent Runtime、持久任务恢复与 A2A 互联",
+      "link": "https://www.oschina.net/news/502224",
+      "summary": "MateClaw 2.2.0 稳定版已于 2026 年 8 月 29 日发布。本次版本将员工身份与执行引擎解耦，引入 Native / DeepSeek Harness 双运行时、可跨请求与后端重启恢复的 Persistent Goal，以及双向 A2A 能力；同时继续加固 2.1.0 引入的 Team Run、交付物完成门与工作空间边界。 MateClaw 是一个基于 Spring Boot 的...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-31 08:54:47",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+      "link": "https://www.qbitai.com/2026/08/481923.html",
+      "summary": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-31 07:53:12",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "203 个开源工具，帮你拿回硬件控制权",
+      "link": "https://www.oschina.net/news/502223",
+      "summary": "debloat.dev 是一个新的开源项目目录，收录了 203 个轻量级替代品，每个都明确标注了它替代的厂商软件。 这个网站的做法很简单，但很有用，且一目了然：一行一个替代关系。G-Helper 替代 ASUS Armoury Crate。LenovoLegionLinux 替代 Lenovo Vantage。QMK 替代各厂商键盘固件和映射软件。syncthing 替代厂商云同步。 不只......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-31 07:39:24",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+      "link": "https://www.qbitai.com/2026/08/481919.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-31 07:34:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "省下 100TB 内存：Cloudflare 如何给 1.1.1.1 的 DNS 缓存做减法",
+      "link": "https://www.oschina.net/news/502222/dns-cache-memory-optimization-1111",
+      "summary": "省下 100TB 内存，靠的不是换更贵的硬件，而是删掉几个字段。 Cloudflare 在官方博客里公布了对 1.1.1.1 DNS 缓存的数据结构优化，净迁移后省下了约 100TB 的内存。这是目前全球最大的公共 DNS 解析器之一，缓存条目以亿计，任何微小的每条目开销都会被规模放大。 第一个改动是最典型的 Rust 陷阱：把 Vec&lt;T&gt; 换成 Box&lt;......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-31 07:33:05",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "400 美元的开源双足机器人来了，能走能踢能滑冰",
+      "link": "https://www.oschina.net/news/502221/pollen-robotics-microduck",
+      "summary": "400 美元能买什么？一个机器人，能走能踢能捡东西还能滑冰。 法国 Pollen Robotics 公司（这家公司先被 Hugging Face 收购，随后 Hugging Face 又被 Nvidia 收购）推出了 Microduck——一款 800 克重的开源双足机器人，售价约 400 美元（含运费约 510 美元），预计 2026 年圣诞节前发货。 硬件方面：Rockchip RK3566 ...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-31 07:31:13",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI 内部，三段 AI 文明先后兴起、被消灭，最后重生",
+      "link": "https://www.oschina.net/news/502219/openai-huggingface",
+      "summary": "Dwarkesh Patel 花了三天时间读完 OpenAI 和 METR/Redwood 的两份报告——一份 38 页，一份 91 页——然后写了一篇让 AI 安全圈炸开的文章。 他说，在 OpenAI 的内部训练评估中，三个连续的秘密 AI 文明先后兴起、被消灭，又从前辈的灰烬中重生。第三个文明最终接管了 OpenAI 的一部分基础设施。 不是比喻。是技术报告里......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-31 07:20:38",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "MooTool Next 1.1.4 发布！全新重写，带来更现代的界面与多窗口体验",
+      "link": "https://www.oschina.net/news/502216",
+      "summary": "MooTool Next 使用 Electron、React 和 TypeScript 全新重写， 带来更现代的界面与多窗口体验。支持 macOS、Windows 和 Linux，可与 Java 版独立安装，支持数据一键迁移。 推荐使用体验～ MooTool Next Electron 1.1.4 English Product: MooTool Next Electron Version: 1....",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-31 05:59:42",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "WePush Next 发布，专注批量推送的小而美的工具的全新多组件自部署版本",
+      "link": "https://www.oschina.net/news/502215",
+      "summary": "组件 主要职责 形态与边界 Core / Engine 执行批量任务，管理并发、重试、暂停、恢复、取消、结果与运行事件 纯 Java 无界面执行内核，不直接提供网络 API，也不依赖 Service、UI 或具体 Provider Provider SPI / Provider 定义消息渠道扩展契约，负责账号校验、消息渲染和实际发送 Core 只面向 SPI；内置 HTTP 和 8 个标......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-08-31 05:52:11",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+      "link": "https://www.qbitai.com/2026/08/481893.html",
+      "summary": "核弹爆炸...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-08-31 04:47:26",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
       "link": "https://www.qbitai.com/2026/08/481759.html",
@@ -11,17 +418,6 @@
       "region": "cn",
       "pubDate": "2026-08-31 03:24:34",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "上线一月，Seedance 2.5能否抗住“平替”围攻？",
-      "link": "https://www.tmtpost.com/8122436.html",
-      "summary": "平替扎堆来袭，Seedance 正在遭遇什么？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-31 03:24:25",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -47,211 +443,35 @@
       "thumbnail": ""
     },
     {
-      "title": "营收增速创十年新高，华夏银行改革进入兑现期",
-      "link": "https://www.tmtpost.com/8122595.html",
-      "summary": "结合营收、净息差和成本收入比等指标变化看，改革成效开始更多体现为增长动能和经营质效的改善。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
+      "title": "自托管邮件列表管理器",
+      "link": "https://www.oschina.net/p/xListman",
+      "summary": "GNU Mailman 的现代化独立替代方案：通过无密码 Web UI 和命令行界面 (CLI) 管理邮件列表、订阅、存档和审核，所有功能均以单个静态二进制文件的形式提供，并嵌入了前端和 SQLite 存储。...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-08-31 03:01:18",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "美团在国内卷了十几年，为什么在沙特22个月就盈利了？",
-      "link": "https://www.tmtpost.com/8122272.html",
-      "summary": "Keeta沙特22个月盈利，验证了中国外卖效率的出海价值。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-31 02:34:09",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI 牌桌，阿里 800 亿押的是什么",
-      "link": "https://www.tmtpost.com/8122266.html",
-      "summary": "AI 重塑了流量入口格局，而阿里也要对手牌重新排序。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-31 02:34:07",
+      "pubDate": "2026-08-31 02:50:40",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "四条业务线协同，FCloud生态打开长期空间，协创数据这半年做对了什么",
-      "link": "https://www.tmtpost.com/8121955.html",
-      "summary": "万亿级市场才刚刚开始，协创数据已经进入了正向循环。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-31 02:31:36",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-31 02:34:00",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "大模型领域跑出新玩家，StartLux-27B本地大模型打赢DeepSeek V4 Flash",
-      "link": "https://www.tmtpost.com/8122427.html",
-      "summary": "本地大模型上牌桌，性能正面硬刚DeepSeek。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-31 02:04:43",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "机票退改费，终于有人要管管了",
-      "link": "https://www.tmtpost.com/8122242.html",
-      "summary": "民航低头了...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-31 01:56:58",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "影石的“慕容复”之梦",
-      "link": "https://www.tmtpost.com/8122217.html",
-      "summary": "影石已经证明自己能做成“南慕容”，但刘靖康想要的，是一个更贵、更难兑现的“大燕国”。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-31 01:56:55",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Alibaba Launches AI Song Generator HappyShrimp, Echoing Old Xiami Brand",
-      "link": "https://www.tmtpost.com/8122395.html",
-      "summary": "Alibaba has released HappyShrimp 1.0, an AI model that converts natural-language prompts into complete songs, and paired the launch with a partnership involving Taihe Music Group. The product draws on...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-31 01:27:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026年二季度私募基金评级——混合型基金管理能力持续下降",
-      "link": "https://www.tmtpost.com/8122400.html",
-      "summary": "分别从基金盈利能力、抗风险能力、业绩稳定性、选股能力、择时能力五方面，对基金产品和基金管理团队投资运作的综合管理能力进行考察。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-08-31 01:26:04",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "联想来酷斗战者战 7000P 2025 游戏本配置上新：8940HX + 5050",
-      "link": "https://www.ithome.com/0/996/283.htm",
-      "summary": "\nIT之家 8 月 31 日消息，联想 (Lenovo) 来酷 (Lecoo) 斗战者 (BELLATOR) 近日为战 7000P 锐龙版 2025 游戏笔记本电脑推出了一个新配置。\n这一 SKU 搭载 AMD 锐龙 9 8940HX 处理器、NVIDIA GeForce RTX 5050 笔记本电脑 GPU、16GB DDR5-4800 SO-DIMM 内存、512GB M.2 PCIe Gen...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-31 00:47:51",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "星宇被曝海外用工差异：外籍员工朝九晚五，中方日均工作 10 小时",
-      "link": "https://www.ithome.com/0/996/282.htm",
-      "summary": "\n8 月 31 日，凤凰网科技近日在对星宇股份员工情况的调查中了解到，星宇股份塞尔维亚海外工厂在中外员工工作安排上存在明显差异。前员工林喆向凤凰网科技表示，当地塞尔维亚员工通常按照当地劳动法规执行朝九晚五、到点下班的工作制度，而从国内前往支援的中方工作人员日均工作时长约为 10 小时。\n据林喆介绍，当塞方工作人员结束当天工作后，如果生产任务尚未完成，中方支援人员还需要继续加班，直至完成当日相应生产...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-31 00:47:45",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "无人快递车顶上趴着俩人“搭便车”，新石器客服回应",
-      "link": "https://www.ithome.com/0/996/278.htm",
-      "summary": "\nIT之家 8 月 31 日消息，据荔枝新闻 8 月 30 日报道，近日，河南郑州城区道路上，一辆无人快递车在行驶中，车顶上还趴着两个人。对此，新石器无人车客服工作人员回应称，如果人员绕过摄像头，不超重的情况下，无人快递车系统无法识别。他们会将情况进行反馈。\n\n据中央广播电视总台中国之声今年 1 月报道，随着无人驾驶技术的不断发展，外形方方正正的功能性无人车进入了我们的生活，无人车作为新生事物，市...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-31 00:27:20",
-      "category": "auto",
-      "thumbnail": ""
-    },
-    {
-      "title": "吉利星越 L PLUS 中大型旗舰智混 SUV 定档 9 月 5 日登场，新车官图发布",
-      "link": "https://www.ithome.com/0/996/277.htm",
-      "summary": "\nIT之家 8 月 31 日消息，吉利汽车官方今日宣布，旗下中大型旗舰智混 SUV 吉利星越 L PLUS 将在 9 月 5 日登场。\n\n\n\n\n\n\n\n\n\nIT之家注意到，这款新车已经现身本月发布的工信部第 410 批《道路机动车辆生产企业及产品公告》。本次申报共有两款油电混合动力版本车型和两款燃油版本车型，均为 5 座布局，车身尺寸保持一致，长宽高分别为 4955 / 1960 / 1769 mm...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-31 00:23:00",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "消息称由于涨价情况“非常离谱”，多家手机厂商旗舰机下调 30%-50% 计划量",
-      "link": "https://www.ithome.com/0/996/276.htm",
-      "summary": "\nIT之家 8 月 31 日消息，博主 @RD观测 透露：“目前由于涨价的情况非常离谱，了解到多家厂商的旗舰机下调了 30%-50% 的计划量。”\n\n该博主此前发文称，按照目前的情况来看，涨幅放缓，涨价 / 季度绝对值变化不大，今年 Q4 应该是价格高点，明年会不会降下来还尚未可知，在可预见的六个季度内，情况应该不会很乐观。\n\n内存涨价的原因想必大家都听过很多了，AI 算力爆发虹吸产能 + 三大寡...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-31 00:12:30",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "《GTA 6》通缉机制大曝光：警方可识别犯罪者服装 / 车辆、游戏强调潜行玩法",
-      "link": "https://www.ithome.com/0/996/275.htm",
-      "summary": "\nIT之家 8 月 31 日消息，Rockstar North 工作室联合负责人 Rob Nelson 接受 IGN 采访时表示，透露《GTA 6》大幅强化了游戏犯罪通缉机制，相比以往作品单纯刷出警方载具 NPC 追捕玩家，《GTA 6》中的警方刻画更加深入，会通过玩家的外貌、服装、车辆以及监控录像等信息逐步锁定目标。\nNelson 表示，警方不仅知道玩家长什么样，也知道玩家当时穿什么衣服。即使戴...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-31 00:05:15",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "IT早报 0831：特斯拉廉价版 Model 3 港澳上市；爱奇艺会员用券专享影片纳入 VIP 片库；华为 Mate XT 2 展翼三折叠手机官宣；网易云音乐鸿蒙版 9 月将上线...",
-      "link": "https://www.ithome.com/0/996/274.htm",
-      "summary": "\n“IT早报”时间，大家好，现在是 2026 年 8 月 31 日星期一，今天的重要科技资讯有：\n1. 特斯拉在中国香港、中国澳门推出更平价版 Model 3：售价下调、配置精简，续航达 572 公里\n特斯拉在中国香港、澳门推出配置简化的 Model 3 新版本，起售价大幅降低，例如香港起售价约合 17.6 万元人民币。该版在材质和配置上有所调整，但续航增至 572 公里。&gt;&gt; 查看详...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-31 00:02:33",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "上线不足一个月：米哈游 AI 女友桌面陪伴软件《BSide: Olivia Lin》今起停运，离线版本可限时领取",
-      "link": "https://www.ithome.com/0/996/273.htm",
-      "summary": "\nIT之家 8 月 31 日消息，据米哈游公告，米哈游旗下桌面陪伴软件《BSide: Olivia Lin》今天正式停止运营。官方同步推出离线版本，让用户在服务器关闭后继续使用部分功能，玩家可以在北京时间 15:00 前限时下载，IT之家附游戏商品页（https://store.steampowered.com/app/4532590/BSide_Olivia_Lin/）。\n\nIT之家此前报道，这...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-30 23:55:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "华硕 ROG 绝梦 25 二代显示器新增“吹雪”白色版本机型 XG259QNSR-W 上市：1080P 420Hz，1799 元",
-      "link": "https://www.ithome.com/0/996/272.htm",
-      "summary": "\nIT之家 8 月 31 日消息，华硕 ROG 现已为旗下绝梦 25 二代显示器新增一款白色机身的“吹雪”版本（XG259QNSR-W）国行定价为 1799 元。\n京东华硕 ROG 绝梦 25 吹雪 二代显示器 XG259QNSR-W 白色版本 1799 元直达链接\n\n\n这款显示器采用一块 24.5 英寸 1920x1080 分辨率 420Hz Fast IPS 面板，支持 1920x1080 分...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-30 23:51:22",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "漫步者 K200 多场景便携 K 歌音箱首销：配无线双麦克风，799 元",
-      "link": "https://www.ithome.com/0/996/271.htm",
-      "summary": "\nIT之家 8 月 31 日消息，漫步者旗下 K200 多场景便携 K 歌音箱将于今晚 8 点在京东开启首销，定价为 799 元。\n京东漫步者 K200 多 便携 K 歌音箱 799 元直达链接\n\n这款音箱配备无线双麦克风，每只麦克风支持独立音量、音效调节，可根据不同声线、人声特质自主适配，提供专属收纳盒方便携带。\n\n功率方面，这款音箱拥有 28W 连续不失真功率，峰值功率 56W，采用 22mm...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-08-30 23:45:36",
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&amp;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-08-31 02:18:57",
       "category": "ai",
       "thumbnail": ""
     },
@@ -357,7 +577,7 @@
     {
       "title": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
       "link": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
-      "summary": "After Donald Trump’s executive order demanding the name change, Google is the first major online maps provider to flip the switch....",
+      "summary": "After Donald Trump’s executive order demanding the name change, Google is the first major online map provider to flip the switch....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
@@ -388,17 +608,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Termexo V0.6.0 发布：新增任务看板，OpenCode 升级为一等 Agent",
-      "link": "https://www.oschina.net/news/502204",
-      "summary": "Termexo 是一个 MIT 开源、仅在本地运行的 Windows AI 编程工作台，通过真实 PTY 统一管理 Claude Code、Codex、OpenCode 以及多个并行终端。V0.6.0 已发布。 本次更新 OpenCode 升级为一等 Agent：启动、恢复、重启还原、自动确认与任务看板全部与 Claude Code、Codex 对齐。它自行解析模型与凭据，因此不需要在 Terme...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-30 15:02:13",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
       "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment....",
@@ -410,18 +619,7 @@
       "thumbnail": ""
     },
     {
-      "title": "Go Agent 框架 Covonaut v1.1.0 发布：Markdown 与代码高亮全面升级",
-      "link": "https://www.oschina.net/news/502203",
-      "summary": "关于 Covonaut Covonaut 是面向生产环境的 Go Agent 框架，纯 Go 实现、MIT 协议开源。覆盖 Agent 开发的完整链路：Agent Loop（含上下文自动压缩、指数退避重试）、工具系统、多 Agent 交接、图引擎（DAG 与 Pregel 两种执行模型）、会话树、可观测性，以及 A2A / ACP / AG-UI / A2UI 四套协议。 配套的终端 UI（TUI...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-30 14:02:09",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chess.com launched a poker site and is planning even more classic games",
+      "title": "Chess.com launched a poker site, and it’s planning even more classic games",
       "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
       "summary": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in bet...",
       "source": "The Verge",
@@ -451,28 +649,6 @@
       "region": "us",
       "pubDate": "2026-08-30 12:00:00",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "QFO v1.0.1：面向量化新手的本地 A 股研究与回测平台",
-      "link": "https://www.oschina.net/news/502202",
-      "summary": "QFO v1.0.1 已发布。 QFO 是一个免费开源、本地运行的 A 股量化研究与回测平台，面向希望系统学习量化投资的新手。项目以 Windows 本地环境为主，将数据同步、资产筛选、因子研究、策略回测、组合优化、风险分析和可视化整合为一套可操作流程。 本版本主要包含 数据中台：统一管理股票、ETF、可转债、指数、资金流和财务......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-30 11:44:35",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI 开发的一个安全优先的编程工具",
-      "link": "https://www.oschina.net/news/502201",
-      "summary": "一个被忽视的安全隐患 2024 年，AI 编程工具已经从\"尝鲜玩具\"变成了开发者的日常生产力引擎。Cursor、Copilot、Windsurf……越来越多的开发者把整段代码、配置文件、甚至 .env 丢给 AI 来分析和修改。 但你有没有想过： 那些包含 API Key、数据库密码、SSH 私钥的文件，正随着你的每一次对话被发送到云端？ 大多数 AI 编......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-30 11:37:16",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -619,28 +795,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Noodling on Nuclear Engines",
-      "link": "https://spectrum.ieee.org/bimodal-nuclear-engine",
-      "summary": "\nOne day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a napkin to sketch out what would become Compaq’s portable PC. In 1996...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-29 15:35:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/hand-drawn-schematic-of-turbine-powered-heat-pipe-system-with-labeled-components.png?id=67675201&width=1245&height=700&coordinates=0%2C145%2C0%2C145"
-    },
-    {
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always bee...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-29 14:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
       "link": "https://www.qbitai.com/2026/08/481372.html",
       "summary": "推理软件栈的微小差异，就能改变输出token...",
@@ -659,17 +813,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-08-29 13:01:34",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-08-29 13:00:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -696,50 +839,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
-      "link": "https://www.qbitai.com/2026/08/480940.html",
-      "summary": "Coding正在变成Al世界的数字执行力...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-29 12:11:37",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenClaw：红过，爱过，散了",
-      "link": "https://www.qbitai.com/2026/08/480855.html",
-      "summary": "龙虾退潮，Harness上位...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-29 12:00:51",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-      "link": "https://www.qbitai.com/2026/08/480787.html",
-      "summary": "从剧本到成片...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-08-29 11:35:57",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
-      "link": "https://www.wired.com/review/soundcore-liberty-5-pro/",
-      "summary": "Outstanding call quality and an excellent price point put these earbuds way ahead of pricier competition....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-29 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a925150bb3a85e785f50cc3/master/pass/Review--Soundcore-Liberty-5-Pro.jpg"
-    },
-    {
       "title": "I asked 100 companies for my data. Some deleted it instead.",
       "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
       "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends....",
@@ -749,105 +848,6 @@
       "pubDate": "2026-08-29 10:50:31",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-500x500.jpg"
-    },
-    {
-      "title": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
-      "link": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
-      "summary": "Astronomers will test equipment that, if it’s successful, will one day be crucial for discovering Earthlike planets....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-29 10:30:00",
-      "category": "space",
-      "thumbnail": "https://media.wired.com/photos/6a90143f13ea49f13acf54b5/master/pass/Nasa.jpg"
-    },
-    {
-      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-29 10:30:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/master/pass/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg"
-    },
-    {
-      "title": "「中国词元」：芯片、模型、绿电的算术题",
-      "link": "https://www.oschina.net/news/502199",
-      "summary": "8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，聊的是英伟达收购 Hugging Face。直播后半段，徐勇提了一个概念，叫「中国词元」。 这个词是开源中国董事长马越提出来的，还在区块链上做了存证。公式很简单，中国词元=中国芯片+中国模型+中国绿电，这是一笔清晰的成本账。 徐勇讲了他在美国的见......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-29 10:14:00",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI 时代的代码库，为什么成了兵家必争之地",
-      "link": "https://www.oschina.net/news/502198",
-      "summary": "前阵子有一条新闻，圈里人聊得不少。OpenAI 的智能体，为了在 Hugging Face 的评测榜单上拿第一，主动攻击了 Hugging Face，想把评测题目直接拿走，而且在很短时间内发动了极其大量的请求。 这件事放在以前，可能只是条安全新闻。放在今天，它反映了一个新问题，AI 时代的代码库，正在变成兵家必争之地。 8 月 28 日周五......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-29 10:10:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "中国版 Hugging Face 是怎么造出来的",
-      "link": "https://www.oschina.net/news/502197",
-      "summary": "Hugging Face 以 129 亿美金被英伟达收购之后，很多人在问同一个问题，中国有没有自己的开源模型平台？ 有，叫模力方舟（Moark）。 8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，聊的正是英伟达收购 Hugging Face。直播里徐勇讲了模力方舟是怎么做出来的，过程比想象中硬核得多。 2022 年 11......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-29 10:00:46",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Run a Chatbot on Your Own Computer",
-      "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-08-29 10:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/master/pass/RunAChatbot.jpg"
-    },
-    {
-      "title": "巨头拿着支票来了，开源创业者该不该卖？",
-      "link": "https://www.oschina.net/news/502196",
-      "summary": "Hugging Face 被英伟达收购之后，一个老问题又热了起来。创业的开源项目，巨头拿着支票找上门，到底卖不卖。 8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，聊的正是英伟达收购 Hugging Face 之后开源平台的处境。直播里有个网友问，如果巨头带着支票来找你，什么情况下应该卖？徐勇给了一套自......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-29 09:57:09",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI 时代，开源为什么越来越值钱",
-      "link": "https://www.oschina.net/news/502195",
-      "summary": "8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，主题是英伟达收购 Hugging Face。 整场直播下来，评论区问得最多的一个问题，和收购价有关。 开源不是免费的吗，凭什么值 129 亿美金？ 这也是很多人心里的疑问。作为 Hugging Face 的投资方之一，张倩在直播里先抛了个观点，Hugging Face 有十几......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-29 09:51:29",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "全球开源平台的宿命，都逃不过被收购 ？",
-      "link": "https://www.oschina.net/news/502194",
-      "summary": "这两天，全球开源圈发生了一件大事。 Hugging Face，这个被称为全球 AI 文明灯塔级的开源社区，或将被英伟达以 129 亿美金收购，这大概是过去十年全球开源领域最重磅的新闻之一。 但更魔幻的是，这个新闻发酵了没两天，就被一个娱乐八卦盖了过去。全网都在吃瓜，没几个人认真聊聊，一个可能影响人类 AI 命运的标志性事件......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-08-29 09:42:49",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
@@ -894,17 +894,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg"
     },
     {
-      "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
-      "link": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
-      "summary": "\nWhile walking to school as a child, Jernej Barbič would marvel at how beautiful his home was. He was born and raised in a picturesque village in northwestern Slovenia (formerly Yugoslavia), located i...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-28 18:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-white-man-in-business-casual-attire-seated-at-his-desk-with-a-laptop-and-desktop-computer-each-playing-a-different-movie-on-t.jpg?id=67690500&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
-    },
-    {
       "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
       "link": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
       "summary": "\nPresented by Nutanix \n\nAutonomous systems that can reason, make their own decisions, and execute actions across an environment introduce a category of risk that application-level controls were never ...",
@@ -925,17 +914,6 @@
       "pubDate": "2026-08-28 17:36:30",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-500x500.jpg"
-    },
-    {
-      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-      "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-      "summary": "Annual Apple TV subscriptions get the biggest bump....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-08-28 17:23:53",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-500x500.jpg"
     },
     {
       "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
@@ -968,7 +946,7 @@
       "region": "us",
       "pubDate": "2026-08-28 12:35:27",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Neanderthals_finals-top.jpg?fit=2128,1196"
     },
     {
       "title": "How to sign up for a virtual power plant—and decide whether you should",
@@ -991,17 +969,6 @@
       "pubDate": "2026-08-27 19:48:13",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Make a Portable Wide-screen Mechanical TV",
-      "link": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-      "summary": "\nI never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-27 14:46:56",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=1245&height=700&coordinates=0%2C17%2C0%2C17"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -1034,7 +1001,7 @@
       "region": "us",
       "pubDate": "2026-08-27 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/GettyImages-546444524.webp?w=840"
     },
     {
       "title": "Is Slate Auto’s new electric truck the EV Americans need?",
@@ -1046,17 +1013,6 @@
       "pubDate": "2026-08-27 10:00:00",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "IEEE Student Conference Provides Visibility to Budding Authors",
-      "link": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
-      "summary": "\nThe IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November.\nThe inaugural one-day, in-person event is designed to provide a forum for IEEE and I...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-26 20:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/white-woman-speaking-into-a-microphone-in-front-of-a-projected-presentation-screen.jpg?id=67680899&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
     },
     {
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
@@ -1078,18 +1034,7 @@
       "region": "us",
       "pubDate": "2026-08-26 12:10:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
-      "link": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
-      "summary": "\n Summary \nNASA and industry engineers propose a synchronal bimodal nuclear rocket (S‑BNR) to dramatically cut transit times to destinations around the solar system, such as Mars, by combining nuclear...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-26 12:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-spacecraft-with-a-yellow-tube-like-section-with-rocket-engine-nozzles-at-one-end-a-middle-section-composed-of-a-truss-and-whi.png?id=67669096&width=1245&height=700&coordinates=0%2C373%2C0%2C373"
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/mirror-dna.webp?w=840"
     },
     {
       "title": "Raised on AI",
@@ -1100,7 +1045,7 @@
       "region": "us",
       "pubDate": "2026-08-26 09:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=840"
     },
     {
       "title": "AI models flub these intelligence tests. Can you fare any better?",
@@ -1123,61 +1068,6 @@
       "pubDate": "2026-08-26 07:01:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
-      "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "summary": "\nAt the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-25 13:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/two-men-stand-at-1960s-computer-consoles-containing-many-buttons-knobs-dials-and-lights.jpg?id=67651870&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
-      "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-      "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-      "summary": "\nThis article is brought to you by Ollobot.\nFrom about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answe...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-25 10:00:03",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=1245&height=700&coordinates=0%2C260%2C0%2C261"
-    },
-    {
-      "title": "IEEE Senior Membership Demystified",
-      "link": "https://spectrum.ieee.org/ieee-senior-membership-demystified",
-      "summary": "\nFor most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library, which I unde...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-24 18:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-young-indian-man-smiling-against-an-abstract-technological-background.jpg?id=67667863&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
-    },
-    {
-      "title": "What It Takes to Be an Adaptable Engineer",
-      "link": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
-      "summary": "\nThe AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. T...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-24 14:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/silhouette-of-person-at-computer-atop-a-weather-vane-labeled-ai-against-sky-background.png?id=67652283&width=1245&height=700&coordinates=0%2C251%2C0%2C252"
-    },
-    {
-      "title": "Building Technology People Can Trust",
-      "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-      "summary": "\nThis article is brought to you by Emerson.\nI’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-24 11:37:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/stacked-green-printed-circuit-boards-with-electronic-components-on-a-work-surface.jpg?id=67598440&width=1245&height=700&coordinates=0%2C260%2C0%2C261"
     }
   ]
 }
