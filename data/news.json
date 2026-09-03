@@ -1,7 +1,227 @@
 {
-  "updateTime": "2026-09-02T23:58:00.703Z",
-  "total": 107,
+  "updateTime": "2026-09-03T04:12:39.920Z",
+  "total": 97,
   "news": [
+    {
+      "title": "DBErp v3.0.4 发布：新增销售毛利、移动平均成本与 SMTP 邮件服务",
+      "link": "https://www.oschina.net/news/502286",
+      "summary": "DBErp 进销存系统 v3.0.4 正式发布。 本次版本重点补充了 销售毛利分析、库存移动平均成本、SMTP 系统邮件、本地部署授权 等能力，同时继续完善库存并发安全、主数据引用保护、采购销售退货结算、核销一致性以及查询报表体验。 如果正在使用 DBErp 3.x，尤其涉及库存成本、销售毛利、退货结算或高频库存操作，建议升级至......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-03 02:39:18",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "link": "https://www.qbitai.com/2026/09/483552.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-03 01:31:45",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "link": "https://www.qbitai.com/2026/09/483462.html",
+      "summary": "4激光雷达+双M100上车...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-03 01:27:05",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "link": "https://www.qbitai.com/2026/09/483351.html",
+      "summary": "遥操，可能真的危险了...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-03 00:51:16",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI的两个世界：高门槛的产业，低门槛的致富故事",
+      "link": "https://www.tmtpost.com/8126269.html",
+      "summary": "进AI要硕博大厂，卖AI课只要零基础。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 00:46:13",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/8b96da321a24e6293d7371e982025627_1788396377.jpg"
+    },
+    {
+      "title": "RXThinkCMF 敏捷开发框架 ThinkPhp8+AntdVue 版本 v2.6.1 发布",
+      "link": "https://www.oschina.net/news/502284",
+      "summary": "v2.6.1 更新内容： 1、修复近用户反馈的问题； 一款 PHP 语言基于 ThinkPhp8、Vue3、AntDesign、MySQL 等框架精心打造的一款模块化、插件化、高性能的前后端分离架构敏捷开发框架，可用于快速搭建前后端分离后台管理系统，本着简化开发、提升开发效率的初衷，框架自研了一套个性化的组件，实现了可插拔的组件式开发方式：......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-03 00:40:19",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "DjangoAdmin 敏捷开发框架 Django+Layui 版本 v2.8.1 发布",
+      "link": "https://www.oschina.net/news/502283",
+      "summary": "v2.8.1 更新内容： 1、修复近期用户反馈的问题； 一款 Python 语言基于 Django、Layui、MySQL 等框架精心打造的一款模块化、高性能、企业级的敏捷开发框架，本着简化开发、提升开发效率的初衷触发，框架自研了一套个性化的组件，实现了可插拔的组件式开发方式：单图上传、多图上传、下拉选择、开关按钮、单选按钮、多选按......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-03 00:36:20",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "存力接棒算力：AI智能体把存储推上主战场",
+      "link": "https://www.tmtpost.com/8123421.html",
+      "summary": "当AI智能体开始“记忆”，存储如何接住这场变革？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 00:29:57",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/e2708e264d6dedb489c338f0e252ed91_1788395400.png"
+    },
+    {
+      "title": "波音交付最后 3 颗 O3b mPOWER 卫星，完成首批 13 颗卫星星座",
+      "link": "https://www.ithome.com/0/997/739.htm",
+      "summary": "\nIT之家 9 月 3 日消息，波音于当地时间 9 月 2 日宣布，已向卫星通信运营商 SES 交付 O3b mPOWER 星座的最后三颗卫星，标志着该项目初始 13 颗卫星星座的制造与交付工作全部完成。\nIT之家从官方获悉，这三颗卫星计划于本月从美国佛罗里达州太空海岸发射，预计在经过升轨和初始化后于 2027 年正式投入运营。\n\nO3b mPOWER 星座运行于中地球轨道（MEO），采用波音 7...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 00:27:10",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "Edge AI Daily 早报（9月3日）",
+      "link": "https://www.tmtpost.com/8126450.html",
+      "summary": "谷歌发布Agentic Video Understanding降低88%Token，反驳AI泡沫论；Meta推出Muse Code与Muse Voice Transcribe以低价策略切入编程与音频市场；微软主动撤回文本预测功能，反思AI默认状态设计；OpenAI CEO回应耗水争议，澄清单次查询耗水0.32毫升。神经网络理论突破揭示符号系统涌现，存储芯片补贴争论与特朗普双轨战略映射政策与技术博弈...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 00:13:57",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/ty5465ejyt3.png"
+    },
+    {
+      "title": "全部基于量产原厂状态：全新一汽红旗 H7 插电混动轿车开启最长续航吉尼斯世界纪录挑战",
+      "link": "https://www.ithome.com/0/997/738.htm",
+      "summary": "\nIT之家 9 月 3 日消息，一汽红旗官方昨晚宣布，全新红旗 H7 正式向「驾驶插电混动量产轿车满油满电零补能行驶最远距离」吉尼斯世界纪录称号发起挑战。\n\n据介绍，本次挑战，全新红旗 H7 将横跨滇、桂、粤三省，一路穿越多样地貌，面对高温炙烤、降雨湿滑、连续爬坡、城市拥堵等多重极端环境和路况，把日常长途出行会遇到的各类难题全部拉满。\n一汽红旗官方表示，从高原山地到滨海平原，温差起伏、路况多变，每...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 00:09:53",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "探索太阳风暴早期预警：AI 提前 9.24 小时捕捉太阳活动区信号",
+      "link": "https://www.ithome.com/0/997/737.htm",
+      "summary": "\nIT之家 9 月 3 日消息，科技媒体 SciTech 昨日（9 月 2 日）发布博文，报道称由美国新泽西理工学院（NJIT）牵头的科研团队发布最新研究，成功打造出机器学习模型 EarlyDetect，可从太阳声学活动和磁场变化中识别活动区形成前兆。\nIT之家援引博文介绍，太阳活动区是太阳表面磁场强烈的区域，太阳黑子通常在其中形成。活动区开始浮现可能只需数小时，但完整发展过程通常需要 1 到数天...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 00:08:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "任天堂 Switch 2 独占：双人合作游戏《轨道双子星》今日发售，致敬 80 年代经典动画",
+      "link": "https://www.ithome.com/0/997/736.htm",
+      "summary": "\nIT之家 9 月 3 日消息，由独立游戏团队 Shapefarm 打造、Kepler Interactive 发行的复古动漫风双人合作冒险游戏《轨道双子星》（Orbitals）今日正式发售，独占登陆 Nintendo Switch 2 平台。\n该作采用虚幻引擎 5 开发，支持简体中文、繁体中文、英文及日文等语言，并配有中文配音。游戏标准版售价 299 港币（IT之家注：现汇率约合 256.9 元...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 00:02:44",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "IT早报 0903：上市两周宇树科技股价腰斩；星宇股份董事长就劝退应届生事件致歉；小米 18 Fold 中折叠手机官宣；豆包手机二代计划 9 月开售...",
+      "link": "https://www.ithome.com/0/997/735.htm",
+      "summary": "\n“IT早报”时间，大家好，现在是 2026 年 9 月 3 日星期四，今天的重要科技资讯有：\n1. A 股“人形机器人第一股”宇树科技股价腰斩\nA 股“人形机器人第一股”宇树科技 9 月 2 日股价跌超 4%，截至IT之家发文，宇树科技每股已跌至 550 元以下，相比首日开盘最高 1100 元 / 股已经股价腰斩。&gt;&gt; 查看详情\n2. 星宇股份董事长周晓萍回应劝退应届生事件：公司深刻...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-02 23:57:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "联合国报告：全球变暖超过 1.5℃ 已经不可避免",
+      "link": "https://www.ithome.com/0/997/734.htm",
+      "summary": "\nIT之家 9 月 3 日消息，联合国环境规划署昨日（9 月 2 日）发布《限制超调》报告，指出全球气温升高超过《巴黎协定》中的 1.5 °C 控制目标已不可避免。\n报告指出全球平均气温升幅可能在未来几年超过工业化前水平 1.5°C，即使在最乐观的情况下，全球气温也将升高至少 1.8°C。升温超过 1.5°C 后，极端天气、生态系统损失、低洼沿海城市和小岛屿国家被淹风险将加剧。\n\n报告提出“超调、...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-02 23:55:29",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "OPPO 卓世杰否认 Find X10 Pro Max 手机外观泄密图：比这好看",
+      "link": "https://www.ithome.com/0/997/733.htm",
+      "summary": "\nIT之家 9 月 3 日消息，有博主放出了最新 OPPO Find X10 Pro Max 外观泄密图。画面显示，新机哈苏定制款有全新白色，同时摄像头模组印有 LUMO 凝光影像标识。\n不过 OPPO Find 系列产品负责人卓世杰很快对此进行了否认，并直言：“比这好看。”\n\nOPPO 首席产品官、一加创始人刘作虎在 8 月 28 日宣布，OPPO 发布新一代 ProXDR 技术。刘作虎还官宣了...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-02 23:53:36",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "纽约时报诉 OpenAI 案升级：美国司法部首次就 AI 版权问题公开表态，主张 AI 训练属“合理使用”",
+      "link": "https://www.ithome.com/0/997/732.htm",
+      "summary": "\nIT之家 9 月 3 日消息，美国司法部（DOJ）当地时间 9 月 1 日向曼哈顿联邦法院提交了一份“利益声明”，正式介入《纽约时报》诉 OpenAI 版权侵权案。\n美国司法部明确支持 OpenAI 的立场，主张 AI 公司使用受版权保护的材料训练大语言模型属于“合理使用”范畴，不构成版权侵权。这份文件由美国副司法部长斯坦利 · 伍德沃德（Stanley Woodward Jr.）等人签署。\n\n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-02 23:50:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "没有黑色：苹果 iPhone 18 Pro / Max 三种颜色卡托曝光",
+      "link": "https://www.ithome.com/0/997/731.htm",
+      "summary": "\nIT之家 9 月 3 日消息，消息源 @SonnyDickson 昨日（9 月 2 日）转发科技媒体 @MacRumors 推文，分享了苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的 SIM 卡托，预估苹果 2026 年旗舰手机只有 3 种颜色。\n@MacRumors 在博文中，爆料称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 上市后可...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-02 23:44:03",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "5G、麒麟双回归！华为 nova 16s Pro 新机海外发布，搭载 Kirin 9010S 处理器",
+      "link": "https://www.ithome.com/0/997/730.htm",
+      "summary": "\nIT之家 9 月 3 日消息，华为昨日在德国慕尼黑举行全球新品发布会，推出了 nova 16s Pro 手机，主打 2 亿像素 RYYB 超大传感器摄像头、前后真实彩色相机（预计为红枫原色镜头）以及 7000mAh 大电池。\n\n据介绍，nova 16s Pro 配备一块 6.84 英寸圆角设计 OLED 屏幕，分辨率为 FHD+（2856×1320），支持 1-120 Hz LTPO 自适应刷新...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-02 23:33:16",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "【钛晨报】央行行长潘功胜出席G20财长和央行行长会议，强调继续实施好适度宽松的货币政策；CrowdStrike与OpenAI扩大合作；港股通买入Minimax规模超越阿里巴巴和腾讯",
+      "link": "https://www.tmtpost.com/8126299.html",
+      "summary": "中国团队在自主超导量子计算机上实现新突破，传输效率高达98%；畅销书《富爸爸穷爸爸》作者自曝负债12亿美元；燧原科技：科创板IPO网上发行最终中签率0.02455315%；国家能源局召开新型电网建设工作部署会，加快输电通道等重大电网工程核准建设；Uber将裁减约3300个岗位，寻求精简管理层级；Kimi API已原生支持Codex和Claude Code...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-02 23:20:00",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/a340e34ed6c3479715a1be2232ba47f2_1788361456.jpg"
+    },
     {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
@@ -80,6 +300,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Spending deal comes with a bonus: Blocking political control of grants",
+      "link": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+      "summary": "Congress pauses the OMB's attempt to rewrite how research is funded....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-02 21:20:03",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-500x500-1777657446.jpg"
+    },
+    {
       "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists",
       "link": "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists",
       "summary": "\nWhen enterprise buyers build out their next AI accelerator evaluation list this cycle, they're more likely to put a non-Nvidia chip on it than Nvidia's own next-generation GPU. According to VentureBe...",
@@ -102,15 +333,15 @@
       "thumbnail": "https://media.wired.com/photos/6a9753168e71dd67ca5defbc/master/pass/politics_democrats_prosecute_trump_family.jpg"
     },
     {
-      "title": "博通 2026 财年第三财季归母净利润 130.88 亿美元，同比增长 216%",
-      "link": "https://www.ithome.com/0/997/713.htm",
-      "summary": "\n IT之家 9 月 3 日消息，博通今日发布 2026 财年（2025年11月3日～2026年11月1日）第三财季（2026年5月4日～2026年8月2日）报告：\n\n  营业总收入：295.91 亿美元（IT之家注：现汇率约合 1993.52 亿元人民币），同比增长 86%，环比增长 33.37%     毛利润：204.56 亿美元（现汇率约合 1378.1 亿元人民币），同比增长 91.12...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 20:30:01",
-      "category": "ai",
-      "thumbnail": ""
+      "title": "I rented a car, and within hours, my driver's license was for sale",
+      "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+      "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-02 20:32:02",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence-500x500.png"
     },
     {
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
@@ -146,26 +377,26 @@
       "thumbnail": ""
     },
     {
-      "title": "慧与 2026 财年半年报归母净利润 25.29 亿美元",
-      "link": "https://www.ithome.com/0/997/712.htm",
-      "summary": "\n IT之家 9 月 3 日消息，慧与今日发布 2026 财年（2025年11月1日～2026年10月31日）半年报（2025年11月1日～2026年7月31日）及第三财季（2026年5月1日～2026年7月31日）报告：\n\n 2026 财年半年报    营业总收入：321.92 亿美元（IT之家注：现汇率约合 2168.75 亿元人民币），同比增长 30.8%     毛利润：121.39 亿美...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 20:11:14",
+      "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
+      "link": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
+      "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-02 19:54:27",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/robocall-blocking-500x500-1788376262.jpg"
     },
     {
-      "title": "Applying Different Forms of Mentorship",
-      "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
-      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
+      "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+      "link": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+      "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
       "region": "us",
-      "pubDate": "2026-09-02 19:45:58",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+      "pubDate": "2026-09-02 19:37:08",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit-500x500.jpg"
     },
     {
       "title": "It sure looks like hackers breached a major ID card verification service",
@@ -245,15 +476,26 @@
       "thumbnail": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/master/pass/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg"
     },
     {
-      "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
-      "link": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
-      "summary": "\nIn the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
       "region": "us",
-      "pubDate": "2026-09-02 18:00:03",
+      "pubDate": "2026-09-02 18:13:54",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/close-up-of-an-extended-robotic-arm-in-low-earth-orbit.jpg?id=67717218&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-500x500.jpg"
+    },
+    {
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-02 17:58:33",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-500x500.jpg"
     },
     {
       "title": "Amazon’s AI assistant can now spot fake emails from the company",
@@ -355,50 +597,6 @@
       "thumbnail": ""
     },
     {
-      "title": "谷歌推出 Gemini 3.8 Flash Cyber 模型，内部已全面部署用于代码安全防护",
-      "link": "https://www.ithome.com/0/997/708.htm",
-      "summary": "\nIT之家 9 月 3 日消息，当地时间 9 月 2 日，谷歌宣布推出 Gemini 3.8 Flash Cyber 模型，通过 Fairwind 计划面向首批受信任的安全防护团队开放。\n官方表示，在针对漏洞挖掘的行业权威基准测试 CyberGym 上，Gemini 3.8 Flash Cyber 展现出了顶尖水平的自主漏洞挖掘能力。不仅超越了前代 3.5 Flash Cyber，还将多款体量显著...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 16:09:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版首销，2399 元",
-      "link": "https://www.ithome.com/0/997/707.htm",
-      "summary": "\nIT之家 9 月 2 日消息，森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版将于 9 月 3 日 0:00 首销，到手价 2399 元。\n\n这款耳机有石墨黑 / 奶油白 / 焦糖棕 /冷萃蓝 / 薰衣草紫五色可选，采用人体工学设计，单耳重约 7g；具备 IP54 防尘防泼溅；支持 Qi 无线充电，单次续航可达 12 小时，搭配充电盒综合续航可达 40 小时。\n\n这款耳机配备 7mm T...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 15:58:05",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "抛弃红帽生态，欧洲核子研究组织（CERN）转投 Debian 系统",
-      "link": "https://www.ithome.com/0/997/706.htm",
-      "summary": "\nIT之家 9 月 2 日消息，欧洲核子研究组织（CERN）上周在瑞士温特图尔举行 MiniDebConf 大会，宣布将放弃 RHEL（Red Hat Enterprise Linux），转投 Debian 系统。\n\n据IT之家了解，欧洲核子研究组织以大型强子对撞机、万维网（WWW）发源地闻名。该机构此前长期使用红帽生态、CentOS 系统，过去曾与其他科研机构维护 RHEL 衍生发行版 Scie...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 15:53:54",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "神谷英树：游戏能否真正保存，比“实体版还是数字版”更重要",
-      "link": "https://www.ithome.com/0/997/705.htm",
-      "summary": "\nIT之家 9 月 2 日消息，据外媒 VGC 今天（2 日）晚间报道，《大神》《鬼泣》和《猎天使魔女》创作者神谷英树认为，相比游戏未来究竟发行实体版还是数字版，更值得担忧的是这些作品能否真正保存下来，让后来的玩家继续游玩。\n\n图源：Pexels神谷英树表示，自己现在购买的游戏“100% 都是数字版”，因此实体光盘消失并不会直接影响消费习惯，但实体游戏彻底退出后，可能有一些更有意义的东西也会随之消...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 15:53:50",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
       "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
       "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer....",
@@ -421,47 +619,14 @@
       "thumbnail": ""
     },
     {
-      "title": "黑客暗网兜售 1.53 亿份美国驾照扫描件，FBI 已介入调查",
-      "link": "https://www.ithome.com/0/997/704.htm",
-      "summary": "\nIT之家 9 月 2 日消息，据科技媒体 Appleinsider 今天报道，近期有黑客在暗网 Nexus 出售超 1.53 亿份驾驶证扫描件。除此之外，这些不法分子拥有超 1000 万份身份证件、300 万份旅行证件及 57.9 万张医疗卡。\n安全研究组织 KrebsOnSecurity 上月末获悉该暗网网站存在。他们研究后获悉，这名黑客口中的 1.53 亿份驾照文件并非空穴来风。研究人员在网...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "Bee 3.0.0 LTS版发布,多层子表关联查询;分库分表Sharding同步升级;支持虚拟线程",
+      "link": "https://www.oschina.net/news/502281",
+      "summary": "ORM Bee,体积小,速度快,功能强. 接近JDBC的速度,3.0.0 LTS 版本仅969k. Bee, 接口简单，功能齐全，性能好，支持原生分页性能更高；还有分库分表 (Sharding 分片) 功能，也支持 MongoDB ORM. Bee = Hibernate/MyBatis+ plus +Sharding JDBC + Jpa+ Spring data+ GraphQL+ App O...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-09-02 15:44:15",
+      "pubDate": "2026-09-02 15:44:04",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "大众汽车重组计划曝光：“激进”而“痛苦”，4 家德国工厂、数万名员工或危在旦夕",
-      "link": "https://www.ithome.com/0/997/703.htm",
-      "summary": "\nIT之家 9 月 2 日消息，当地时间 1 日，德国《经济周刊》披露了 147 页的内部文件，详细介绍大众汽车监事会对集团未来重组的设想。文件描绘了一场“激进”而“痛苦”的重组，规模甚至被形容为“经济史上前所未有”。\n据IT之家了解，大众汽车考虑关闭德国境内 4 座工厂，这一调整可能从 2031 年开始，一直持续到 2034 年。\n\n最先受到影响的据称是埃姆登和茨维考工厂。埃姆登工厂 1964 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 15:42:55",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景",
-      "link": "https://www.ithome.com/0/997/702.htm",
-      "summary": "\nIT之家 9 月 2 日消息，谷歌今天（2 日）在 Google DeepMind 网站低调上线了 Gemini 3.8 Flash 模型。其基于 Gemini 3.7 Flash，拥有在软件工程和智能体知识工作流方面的性能提升，并持续支持可定制的努力水平，以控制质量、成本和延迟的组合。\n不过截至IT之家发稿，谷歌官方暂未通过新闻稿或社媒平台官宣这一模型的存在。\nGemini 3.8 Flash...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 15:31:06",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Adobe 将 Photoshop、Illustrator 等工具接入 Slack 协作平台",
-      "link": "https://www.ithome.com/0/997/701.htm",
-      "summary": "\nIT之家 9 月 2 日消息，Adobe 今天宣布将旗下创意工具接入 Slack 协作平台。用户可直接在 Slack 聊天框内输入提示词，创建各种内容。\n\nIT之家了解到，Adobe for Slack 当前已集成在 Slack 之中。用户可打开 Slackbot 机器人，选择“Manage Apps”然后添加 Adobe。启用后，用户可以直接在聊天框内输入“@Adobe 为我们制作一系列季节海...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 15:28:04",
-      "category": "robot",
       "thumbnail": ""
     },
     {
@@ -509,6 +674,17 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/12a5571d58995f5995792de103cf6616_1788356950.png"
     },
     {
+      "title": ":exclamation:️极速开源后台框架 FastAdmin V1.6.6 正式版（安全更新）",
+      "link": "https://www.oschina.net/news/502279",
+      "summary": "FastAdmin 是专为开发者精心打造的一款开源后台框架，高效且可以免费商用。 努力为开发者节省时间，让大家有更多的时间读书、健身、开源、投资、旅行，以及帮朋友和陪家人。 极速开源后台框架 FastAdmin V1.6.6 正式版发布，强烈建议更新升级。 最新版下载地址： https://www.fastadmin.net/download.html 更新日志如下 ......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-02 13:40:33",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "China's Humanoid Robots Industry Enters the Era of “Public Infrastructure”",
       "link": "https://www.tmtpost.com/8126318.html",
       "summary": "China's robotics industry is changing the way it survives and operates....",
@@ -542,6 +718,17 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t43y54htrtg3.png"
     },
     {
+      "title": "openKylin 3.0安全工具上新：Platform Security Patrol 一键完成CPU安全体检",
+      "link": "https://www.oschina.net/news/502278",
+      "summary": "近期，OpenAtom openKylin（以下简称“openKylin”）社区Trusted Computing SIG推出了 Platform Security Patrol（平台安全巡检工具），实现 CPU 硬件安全特性的一键检测、分层故障定位和配套修复指引。目前工具已上架 openKylin 3.0 软件仓库，下载openKylin 3.0 用户可直接安装使用！ CPU 普遍原生搭载多重硬...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-02 13:15:00",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
       "title": "The Army just used a 20-kilowatt laser to take out three drones",
       "link": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
       "summary": "The Army says its laser system can track and destroy hostile drones....",
@@ -553,17 +740,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/locust-laser-500x500.jpg"
     },
     {
-      "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-      "link": "https://spectrum.ieee.org/ai-engineer-skills",
-      "summary": "\nA little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-02 13:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/human-and-robotic-hands-share-a-caliper-over-technical-engineering-blueprints.png?id=67702640&width=1245&height=700&coordinates=0%2C194%2C0%2C195"
-    },
-    {
       "title": "The Download: AI puzzles and a path to our nearest star system",
       "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any bett...",
@@ -572,7 +748,7 @@
       "region": "us",
       "pubDate": "2026-09-02 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/06/HyIron-Feb-2025-dji-3.edit_.jpg?w=840"
+      "thumbnail": ""
     },
     {
       "title": "The Cybercab Is Almost Here. Now Comes the Hard Part",
@@ -619,17 +795,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-500x500.jpg"
     },
     {
-      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-      "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-      "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-02 11:00:43",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-500x500-1788301464.jpg"
-    },
-    {
       "title": "Best Sony Headphone Deals: WH-1000XM5 and More (2026)",
       "link": "https://www.wired.com/story/sony-headphone-deals-september-2026/",
       "summary": "Our favorite Sony headphones are on sale, with discounts of up to 50 percent on top models....",
@@ -649,7 +814,7 @@
       "region": "cn",
       "pubDate": "2026-09-02 10:55:37",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/7548e04584fdbe69e13a33f823114d45_1788346539.jpg"
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/3r2egf3.png"
     },
     {
       "title": "Claude Desktop 被 Ollama 偷梁换柱",
@@ -661,50 +826,6 @@
       "pubDate": "2026-09-02 10:54:44",
       "category": "ai",
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/26c676a000df7314bf503bcde1422bfa_1788346488.png"
-    },
-    {
-      "title": "库克最后一天，和他的苹果15年",
-      "link": "https://www.tmtpost.com/8125977.html",
-      "summary": "他留下了一种经营苹果的方法：把已经正确的事情做到极致。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 10:53:49",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/09/20260902174033694150.jpg"
-    },
-    {
-      "title": "苹果新任CEO特努斯的四张考卷",
-      "link": "https://www.tmtpost.com/8125937.html",
-      "summary": "苹果能不能定义硬件？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 10:53:45",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35hyjtngf3.png"
-    },
-    {
-      "title": "大A正从互联网大厂偷偷挖公关",
-      "link": "https://www.tmtpost.com/8125931.html",
-      "summary": "一堆朋友去面试了。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 10:53:43",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y46jytg3.png"
-    },
-    {
-      "title": "Keep的AI棋局",
-      "link": "https://www.tmtpost.com/8125756.html",
-      "summary": "在Keep成立10周年之际，创始人王宁发布全员信，宣布All in AI。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 10:53:37",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/02/42960ed6a5c4308ed4be5d57c72722cb_1788331328.jpeg"
     },
     {
       "title": "灵界 OS v3.0.1 发布，优化文件管理器交互体验与兼容性。",
@@ -762,39 +883,6 @@
       "thumbnail": ""
     },
     {
-      "title": "开源中国开源 AI 编程工具 MothX，主打一个“省”字，驾驭中国词元",
-      "link": "https://www.oschina.net/news/502273/oschina-opensource-mothx-ai-coding-cli-agent-harness-vibe",
-      "summary": "用 Claude Code 写一个月代码要多少钱？问问研发工程师，答案都是几百美元起步。终端 AI 编程这个领域，能力上各家都做得不差，拉开差距的其实是账单。 开源中国近期在 Gitee 开源了终端 AI 编码工具 MothX（默思，原名 VibeCoding），约一万行 Go 代码，编译成一个二进制，装完即用。这类”模型之外的脚手架”，行业里叫......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-02 09:12:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "ChatGPT 桌面应用里藏着 430MB 的 LibreOffice",
-      "link": "https://www.oschina.net/news/502272/chatgpt-codex-libreoffice",
-      "summary": "Simon Willison 在清理磁盘时发现了一个 1.7GB 的目录。他打开一看，里面装着一整套 LibreOffice。 路径在 ~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/documents。目录里不仅有完整 Python（440MB）和 Node.js（446MB...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-02 09:03:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "git.kernel.org 每天接收 600 万个请求，但 98% 不是来自“人类”",
-      "link": "https://www.oschina.net/news/502270/git-kernel-org-creepy-crawlies",
-      "summary": "git.kernel.org 每天接收到 600 万个请求在查看随机的 git 提交，但其中 98% 不是来自“人类”。 Linux 内核维护者 Konstantin Ryabitsev 在 kernel.org 官方博客里写了一篇《Creepy crawlies》，把他抱怨了很久的 AI 爬虫问题，第一次用具体数据摊开。那组数字让人很难不在意：为了让爬虫把内核提交渲染成 HTML，五个地......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-02 06:41:06",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
       "link": "https://www.qbitai.com/2026/09/483104.html",
       "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文...",
@@ -824,17 +912,6 @@
       "sourceKey": "qbitai",
       "region": "cn",
       "pubDate": "2026-09-02 06:06:50",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "缓存读取价砍 75%：Fable 5.1 真正想卖的不是跑分",
-      "link": "https://www.oschina.net/news/502267/claude-fable-and-mythos-5-1",
-      "summary": "每百万 token 的缓存读取价格，从 1 美元降到 0.25 美元，降幅 75%。 这是 Claude Fable 5.1 发布里最不起眼、也最值钱的一个数字。它躺在定价表最偏僻的角落，不如那些基准测试榜单显眼，却决定了 agent 跑长任务时真正的成本。 标准输入、输出价格没动，还是每百万 token 10 美元和 50 美元。Anthropic 只动了缓存读取......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-02 02:50:54",
       "category": "ai",
       "thumbnail": ""
     },
@@ -872,61 +949,6 @@
       "thumbnail": ""
     },
     {
-      "title": "从 SIP 到大模型：一天构建可本地部署的 AI 智能外呼系统 VibeVoip",
-      "link": "https://my.oschina.net/u/4806939/blog/19752597",
-      "summary": "VibeVoip 是一套面向企业业务场景设计的 AI 智能外呼平台...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-02 01:52:01",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-      "link": "https://www.qbitai.com/2026/09/482699.html",
-      "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-02 01:44:24",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "link": "https://www.qbitai.com/2026/09/482586.html",
-      "summary": "一张图补全3D世界，还能给机器人造训练场...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-02 01:07:13",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-      "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-      "summary": "333 miles of real-world range with uncompromised comfort and off-road ability....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-01 23:01:52",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-500x500-1787913492.jpg"
-    },
-    {
-      "title": "免费可商用 PHP 管理后台 CatchAdmin V5.4.0 发布，新增短信服务能力",
-      "link": "https://www.oschina.net/news/502261",
-      "summary": "免费可商用 PHP 管理后台 CatchAdmin V5.4.0 发布，新增短信服务能力 介绍 CatchAdmin 是一款基于 Laravel 13.x 和 Vue 3 二次开发的开源 PHP 后台管理系统，采用前后端分离架构，面向企业级后台场景提供开箱即用的基础能力与可扩展的模块化框架。V5.4.0 的运行环境要求 PHP 8.3 及以上。 系统内置了后台常用的全套能力：......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-01 22:22:15",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
       "link": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
       "summary": "\nWhen large language models (LLMs) hallucinate, developers typically assume the model lacks the required facts. Engineering teams diagnose the error as missing knowledge. The standard response is to i...",
@@ -947,17 +969,6 @@
       "pubDate": "2026-09-01 19:10:36",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Research roundup: 7 cool science stories we almost missed",
-      "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
-      "summary": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-01 19:06:10",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/blackholestar1-500x500.jpg"
     },
     {
       "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
@@ -982,50 +993,6 @@
       "thumbnail": ""
     },
     {
-      "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
-      "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
-      "summary": "Historically, state health departments determine cases and deaths, not the CDC....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-01 18:21:16",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-500x500.jpg"
-    },
-    {
-      "title": "IEEE President’s Note: Technology for Social Good",
-      "link": "https://spectrum.ieee.org/president-ieee-note-september-2026",
-      "summary": "\nAcross IEEE, our strength lies not only in the excellence of our individual communities but also in our ability to bring them together around shared problems that demand interdisciplinary solutions. ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-01 18:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/person-wearing-a-scarf-over-a-dark-sweater-with-a-blue-background.png?id=65004859&width=1245&height=700&coordinates=0%2C119%2C0%2C120"
-    },
-    {
-      "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
-      "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
-      "summary": "New features are rolling out across the Android ecosystem starting today....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-01 18:00:02",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-500x500-1749567268.jpg"
-    },
-    {
-      "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
-      "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
-      "summary": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-01 17:51:17",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-logo-500x500-1788283702.jpg"
-    },
-    {
       "title": "Making the AI-powered case for legacy modernization",
       "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
       "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could...",
@@ -1045,17 +1012,6 @@
       "region": "us",
       "pubDate": "2026-09-01 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MIT_TR_Uri_Moaz-177-thumb.jpg?w=840"
-    },
-    {
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "link": "https://www.qbitai.com/2026/09/482512.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-01 12:02:39",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -1067,18 +1023,7 @@
       "region": "us",
       "pubDate": "2026-09-01 09:00:00",
       "category": "other",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/IMG_9577-2.jpg?w=840"
-    },
-    {
-      "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
-      "link": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
-      "summary": "\nFor many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South, in New Jersey, the break allows her to ramp up ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-31 18:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-teenage-girl-smiling-as-she-stands-in-front-of-a-table-displaying-her-kelvin-water-dropper-project.jpg?id=67701388&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+      "thumbnail": ""
     },
     {
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -1092,50 +1037,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
-      "link": "https://spectrum.ieee.org/europes-ai-drive",
-      "summary": "\nThis story was originally published by Tech Policy Press.\nThe European Union’s push for technological sovereignty faces an uncomfortable contradiction.\nAs the E.U. rolls out AI factories, gigafactori...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-31 14:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-microchip-with-eu-flag-symbols.jpg?id=67681157&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
-    },
-    {
-      "title": "The First Battery Was Inspired By a Dead Frog",
-      "link": "https://spectrum.ieee.org/voltaic-pile-first-battery",
-      "summary": "\nIn a display case on the lower level of the Faraday Museum at the Royal Institution in London, there’s an unassuming stack of gray metal discs and blotting paper. It’s not at all obvious that this hu...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-31 12:00:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-collage-of-historic-images-showing-two-men-in-18th-century-garb-with-background-illustrations-of-a-device-with-two-columns-and.jpg?id=67685016&width=1245&height=700&coordinates=0%2C113%2C0%2C114"
-    },
-    {
-      "title": "Noodling on Nuclear Engines",
-      "link": "https://spectrum.ieee.org/bimodal-nuclear-engine",
-      "summary": "\nOne day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a napkin to sketch out what would become Compaq’s portable PC. In 1996...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-29 15:35:01",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/hand-drawn-schematic-of-turbine-powered-heat-pipe-system-with-labeled-components.png?id=67675201&width=1245&height=700&coordinates=0%2C145%2C0%2C145"
-    },
-    {
-      "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
-      "link": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
-      "summary": "\nWhile walking to school as a child, Jernej Barbič would marvel at how beautiful his home was. He was born and raised in a picturesque village in northwestern Slovenia (formerly Yugoslavia), located i...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-28 18:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-white-man-in-business-casual-attire-seated-at-his-desk-with-a-laptop-and-desktop-computer-each-playing-a-different-movie-on-t.jpg?id=67690500&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
-    },
-    {
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
       "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —A...",
@@ -1144,7 +1045,7 @@
       "region": "us",
       "pubDate": "2026-08-28 12:35:27",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Neanderthals_finals-top.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "How to sign up for a virtual power plant—and decide whether you should",
@@ -1167,17 +1068,6 @@
       "pubDate": "2026-08-27 19:48:13",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Make a Portable Wide-screen Mechanical TV",
-      "link": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-      "summary": "\nI never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-08-27 14:46:56",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=1245&height=700&coordinates=0%2C17%2C0%2C17"
     }
   ]
 }
