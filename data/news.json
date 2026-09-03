@@ -1,7 +1,348 @@
 {
-  "updateTime": "2026-09-03T04:12:39.920Z",
-  "total": 97,
+  "updateTime": "2026-09-03T09:34:13.933Z",
+  "total": 107,
   "news": [
+    {
+      "title": "外资零售开启在华“二次进化”",
+      "link": "https://www.tmtpost.com/8125582.html",
+      "summary": "不同于早年大店扩张、全域铺货的粗放模式，本轮外资的集体入局不再是简单的业态复刻，而是一场模式轻量化、品类精细化、运营本土化的整体重构，也意味着外资零售品牌进入了深度本土化的全新发展周期。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 06:31:48",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软 VS Code 纪录片明日开播，聚焦 10 年演变与 AI 适配",
+      "link": "https://www.ithome.com/0/997/907.htm",
+      "summary": "\nIT之家 9 月 3 日消息，科技媒体 Neowin 昨日（9 月 2 日）发布博文，报道称微软发布 1.136 版 Visual Studio Code 后，宣布将推出官方纪录片《The Story of VS Code》。\nIT之家附上《The Story of VS Code》预告片如下：\n\n该纪录片将于太平洋时间 9 月 4 日周五 8:00（北京时间明日周五晚上 23:00）通过 Vi...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 06:21:01",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/62fbbc0c-a48b-4a78-bd18-cd64f3fa49e3.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "分形工艺推出 Radius 处理器 AIO 液冷：管内走线 + 菊链风扇",
+      "link": "https://www.ithome.com/0/997/906.htm",
+      "summary": "\nIT之家 9 月 3 日消息，Fractal Design（分形工艺）昨日宣布推出处理器一体式 (AIO) 液冷散热器新品 Radius。这一新品可选 240 与 360 版本，提供 RGB 与非 RGB 款式。\n\nRadius 系列在提供良好性能的同时采用了预装风扇、预涂导热膏的 DIY 友好设计，管内走线、菊链风扇、旋转水泵盖以及 Adjust Pro 网页端灯效控制则进一步改善了使用体验。...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 06:20:36",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/4ff612fb-e144-4821-bb03-00c9cb5859c7.jpg"
+    },
+    {
+      "title": "雷军：小米 18 Fold 中折叠手机官宣搭载徕卡专业三摄，拥有光学 Summilux 镜头",
+      "link": "https://www.ithome.com/0/997/905.htm",
+      "summary": "\nIT之家 9 月 3 日消息，小米官方今日宣布，小米 18 Fold 中折叠手机搭载徕卡专业三摄，通过徕卡光学 Summilux 镜头可实现画质纯净通透。具体配置如下：\n\n徕卡 2 亿超清主摄，1/1.56″大底传感器，细节拉满\n徕卡 5000 万潜望长焦，3.5 倍光学变焦，人景皆宜\n徕卡 5000 万超广角，宽广视野，张力十足\n\n\n据介绍，小米 18 Fold 中折叠手机采用极窄四等边 + ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 06:16:31",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/6ff4cd33-c30f-4b98-8c00-de989d93c06d.png"
+    },
+    {
+      "title": "韩国电力公社提议三星电子、SK 海力士支付合计 25 万亿韩元预付款",
+      "link": "https://www.ithome.com/0/997/888.htm",
+      "summary": "\nIT之家 9 月 3 日消息，据韩媒《朝鲜日报》当地时间今日报道，韩国电力公社 (KEPCO) 近期向三星电子、SK 海力士提议分别收取 20 万亿韩元（现汇率约合 980.6 亿元人民币）与 5 万亿韩元（现汇率约合 245.15 亿元人民币）的预付款（IT之家注：合计的 25 万亿韩元在当前汇率下约合 1,225.75 亿元人民币）。\n根据韩国电力公社的计划，本次预付协议覆盖 2027~20...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 06:03:44",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/35ba102e-a96b-4137-a962-8c2d270d24dc.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "微软承认 Win11 八月可选更新导致光标样式失效 / 桌面壁纸黑屏",
+      "link": "https://www.ithome.com/0/997/882.htm",
+      "summary": "\nIT之家 9 月 3 日消息，微软于 9 月 1 日更新 Windows 健康控制台，承认适用于 Windows 11 的 8 月可选更新存在光标样式失效问题，并已确认问题根源。\nWindows 11 26H1 安装 8 月可选更新 KB5120996 后版本号升至 Build 28000.2804；而 24H2/25H2 安装 KB5120998 后版本号升至 26x00.9278。\nIT之家...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 06:01:42",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/c7f35fd0-bea9-4db3-9e3e-efaa33d6f7a8.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "充 1000 元到账 26419933 亿余元：平台误将账号当成充值金额，用户挥霍 25 万后法院判决需返还",
+      "link": "https://www.ithome.com/0/997/879.htm",
+      "summary": "\nIT之家 9 月 3 日消息，在网络平台交易中，商家操作失误多充值金额到消费者账户，面对账户内不属于自己的充值余额，消费者可以享受“天上掉下来的馅饼”吗？\n湖南长沙宁乡市人民法院 9 月 1 日发文，该法院近日审理并宣判了一起不当得利纠纷案。\n李某因自身网络经营店铺的营销推广需求，多次向上海某科技公司购买推广服务，李某向该公司平台充值后，便可使用该充值金额在平台消费，购买相应服务内容。\n2025...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:59:30",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/c288569e-5ddb-42f6-b25a-ffd4deacc75b.jpg"
+    },
+    {
+      "title": "百年传奇品牌回归：宏碁重启 Packard Bell 复古笔记本，还有 4G 手机、耳机、键鼠等",
+      "link": "https://www.ithome.com/0/997/871.htm",
+      "summary": "\nIT之家 9 月 3 日消息，在本周的 IFA 2026 展会上，宏碁宣布重启 Packard Bell 品牌笔记本，庆祝该品牌迎来一百周年。\nPackard Bell 迎来全新的视觉形象、“科技简易”理念，以及以 14.5 英寸 DotBook 笔记本电脑为首的新产品系列，将于 2026 年第四季度开始在欧洲零售市场上市。\n\n\nPackard Bell 是成立于 1926 年的个人电脑品牌，总...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:43:29",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/73181ab3-4a84-446e-a2f3-a9ed7ae61424.jpg"
+    },
+    {
+      "title": "卢伟冰公布今晚小米 IFA 柏林国际消费电子展直播亮点，称将带来小米汽车的好消息",
+      "link": "https://www.ithome.com/0/997/870.htm",
+      "summary": "\nIT之家 9 月 3 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文，剧透了今晚 IFA 柏林国际消费电子展直播亮点。\n直播过程中：小米 18 Fold，从命名、形态、性能，再到价格，继续给大家爆点料。还有玄戒芯片、小米机器人 CyberOne 海外首秀、以及小米汽车的好消息。\n\n据IT之家昨日报道，卢伟冰表示，今年小米首次参加 IFA 展，也准备了小米史上最大规模的...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:42:52",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/8ce49332-db8d-4112-856d-331fd9cd904a.png"
+    },
+    {
+      "title": "宏碁推出 5G 移动网卡 Connect D5P 与 5G CPE 设备 Connect X6ES",
+      "link": "https://www.ithome.com/0/997/869.htm",
+      "summary": "\nIT之家 9 月 3 日消息，宏碁 (Acer) 昨日在 IFA 2026 前夕发布了 5G 移动网卡 Connect D5P 与 5G CPE 设备 Connect X6ES。\n\nConnect D5P 采用 USB-C 5Gbps 接口，集成 2GB LPDDR4X 与 32GB eMMC。其支持实体 Nano SIM、eSIM、vSIM，预装 eSIM 配置；在 5G SA 模式下可提供 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:42:06",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/8d1b0029-831a-4a7d-81f8-a3b1c3195bd4.png"
+    },
+    {
+      "title": "ATK 烈空幻影 PHANTOM 鼠标发布：44g 轻量设计 + PAW3955MASTER 传感器，首发 439.45 元",
+      "link": "https://www.ithome.com/0/997/867.htm",
+      "summary": "\nIT之家 9 月 3 日消息，ATK 科技今日宣布推出全新的 ATK 烈空幻影 PHANTOM 鼠标，首发到手价为 439.45 元，9 月 9 日正式开售，提供沙丘、原初、边境、日蚀 4 种配色可选。\n京东 ATK 烈空幻影无线鼠标   【原初白】幻影大师版复合碳纤维轻量化镂空有线 / 无线双模鼠标人体工学电竞办公游戏鼠标 439.45 元直达链接\n2026 年数码家电政府补贴持续进行中，IT...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:39:19",
+      "category": "ai",
+      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/506902/1/12996/240523/6a98f6baF00b4a503/00835a05a092f433.jpg"
+    },
+    {
+      "title": "医美上游最赚钱的逻辑，失效了",
+      "link": "https://www.tmtpost.com/8126803.html",
+      "summary": "价格战、产能折旧和流量成本，正在改写医美行业的赚钱逻辑。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:35:39",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "康诺亚冲刺回A：不缺钱的Biotech，为什么要换一张牌桌？",
+      "link": "https://www.tmtpost.com/8126922.html",
+      "summary": "没有回A的能力，不足以语Biopharma。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:35:28",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Gemini 3.8 Flash：谷歌把价格战打进了token消耗层",
+      "link": "https://www.tmtpost.com/8126955.html",
+      "summary": "单价没变，账单先涨四成。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:35:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sam Altman最新长谈：过去一年走了弯路，将砍掉支线任务，打造超级大一统Agent",
+      "link": "https://www.tmtpost.com/8127005.html",
+      "summary": "ChatGPT与Codex即将迎来的大一统融合。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:35:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "上头AI裁员的老板里，超过一半都后悔了",
+      "link": "https://www.tmtpost.com/8127002.html",
+      "summary": "AI裁员后遗症比想象中来得更快。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:23:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "MiniMax、阿里同时布局视频Agent，拼完模型开始拼工作流？",
+      "link": "https://www.tmtpost.com/8126960.html",
+      "summary": "当模型能力不再是稀缺资源，谁能掌握从生产到分发的完整链路，谁才能在下一阶段的内容工业变革中占据主动。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:22:55",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "FDE火了，企业会把钥匙交给外人吗？",
+      "link": "https://www.tmtpost.com/8126962.html",
+      "summary": "如果驻场队伍越来越大、合作期限越来越长、客户离开这批人就无法运行，那么FDE只是给传统外包换了一个更昂贵的名字。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 05:22:50",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "HBO Max Promo Code: 50% Off | September 2026",
+      "link": "https://www.wired.com/story/max-promo-code/",
+      "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-03 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg"
+    },
+    {
+      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "link": "https://www.wired.com/story/we-vibe-discount-code/",
+      "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-03 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png"
+    },
+    {
+      "title": "Instacart Promo Code: $15 Off | September 2026",
+      "link": "https://www.wired.com/story/instacart-promo/code/",
+      "summary": "Find the best Instacart promo code for massive savings in September 2026....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-03 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png"
+    },
+    {
+      "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
+      "link": "https://www.wired.com/story/lovehoney-discount-code/",
+      "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-03 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png"
+    },
+    {
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "link": "https://www.wired.com/story/lowes-promo-code/",
+      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-03 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png"
+    },
+    {
+      "title": "Vimeo Promo Codes and Discounts: Up to 40% Off This September 2026",
+      "link": "https://www.wired.com/story/vimeo-promo-code/",
+      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-03 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png"
+    },
+    {
+      "title": "Expedia Coupons: 40% Off",
+      "link": "https://www.wired.com/story/expedia-coupon/",
+      "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-03 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg"
+    },
+    {
+      "title": "Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans",
+      "link": "https://www.wired.com/story/total-wireless-promo-code/",
+      "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-03 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg"
+    },
+    {
+      "title": "Home Chef Promo Codes for September 2026",
+      "link": "https://www.wired.com/story/home-chef-promo-code/",
+      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-03 05:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg"
+    },
+    {
+      "title": "KitchenAid Promo Codes: Save Up to 20%",
+      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-03 05:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg"
+    },
+    {
+      "title": "降价也卖不动，近400万吨小龙虾，都去哪了？",
+      "link": "https://www.tmtpost.com/8126894.html",
+      "summary": "养殖户亏钱、餐厅卖不动了，这些还在不断长出来的小龙虾，究竟去哪了？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 03:41:58",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude把“回忆”砍到2毛5，OpenAI的万亿参数正在失去护城河",
+      "link": "https://www.tmtpost.com/8126479.html",
+      "summary": "一场关于AI\"记性\"的定价战，暴露了Agent商业化的真正底牌。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-03 03:41:52",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+      "link": "https://www.qbitai.com/2026/09/483565.html",
+      "summary": "从工厂一路干到家庭...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-03 03:16:43",
+      "category": "other",
+      "thumbnail": ""
+    },
     {
       "title": "DBErp v3.0.4 发布：新增销售毛利、移动平均成本与 SMTP 邮件服务",
       "link": "https://www.oschina.net/news/502286",
@@ -47,17 +388,6 @@
       "thumbnail": ""
     },
     {
-      "title": "AI的两个世界：高门槛的产业，低门槛的致富故事",
-      "link": "https://www.tmtpost.com/8126269.html",
-      "summary": "进AI要硕博大厂，卖AI课只要零基础。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-03 00:46:13",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/8b96da321a24e6293d7371e982025627_1788396377.jpg"
-    },
-    {
       "title": "RXThinkCMF 敏捷开发框架 ThinkPhp8+AntdVue 版本 v2.6.1 发布",
       "link": "https://www.oschina.net/news/502284",
       "summary": "v2.6.1 更新内容： 1、修复近用户反馈的问题； 一款 PHP 语言基于 ThinkPhp8、Vue3、AntDesign、MySQL 等框架精心打造的一款模块化、插件化、高性能的前后端分离架构敏捷开发框架，可用于快速搭建前后端分离后台管理系统，本着简化开发、提升开发效率的初衷，框架自研了一套个性化的组件，实现了可插拔的组件式开发方式：......",
@@ -80,147 +410,15 @@
       "thumbnail": ""
     },
     {
-      "title": "存力接棒算力：AI智能体把存储推上主战场",
-      "link": "https://www.tmtpost.com/8123421.html",
-      "summary": "当AI智能体开始“记忆”，存储如何接住这场变革？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-03 00:29:57",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/e2708e264d6dedb489c338f0e252ed91_1788395400.png"
-    },
-    {
-      "title": "波音交付最后 3 颗 O3b mPOWER 卫星，完成首批 13 颗卫星星座",
-      "link": "https://www.ithome.com/0/997/739.htm",
-      "summary": "\nIT之家 9 月 3 日消息，波音于当地时间 9 月 2 日宣布，已向卫星通信运营商 SES 交付 O3b mPOWER 星座的最后三颗卫星，标志着该项目初始 13 颗卫星星座的制造与交付工作全部完成。\nIT之家从官方获悉，这三颗卫星计划于本月从美国佛罗里达州太空海岸发射，预计在经过升轨和初始化后于 2027 年正式投入运营。\n\nO3b mPOWER 星座运行于中地球轨道（MEO），采用波音 7...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-03 00:27:10",
-      "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "Edge AI Daily 早报（9月3日）",
-      "link": "https://www.tmtpost.com/8126450.html",
-      "summary": "谷歌发布Agentic Video Understanding降低88%Token，反驳AI泡沫论；Meta推出Muse Code与Muse Voice Transcribe以低价策略切入编程与音频市场；微软主动撤回文本预测功能，反思AI默认状态设计；OpenAI CEO回应耗水争议，澄清单次查询耗水0.32毫升。神经网络理论突破揭示符号系统涌现，存储芯片补贴争论与特朗普双轨战略映射政策与技术博弈...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-03 00:13:57",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/ty5465ejyt3.png"
-    },
-    {
-      "title": "全部基于量产原厂状态：全新一汽红旗 H7 插电混动轿车开启最长续航吉尼斯世界纪录挑战",
-      "link": "https://www.ithome.com/0/997/738.htm",
-      "summary": "\nIT之家 9 月 3 日消息，一汽红旗官方昨晚宣布，全新红旗 H7 正式向「驾驶插电混动量产轿车满油满电零补能行驶最远距离」吉尼斯世界纪录称号发起挑战。\n\n据介绍，本次挑战，全新红旗 H7 将横跨滇、桂、粤三省，一路穿越多样地貌，面对高温炙烤、降雨湿滑、连续爬坡、城市拥堵等多重极端环境和路况，把日常长途出行会遇到的各类难题全部拉满。\n一汽红旗官方表示，从高原山地到滨海平原，温差起伏、路况多变，每...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-03 00:09:53",
+      "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+      "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+      "summary": "\nGoogle keeps cranking out Flash models: the company on Wednesday announced two versions of a new 3.8 Flash. \nThe variants include a standard Flash, a “workhorse” model for agentic tasks, software dev...",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "region": "us",
+      "pubDate": "2026-09-03 00:02:18",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "探索太阳风暴早期预警：AI 提前 9.24 小时捕捉太阳活动区信号",
-      "link": "https://www.ithome.com/0/997/737.htm",
-      "summary": "\nIT之家 9 月 3 日消息，科技媒体 SciTech 昨日（9 月 2 日）发布博文，报道称由美国新泽西理工学院（NJIT）牵头的科研团队发布最新研究，成功打造出机器学习模型 EarlyDetect，可从太阳声学活动和磁场变化中识别活动区形成前兆。\nIT之家援引博文介绍，太阳活动区是太阳表面磁场强烈的区域，太阳黑子通常在其中形成。活动区开始浮现可能只需数小时，但完整发展过程通常需要 1 到数天...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-03 00:08:09",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "任天堂 Switch 2 独占：双人合作游戏《轨道双子星》今日发售，致敬 80 年代经典动画",
-      "link": "https://www.ithome.com/0/997/736.htm",
-      "summary": "\nIT之家 9 月 3 日消息，由独立游戏团队 Shapefarm 打造、Kepler Interactive 发行的复古动漫风双人合作冒险游戏《轨道双子星》（Orbitals）今日正式发售，独占登陆 Nintendo Switch 2 平台。\n该作采用虚幻引擎 5 开发，支持简体中文、繁体中文、英文及日文等语言，并配有中文配音。游戏标准版售价 299 港币（IT之家注：现汇率约合 256.9 元...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-03 00:02:44",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "IT早报 0903：上市两周宇树科技股价腰斩；星宇股份董事长就劝退应届生事件致歉；小米 18 Fold 中折叠手机官宣；豆包手机二代计划 9 月开售...",
-      "link": "https://www.ithome.com/0/997/735.htm",
-      "summary": "\n“IT早报”时间，大家好，现在是 2026 年 9 月 3 日星期四，今天的重要科技资讯有：\n1. A 股“人形机器人第一股”宇树科技股价腰斩\nA 股“人形机器人第一股”宇树科技 9 月 2 日股价跌超 4%，截至IT之家发文，宇树科技每股已跌至 550 元以下，相比首日开盘最高 1100 元 / 股已经股价腰斩。&gt;&gt; 查看详情\n2. 星宇股份董事长周晓萍回应劝退应届生事件：公司深刻...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 23:57:20",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "联合国报告：全球变暖超过 1.5℃ 已经不可避免",
-      "link": "https://www.ithome.com/0/997/734.htm",
-      "summary": "\nIT之家 9 月 3 日消息，联合国环境规划署昨日（9 月 2 日）发布《限制超调》报告，指出全球气温升高超过《巴黎协定》中的 1.5 °C 控制目标已不可避免。\n报告指出全球平均气温升幅可能在未来几年超过工业化前水平 1.5°C，即使在最乐观的情况下，全球气温也将升高至少 1.8°C。升温超过 1.5°C 后，极端天气、生态系统损失、低洼沿海城市和小岛屿国家被淹风险将加剧。\n\n报告提出“超调、...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 23:55:29",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "OPPO 卓世杰否认 Find X10 Pro Max 手机外观泄密图：比这好看",
-      "link": "https://www.ithome.com/0/997/733.htm",
-      "summary": "\nIT之家 9 月 3 日消息，有博主放出了最新 OPPO Find X10 Pro Max 外观泄密图。画面显示，新机哈苏定制款有全新白色，同时摄像头模组印有 LUMO 凝光影像标识。\n不过 OPPO Find 系列产品负责人卓世杰很快对此进行了否认，并直言：“比这好看。”\n\nOPPO 首席产品官、一加创始人刘作虎在 8 月 28 日宣布，OPPO 发布新一代 ProXDR 技术。刘作虎还官宣了...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 23:53:36",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "纽约时报诉 OpenAI 案升级：美国司法部首次就 AI 版权问题公开表态，主张 AI 训练属“合理使用”",
-      "link": "https://www.ithome.com/0/997/732.htm",
-      "summary": "\nIT之家 9 月 3 日消息，美国司法部（DOJ）当地时间 9 月 1 日向曼哈顿联邦法院提交了一份“利益声明”，正式介入《纽约时报》诉 OpenAI 版权侵权案。\n美国司法部明确支持 OpenAI 的立场，主张 AI 公司使用受版权保护的材料训练大语言模型属于“合理使用”范畴，不构成版权侵权。这份文件由美国副司法部长斯坦利 · 伍德沃德（Stanley Woodward Jr.）等人签署。\n\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 23:50:05",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "没有黑色：苹果 iPhone 18 Pro / Max 三种颜色卡托曝光",
-      "link": "https://www.ithome.com/0/997/731.htm",
-      "summary": "\nIT之家 9 月 3 日消息，消息源 @SonnyDickson 昨日（9 月 2 日）转发科技媒体 @MacRumors 推文，分享了苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的 SIM 卡托，预估苹果 2026 年旗舰手机只有 3 种颜色。\n@MacRumors 在博文中，爆料称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 上市后可...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 23:44:03",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "5G、麒麟双回归！华为 nova 16s Pro 新机海外发布，搭载 Kirin 9010S 处理器",
-      "link": "https://www.ithome.com/0/997/730.htm",
-      "summary": "\nIT之家 9 月 3 日消息，华为昨日在德国慕尼黑举行全球新品发布会，推出了 nova 16s Pro 手机，主打 2 亿像素 RYYB 超大传感器摄像头、前后真实彩色相机（预计为红枫原色镜头）以及 7000mAh 大电池。\n\n据介绍，nova 16s Pro 配备一块 6.84 英寸圆角设计 OLED 屏幕，分辨率为 FHD+（2856×1320），支持 1-120 Hz LTPO 自适应刷新...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-02 23:33:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "【钛晨报】央行行长潘功胜出席G20财长和央行行长会议，强调继续实施好适度宽松的货币政策；CrowdStrike与OpenAI扩大合作；港股通买入Minimax规模超越阿里巴巴和腾讯",
-      "link": "https://www.tmtpost.com/8126299.html",
-      "summary": "中国团队在自主超导量子计算机上实现新突破，传输效率高达98%；畅销书《富爸爸穷爸爸》作者自曝负债12亿美元；燧原科技：科创板IPO网上发行最终中签率0.02455315%；国家能源局召开新型电网建设工作部署会，加快输电通道等重大电网工程核准建设；Uber将裁减约3300个岗位，寻求精简管理层级；Kimi API已原生支持Codex和Claude Code...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 23:20:00",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/a340e34ed6c3479715a1be2232ba47f2_1788361456.jpg"
     },
     {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
@@ -267,17 +465,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are",
-      "link": "https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/",
-      "summary": "Amazon just hiked prices on Kindles, Echo speakers, Eero routers, and Fire TV devices ahead of the holiday shopping season....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-02 22:23:26",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a98485377625f71bd332e04/master/pass/Amazon-Raised-Its-Prices.-Don%E2%80%99t-Let-the-Next-Sale-Fool-You.jpg"
-    },
-    {
       "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
       "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
       "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors....",
@@ -320,17 +507,6 @@
       "pubDate": "2026-09-02 21:05:59",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
-      "link": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
-      "summary": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-02 21:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a9753168e71dd67ca5defbc/master/pass/politics_democrats_prosecute_trump_family.jpg"
     },
     {
       "title": "I rented a car, and within hours, my driver's license was for sale",
@@ -388,6 +564,17 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/robocall-blocking-500x500-1788376262.jpg"
     },
     {
+      "title": "Applying Different Forms of Mentorship",
+      "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
+      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-09-02 19:45:58",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+    },
+    {
       "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
       "link": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
       "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"...",
@@ -443,39 +630,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-02 18:41:02",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a9847e0838ebf1a08f58e12/master/pass/GettyImages-2214107176.jpg"
-    },
-    {
-      "title": "ICE Plans to Pay $5 Million to Create National Voting Database",
-      "link": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/",
-      "summary": "As part of a broader DHS surge to investigate alleged voter fraud, ICE has announced it plans to pay up to $5 million to create what amounts to a federal voter database....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-02 18:32:01",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a982e027b4ef34fe0b39044/master/pass/GettyImages-2287296637.jpg"
-    },
-    {
-      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-      "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-02 18:20:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/master/pass/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg"
-    },
-    {
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
       "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
       "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today....",
@@ -485,6 +639,17 @@
       "pubDate": "2026-09-02 18:13:54",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-500x500.jpg"
+    },
+    {
+      "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
+      "link": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
+      "summary": "\nIn the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-09-02 18:00:03",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/close-up-of-an-extended-robotic-arm-in-low-earth-orbit.jpg?id=67717218&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     },
     {
       "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
@@ -597,17 +762,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
-      "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-02 15:51:46",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a95faca62c1ea4a51e42ed9/master/pass/Two-AI-Bots-Talking-to-Each-Other-Business-dv1959057.jpg"
-    },
-    {
       "title": "Google is sending MrBeast into the wilderness, armed with AI",
       "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
       "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donalds...",
@@ -663,17 +817,6 @@
       "thumbnail": ""
     },
     {
-      "title": "渠道库存加速去化，线上营收增长15%，古井贡酒“挤水分”信号明确 | 看财报",
-      "link": "https://www.tmtpost.com/8125053.html",
-      "summary": "“轻装上阵”获市场重估。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 13:49:08",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/12a5571d58995f5995792de103cf6616_1788356950.png"
-    },
-    {
       "title": ":exclamation:️极速开源后台框架 FastAdmin V1.6.6 正式版（安全更新）",
       "link": "https://www.oschina.net/news/502279",
       "summary": "FastAdmin 是专为开发者精心打造的一款开源后台框架，高效且可以免费商用。 努力为开发者节省时间，让大家有更多的时间读书、健身、开源、投资、旅行，以及帮朋友和陪家人。 极速开源后台框架 FastAdmin V1.6.6 正式版发布，强烈建议更新升级。 最新版下载地址： https://www.fastadmin.net/download.html 更新日志如下 ......",
@@ -683,39 +826,6 @@
       "pubDate": "2026-09-02 13:40:33",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "China's Humanoid Robots Industry Enters the Era of “Public Infrastructure”",
-      "link": "https://www.tmtpost.com/8126318.html",
-      "summary": "China's robotics industry is changing the way it survives and operates....",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 13:37:06",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/8d12df06e438c0da3500c6884d55b666_1788356226.png"
-    },
-    {
-      "title": "AI 落地东盟，30% 是技术和算法，70% 是人 | AIMX Singapore 2026 现场观察",
-      "link": "https://www.tmtpost.com/8124464.html",
-      "summary": "上海证明的是中国 AI 能站上多高的舞台，金沙检验的是它能不能进别人的预算表。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 13:34:12",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/20260901144935589.jpg"
-    },
-    {
-      "title": "Humanoid Robots Still Can’t Prop up Geek+",
-      "link": "https://www.tmtpost.com/8126302.html",
-      "summary": "The core business remains solid, but the second growth driver hasn’t worked yet....",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 13:31:03",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t43y54htrtg3.png"
     },
     {
       "title": "openKylin 3.0安全工具上新：Platform Security Patrol 一键完成CPU安全体检",
@@ -740,6 +850,17 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/locust-laser-500x500.jpg"
     },
     {
+      "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
+      "link": "https://spectrum.ieee.org/ai-engineer-skills",
+      "summary": "\nA little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-09-02 13:00:04",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/human-and-robotic-hands-share-a-caliper-over-technical-engineering-blueprints.png?id=67702640&width=1245&height=700&coordinates=0%2C194%2C0%2C195"
+    },
+    {
       "title": "The Download: AI puzzles and a path to our nearest star system",
       "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any bett...",
@@ -749,17 +870,6 @@
       "pubDate": "2026-09-02 12:10:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "The Cybercab Is Almost Here. Now Comes the Hard Part",
-      "link": "https://www.wired.com/story/here-comes-the-tesla-cybercab/",
-      "summary": "The electric-auto maker will officially debut its steering-wheel-free robotaxi on Thursday. But building the vehicle is the easy part....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-02 11:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a9737841b1c34eff9cd25ce/master/pass/GettyImages-2259673201.jpg"
     },
     {
       "title": "李飞飞旗下 AI 实验室 World Labs 发布 Atlas：从几张照片重建 3D 世界",
@@ -795,39 +905,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-500x500.jpg"
     },
     {
-      "title": "Best Sony Headphone Deals: WH-1000XM5 and More (2026)",
-      "link": "https://www.wired.com/story/sony-headphone-deals-september-2026/",
-      "summary": "Our favorite Sony headphones are on sale, with discounts of up to 50 percent on top models....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-02 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a9722800b666cfc32288461/master/pass/Our-Favorite-Sony-Headphones-Are-50-Percent-Off.jpg"
-    },
-    {
-      "title": "库克和特努斯谁更难？",
-      "link": "https://www.tmtpost.com/8124886.html",
-      "summary": "对于普通人来说，可以喜欢天才的偏执与傲慢，但库克的故事，也许更有参考价值。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 10:55:37",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/3r2egf3.png"
-    },
-    {
-      "title": "Claude Desktop 被 Ollama 偷梁换柱",
-      "link": "https://www.tmtpost.com/8125118.html",
-      "summary": "第三方模型绕过限制入驻 Claude...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-02 10:54:44",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/26c676a000df7314bf503bcde1422bfa_1788346488.png"
-    },
-    {
       "title": "灵界 OS v3.0.1 发布，优化文件管理器交互体验与兼容性。",
       "link": "https://www.oschina.net/news/502275",
       "summary": "灵界 OS v3.0.1 发布，优化文件管理器交互体验与兼容性。 本次更新主要提升日常使用的稳定性和可靠性： 1. 文件管理器新增删除确认弹窗 删除文件或文件夹时，会弹出确认提示，避免误触导致数据丢失。 2. 修复多处兼容性问题 针对不同设备和浏览器环境进行了适配优化，系统运行更加稳定。 3. 细节体验优化 修复了部分界面......",
@@ -837,28 +914,6 @@
       "pubDate": "2026-09-02 10:27:05",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
-      "summary": "Meet the AI police who can make or break careers—in publishing and beyond....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-02 10:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a96e7a402072373527ca410/master/pass/09012026-pangram-main.gif"
-    },
-    {
-      "title": "The 42 Best Deals From the REI Labor Day Sale",
-      "link": "https://www.wired.com/story/rei-labor-day-sale-2026/",
-      "summary": "Labor Day already? Say it ain’t so. You can still chase summer a while longer with these great deals on outdoor gear at the REI Labor Day Sale....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-02 09:36:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a90af577c6f6af27c88297f/master/pass/The-31-Best-Deals-From-the-REI-Labor-Day-Sale.jpg"
     },
     {
       "title": "AI 应用皆可报名，我们把大赛门槛打下来了",
@@ -938,17 +993,6 @@
       "thumbnail": ""
     },
     {
-      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-      "link": "https://www.qbitai.com/2026/09/482855.html",
-      "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-02 02:06:08",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
       "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
       "link": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
       "summary": "\nWhen large language models (LLMs) hallucinate, developers typically assume the model lacks the required facts. Engineering teams diagnose the error as missing knowledge. The standard response is to i...",
@@ -982,15 +1026,15 @@
       "thumbnail": ""
     },
     {
-      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
-      "link": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
-      "summary": "\nIt's only the first day of September 2026, but the month and fall season are already off to the races in AI land, as Anthropic has just released its latest and most powerful large language models yet...",
-      "source": "VentureBeat",
-      "sourceKey": "venturebeat",
+      "title": "IEEE President’s Note: Technology for Social Good",
+      "link": "https://spectrum.ieee.org/president-ieee-note-september-2026",
+      "summary": "\nAcross IEEE, our strength lies not only in the excellence of our individual communities but also in our ability to bring them together around shared problems that demand interdisciplinary solutions. ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-09-01 18:41:21",
+      "pubDate": "2026-09-01 18:00:04",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/person-wearing-a-scarf-over-a-dark-sweater-with-a-blue-background.png?id=65004859&width=1245&height=700&coordinates=0%2C119%2C0%2C120"
     },
     {
       "title": "Making the AI-powered case for legacy modernization",
@@ -1026,6 +1070,17 @@
       "thumbnail": ""
     },
     {
+      "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
+      "link": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
+      "summary": "\nFor many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South, in New Jersey, the break allows her to ramp up ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-31 18:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-teenage-girl-smiling-as-she-stands-in-front-of-a-table-displaying-her-kelvin-water-dropper-project.jpg?id=67701388&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+    },
+    {
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur...",
@@ -1035,6 +1090,50 @@
       "pubDate": "2026-08-31 18:00:00",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
+      "link": "https://spectrum.ieee.org/europes-ai-drive",
+      "summary": "\nThis story was originally published by Tech Policy Press.\nThe European Union’s push for technological sovereignty faces an uncomfortable contradiction.\nAs the E.U. rolls out AI factories, gigafactori...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-31 14:00:04",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-microchip-with-eu-flag-symbols.jpg?id=67681157&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+    },
+    {
+      "title": "The First Battery Was Inspired By a Dead Frog",
+      "link": "https://spectrum.ieee.org/voltaic-pile-first-battery",
+      "summary": "\nIn a display case on the lower level of the Faraday Museum at the Royal Institution in London, there’s an unassuming stack of gray metal discs and blotting paper. It’s not at all obvious that this hu...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-31 12:00:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-collage-of-historic-images-showing-two-men-in-18th-century-garb-with-background-illustrations-of-a-device-with-two-columns-and.jpg?id=67685016&width=1245&height=700&coordinates=0%2C113%2C0%2C114"
+    },
+    {
+      "title": "Noodling on Nuclear Engines",
+      "link": "https://spectrum.ieee.org/bimodal-nuclear-engine",
+      "summary": "\nOne day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a napkin to sketch out what would become Compaq’s portable PC. In 1996...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-29 15:35:01",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/hand-drawn-schematic-of-turbine-powered-heat-pipe-system-with-labeled-components.png?id=67675201&width=1245&height=700&coordinates=0%2C145%2C0%2C145"
+    },
+    {
+      "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
+      "link": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
+      "summary": "\nWhile walking to school as a child, Jernej Barbič would marvel at how beautiful his home was. He was born and raised in a picturesque village in northwestern Slovenia (formerly Yugoslavia), located i...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-28 18:00:04",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-white-man-in-business-casual-attire-seated-at-his-desk-with-a-laptop-and-desktop-computer-each-playing-a-different-movie-on-t.jpg?id=67690500&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
     },
     {
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
@@ -1068,6 +1167,17 @@
       "pubDate": "2026-08-27 19:48:13",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Make a Portable Wide-screen Mechanical TV",
+      "link": "https://spectrum.ieee.org/mechanical-tv-2677767814",
+      "summary": "\nI never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-08-27 14:46:56",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=1245&height=700&coordinates=0%2C17%2C0%2C17"
     }
   ]
 }
