@@ -1,7 +1,326 @@
 {
-  "updateTime": "2026-09-08T14:19:02.143Z",
+  "updateTime": "2026-09-08T18:27:08.817Z",
   "total": 100,
   "news": [
+    {
+      "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misl...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-08 17:27:31",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nintendo isn’t scared of GTA VI",
+      "link": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
+      "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-08 17:13:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-08 16:42:05",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6aa02435e4af4176b7305e6a/master/pass/OpenAI-Antrophic-MathProblem.jpg"
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-08 16:20:31",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
+      "link": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
+      "summary": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-08 16:06:56",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The White House pulls its racist Tetris clone",
+      "link": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
+      "summary": "The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade\" games, as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved st...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-08 16:00:51",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
+      "link": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
+      "summary": "The competition is “absolutely welcome” by the pioneering Korean giant, but Samsung warns that the device’s “weight” is crucial....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-08 16:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a9a9f34f91d7f394a999078/master/pass/DSC_9107.jpg"
+    },
+    {
+      "title": "消息称 WhatsApp 将支持第三方 AI 智能体，顺应时代潮流",
+      "link": "https://www.ithome.com/0/999/948.htm",
+      "summary": "\nIT之家 9 月 8 日消息，据科技媒体 WABetaInfo 上周（9 月 4 日）报道，WhatsApp 即将支持第三方 AI 智能体。\nIT之家从原报道获悉，当 OpenClaw 等人工智能助手出现时，许多用户尝试将这些 AI 智能体当作机器人连接到 WhatsApp，但很多情况下都会导致封号。\n对比之下，Telegram 选择拥抱时代趋势，后续逐渐成为用户与 AI 智能体聊天的主要平台之...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-08 15:36:33",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "从今天开始，谷歌 Chrome 浏览器两周一更",
+      "link": "https://www.ithome.com/0/999/947.htm",
+      "summary": "\nIT之家 9 月 8 日消息，谷歌宣布，Chrome 浏览器从本月开始将两周更新一次，相比此前的每月更新一次有所调整。\n\n谷歌表示，本次调整发布节奏是为了适应不断变化的互联网环境，确保开发者和普通用户能及时获得最新改进。\n该公司同时透露，此次改变与人工智能没有关系。但在竞争对手不断快速迭代产品的情况下，相信谷歌很难排除这些压力。\nIT之家注意到，本次更新计划将从今天起实施，具体实施平台包括桌面端...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-08 15:28:58",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-08 15:25:35",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "纪录片《马斯克》先导预告片公布，本周威尼斯国际电影节首映",
+      "link": "https://www.ithome.com/0/999/946.htm",
+      "summary": "\nIT之家 9 月 8 日消息，一部以特斯拉 CEO 埃隆 · 马斯克为主题的新纪录片《马斯克》先导预告片今天（8 日）晚间正式公开，结尾呈现了爆炸场面。\n这部即将上映的纪录片由亚历克斯 · 吉布尼执导，本周在威尼斯国际电影节首映。48 秒的先导预告片现已上线流媒体平台。\n\n预告片将火箭发射画面与各方评价马斯克的声音交织在一起：有人称他为“史上最伟大的资本家”，也有人称他为“法西斯分子”。预告片宣...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-08 15:15:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
+      "link": "https://www.ithome.com/0/999/945.htm",
+      "summary": "\nIT之家 9 月 8 日消息，Blackmagic Design 今天发布视频剪辑软件 DaVinci Resolve 21.1，接入多个人工智能助手。\n\n据介绍，本次更新将支持 Claude、Claude Code 和 ChatGPT Codex 等 AI 助手，使用户能够使用自然语言分析项目、整理媒体、调整设置和批量渲染。用户可要求 AI 助手从长视频中剪辑精彩片段、删除不需要的片段或渲染最...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-08 15:12:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pusheen’s first game is coming to Apple Arcade",
+      "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
+      "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-08 15:07:13",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-08 15:04:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "9999 元，索尼首款全画幅鱼眼变焦镜头 8-14mm f/3.5 Fisheye G 发布",
+      "link": "https://www.ithome.com/0/999/944.htm",
+      "summary": "\nIT之家 9 月 8 日消息，索尼今天推出品牌首款全画幅鱼眼变焦镜头 8-14mm f/3.5 Fisheye G（SEL814G），新品主打鱼眼视角，采用轻量化设计，定价 9999 元。\n\n\nIT之家了解到，这款镜头支持圆形鱼眼和对角线鱼眼两种模式，8mm 情况下可将 180° 视角收录进 CMOS，14mm 视角下可收录宽广景物。\n\n\n规格方面，这款镜头采用轻量化设计，重量仅 314g，号称...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-08 15:03:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
+      "link": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
+      "summary": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of th...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-08 15:03:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "任天堂《塞尔达传说》40 周年纪念版 Switch 2 掌机官宣，10 月 29 日发售",
+      "link": "https://www.ithome.com/0/999/943.htm",
+      "summary": "\nIT之家 9 月 8 日消息，今天（8 日）晚间的《塞尔达传说》40 周年任天堂直面会上，任天堂正式公布了《塞尔达传说》主题的 Switch 2 限定版主机及 Switch 2 Pro 手柄。\n\n据IT之家了解，这两款产品均为纪念《塞尔达传说》诞生 40 周年而推出，10 月 29 日发售。Pro 手柄另有附带展示支架的特别版本，仅在任天堂商店销售。\n\n\n任天堂推出《塞尔达传说》主题游戏机已有多...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-08 14:48:41",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "《奇异人生》开发商 Dont Nod 陷财务危机：计划裁员 90 人，可能撑不过明年 1 月",
+      "link": "https://www.ithome.com/0/999/942.htm",
+      "summary": "\nIT之家 9 月 8 日消息，据游戏媒体 VGC 今天报道，法国游戏工作室 Dont Nod Entertainment 表示，公司可能需要裁员最多 90 人，并警告称公司可能面临关闭局面。\n\nIT之家从原报道获悉，Dont Nod 工作室成立于 2008 年，以《奇异人生》系列游戏而闻名。该公司在 2026 年上半年报告中表示，董事会已批准新商业模式，可能导致最多 90 人被裁员。\n该公司在声...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-08 14:45:18",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "任天堂《塞尔达传说：时之笛》重制版实机演示公布，11 月 5 日发售",
+      "link": "https://www.ithome.com/0/999/941.htm",
+      "summary": "\nIT之家 9 月 8 日消息，任天堂今天在新一期直面会公布《塞尔达传说：时之笛》重制版游戏的实机演示，本作将在 2026 年 11 月 5 日发售。\n\n\n官方的演示片段从科奇里森林开始，从画面中我们可以看到，《塞尔达传说：时之笛》重制版将带来更加精致的画面表现，视觉风格相比 N64 原版更加写实。\n\n\nIT之家注意到，本作将加入大量全新对话，充分展现各个角色特性。玩家现在可以按按键让林克主动跳跃...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-08 14:39:55",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "吉利银河战舰 700 将于 9 月 15 日开启预售，首发搭载 AI 新能源越野技术",
+      "link": "https://www.ithome.com/0/999/939.htm",
+      "summary": "\nIT之家 9 月 8 日消息，吉利汽车传播策略部长、吉利银河公关部长 @单爱富William 今天（8 日）晚间宣布，吉利银河战舰 700 将于 9 月 15 日开启全球预售。\n\n据IT之家了解，银河战舰 700 长宽分别为 5085/1999mm，高度提供 1895mm、1912mm、1925mm 不同版本，轴距为 2900mm。\n新车搭载吉利自研的 GVMC 动态控制系统，官方宣称该系统可支...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-08 14:35:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nintendo’s Ocarina of Time remake launches in November",
+      "link": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer",
+      "summary": "Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is laun...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-08 14:26:02",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "谷歌 DeepMind 推出 AlphaGenome Atlas，覆盖人类基因组全部 90 亿种单核苷酸变异预测",
+      "link": "https://www.ithome.com/0/999/937.htm",
+      "summary": "\nIT之家 9 月 8 日消息，谷歌今日推出 AlphaGenome Atlas，这一平台包含了人类基因组中 90 亿种单核苷酸变异（所有可能的单字母 DNA 改变）的功能预测，是目前涵盖基因突变对分子生物学影响最全面的目录，学术界可通过免费门户网站免费使用。\n\nDNA 是生命的语言，掌握其密码能够改变人类理解生物学和治疗疾病的能力，但解读基因变异对分子层面的影响长期存在瓶颈：人类基因组有约 90...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-08 14:20:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-08 14:17:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "A hacker stole $340M in a crypto heist, then returned most of it",
+      "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+      "summary": "The latest heist is one of the largest thefts of cryptocurrency to date....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-08 14:11:29",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+      "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+      "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth. ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-08 14:10:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "A word with a woman who’s trying to pull off a crossbody phone strap",
+      "link": "https://www.theverge.com/tech/990849/crossbody-phone-strap-style",
+      "summary": "Oh, this thing? It's just a crossbody strap. It's a fun and youthful way to carry your phone. It's all the rage with Europeans and young people. I love it, and I definitely don't feel weird and self-c...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-08 14:04:37",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SteelSeries’ pro-grade, wireless Xbox controller sure is expensive",
+      "link": "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features",
+      "summary": "SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's ki...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-08 14:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft breaks another patch Tuesday record",
+      "link": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
+      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-08 14:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
+      "link": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
+      "summary": "The director discusses his debut novel, staying true to an artistic vision, and the absurd line of dialogue from Donnie Darko he believes will find its way into his obituary....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-08 14:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6a9721e89f60dd202db9f3fc/master/pass/Donnie-Darko-25th-Anniversary-Culture-MCDDODA_EC041.jpg"
+    },
     {
       "title": "神剑股份又有高管遭立案背后：元老吴德清学历成谜，国资入主难挽颓势",
       "link": "https://www.tmtpost.com/8133374.html",
@@ -36,6 +355,17 @@
       "thumbnail": "https://spectrum.ieee.org/media-library/two-men-in-dark-blue-shirts-watch-suvs-being-put-together-on-an-assembly-line.jpg?id=67724197&width=1200&height=800&coordinates=62%2C0%2C63%2C0"
     },
     {
+      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+      "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-08 13:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "The Growing Proof That Autonomous Cars Save Lives",
       "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "summary": "\nPlenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, th...",
@@ -56,6 +386,17 @@
       "pubDate": "2026-09-08 12:10:00",
       "category": "ai",
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/custom-story/1116327/images/recirc-1.png"
+    },
+    {
+      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+      "link": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+      "summary": "Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers say they plan to investigate....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-08 12:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6a9b3f0d799e9933049ab28f/master/pass/Security_Meta%20Published%20Ads%20Containing%20CSAM%20of%20Real%20Children_v1.jpg"
     },
     {
       "title": "永和大王母公司冲刺港股IPO，餐饮品牌如何面对破发潮？",
@@ -80,17 +421,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/20260907212847236.jpg"
     },
     {
-      "title": "LG TVs caught spying even when offline or on standby",
-      "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-      "summary": "LG smart TVs are almost constantly logging and uploading data about owners and their homes, even when offline or on standby mode, according to a new report from YouTube channel Gamers Nexus. The compa...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-08 11:30:05",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "How NASA Testing Changed US Food Inspection Forever",
       "link": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
       "summary": "In the early 20th century, public outcry following Upton Sinclair’s The Jungle led to stricter food safety protocols. NASA took them a step further....",
@@ -111,17 +441,6 @@
       "pubDate": "2026-09-08 10:44:55",
       "category": "other",
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/e9b3fb3ef443e6341d0eef80e9f58a72_1788864299.jpg"
-    },
-    {
-      "title": "AI 大幅推高韩国电力需求，政府部门考虑大建核反应堆",
-      "link": "https://www.ithome.com/0/999/887.htm",
-      "summary": "\nIT之家 9 月 8 日消息，据路透社今天（8 日）报道，韩国气候能源环境部长金成焕表示，三星电子和 SK 海力士计划扩大芯片产能，加上新的 AI 数据中心陆续建设，韩国未来几年的电力需求预计将大幅增长。\n金成焕指出，仅 AI 发展带来的新增用电需求就将达到 25 至 30GW。不仅如此，油车向电车转型，以及供暖方式从燃气转向电力，也会进一步推高用电需求。\n韩国政府计划下月更新长期能源路线图，将...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-08 10:41:34",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/67739641-004e-420e-bc18-6086300a96b2.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "This founder is teaching chips how to recycle (their energy)",
@@ -168,17 +487,6 @@
       "thumbnail": ""
     },
     {
-      "title": "LG U+ 在韩国市场推出家庭安保订阅服务“Homecam Lite”，整合监控摄像头及保险",
-      "link": "https://www.ithome.com/0/999/885.htm",
-      "summary": "\nIT之家 9 月 8 日消息，据韩媒 mbiz 报道，LG U+ 宣布在韩国市场推出一项整合了软硬件的家庭安保服务“Homecam Lite”，3 年合约期内月费为 5,500 韩元（IT之家注：现汇率约合 27.5 元人民币）。该服务将家庭摄像头、云端存储空间以及火灾和视频遭黑客攻击损失赔偿保险整合在一起，同时面向其他运营商宽带用户开放。\n\nLG U+ 表示，近年来家庭摄像头的应用场景已不再局...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-08 10:32:42",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/9bce2bea-7748-4811-ab87-49ec9ddaa8ed.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "This geneticist’s age-reversal tech could help restore sight",
       "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
       "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related bli...",
@@ -188,94 +496,6 @@
       "pubDate": "2026-09-08 10:32:00",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "荣耀 Magic 9 系列手机将搭载阿莱电影色彩科学，原生支持 ARRI LogC3 和 AWG3",
-      "link": "https://www.ithome.com/0/999/883.htm",
-      "summary": "\nIT之家 9 月 8 日消息，荣耀官方今天宣布，荣耀 Magic 9 系列手机将搭载阿莱 ARRI 百年沉淀的电影色彩科学。\n\n据介绍，该系列手机将原生支持 ARRI LogC3 对数伽马曲线和 AWG3 广色域，拍摄时完整记录光影色彩信息，让高光不易溢出，色彩细腻不断层；机内支持 ARRI Look，号称无需专业调色，也能拍出电影级画面质感。\n结合IT之家此前援引博主 @数码闲聊站 消息，荣耀...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-08 10:29:21",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/c4662cda-7e81-4066-8fe2-4b202f397103.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "微软 Xbox 确认：《极限竞速：地平线 6》仍将于年内登陆 PS5",
-      "link": "https://www.ithome.com/0/999/882.htm",
-      "summary": "\nIT之家 9 月 8 日消息，微软 Xbox 已确认，《极限竞速：地平线 6》仍将于今年晚些时候登陆 PlayStation 5。\n\nIT之家注意到，去年游戏首次公布时，Xbox 曾确认《极限竞速：地平线 6》将在 Xbox Series X/S 和 PC 平台首发，并在“首发后”登陆 PS5。\n然而此后，Xbox 在管理层和战略方面都发生了重大变化。微软放弃了此前看起来准备让未来所有游戏都走多...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-08 10:28:56",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/425cda55-d0f3-461d-bc05-f4aa63a14681.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "我的信息流我做主：澳大利亚提议赋予社媒用户算法推荐内容选择权",
-      "link": "https://www.ithome.com/0/999/881.htm",
-      "summary": "\nIT之家 9 月 8 日消息，据路透社报道，当地时间 8 日，澳大利亚政府提议赋予社交媒体用户选择信息流内容的权利。这是澳大利亚继推出全球首个儿童社交媒体禁令后，为加强网络安全采取的又一项措施。\n根据中左翼工党政府提出的法律草案，社交媒体平台必须告知用户默认信息流的设置方式，并让用户自行选择是否接受算法推荐。\n用户可以选择让默认信息流继续显示算法推荐的个性化内容，也可以关闭算法推荐，只查看自己主...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-08 10:26:20",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/808834be-9f21-49c6-a120-013a008adea1.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_20,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_8,y_8/format,f_auto"
-    },
-    {
-      "title": "CASETiFY 公布苹果首款折叠屏手机保护壳，并称该机为“iPhone Duo”",
-      "link": "https://www.ithome.com/0/999/880.htm",
-      "summary": "\nIT之家 9 月 8 日消息，手机外设制造商 CASETiFY 近日在其官网上架了苹果首款折叠屏手机保护壳，官方将该机称为“iPhone Duo”，而非前网传的“iPhone Ultra”或“iPhone Fold”，截至IT之家发稿，目前官方又下架了这一保护壳页面。\n\n当然，目前没有任何决定性的证据表明苹果最终会采用“iPhone Duo”这一名称，不过苹果过去也曾使用过 Duo 命名。上世纪...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-08 10:22:37",
-      "category": "energy",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/b5b9115a-bee8-4737-b2da-125c2859ff2f.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "戴森 W1 PencilWash 洗地机首销：支持 180° 真躺平，2499 元",
-      "link": "https://www.ithome.com/0/999/879.htm",
-      "summary": "\nIT之家 9 月 8 日消息，戴森旗下 W1 PencilWash 洗地机现已在京东发售，售价 2499 元，部分地区国补后低至 1997 元。\n京东戴森 W1 PencilWash 轻量洗地机部分地区国补后 1997 元领 150 元券\n\n这款洗地机手持重量 470g（整机 2.65kg），机身直径 38 毫米，支持 180° 真躺平，最薄处 7.5 厘米，可以轻松进入沙发、床等家具底部清洁死...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-08 10:17:05",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/513904/40/7266/12273/6a994408Fc1f6e477/008332032034e021.png"
-    },
-    {
-      "title": "罗技推出 MX Keypad 桌面控制台：9 个自定义全彩 LCD 按键，99 美元",
-      "link": "https://www.ithome.com/0/999/877.htm",
-      "summary": "\nIT之家 9 月 8 日消息，罗技今日宣布推出 MX Keypad 桌面控制台，新品配备 9 个可自定义的全彩 LCD 按键，可应用于启动命令、打开游戏、运行宏，售价 99 美元（IT之家注：现汇率约合 666.1 元人民币）。\n\n据介绍，这款产品面向开发者和 Vibe Coding 打造，用户可通过 Logi Options+ 程序，为每个按键分配快捷键、提示词（Prompt）、脚本和宏。\n\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-08 10:08:07",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/b088d67f-1570-46a9-a987-e9a42f75405f.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "微软升级盖茨愿景：要让每个家庭每张办公桌都拥有不受限制的智能",
-      "link": "https://www.ithome.com/0/999/874.htm",
-      "summary": "\nIT之家 9 月 8 日消息，距离比尔 · 盖茨正式与微软切断所有企业层面的关系已经过去 6 年多，但 40 年前由他提出的愿景，如今仍在发挥作用，只不过微软已经为其赋予了更加宏大的目标。\n\n“如果你还记得比尔 · 盖茨担任微软掌舵人时的愿景，那就是让每张办公桌、每个家庭都拥有一台 PC。”微软 Windows 与设备销售企业副总裁 Mark Linton 在 IFA 2026 现场向观众表示。...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-08 10:06:27",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/691c567e-904a-4d4e-b167-6894d025c6ae.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "东风日产高管孙豪“全程学习”小米澎程发布会，大赞定义、理念值得所有车企学习",
-      "link": "https://www.ithome.com/0/999/873.htm",
-      "summary": "\nIT之家 9 月 8 日消息，东风日产汽车销售有限公司市场部部长 @东风日产孙豪 昨天（7 日）晚间在微博透露自己全程学习了小米澎程发布会，大赞澎程车型“产品力超优秀，空间之王实至名归”。“正向、突破、创新的商品定义和开发理念更是值得所有车企学习…… 优秀企业一起共进！”\n同时，他还放出了一张用 AI 制作的海报“给自己也打个广告”，其中除了小米澎程 N70 外，还展示了东风日产自家的新能源 S...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-08 10:04:07",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/58191ff2-ec28-4a28-b82a-9e1147270264.png?x-bce-process=image/format,f_auto"
     },
     {
       "title": "确定的智谱，不确定的MiniMax",
@@ -396,17 +616,6 @@
       "region": "cn",
       "pubDate": "2026-09-08 07:13:19",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
-      "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
-      "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it loo...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-08 07:00:00",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -553,37 +762,15 @@
       "thumbnail": ""
     },
     {
-      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
-      "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
-      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-08 02:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le Creuset x Star Trek Collection: Prices, availability, release date",
+      "title": "Le Creuset x Star Trek Collection: Prices, Availability, Release Date",
       "link": "https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/",
-      "summary": "Vulcan oven mitts, spaceship baking dishes, and an out-of-this-world communicator grater—you'll need warp speed to Klingon to this limited edition kitchen kit, ideal for perfecting the broth of Khan....",
+      "summary": "Vulcan oven mitts, spaceship baking dishes, and an out-of-this-world communicator grater—you'll need warp speed to Klingon to this limited-edition kitchen kit, ideal for perfecting the broth of Khan....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-09-07 23:00:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6a9ebac0cc808342636de78d/master/pass/StarTrekLeCreu.jpg"
-    },
-    {
-      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-      "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want som...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-07 20:03:41",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -594,17 +781,6 @@
       "region": "us",
       "pubDate": "2026-09-07 19:24:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-07 18:02:29",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -630,61 +806,6 @@
       "thumbnail": "https://media.wired.com/photos/6a9b0a92df1ff8f5f606a6e1/master/pass/Home-Depot's-Labor-Day-Sale-Includes-BOGO-Deals-on-the-Best-Grills-and-Tools.jpg"
     },
     {
-      "title": "Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More",
-      "link": "https://www.wired.com/story/tech-labor-day-sales-2026/",
-      "summary": "From cordless vacuums to the best wireless earbuds we’ve tested, some of our favorite tech is on sale for Labor Day this year....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-07 16:33:37",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/master/pass/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg"
-    },
-    {
-      "title": "Six years later, Sony revisits its legendary XM4 headphones",
-      "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-      "summary": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-07 16:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "What we expect from the upcoming Apple launch",
-      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-07 15:58:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "EcoFlow makes the miniature power station even smaller",
-      "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
-      "summary": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capac...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-07 14:59:41",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The 57 Best Deals From the REI Labor Day Sale",
-      "link": "https://www.wired.com/story/rei-labor-day-sale-2026/",
-      "summary": "Labor Day already? Say it ain’t so. Today is the last day to shop the best deals on WIRED-tested outdoor gear from REI, Nemo, MSR, Coleman, and more during REI’s Labor Day sale....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-07 13:33:30",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6a90af577c6f6af27c88297f/master/pass/The-31-Best-Deals-From-the-REI-Labor-Day-Sale.jpg"
-    },
-    {
       "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
       "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of explorati...",
@@ -696,39 +817,6 @@
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/07/JUN.MITTR_.Final_.24.06.17.01.A.jpg?fit=1456,818"
     },
     {
-      "title": "The real reason your phone is getting more expensive",
-      "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-07 12:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
-      "link": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
-      "summary": "Dark energy might be getting weaker. Scientists are wondering if interactions with dark matter in a “dark dimension” may be responsible....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-07 12:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a99589b075950c219e95201/master/pass/DarkInteractions-cr-Ada%20Zejun%20Shen-Lede.jpg"
-    },
-    {
-      "title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
-      "link": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
-      "summary": "The intricate, 5.6 trillion-pixel map covers approximately 75 percent of the sky and includes about 4 billion celestial objects....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-07 11:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6a98bd433546f162bf782073/master/pass/noirlab2620a.jpg"
-    },
-    {
       "title": "The complex corporate web behind a $3.2 billion AI data center",
       "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
       "summary": "When multiple companies are behind one project, who bears responsibility for problems?...",
@@ -738,28 +826,6 @@
       "pubDate": "2026-09-07 11:00:03",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-500x500.png"
-    },
-    {
-      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac'...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-07 11:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-      "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used o...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-07 10:09:42",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "3秒变身！会合体的机器人，卖到全球50国",
@@ -817,61 +883,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-06 23:36:04",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-06 21:41:06",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-06 20:47:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-06 16:45:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-06 16:08:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
       "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
       "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"...",
@@ -892,17 +903,6 @@
       "pubDate": "2026-09-06 10:00:35",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2198085330-500x500.jpg"
-    },
-    {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-05 22:49:55",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
