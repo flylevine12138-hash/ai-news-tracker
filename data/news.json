@@ -1,116 +1,380 @@
 {
-  "updateTime": "2026-09-15T01:18:57.883Z",
-  "total": 100,
+  "updateTime": "2026-09-15T07:32:26.939Z",
+  "total": 90,
   "news": [
     {
-      "title": "中国嫦娥六号月背月壤样品赠送联合国，将在维也纳永久展出",
-      "link": "https://www.ithome.com/1/002/367.htm",
-      "summary": "\nIT之家 9 月 15 日消息，据央视新闻昨日报道，中国国家航天局、常驻维也纳联合国和其他国际组织代表团与联合国外空司昨日在维也纳联合国总部举行交接仪式，中国将嫦娥六号采集的人类首批月背月壤样品正式赠送联合国。该月壤样品将在维也纳联合国总部永久展出。\n维也纳各国际组织负责人、各国常驻代表及维也纳各界代表等 400 余名嘉宾出席仪式。国家航天局局长单忠德同联合国维也纳办事处总干事朱马、外空司司长霍...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-15 00:01:57",
-      "category": "space",
-      "thumbnail": ""
+      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+      "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+      "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-15 07:00:30",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/The_new_Volvo_XC60_and_the_Volvo_XC90_DuoAngle01_HERO-500x500.jpg"
     },
     {
-      "title": "Meta 对 Instagram 应用 AI 修图功能新增付费限制，需订阅 Meta One 会员使用",
-      "link": "https://www.ithome.com/1/002/366.htm",
-      "summary": "\nIT之家 9 月 15 日消息，据外媒 Business Insider 报道，Instagram 近期开始对部分 AI 修图功能加入付费限制，用户在使用 AI 修图达到一定程度后，应用便会要求用户订阅 Meta One Core 会员才能继续使用更多 AI 效果，否则需要等到明天再试。\nIT之家注意到，Meta 于今年 5 月公布 Meta One 订阅服务，每月收费 7.99 美元（IT之家...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "智能体什么该记什么不该记？openKylin专家来答",
+      "link": "https://www.oschina.net/news/502494",
+      "summary": "2026 年，大模型智能体正从实验室走进办公、研发和个人助理场景。它要长期陪着用户干活，就得记住用户的偏好、常用的路径、习惯用的模板。记不住，每次对话都从头开始，用户很快就失去耐心；记太死，临时信息、敏感内容又一直留在系统里，成了隐患。 什么该记、什么不该记，没有统一答案，却直接决定智能体好不好用。202......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-09-15 00:00:35",
+      "pubDate": "2026-09-15 06:58:40",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "Anthropic Claude Opus 5.2 灰度测试曝光：响应更快，告别“偷懒”",
-      "link": "https://www.ithome.com/1/002/365.htm",
-      "summary": "\n原标题：《突发！Opus 5.2 深夜上线，RSI 真来了？》\n今天清晨，Opus 5.2 悄悄上线了。许多开发者发现，新一代神级模型 Claude Opus 5.2，已经在 Claude Code 中开启灰度测试！\n\n而且，此前一份内部风险报告显示，Anthropic 正在动用「核武器级别」的未发布模型 Model 2。它接管了公司大部分代码编写，将替代 85% 研究团队。传说中的 RSI，真...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "qKnow 开源版 v2.4.3 发布：数据接入能力再拓展，知识构建自定义能力上新",
+      "link": "https://www.oschina.net/news/502493",
+      "summary": "qKnow智能体构建平台开源版v2.4.3围绕非结构化知识接入、知识资产导出和文档解析自定义能力进行升级，主要包括：知识库、知识图谱新增JSON/JSONL文件导入能力，知识库问答数据支持JSON/JSONL一键导出，并开放文件解析模型与提示词自定义能力，进一步完善非结构化文档从接入、解析到复用的处理链路。 从“把文档传进来”，......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-09-14 23:57:02",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/6ecb47b4-8421-4008-9d91-1eeaee625188.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "IT早报 0915：苹果 iOS / iPadOS 27.0 正式版发布；荣耀 Magic9 超能版官宣 11000mAh 电池；一汽成广汽第二大股东；曝追觅 6 至 8 月离职裁员约 1 万人...",
-      "link": "https://www.ithome.com/1/002/364.htm",
-      "summary": "\n“IT早报”时间，大家好，现在是 2026 年 9 月 15 日星期二，今天的重要科技资讯有：\n1. 苹果 iOS / iPadOS 27.0 正式版发布：性能优化、升级 Siri AI，增强家长管控...\n苹果 9 月 15 日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 更新（内部版本号：24A437）。&gt;&gt; 查看详情\n2. 刷新行业纪录：荣耀 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-14 23:56:49",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/4617e40d-0559-4809-bb5b-407830b441f2.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "CG3M 版微星 Claw 8 EX AI+ 掌机曝光：10 核 Xe3，最高 90 INT8 TOPS",
-      "link": "https://www.ithome.com/1/002/363.htm",
-      "summary": "\nIT之家 9 月 15 日消息，科技媒体 videocardz 昨日（9 月 14 日）发布博文，报道称基于美国零售商 CompSource 页面信息，微星（MSI）将为 Claw 8 EX AI+ 新增 CG3M 版本，采用英特尔锐炫 G3（Intel Arc G3）平台。\n电商页面最新上架 Claw 8 EX AI+ CG3M-072USY 版本，售价为 1,499 美元（IT之家注：现汇率...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-14 23:52:09",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/bac66c12-754d-447c-b60b-e23eef7845b0.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "苹果就 Epic Games 长期法律纠纷中“藐视法庭裁定”提出上诉，向美国最高法院提交开庭陈述书",
-      "link": "https://www.ithome.com/1/002/362.htm",
-      "summary": "\nIT之家 9 月 15 日消息，苹果今日正式向美国最高法院提交开庭陈述书（opening merits brief），就与 Epic Games 长期法律纠纷中的“藐视法庭裁定”提出上诉，要求最高法院推翻此前针对苹果的裁定。\n回顾历史，Epic Games 于 2020 年起诉苹果，虽然苹果在大部分诉讼请求中胜诉，但法院最终认定，苹果限制开发者引导用户使用第三方支付方式的“反引导”（anti-s...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-14 23:50:12",
+      "pubDate": "2026-09-15 06:04:34",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/43e90855-7289-46b2-befe-004e1b83e020.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "酷态科 × 鹰角网络 MAF 2026 中秋礼盒亮相：机甲风涂装充电器，附《明日方舟：终末地》主题周边",
-      "link": "https://www.ithome.com/1/002/361.htm",
-      "summary": "\nIT之家 9 月 15 日消息，鹰角网络昨日公布了该公司与酷态科联合定制的 MAF 2026 中秋联名礼盒。\n礼盒内含定制酷态科 10 号 Mini 氮化镓充电器、编织磁吸数据线 CP、蛋月烧月饼、魔术贴理线带，以及《明日方舟：终末地》主题周边。\n\n定制款酷态科 10 号氮化镓充电器 Mini 是该礼盒的核心产品，采用白色方柱机身与黑色格栅底座设计，正面印有鹰角三角标和大号数字“10”，底部标注...",
+      "title": "美光中国台湾地区工会反对资方绩效激励计划，要求营业利润 15% 分成",
+      "link": "https://www.ithome.com/1/002/534.htm",
+      "summary": "\nIT之家 9 月 15 日消息，美光中国台湾地区工会今日召开记者会，反对企业方面上周宣布的 100 万新台币感谢现金奖金 + 最高 500% 年度绩效奖金 + 额外股票奖酬一揽子绩效激励计划，要求制定公开透明、可验证的制度化利润分享规范。\n\n▲ 美光桃园该工会的目标是获得类似在三星电子、SK 海力士工作的同行的分成条款，期望企业将 15% 营业利润用于员工回报并按季发放。\n\n▲ 美光台中美光中国...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-09-14 23:48:05",
-      "category": "energy",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/52a78cf4-429c-4e54-a0f8-5191873e2e99.jpg?x-bce-process=image/format,f_auto"
+      "pubDate": "2026-09-15 06:00:51",
+      "category": "other",
+      "thumbnail": ""
     },
     {
-      "title": "消息称特斯拉计划在越南设立子公司，进一步扩大亚洲地区业务布局",
-      "link": "https://www.ithome.com/1/002/360.htm",
-      "summary": "\nIT之家 9 月 15 日消息，据路透社报道，特斯拉已经正式提交文件，计划在越南设立当地子公司，名称为“Tesla Motors Vietnam Limited Liability Company”，这意味着该公司正寻求进入越南市场，以进一步扩大亚洲地区业务布局。\n文件显示，特斯拉越南子公司注册地点为胡志明市，资本额 300 万美元（IT之家注：现汇率约合 2,014.7 万元人民币），营业项目...",
+      "title": "网易《无限大》不设任何角色卡池：纯外观付费，2027 年 1 月 15 日免费登陆 PC、PS5 和移动端",
+      "link": "https://www.ithome.com/1/002/532.htm",
+      "summary": "\nIT之家 9 月 15 日消息，网易都市开放世界 RPG《无限大》已经官宣于 2027 年 1 月 15 日全球同步上线，免费游玩，登陆 PC、PS5 和移动端，国内外版本完全统一。\n\n据官方介绍，该项目最早于 2023 年 8 月以代号形式首次亮相，开发周期超 1097 天，全球预约量已突破 1700 万，覆盖 110 余个国家地区。\n\n《无限大》官方公开了全新主城重霄，城市设计融合上海、杭州...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-09-14 23:44:12",
-      "category": "auto",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/87fd1e53-8c87-46b7-9dc6-87eb5def2b40.png"
+      "pubDate": "2026-09-15 05:55:34",
+      "category": "other",
+      "thumbnail": ""
     },
     {
-      "title": "曝 Glass Imaging 被 OpenAI 收购：前苹果员工创办，其影像技术已用于荣耀手机",
-      "link": "https://www.ithome.com/1/002/359.htm",
-      "summary": "\nIT之家 9 月 15 日消息，华尔街日报昨日（9 月 14 日）发布博文，报道称 OpenAI 公司悄然收购手机影像初创公司 Glass Imaging，预估这笔交易后该公司估值超过 3 亿美元（IT之家注：现汇率约合 20.15 亿元人民币）。\nIT之家援引该媒体报道，Glass Imaging 主要从事开发人工智能手机影像技术，目标是让手机照片达到数码单反相机级别。\n该初创公司的核心产品 ...",
+      "title": "冲击英伟达护城河：开源项目让 AMD RX 9060 XT 显卡跑通部分 CUDA 库",
+      "link": "https://www.ithome.com/1/002/531.htm",
+      "summary": "\nIT之家 9 月 15 日消息，科技媒体 Tom's Hardware 昨日（9 月 14 日）发布博文，报道称开源项目 CUDA-for-AMD-Windows 正冲击英伟达的 CUDA 护城河，已在 AMD Radeon RX 9060 XT 演示运行部分 CUDA 库。\nIT之家注：CUDA 是英伟达的通用 GPU 加速计算平台，提供编译器、运行时、调试器、性能分析工具，以及可直接调用的 ...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-09-14 23:41:04",
+      "pubDate": "2026-09-15 05:52:41",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "消息称英伟达内部限制使用 Anthropic 和 OpenAI 的前沿模型，敏感数据改用自家 AI",
+      "link": "https://www.ithome.com/1/002/530.htm",
+      "summary": "\nIT之家 9 月 15 日消息，据《The Information》昨日报道，包括英伟达、Palantir Technologies 和 Booz Allen Hamilton 在内的主要企业客户，因担忧专有企业数据的处理方式，正在限制使用 Anthropic 和 OpenAI 的前沿 AI 模型。\n报道称，这种不安可以追溯到 Anthropic 六月的政策变更，该政策允许其 Fable 模型保...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-15 05:52:32",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/28ec09aa-94ec-4a11-9ce1-ad06274d79e7.png"
+      "thumbnail": ""
     },
     {
-      "title": "丰田美国纯电版汉兰达车型推迟至 2027 年投产，消息称此举导致经销商库存告急",
-      "link": "https://www.ithome.com/1/002/358.htm",
-      "summary": "\nIT之家 9 月 15 日消息，据外媒 Automotive News 报道，丰田在美国市场原计划等到现款燃油版汉兰达车型（Highlander）逐步退出市场后，再推出纯电版汉兰达车型（Highlander EV）。不过官方如今决定将纯电版汉兰达车型上市时间推迟数月，相应车型最快将于 2027 年第一季度投产，并将以“2028 款车型”身份上市。\n\n▲ 丰田纯电版汉兰达丰田没有解释纯电汉兰达车型...",
+      "title": "李柯：比亚迪在欧洲销售的产品最终都将实现本地生产，首款重卡 ETT44 明年进入欧洲",
+      "link": "https://www.ithome.com/1/002/529.htm",
+      "summary": "\nIT之家 9 月 15 日消息，当地时间 9 月 14 日，比亚迪在德国汉诺威 IAA Transportation 2026 运输展上发布旗舰电动重卡 ETT 44。该车最高续航 600 公里，并支持 1.5 兆瓦闪充。\n比亚迪股份副总裁兼国际业务负责人李柯在此次车展上表示，比亚迪计划明年向欧洲市场推出首款重型卡车 ETT44，并最终在欧洲实现本地化生产。“长期来看，我们在欧洲销售的所有产品都...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-09-14 23:40:41",
+      "pubDate": "2026-09-15 05:42:51",
       "category": "energy",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/613d5519-d1a3-454b-b302-67ac6a2d99ed.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
+    },
+    {
+      "title": "曝字节将发布独立智能网盘“ADrive”",
+      "link": "https://www.ithome.com/1/002/528.htm",
+      "summary": "\nIT之家 9 月 15 日消息，据《读佳》今日爆料，字节跳动将在 9 月发布全新且独立的智能网盘产品 ADrive，产品 Slogan 为“连接你的 AI 应用，让文件与产物持续可用”。\n爆料称，该产品由火山引擎打造，是一款面向 AI 智能体与人类用户协同办公的企业级智能网盘，主打统一文件存储与团队协作能力。目前官方已开启试用申请。\n\n在基础文件管理能力上，ADrive 覆盖企业日常办公全流程操...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-15 05:36:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "谷歌拟精细化安卓高级保护功能，拆分 USB 保护、入侵检测等",
+      "link": "https://www.ithome.com/1/002/527.htm",
+      "summary": "\nIT之家 9 月 15 日消息，科技媒体 Android Authority 昨日（9 月 14 日）发布博文，报道称谷歌计划为安卓“高级保护”（Advanced Protection）引入更精细化的控制选项，支持单独启用 USB 保护、入侵检测等。\nIT之家注：在安卓 16 设备上，用户启用该功能之后，设备会启用防盗措施、应用限制、网络防护和网页安全等一系列设备级安全功能。谷歌强调，该功能可以...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-15 05:31:51",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软 CEO 纳德拉发布警告：AI 必须处于人类控制之下，支持更广泛的第三方测试",
+      "link": "https://www.ithome.com/1/002/526.htm",
+      "summary": "\nIT之家 9 月 15 日消息，当地时间 9 月 14 日晚，微软 CEO 萨提亚 · 纳德拉在公司留言板发布内部备忘录，就 AI 行业是否发展过快发表看法。\n他表示，AI 应保持在人类控制之下，支持更广泛的第三方测试，并警告公司必须花时间确保技术安全。“随着风险升高，人们应该需要多少时间就花多少时间。”“否则，你无论如何都会失去运营许可。”\n此前，一些 AI 研究人员上周警告称，AI 技术可能...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-15 05:29:28",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+      "link": "https://www.qbitai.com/2026/09/489277.html",
+      "summary": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-15 05:20:30",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "全球首款生成式AI吉他天谱乐即将推出Pro款",
+      "link": "https://www.tmtpost.com/8140317.html",
+      "summary": "Melo-D是全球首款生成式AI吉他，即将推出的Pro款“彩虹指弹”为核心看点。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-15 05:17:33",
+      "category": "ai",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/c3644cddeeacede5730c93db2ec356fd_1789449455.gif"
+    },
+    {
+      "title": "HARMONi-2读出OS阳性，中国数据亮眼",
+      "link": "https://www.tmtpost.com/8140123.html",
+      "summary": "头对头击败K药，全球化考验仍存。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-15 05:06:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/5tq354htr3.png"
+    },
+    {
+      "title": "330亿，意甲又要融资了",
+      "link": "https://www.tmtpost.com/8140195.html",
+      "summary": "意甲第三次向私募基金开门。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-15 05:02:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2y56jutyh3.png"
+    },
+    {
+      "title": "中国创新药的出海叙事，两周后将迎来一个重大变量",
+      "link": "https://www.tmtpost.com/8140161.html",
+      "summary": "美国药品关税全面生效倒计时，26家药企、89%的品牌药已经落籍。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-15 04:52:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/34t1gqerfav3.png"
+    },
+    {
+      "title": "《哆啦 A 梦：大雄的蒸汽时间车》剧场版动画电影公布预告，2027 年日本上映",
+      "link": "https://www.ithome.com/1/002/525.htm",
+      "summary": "\nIT之家 9 月 15 日消息，《哆啦 A 梦》第 46 部剧场版动画电影 ——《哆啦 A 梦：大雄的蒸汽时间车》今日发布预告，将于 2027 年 3 月 5 日在日本地区上映。\n\n本作舞台设定在 19 世纪的英国伦敦。哆啦 A 梦和大雄他们将跨越时空，从 21 世纪的日本出发，展开一场完全原创的宏大冒险。\n\n\n该影片由森山瑠潮导演，上田诚编剧（《春宵苦短，少女前进吧！》《企鹅公路》）。\n\n\nI...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-15 04:51:46",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 54 项 iOS / iPadOS 27 隐藏新功能 / 新特性汇总：打磨细节、聚焦 AI",
+      "link": "https://www.ithome.com/1/002/524.htm",
+      "summary": "\nIT之家 9 月 15 日消息，MacStories 主编费德里科 · 维蒂奇（Federico Viticci）今天（9 月 15 日）发布博文，梳理汇总了 54 条苹果 iOS / iPadOS 27 系统的隐藏新功能 / 新特性。\n整体体验方面，维蒂奇认为 iOS 27 不像 iOS 26 更新那样强调视觉变化，以提升性能表现和可靠性，以及打磨细节为主，并聚焦 AI 功能，在照片、Siri...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-15 04:48:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "钟睒睒和宗庆后，为何都在警惕平台？",
+      "link": "https://www.tmtpost.com/8140143.html",
+      "summary": "不如转头学习可口可乐。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-15 04:46:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/9650b6a67f8b516f9ed53e64f13f67c7_1789444927.jpg"
+    },
+    {
+      "title": "铂力特VS华曙高科：“3D打印第一股”争霸战",
+      "link": "https://www.tmtpost.com/8140135.html",
+      "summary": "争霸战的赢家，属于那个先让利润追上故事的人。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-15 04:42:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/e475d2c4290ae0b7243b82f600923f85_1789444920.jpg"
+    },
+    {
+      "title": "一汽广汽重组意向的“三层解构”",
+      "link": "https://www.tmtpost.com/8140122.html",
+      "summary": "双向下注。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-15 04:36:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r4t3hrn3.png"
+    },
+    {
+      "title": "回答罗永浩：野人先生是这么火起来的",
+      "link": "https://www.tmtpost.com/8139923.html",
+      "summary": "口味偏好差异，带来评价撕裂。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-15 04:35:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/5tq354htr3.png"
+    },
+    {
+      "title": "罗永浩吐槽“难吃”，高端野人先生会一夜崩盘吗？",
+      "link": "https://www.tmtpost.com/8140101.html",
+      "summary": "消费者对“贵且不值”的爆发。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-15 04:32:00",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/b2c4b76ff85596bd64e4d88e6a902aa3_1789444901.jpg"
+    },
+    {
+      "title": "电池税正式落地，新能源车要开始涨价了吗？",
+      "link": "https://www.tmtpost.com/8140029.html",
+      "summary": "成熟期的产业，其核心特征就是竞争从增量市场转向存量博弈，产业集中度迅速提升。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-15 04:23:00",
+      "category": "energy",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/43t5y6jytfeb3.png"
+    },
+    {
+      "title": ":fire::fire:开源接口平台v6.0发布，支持AI办公MCP接入",
+      "link": "https://www.oschina.net/news/502491",
+      "summary": "ApiGo 是一款在线接口开发和管理平台，企业项目开发脚手架、SQL2API 、数据预览平台。支持动态数据源、动态 SQL 和标签，持 WorkBuddy、千问办公、Trea Work、豆包等 AI 办公平台 MCP 接入。支持接入（mysql、oracle、达梦、TiDB、DolphinDB、Hive、DuckDB ）等 SQL 或 NoSQL 数据源，在线可视化编写 SQL 快速发布接口，.....",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-15 04:06:36",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+      "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+      "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-15 03:47:36",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/9718607-500x500.jpg"
+    },
+    {
+      "title": "Ubuntu 26.10 “Rust 化”更进一步：coreutils 全部迁移到内存安全实现",
+      "link": "https://www.oschina.net/news/502490/ubuntu-26-10-rust-coreutils-complete",
+      "summary": "Ubuntu 把最后一组 GNU 核心工具也换成了 Rust 版。26.10「Stonking Stingray」将是第一个 coreutils 全面 Rust 化的发行版，ls、cat、chmod、du 这些最常用的命令，底层实现全都换成了 uutils。 这条路走了一年多。Canonical 从 2025 年开始「锈化」发行版，用 Rust 重写基础软件。Ubuntu 25.10 是第一个吃螃...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-15 03:44:05",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "生态新成果！麒麟100“灵触&amp;amp;灵萃”带来交互新体验",
+      "link": "https://www.oschina.net/news/502484",
+      "summary": "近期，OpenAtom openKylin（以下简称“openKylin”） 技术衍生发行版麒麟100推出AI交互功能“灵触（Magic Touch）&amp;灵萃（Magic Extract）”，把AI能力直接放进了鼠标操作里。 自鼠标诞生40余年来，人机交互方式虽历经迭代，但核心逻辑始终未变。如今，麒麟100正尝试以AI交互打破这一局面，通过“灵触&amp;灵萃”等功能，探索......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-15 02:35:12",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+      "link": "https://www.qbitai.com/2026/09/489227.html",
+      "summary": "几百个Agent参与研发，AI开始造AI...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-15 02:17:34",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": ":fire: xbatis 1.10.9 正式发版，mybatis 系列最好用最简单最方便的 ORM !!!",
+      "link": "https://www.oschina.net/news/502481",
+      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.8 - 2026-08-21 1：优化部分代码 2：xbatis-ddl-auto 支持 SYNC 模式 1.10.7......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-15 01:57:31",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-15 01:50:48",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "coost v4.0.0 发布",
+      "link": "https://www.oschina.net/news/502479",
+      "summary": "coost v4.0.0 是一次较大的版本更新：编译器要求提升至 C++17，移除了若干维护成本较高的模块，新增 Windows ARM64 与 FreeBSD 平台支持，并对核心组件进行了性能优化与 API 整理。升级前请先阅读下方的破坏性变更。 1. 破坏性变更 编译器要求 C++17 旧版本中的流式日志写法： \r\nLOG &lt;&lt; \"hello \" &lt;&lt; 23;\r\n 在本...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-15 01:46:39",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
+      "link": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
+      "summary": "The ruling bars the United States Postal Service from implementing restrictions that experts and election officials say would upend voting in November....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-15 00:23:42",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6aa2f7f49bfef15e7a640ba4/master/pass/GettyImages-2280067128.jpg"
+    },
+    {
+      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+      "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+      "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn'...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-15 00:13:47",
+      "category": "other",
+      "thumbnail": ""
     },
     {
       "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
@@ -121,7 +385,7 @@
       "region": "us",
       "pubDate": "2026-09-14 22:59:41",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Apple Home’s new security camera features cost as much as $60 a month",
@@ -132,7 +396,18 @@
       "region": "us",
       "pubDate": "2026-09-14 22:28:52",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
+    },
+    {
+      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+      "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-14 22:06:24",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-500x500.jpg"
     },
     {
       "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
@@ -146,6 +421,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+      "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+      "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-14 21:32:22",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin-500x500.jpg"
+    },
+    {
       "title": "What execs and politicians are saying about slowing down AI development",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
       "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O...",
@@ -154,7 +440,18 @@
       "region": "us",
       "pubDate": "2026-09-14 21:21:42",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
+    },
+    {
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-14 21:04:32",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-500x500.jpg"
     },
     {
       "title": "Trump throws out power plant climate pollution rules",
@@ -165,7 +462,7 @@
       "region": "us",
       "pubDate": "2026-09-14 20:45:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
@@ -198,7 +495,7 @@
       "region": "us",
       "pubDate": "2026-09-14 20:03:37",
       "category": "chip",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Valve’s virtual reality plans hit actual reality",
@@ -209,7 +506,29 @@
       "region": "us",
       "pubDate": "2026-09-14 19:48:06",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-14 19:45:13",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-500x500.jpg"
+    },
+    {
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-14 19:38:46",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-500x500.jpg"
     },
     {
       "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
@@ -220,7 +539,29 @@
       "region": "us",
       "pubDate": "2026-09-14 19:30:58",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Super-Mario-Odyssey.webp?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "summary": "This is also the last version of macOS to support Rosetta for Intel apps....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-14 19:28:42",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-500x500-1789411872.jpg"
+    },
+    {
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-14 19:06:13",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-500x500-1789407445.jpg"
     },
     {
       "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
@@ -232,6 +573,17 @@
       "pubDate": "2026-09-14 18:44:44",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6a28233604cb8e65f7b969d3/master/pass/Siri%20AI%20Site%20Image%20SOURCE%20Apple.jpg"
+    },
+    {
+      "title": "Online hate researcher keeps hammering X despite deportation threat",
+      "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+      "summary": "US won’t back down from fight to deport technology researchers....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-14 18:24:09",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/headshot3-500x500.jpg"
     },
     {
       "title": "Amazon Prime Video takes on TikTok with short-form news clips",
@@ -254,17 +606,6 @@
       "pubDate": "2026-09-14 18:08:43",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Countries Seek to Curb Social Media Addiction for Kids",
-      "link": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids",
-      "summary": "\nSocial media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves.\nThe benefits, however, are accompanied by ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-14 18:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/students-in-red-uniforms-sit-outside-looking-at-smartphones.jpg?id=67749623&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
     },
     {
       "title": "The AI industry has taken a doomer turn. What now?",
@@ -297,18 +638,7 @@
       "region": "us",
       "pubDate": "2026-09-14 17:30:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/TOLPINY-STILL-Courtesy-of-Sony-Pictures-Classics-1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Prehistoric builders transported Devil's Arrows 11 miles",
-      "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
-      "summary": "Isotropic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-14 17:10:54",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/devilsarrow1-500x500.jpg"
+      "thumbnail": ""
     },
     {
       "title": "With iOS 27, I’m actually using Siri again",
@@ -330,7 +660,7 @@
       "region": "us",
       "pubDate": "2026-09-14 17:10:13",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/061326_Siri_AI_MacBook_Pro_macOS_27_Golden_Gate_beta_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "macOS 27: new Siri takes on AI productivity apps",
@@ -342,28 +672,6 @@
       "pubDate": "2026-09-14 17:10:09",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Apple releases iOS 27 with Siri AI overhaul",
-      "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-      "summary": "Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delay...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-14 17:08:49",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Steam Frame: The Ars Technica review",
-      "link": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
-      "summary": "Valve's new $1,049 VR hardware tries to revive an abandoned VR \"revolution.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-14 17:00:07",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/steamframe-1-500x500-1789396814.jpg"
     },
     {
       "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
@@ -388,28 +696,6 @@
       "thumbnail": "https://media.wired.com/photos/6aa81a44054ce52476eda4d7/master/pass/Security_New%20York%20Seizes%20More%20Than%20a%20Dozen%20Celebrity%20Deepfake%20Websites_v1.jpg"
     },
     {
-      "title": "\"Offensively cheap\": Solar power is looking up",
-      "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
-      "summary": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-14 16:29:18",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2284882889-1-500x500.jpg"
-    },
-    {
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-14 16:27:53",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Donated livers can be made biologically younger",
       "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
       "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade....",
@@ -432,48 +718,26 @@
       "thumbnail": ""
     },
     {
-      "title": "New corners, new lights for 2028 Volvo XC40",
-      "link": "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/",
-      "summary": "The Swedish automaker gives its small SUV a sympathetic makeover....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-14 15:46:06",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/The_New_Volvo_XC40_Studio_Front_34-500x500.jpg"
-    },
-    {
-      "title": "F1 in Madrid: Like Monaco but twice as long and none of the glamour",
-      "link": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
-      "summary": "Formula 1’s latest venue might be fun to drive, but the race was processional and dull....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-14 14:32:35",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295049430-500x500.jpg"
-    },
-    {
-      "title": "Responsible AI for Higher Education",
-      "link": "https://webinars.on24.com/wileyevents/ResponsibleAI",
-      "summary": "\nThis interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-14 14:18:11",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/ibm-skillsbuild-logo-in-bold-black-text.png?id=67770920&width=980"
-    },
-    {
-      "title": "扣非亏损1.28亿的光韵达，“小步”跨界半导体赛道 | 并购一线",
-      "link": "https://www.tmtpost.com/8139557.html",
-      "summary": "少数参股也意味着，吉盛微短期很难对光韵达的业绩形成实质贡献，投资回报存在高度不确定性。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
+      "title": "AutoClaw上架！openKylin迎来智谱AI工作助手",
+      "link": "https://www.oschina.net/news/502476",
+      "summary": "近日，智谱AI工作助手AutoClaw完成OpenAtom openKylin（以下简称\"openKylin\"）操作系统适配，正式上架openKylin软件商店。 openKylin用户可通过软件商店下载安装，让AI从理解工作目标、规划任务到调用工具、推进执行，最终交付可直接使用的工作成果。 01 在openKylin上怎么安装？ 安装无门槛，操作简单，仅需两步： 1）打......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-09-14 13:20:36",
-      "category": "chip",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/db485f382ac182407667d0eba87a894e_1789392039.png"
+      "pubDate": "2026-09-14 13:01:31",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "free ai gateway 免费 ai 网关，企业级内部 AI 中转服务（ai中转站）",
+      "link": "https://www.oschina.net/news/502475",
+      "summary": "APIPIG 把多模型接入、账号池、API Key 托管、路由策略、权限控制和调用审计收进同一套 AI 网关与控制台。业务系统只对接一个入口，上游模型切换、渠道调整和安全治理都在平台侧完成。 统一 OpenAI 兼容协议入口 路由策略、权限校验、限流熔断 上游模型适配、通道切换、失败回退 请求日志、异常追踪、审计留痕 https://......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-09-14 12:57:10",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
@@ -498,17 +762,6 @@
       "thumbnail": "https://media.wired.com/photos/6aa456a6ed00c0093befb729/master/pass/I-Filled-a-Tent-With-Smoke-to-Find-the-Best-Air-Purifiers.jpg"
     },
     {
-      "title": "轮到宁德时代管理市值了",
-      "link": "https://www.tmtpost.com/8139286.html",
-      "summary": "管理的对象，从一门电池生意，慢慢扩展到了资本本身。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-14 11:25:37",
-      "category": "energy",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/3r2egf3.png"
-    },
-    {
       "title": "微软史上最大号周二补丁日 ——  共计修复 974 个漏洞",
       "link": "https://www.oschina.net/news/502471/microsoft-plugs-nearly-1000-security-holes",
       "summary": "微软 9 月的补丁星期二修复了至少 974 个安全漏洞，史上最大的一批。之前纪录是今年 7 月的 570 个——这次近乎翻倍。 其中 113 个是严重级别，意味着攻击者在没有用户交互的情况下可能远程接管系统。 2 个零日漏洞正在被积极利用，都是 Windows 本地权限提升。另外有两个严重漏洞值得关注： CVE-2026-69730 是 Windows ......",
@@ -518,61 +771,6 @@
       "pubDate": "2026-09-14 11:18:01",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "DeepSeek“推倒重来”",
-      "link": "https://www.tmtpost.com/8139302.html",
-      "summary": "入口，才是梁文锋的秘密武器...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-14 11:13:47",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t43y54htrtg3.png"
-    },
-    {
-      "title": "WordPress 创始人 Matt Mullenweg 被强制停职",
-      "link": "https://www.oschina.net/news/502470/automattics-board-forces-ceo-matt-into-leave-of-absence",
-      "summary": "Automattic 董事会把创始人兼 CEO Matt Mullenweg 强制安排成带薪休假了，并由 CFO Mark Davies 出任临时 CEO。 这出戏最戏剧化的地方不在结果，在 Mullenweg 自己把过程抖了出来。他在公司全员可见的 Slack 频道里点名：Mark Davies 和 Ann Dunwoody、Toni、Sue Decker 在我背后合谋，投票让我停职，我投了反对...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-14 11:12:53",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "豆包手机选择了弹幕最多的打法",
-      "link": "https://www.tmtpost.com/8139300.html",
-      "summary": "折叠屏只是手机大战的前菜...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-14 11:06:09",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/mms_upload_image/2026/09/20260914174739333.png"
-    },
-    {
-      "title": "为什么 JPEG XL 不该进浏览器？",
-      "link": "https://www.oschina.net/news/502469/ase-against-jxl",
-      "summary": "JPEG XL（简称“JXL”）是图像压缩圈子里最能让人吵起来的话题。技术上说，它是 JPEG 的正式升级，比 WebP 通用更强，还有 lossless JPEG 重编码这种让运维团队两眼发光的功能。但 2023 年被 Chrome 拒绝之后，它就变成了一道裂痕——一边是不认同这个决定的工程师，另一边是觉得没道理为一个没用的东西多招一个兼容性负......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-14 11:03:59",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Best Soundbars (2026): Sonos, LG, TCL, Bose, and More",
-      "link": "https://www.wired.com/story/best-soundbars/",
-      "summary": "I tested soundbars of all shapes and sizes—these are the best for clear dialogue, booming bass, and realistic surround sound....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-14 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6aa4c6b99023a6d17f3b5629/master/pass/The-Best-Soundbars-for-Any-TV-Setup.jpg"
     },
     {
       "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
@@ -586,6 +784,17 @@
       "thumbnail": "https://media.wired.com/photos/6aa7c567181b95a3e876f8f9/master/pass/091426-Trump%20AI%20Leaders.jpg"
     },
     {
+      "title": "The Best Soundbars (2026): Sonos, LG, TCL, Bose, and More",
+      "link": "https://www.wired.com/story/best-soundbars/",
+      "summary": "I tested soundbars of all shapes and sizes—these are the best for clear dialogue, booming bass, and realistic surround sound....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-14 11:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6aa4c6b99023a6d17f3b5629/master/pass/The-Best-Soundbars-for-Any-TV-Setup.jpg"
+    },
+    {
       "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
       "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
       "summary": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women....",
@@ -597,17 +806,6 @@
       "thumbnail": "https://media.wired.com/photos/6aa7c7fafdaacea9a0311827/master/pass/0914-100%20Politicians%20Sexual%20Deepfake.jpg"
     },
     {
-      "title": "《旅行青蛙》寄来的最后一张明信片",
-      "link": "https://www.tmtpost.com/8139305.html",
-      "summary": "我们不会再收到青蛙的明信片了。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-14 10:56:58",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/09/20260914175135807463.jpg"
-    },
-    {
       "title": "Roborock Qrevo 2 Review (2026): A New Budget Vacuum King?",
       "link": "https://www.wired.com/review/roborock-qrevo-2-pro/",
       "summary": "Roborock's more affordable vacuum did well on corners and navigating my home, but thresholds and small objects remain a challenge. Still, it's a good vacuum for the price, especially when it's on sale...",
@@ -617,61 +815,6 @@
       "pubDate": "2026-09-14 10:30:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6aa45f4c4de88ba2f8bc1d42/master/pass/Review--Roborock-Qrevo-2-Pro.jpg"
-    },
-    {
-      "title": "纳入港股通后，谁是Biotech最大赢家？",
-      "link": "https://www.tmtpost.com/8139265.html",
-      "summary": "港股通名单调整，对Biotech而言从来不只是流动性事件那么简单。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-14 10:17:06",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/435grtgf3.png"
-    },
-    {
-      "title": "镍，全球最不自由的市场化金属，为何上下两难？",
-      "link": "https://www.tmtpost.com/8139250.html",
-      "summary": "镍价的上下两难，本质上是印尼政策与产业成本之间的拉锯。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-14 10:17:03",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/ty5465ejyt3.png"
-    },
-    {
-      "title": "狼爪也想和迪桑特一样当东北省服",
-      "link": "https://www.tmtpost.com/8139175.html",
-      "summary": "全面翻新。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-14 10:17:01",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/14/751c9f43d67467cc3d37f85a47a04e72_1789373276.png"
-    },
-    {
-      "title": "京东建十万卡，字节“借”296亿，AI 算力进入「豪赌时刻」",
-      "link": "https://www.tmtpost.com/8139073.html",
-      "summary": "AI军备赛进入买单周期，这一次，中国大厂也下了重注。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-14 10:16:58",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/09/20260914143841324812.jpg"
-    },
-    {
-      "title": "小红书发布开源 Search Agent “Iris”，35B 摸到万亿参数模型的搜索能力",
-      "link": "https://www.oschina.net/news/502468",
-      "summary": "Search Agent 是最难训练、也最难评测的一类模型。它要在真实网络里边搜边读边推理，还得自己判断什么时候证据够了、可以停下来作答。小红书 AllSpark 团队刚刚开源的 Iris，把这件事往前推了一步：35B 的体量，在 BrowseComp 上拿到 82.2 分，逼近 Kimi-K2.6 这类万亿参数模型。 团队把难点归纳成三道坎，Iris 的配方就......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-14 10:15:39",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "Best Noise-Canceling Earbuds (2026): Bose, Apple, Samsung, Beats, and More",
@@ -718,17 +861,6 @@
       "thumbnail": ""
     },
     {
-      "title": "中国最有钱的几大公司，突然拼命借钱",
-      "link": "https://www.tmtpost.com/8139074.html",
-      "summary": "AI这一账，拼技术，也拼口袋深度。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-14 09:40:13",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/09/20260914143858180138.jpg"
-    },
-    {
       "title": "探索RSI，生数新世界模型让机器人开始自我进化",
       "link": "https://www.qbitai.com/2026/09/489037.html",
       "summary": "",
@@ -737,39 +869,6 @@
       "region": "cn",
       "pubDate": "2026-09-14 09:36:28",
       "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-      "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-14 09:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/master/pass/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg"
-    },
-    {
-      "title": "Homebrew 7.0 发布：命令行工具长出了 GUI，Intel Mac 支持开始倒数",
-      "link": "https://www.oschina.net/news/502465/homebrew-7-0-0",
-      "summary": "用了十几年的 Homebrew，第一次长出了图形界面。 9 月 13 日，Homebrew 7.0.0 发布。最显眼的变化是一个叫 BrewUI 的原生 macOS App——macOS Tahoe 26 以上版本，一条 brew install homebrew-app 就能装上。它不像某些包管理器的 GUI 那样另起炉灶，而是把底层的 brew 命令透出来：每个图形操作都显示它实际执行的命令。...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-14 08:39:43",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "Y Combinator 总裁希望美国 AI 实验室也能“蒸馏”前沿模型",
-      "link": "https://www.oschina.net/news/502464",
-      "summary": "Anthropic 想让监管把\"非法蒸馏\"摁死，YC 总裁 Garry Tan 的回应是：什么都别做。 9 月，Anthropic 发布了第二份威胁情报报告，指控中国实验室搞\"非法蒸馏攻击\"——隐藏身份、靠欺诈和盗取的凭证来套取前沿模型的能力。CEO Dario Amodei 此前已经公开呼吁美国监管层打击蒸馏。 Tan 在 CNBC 采访里站到了对立面。\"我会什么......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-14 08:27:26",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -806,17 +905,6 @@
       "thumbnail": ""
     },
     {
-      "title": "从 Python 到 Rust：OpenAI Habitat 的 10 倍增长之路",
-      "link": "https://www.oschina.net/news/502462/openai-scaling-storage-one-billion-users-part-one",
-      "summary": "每秒 7000 万次请求，500PB 数据，每周 10 亿用户。这是 ChatGPT 背后存储系统 Habitat 现在的规模。 真正让人意外的不是这些数字，是 OpenAI 处理技术债的方式。 Habitat 最早只是一个连接数据库的小型 Python 库。OpenAI 很早就看清楚了：Python 扛不住这个规模，重写是迟早的事。但他们没有动手。 他们赌了一把。先用......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-14 07:28:38",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
       "link": "https://www.qbitai.com/2026/09/488875.html",
       "summary": "共话AI时代的生活、影像与创造。...",
@@ -825,39 +913,6 @@
       "region": "cn",
       "pubDate": "2026-09-14 06:20:36",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Casbin Gateway 开源：本地 AI 编程 Agent 管理网关，统一 29 个 Agent 的配置、用量与权限",
-      "link": "https://www.oschina.net/news/502460",
-      "summary": "Casbin Gateway 是 Apache Casbin 社区新开源的一个本地 AI 编程 Agent 管理网关，采用 Apache 2.0 协议，Go + React 编写，提供 Windows / macOS / Linux 的单二进制分发。项目地址：https://github.com/apache/casbin-gateway 解决什么问题 一台开发机上同时装了多个 AI 编程 Age...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-14 06:11:48",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "伏羲智能决策 v0.1.1 - 安全加固版本发布，现已开放线上演示",
-      "link": "https://www.oschina.net/news/502459",
-      "summary": "🔒 重大安全更新 本次更新专注于验证码系统的全面安全加固，修复多个高危安全漏洞，显著提升系统稳定性和安全性。 线上演示：https://fuxioffice.cn/ 账号1： admin/admin1234 账号2： fuxi/admin1234 🌟 版本亮点 🛡️ 安全性 +40% 修复3个高危安全漏洞（内存泄漏、竞态条件、时钟攻击） 新增三重频率限制防护 完......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-14 05:42:11",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eywe - 项目管理软件",
-      "link": "https://www.oschina.net/news/502458",
-      "summary": "Eywe 是一款免费的项目管理软件，由易为软件提供。产品灵活落地 IPD、SCRUM、PMBOK 等业界主流研发管理理念，以市场需求为导向、以计划任务为驱动，打通研发全流程，满足各岗位的项目协作需求。 Eywe 不仅提供项目管理、计划管理、需求管理、任务管理、测试管理和缺陷管理等丰富的功能模块，还支持用户零代码配置各类模块......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-09-14 05:02:18",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -872,92 +927,15 @@
       "thumbnail": ""
     },
     {
-      "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
-      "link": "https://www.qbitai.com/2026/09/488725.html",
-      "summary": "这家中国公司，刚跑完了物理闭环里最难的一段路...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-14 03:18:42",
+      "title": "Roundtables: Could AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Rev...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-09-11 20:05:06",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
-      "link": "https://www.qbitai.com/2026/09/488699.html",
-      "summary": "还是太嫩了啊Dario...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-14 02:56:45",
-      "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-      "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-      "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-13 21:56:52",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-500x500.jpeg"
-    },
-    {
-      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-      "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
-      "summary": "The manufacturer has a service that lets owners repair their own equipment....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-13 11:00:41",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Deere-5ML-Tractor-500x500.jpg"
-    },
-    {
-      "title": "I spent $4,000 on a robot dog from China",
-      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "summary": "Unitree might be the world’s most important robotics company....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-12 11:00:53",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-500x500.jpg"
-    },
-    {
-      "title": "Some satellite companies still have an appetite for boutique launch services",
-      "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-11 23:34:45",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-500x500.jpg"
-    },
-    {
-      "title": "Random rewards enrich classic game-theory insights",
-      "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-      "summary": "Simple games gain rich strategies in the face of noise....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-11 21:41:16",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-500x500.jpg"
-    },
-    {
-      "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
-      "link": "https://spectrum.ieee.org/ieee-to-reward-sections",
-      "summary": "\nFor this year’s IEEE annual election, the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward af...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-11 18:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-ballot-box-inside-a-dollar-bill-symbolizing-money-in-elections.jpg?id=67749579&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
     },
     {
       "title": "The Download: biotech’s future and cheaper, cleaner steel",
@@ -980,17 +958,6 @@
       "pubDate": "2026-09-11 09:00:00",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Codeveloper of Ethernet Predecessor Dies at 91",
-      "link": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
-      "summary": "\nFranklin “Frank” Kuo\nCodeveloper of ALOHAnet\nFellow, 91; died 14 April\nKuo helped develop ALOHAnet, a pioneering computer system at the University of Hawaii at Mānoa, in Honolulu. The system went onl...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-10 20:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-young-asian-man-in-a-suit-and-tie.jpg?id=67750969&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     },
     {
       "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
@@ -1024,83 +991,6 @@
       "pubDate": "2026-09-10 11:00:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Can the US battery market untangle from China?",
-      "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help s...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-09-10 10:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "An Engineer’s Guide to Surviving a Layoff",
-      "link": "https://spectrum.ieee.org/how-to-survive-a-layoff",
-      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-09 15:03:38",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
-    },
-    {
-      "title": "Rivian’s Gambit for Full Autonomy",
-      "link": "https://spectrum.ieee.org/rivian-self-driving",
-      "summary": "\nI’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage, the one...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-08 13:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/two-men-in-dark-blue-shirts-watch-suvs-being-put-together-on-an-assembly-line.jpg?id=67724197&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
-    },
-    {
-      "title": "The Growing Proof That Autonomous Cars Save Lives",
-      "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "summary": "\nPlenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, th...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-08 12:59:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-road-scene-shot-from-the-perspective-of-a-driver-shows-red-splotches-to-indicate-where-nearby-vehicles-were-detected-using-l.png?id=67724498&width=1245&height=700&coordinates=0%2C32%2C0%2C32"
-    },
-    {
-      "title": "Workshops Educate African Researchers On How to Publish With IEEE",
-      "link": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
-      "summary": "\nMany researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions t...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-07 18:00:03",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-group-of-adults-dressed-in-ugandan-garb-looking-thoughtfully-in-the-distance-while-seated-in-a-university-classroom.jpg?id=67725356&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
-      "title": "Protecting Dynamic Industrial Robot Cable Carriers",
-      "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
-      "summary": "\nThis article is brought to you by Tsubaki KabelSchlepp.\nIn modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycle...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-03 12:18:21",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/industrial-robotic-arm-with-cable-management-system-and-flexible-energy-chains.jpg?id=67633840&width=1245&height=700&coordinates=0%2C104%2C0%2C104"
-    },
-    {
-      "title": "Applying Different Forms of Mentorship",
-      "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
-      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-02 19:45:58",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
     }
   ]
 }
