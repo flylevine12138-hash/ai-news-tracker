@@ -1,7 +1,315 @@
 {
-  "updateTime": "2026-09-16T22:00:08.911Z",
+  "updateTime": "2026-09-17T00:23:08.223Z",
   "total": 100,
   "news": [
+    {
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar t...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-16 23:40:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "I wore Snap’s $2,200 smart glasses",
+      "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+      "summary": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-16 23:40:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "全国日均 Token 词元调用量较两年前实现千倍级增长",
+      "link": "https://www.ithome.com/1/003/349.htm",
+      "summary": "\nIT之家 9 月 17 日消息，据央视财经 9 月 16 日报道，记者从中国电力企业联合会获悉，今年以来，以互联网数据、充换电服务业为代表的数字能源新型负荷迎来爆发式增长，全国互联网数据服务业用电量超过 600 亿千瓦时，与去年同期相比增长超过四成，远超 2024 年全年水平。\n\n报道提到，随着新质生产力加快壮大，人工智能等新兴产业成为支撑全社会用电量稳健增长最确定的力量。人工智能产业的飞速扩张...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-16 23:03:27",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 iOS 27.2 Beta 1 新特性：支持新旧 App 数据 / 设置“搬家”",
+      "link": "https://www.ithome.com/1/003/347.htm",
+      "summary": "\nIT之家 9 月 17 日消息，科技媒体 9to5Mac 昨日（9 月 16 日）发布博文，报道称通过挖掘 iOS 27.2 Beta 1 更新代码，发现苹果公司计划新增系统管理迁移流程，支持开发者把旧应用的数据和相关设置迁移到指定替代应用。\n\nIT之家援引博文介绍，在 iOS 27.2 Beta 1 更新代码中，出现以下字符串：\n\n开发者建议将您现有的“%1$@”应用程序数据和设置迁移到新的“...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-16 22:54:18",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "US automakers could soon be forced to include AM radio for free",
+      "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-16 22:37:08",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-16 22:07:24",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/master/pass/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg"
+    },
+    {
+      "title": "Noise wants to help everyday people  become paid content creators",
+      "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-16 21:35:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pulley, a Carta rival, is shutting down",
+      "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+      "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund,   announced that it's closing shop in December....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-16 21:23:19",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-16 21:07:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Washington Won’t Be Regulating AI Anytime Soon",
+      "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-16 21:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6aa9a839650c7d70ef723d0a/master/pass/politics_ai_regulation_slow.jpg"
+    },
+    {
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely wit...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-16 20:59:13",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-16 20:40:46",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-16 20:12:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "X will now let US users trade via Cashtags",
+      "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+      "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-16 19:57:22",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-october-2026-tips/",
+      "summary": "Before Amazon’s October sale begins, learn how to investigate prices and track products like a pro....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-16 19:45:41",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6aaaf0696efac6d4d3b8cab6/master/pass/Amazon-Prime-Big-Deal-Days-Are-Coming.-Don%E2%80%99t-Get-Duped.jpg"
+    },
+    {
+      "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+      "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+      "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qua...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-16 19:35:29",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "MacOS 27 Golden Gate: Top New Features",
+      "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
+      "summary": "Siri’s reintroduction takes center stage as Apple officially rolls out the latest version of macOS to download and install....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-16 19:29:15",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6aaaec53c53df60b4a3e7eb4/master/pass/The-Top-New-Features-in-Apple%E2%80%99s-macOS-27-Golden-Gate.jpg"
+    },
+    {
+      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+      "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+      "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-16 19:02:49",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 watchOS 27.2 开发者预览版 Beta 发布",
+      "link": "https://www.ithome.com/1/003/345.htm",
+      "summary": "\n 【点此直达升级教程】 \n IT之家 9 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 更新（内部版本号：24S5086l），本次更新距离上次发布 Beta/RC 间隔 7 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版软件计...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-16 19:00:11",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 visionOS 27.2 开发者预览版 Beta 发布，初步支持原生 Mac 窗口控件渲染",
+      "link": "https://www.ithome.com/1/003/344.htm",
+      "summary": "\nIT之家 9 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 更新（内部版本号：24N5088l），本次更新距离上次发布 Beta / RC 间隔 7 天。\n\n需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n和 macOS 一样，visionOS 也跳过了 2...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-16 19:00:11",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 macOS 27.2 开发者预览版 Beta 发布",
+      "link": "https://www.ithome.com/1/003/343.htm",
+      "summary": "\nIT之家 9 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 更新（内部版本号：26B5086k），本次更新距离上次发布 Beta / RC 间隔 7 天。\n值得注意的是，苹果此次直接跳过了 macOS 27.1 的测试周期，从 27.0 直接进入 27.2。\n\n已参与 Apple Developer 计划的注册开发者可以前往“系统设置 → 通...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-16 19:00:11",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果发布 iOS 27.2 首个测试版：跳过 27.1 为 iPhone Duo 让路，为中国用户带来存储覆写擦除选项",
+      "link": "https://www.ithome.com/1/003/342.htm",
+      "summary": "\n【点此直达升级教程】\nIT之家 9 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 更新（内部版本号：24B5084k），此时距离 27.0 正式版软件更新发布仅过去两天。\n苹果此次跳过 iOS 27.1 直接发布 iOS 27.2 Beta，原因与 10 月 23 日上市的 iPhone Duo 有关。\n苹果此前...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-16 19:00:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+      "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-16 19:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6aa8849459082b83fd22fcf8/master/pass/AI-Lab-This-Fly-Can-Come-Up-With-WIRED-Stories-Businesspsd.jpg"
+    },
+    {
+      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-16 18:45:35",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+      "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+      "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-16 18:45:35",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-16 18:25:25",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Best Movies to Stream This Month (September 2026)",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "summary": "The Mandalorian and Grogu, The Wild Robot, and Obsession are among the must-watch films arriving this month....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-16 18:23:37",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6aa88437de90a0411e10b820/master/pass/Movie-Guide-Obsession-Culture-MCDOBSE_UC009.jpg"
+    },
+    {
+      "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
+      "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
+      "summary": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-16 18:20:38",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "Apple might make servers again to cash in on the AI rush",
       "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
@@ -11,7 +319,7 @@
       "region": "us",
       "pubDate": "2026-09-16 17:20:29",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
@@ -25,17 +333,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/David-Streever-via-FIRE-500x500.jpeg"
     },
     {
-      "title": "Your AI agents can now control your Google Home devices",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-16 17:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Your ‘health age’ is fake",
       "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
       "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for ...",
@@ -44,7 +341,7 @@
       "region": "us",
       "pubDate": "2026-09-16 17:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257818_Whoop_5_AKrales_0175.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Google will now let any AI agent run your smart home",
@@ -55,7 +352,7 @@
       "region": "us",
       "pubDate": "2026-09-16 17:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Rethinking Robot Safety in the Age of AI",
@@ -66,7 +363,7 @@
       "region": "us",
       "pubDate": "2026-09-16 16:51:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1245&height=700&coordinates=0%2C0%2C0%2C0"
+      "thumbnail": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=980"
     },
     {
       "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
@@ -80,17 +377,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AWS-data-center-in-Abu-Dhabi-500x500.jpg"
     },
     {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-16 16:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Claude comes for Gemini with its own take on Docs and Slides",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
       "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part o...",
@@ -99,7 +385,7 @@
       "region": "us",
       "pubDate": "2026-09-16 16:30:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
@@ -111,28 +397,6 @@
       "pubDate": "2026-09-16 16:05:14",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6aaac3f9abaa64afbb2e9683/master/pass/091626-Chipole%20Palantir.jpg"
-    },
-    {
-      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "summary": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-16 16:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly ",
-      "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-      "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”  That’s the question that drove Matthew de Jonge to spend six years buil...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-16 16:00:00",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "“白衣骑士”入局背后，*ST沐邦虚假陈述案开审：五高管齐称“与我无关”",
@@ -165,17 +429,6 @@
       "region": "cn",
       "pubDate": "2026-09-16 15:32:36",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "May Mobility is going public in a $1.4B SPAC deal",
-      "link": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-      "summary": "The deal could net the asset-light robotaxi company more than $300 million in funding....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-16 15:27:13",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -212,28 +465,6 @@
       "thumbnail": ""
     },
     {
-      "title": "形似“脚印”，好奇号在火星上发现奇特新地貌",
-      "link": "https://www.ithome.com/1/003/328.htm",
-      "summary": "\nIT之家 9 月 16 日消息，科学家在火星这颗红色星球的地表，发现了一种前所未见的奇特地貌。\n\n据IT之家了解，美国国家航空航天局的“毅力号”火星车是 NASA 火星机器人探测队伍里的新成员，而它的前辈“好奇号”依旧状态良好。自着陆至今 14 年过去，好奇号仍在火星上不断发现各类奇异、不同寻常的事物。\n“好奇号”火星手持透镜成像仪（MAHLI）副首席研究员米歇尔 · 米尼蒂（Michelle ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-16 15:16:13",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "盖世小鸡推出《堡垒之夜》联名拉伸手柄，49.99 美元起",
-      "link": "https://www.ithome.com/1/003/327.htm",
-      "summary": "\nIT之家 9 月 16 日消息，盖世小鸡（GameSir）现已在海外市场推出《堡垒之夜》联名拉伸手柄，适配手机、平板等设备。\n据介绍，本次推出的手柄一共有两种型号。其中 G8 Plus 提供三种配色，分别为蓝黄色、粉色、黑绿色，三款配色均采用独特的外观设计，随机附赠游戏奖励兑换卡。\n\n该手柄附带 3 个摇杆帽、1 张贴纸，以及 1.5 米 USB-C 数据线，售价 89.99 美元（IT之家注：...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-16 15:15:14",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "这只ETF有望在利率上升时走强，现在上车还来得及吗？",
       "link": "https://www.tmtpost.com/8142452.html",
       "summary": "ProShares Rising Rates 环境受益股票 ETF 因持有石油股而受到提振。但该基金在科技和金融板块的持仓，应能帮助这股上涨势头延续下去。...",
@@ -243,61 +474,6 @@
       "pubDate": "2026-09-16 15:11:50",
       "category": "other",
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/t43y54htrtg3.png"
-    },
-    {
-      "title": "小米汽车：澎程 N90 Max 探索版升降顶舱篷布统一为浅卡其色，目前仅此一款",
-      "link": "https://www.ithome.com/1/003/326.htm",
-      "summary": "\nIT之家 9 月 16 日消息，小米汽车刚刚发布答网友问（第 291 集），针对澎程 N90 Max 探索版车型的部分配置信息进行了答疑。\n\nIT之家附小米汽车本集答网友问重点内容如下：\nN90 Max 探索版升降顶舱内的空调，如何开启和调节？\n\n升降顶舱原生内置两个空调出风口，与一层后排出风口共用空调鼓风机及风道。您在中控屏空调界面打开后排空调即可；如身处二层，也可通过小爱同学或后排移动控制屏...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-16 15:08:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "华邦电子拟以 11.2 亿美元收购英飞凌 NOR 与 F-RAM 业务，飞索半导体有望回归",
-      "link": "https://www.ithome.com/1/003/325.htm",
-      "summary": "\nIT之家 9 月 16 日消息，根据交易双方华邦电子 (Winbond) 与 Infineon（英飞凌）公告，两家企业已就华邦以 11.2 亿美元（现汇率约合 75.34 亿元人民币）的现金收购英飞凌的 NOR 闪存与 F-RAM（即 FRAM / FeRAM，铁电随机存取存储器）业务达成协议。\n本交易预计于 2027 年下半年完成，前提是达成获得监管批准等交割条件。华邦电子计划将收购后的这部分...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-16 15:07:48",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "极狐阿尔法 T7 大五座 SUV 上市 1 小时大定锁单超 3 万台，新车上市补贴价 13.28 万元起",
-      "link": "https://www.ithome.com/1/003/323.htm",
-      "summary": "\nIT之家 9 月 16 日消息，极狐阿尔法 T7 大五座 SUV 今日正式上市，提供增程、纯电两种动力，部分型号搭载华为乾崑智驾 ADS 5 Pro，全系标配宁德时代电池，上市补贴价 13.28 万元起。\n\nIT之家注意到，极狐官方刚刚宣布，极狐阿尔法 T7 上市 1 小时，大定锁单超过 30,000 台。\n\n新车搭载全球首款 5G 4nm 车规级芯片，以及 1.1 米超宽全景 P-HUD，支持...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-16 15:02:20",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "吉利星瑞 L PLUS i-HEV 启动预售：定位宽体旗舰智混家轿，限时 11.57 万-14.57 万元",
-      "link": "https://www.ithome.com/1/003/322.htm",
-      "summary": "\nIT之家 9 月 16 日消息，吉利星瑞 L PLUS i-HEV 今天（16 日）晚间正式启动预售，新车定位为宽体旗舰智混家轿，提供 4 款不同配置，指导价区间为 12.57 万-15.57 万元，限时售价在此基础上减去 1 万元。\n\n\n该车整体延续家族式设计风格，搭载标志性粼光水韵前格栅，由 31 根竖向镀铬饰条排布而成，下方雾灯区域采用延展飞翼式金属装饰面，增加精致气息。新车长宽高分别为 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-16 15:01:51",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-16 15:00:00",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Meet a mouse whose brain cortex is made up of human cells",
@@ -355,61 +531,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper-500x500-1789126751.jpg"
     },
     {
-      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
-      "link": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
-      "summary": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-16 14:47:07",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The sexy AI-powered dating app scams are here",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, sh...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-16 14:45:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
-      "link": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
-      "summary": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-16 14:44:48",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xrealdeal.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon gives its workers a raise of $1 per hour",
-      "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-      "summary": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-16 14:32:08",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger h...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-16 14:24:58",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "The world’s best racing driver is about to race 100 karts at once",
       "link": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
       "summary": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today....",
@@ -430,17 +551,6 @@
       "pubDate": "2026-09-16 14:16:12",
       "category": "other",
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/6c4e1b2cd894b3048d09e37892df875d_1789568176.jpg"
-    },
-    {
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ult...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-16 14:15:00",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "Lawmakers target Flock cameras with a threat to highway funding",
@@ -509,39 +619,6 @@
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/golden-shield-3-top.jpg?fit=19998,746"
     },
     {
-      "title": "A brief history of AI executives calling for regulation",
-      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman,...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-16 12:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/AI_extinction.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
-      "link": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
-      "summary": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of t...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-16 12:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/NintendoSwitch2_FEFW_Scrn_05.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
-      "link": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
-      "summary": "Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flags...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-16 12:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0335.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Apple iPhone 18 Pro and iPhone 18 Pro Max Review: For Camera Fiends",
       "link": "https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max/",
       "summary": "Fun camera features help make these candy bar iPhones stand out from the dazzle of the folding iPhone Duo....",
@@ -586,28 +663,6 @@
       "thumbnail": "https://media.wired.com/photos/6aa494acdc225a8b7147e3d4/master/pass/Topics.png"
     },
     {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-      "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-      "summary": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-16 10:30:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6aa9a85e5f699411f4e1b648/master/pass/Security_HackersGotInsideaFlockCamera-ezgif.com-video-to-gif-converter.gif"
-    },
-    {
-      "title": "The EU Plans to Ban Social Media For Under-13s",
-      "link": "https://www.wired.com/story/the-eu-bans-social-media-for-under-13s/",
-      "summary": "The bloc wants to curb Big Tech’s grip on children with its new EU Kids Act, but age checks, parental oversight, and privacy concerns could make its plan difficult to implement....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-16 10:19:46",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6aa9bdf63aba230bcb567601/master/pass/Business_EU's%20Under-15s%20Social%20Media%20Restrictions%20Are%20Not%20A%20Ban%20and%20Won't%20Work%20Anyway_v3.jpg"
-    },
-    {
       "title": "AI办公，集体盯上「养宠物」",
       "link": "https://www.tmtpost.com/8141972.html",
       "summary": "能成为新的用户入口吗？...",
@@ -630,28 +685,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/16/6b3706afad11d7749bc9133704c615cc_1789550064.png"
     },
     {
-      "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
-      "link": "https://www.wired.com/story/best-robot-vacuum/",
-      "summary": "My hands-on tests reveal which models can scrub stains, reach difficult corners, and navigate a chaotic home....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-16 10:06:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6aaa098b6c93e779a87e4d5f/master/pass/I-Put-the-Best-Robot-Vacuums-Through-a-Houseful-of-Messes.jpg"
-    },
-    {
-      "title": "Self-Driving Cars Might Change Crash Testing Forever",
-      "link": "https://www.wired.com/story/how-self-driving-cars-might-change-crash-testing-forever/",
-      "summary": "Lie down in a car, and you’re more likely to get seriously hurt in a crash. But a driverless future is forcing governments to revisit long-standing safety issues....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-16 10:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6aa45f4a3ba3acde40ed8b71/master/pass/Self-Driving-Cars-Gear-THOR-AV-50M_Reclined%20Zero%20Gravity%20Seat.jpg"
-    },
-    {
       "title": "从提交一份PR开始：上海开源大赛open supOS赛题专家解读",
       "link": "https://www.oschina.net/news/502529",
       "summary": "2026 年，工业 AI 从试点走向规模化。工业企业中应用大模型和智能体的比例，从 2024 年的 9.6% 升到 2025 年的 47.5%，上海也提出目标，到“十五五”末规上企业智能体应用普及率超过 80%。 数字好看，落地却仍存在堵点。设备数据散落在几十套系统里，IT 和 OT 各自说各自的方言，想让 AI 进工厂，先得有人把数据接上、把......",
@@ -663,17 +696,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Boox Launches the Palma 3 E-Reader",
-      "link": "https://www.wired.com/story/boox-palma-3-announced/",
-      "summary": "The e-paper device maker also launched two new color digital notebooks last night, the Note Air6 C and Mini C....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-16 09:36:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6aa9f685b3f96f495795630f/master/pass/Boox%E2%80%99s-Popular-Palma-E-Reader-Gets-a-Third-Generation.jpg"
-    },
-    {
       "title": "灵界 OS 5.0 稳定版 · 代码可读性大修复",
       "link": "https://www.oschina.net/news/502526",
       "summary": "这次更新，工程量比看起来大得多。 你们之前看到的版本，是混淆压缩后的产物。变量名全是 e、t、n、r，函数名也糊成一片。改一个功能，得先猜半天这个变量到底指什么。 但这次，我把整个代码库的骨架重新捋了一遍： 所有文件变量名、函数名、组件名，全部恢复原样 所有文件重新格式化 命名统一 文档优化 文件管理器、终端......",
@@ -683,17 +705,6 @@
       "pubDate": "2026-09-16 09:30:03",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-16 09:30:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6aa8339f6d59a577994203cf/master/pass/China-Not-Buying-Silicon-Valley-Call-for-AI-Pause-Business-2286390787.jpg"
     },
     {
       "title": "🔥🔥GOTC 2026 生态合作伙伴全球招募，这次玩点不一样的！",
@@ -738,17 +749,6 @@
       "pubDate": "2026-09-16 08:55:05",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Meta is reportedly ready to launch less pervy smart glasses",
-      "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-      "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report f...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-16 08:54:46",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257966_ethics_of_recording_people_with_smart_glasses__CVirginia3-1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
@@ -946,7 +946,7 @@
       "region": "us",
       "pubDate": "2026-09-15 13:00:05",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/silhouetted-hand-holding-a-glowing-computer-chip-against-a-blue-background.jpg?id=67740879&width=1245&height=700&coordinates=0%2C770%2C0%2C771"
+      "thumbnail": "https://spectrum.ieee.org/media-library/image.jpg?id=67740890&width=980"
     },
     {
       "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
@@ -957,7 +957,7 @@
       "region": "us",
       "pubDate": "2026-09-15 12:13:58",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-collage-shows-four-men-and-two-sports-cars-one-red-and-one-yellow.jpg?id=67759786&width=1245&height=700&coordinates=0%2C187%2C0%2C187"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-collage-shows-four-men-and-two-sports-cars-one-red-and-one-yellow.jpg?id=67759786&width=980"
     },
     {
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
@@ -1001,7 +1001,7 @@
       "region": "us",
       "pubDate": "2026-09-14 18:00:04",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/students-in-red-uniforms-sit-outside-looking-at-smartphones.jpg?id=67749623&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+      "thumbnail": "https://spectrum.ieee.org/media-library/students-in-red-uniforms-sit-outside-looking-at-smartphones.jpg?id=67749623&width=980"
     },
     {
       "title": "The AI industry has taken a doomer turn. What now?",
@@ -1056,7 +1056,7 @@
       "region": "us",
       "pubDate": "2026-09-11 18:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-ballot-box-inside-a-dollar-bill-symbolizing-money-in-elections.jpg?id=67749579&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-ballot-box-inside-a-dollar-bill-symbolizing-money-in-elections.jpg?id=67749579&width=980"
     },
     {
       "title": "Codeveloper of Ethernet Predecessor Dies at 91",
@@ -1067,7 +1067,7 @@
       "region": "us",
       "pubDate": "2026-09-10 20:00:04",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-young-asian-man-in-a-suit-and-tie.jpg?id=67750969&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
+      "thumbnail": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-young-asian-man-in-a-suit-and-tie.jpg?id=67750969&width=980"
     },
     {
       "title": "An Engineer’s Guide to Surviving a Layoff",
@@ -1078,7 +1078,7 @@
       "region": "us",
       "pubDate": "2026-09-09 15:03:38",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
+      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=980"
     },
     {
       "title": "Rivian’s Gambit for Full Autonomy",
@@ -1089,7 +1089,7 @@
       "region": "us",
       "pubDate": "2026-09-08 13:00:04",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/two-men-in-dark-blue-shirts-watch-suvs-being-put-together-on-an-assembly-line.jpg?id=67724197&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+      "thumbnail": "https://spectrum.ieee.org/media-library/two-men-in-dark-blue-shirts-watch-suvs-being-put-together-on-an-assembly-line.jpg?id=67724197&width=980"
     },
     {
       "title": "The Growing Proof That Autonomous Cars Save Lives",
@@ -1100,7 +1100,7 @@
       "region": "us",
       "pubDate": "2026-09-08 12:59:04",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-road-scene-shot-from-the-perspective-of-a-driver-shows-red-splotches-to-indicate-where-nearby-vehicles-were-detected-using-l.png?id=67724498&width=1245&height=700&coordinates=0%2C32%2C0%2C32"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-road-scene-shot-from-the-perspective-of-a-driver-shows-red-splotches-to-indicate-where-nearby-vehicles-were-detected-using-l.png?id=67724498&width=980"
     }
   ]
 }
