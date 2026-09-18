@@ -1,7 +1,29 @@
 {
-  "updateTime": "2026-09-18T18:16:34.561Z",
+  "updateTime": "2026-09-18T21:34:46.114Z",
   "total": 100,
   "news": [
+    {
+      "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
+      "link": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
+      "summary": "\nThis White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication time...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-09-18 18:29:50",
+      "category": "other",
+      "thumbnail": "https://spectrum.ieee.org/media-library/black-text-logo-spelling-cdata-on-a-transparent-checkerboard-background.png?id=67794446&width=980"
+    },
+    {
+      "title": "Turning Tech Talent Into Leadership Legacy",
+      "link": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+      "summary": "\nTransitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisi...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-09-18 18:00:04",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-team-of-seven-people-having-a-work-meeting-in-an-open-concept-office-space.jpg?id=67787397&width=1200&height=400&coordinates=0%2C729%2C0%2C730"
+    },
     {
       "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
       "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
@@ -102,6 +124,28 @@
       "thumbnail": "https://media.wired.com/photos/6aac35420820a9282b5f1721/master/pass/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg"
     },
     {
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+      "link": "https://www.qbitai.com/2026/09/492426.html",
+      "summary": "协同布局AI基础设施...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-18 15:58:21",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+      "link": "https://www.qbitai.com/2026/09/492421.html",
+      "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-18 15:50:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
       "link": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
       "summary": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems....",
@@ -143,7 +187,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 15:28:54",
       "category": "robot",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/4/ff5d6ac3-9f59-4fd1-b9ae-9b8b211a76bc.png?x-bce-process=image/auto-orient,o_1"
+      "thumbnail": ""
     },
     {
       "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
@@ -176,7 +220,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 15:13:04",
       "category": "space",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/fa9f3cbb-4dc0-4bf6-ba5f-5b6bac30911d.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
@@ -198,7 +242,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 15:09:55",
       "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/109f89c4-9e53-4ae5-b172-eb6bb7177436.jpg"
+      "thumbnail": ""
     },
     {
       "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
@@ -253,7 +297,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 14:51:18",
       "category": "auto",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/e0ebc2ff-640e-4d62-b805-df8f871618b2.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
@@ -275,7 +319,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 14:32:00",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/ec80346a-2f50-488a-a777-73a8136528c3.png?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "长安汽车首席专家谭欢：未来要用机器人造车、卖车，让机器人上车、造机器人",
@@ -286,7 +330,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 14:28:19",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/1d28997b-63f2-460f-9628-f7f7c2b31c59.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "QQ 音乐官宣适配苹果 iPhone Duo 折叠屏手机",
@@ -297,7 +341,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 14:18:34",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/9618f9d6-c625-4d1a-8241-06734f7296c6.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
       "title": "美国 AI 巨头提议开发减速，欧洲同行和政界并不认同",
@@ -309,6 +353,17 @@
       "pubDate": "2026-09-18 14:11:09",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Meet the winner of Nikon's Small World in Motion video contest",
+      "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+      "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-18 13:56:57",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/nikonTOP-500x500.jpg"
     },
     {
       "title": "印度半导体新政出台两个月，吸引最高 120 亿美元投资承诺",
@@ -330,7 +385,18 @@
       "region": "cn",
       "pubDate": "2026-09-18 13:45:14",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/5bd7bdb1-177a-4fe3-8529-30a6ee6e55c3.jpg"
+      "thumbnail": ""
+    },
+    {
+      "title": "Researchers used Claude to hack OpenAI",
+      "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-18 13:30:12",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ailogos-500x500.jpg"
     },
     {
       "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
@@ -410,6 +476,17 @@
       "thumbnail": "https://media.wired.com/photos/6aac48c08bcc778670d64ba8/master/pass/The-Best-Gifts-for-Moms,-From-a-Mom-Who-Tests-Gear.jpg"
     },
     {
+      "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
+      "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
+      "summary": "“I can tell you SpaceX has already gone captive.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-18 11:00:11",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_pillars-500x500.jpg"
+    },
+    {
       "title": "Flash floods can strike without warning — this new technology could change that",
       "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
       "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rai...",
@@ -462,7 +539,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 10:24:15",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/0afea5f7a68a7635222a54b37ce02554_1789727062.jpg"
+      "thumbnail": ""
     },
     {
       "title": "智谱旗下 AI 编程工具 ZCode 被扒静默上传完整 Git 历史",
@@ -484,7 +561,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 10:23:06",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/334bdfd21de4b17d45a70eea31a54ac0_1789726990.jpg"
+      "thumbnail": ""
     },
     {
       "title": "月之暗面递表之后，Kimi 的成色要被验算三遍",
@@ -495,7 +572,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 10:16:10",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/mms_upload_image/2026/09/20260918141005358.png"
+      "thumbnail": ""
     },
     {
       "title": "东方Gelato，野人先生真正的护城河",
@@ -506,7 +583,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 10:16:09",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/09/20260918141944111125.jpg"
+      "thumbnail": ""
     },
     {
       "title": "赛力斯的真正考验，来了",
@@ -517,7 +594,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 10:16:07",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/675859f3.png"
+      "thumbnail": ""
     },
     {
       "title": "办公Agent之战，才刚刚找到战场",
@@ -528,7 +605,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 10:16:04",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/18/3220cf0e99397f3150ae1473d42f4aa4_1789721300.jpeg"
+      "thumbnail": ""
     },
     {
       "title": "The Leftist Split Over AI Doom",
@@ -550,7 +627,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 10:13:11",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/5fc3a56592c028af7308ce4e114cacb4_1789726396.gif"
+      "thumbnail": ""
     },
     {
       "title": "Mophie’s Extendable MagSafe 3-in-1 Charging Stand Is 50 Percent Off",
@@ -627,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 08:25:06",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/20260918154343158.jpg"
+      "thumbnail": ""
     },
     {
       "title": "【AI 智能运维平台】本周更新：打通各应用关键信息，实现深度联动与统一查看，告别跨 APP 反复切换",
@@ -649,7 +726,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 08:05:35",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/25y46ujyhrtgr3.png"
+      "thumbnail": ""
     },
     {
       "title": "23 岁，10 万用户，估值 100 亿美元：硅谷 VC 正在批量生产“纸面独角兽”",
@@ -660,7 +737,7 @@
       "region": "cn",
       "pubDate": "2026-09-18 08:05:32",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/23453.png"
+      "thumbnail": ""
     },
     {
       "title": "Levyra：一个不上传数据、也不会放错歌的开源音乐播放器",
@@ -753,7 +830,7 @@
     {
       "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
       "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-      "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies....",
+      "summary": "The USPSTF sets insurance coverage for preventive services, like colonoscopies....",
       "source": "Ars Technica",
       "sourceKey": "arstechnica",
       "region": "us",
@@ -839,39 +916,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1155940802-500x500.jpg"
     },
     {
-      "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
-      "link": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
-      "summary": "It’s spacious, efficient, and charges very quickly. But what about reliability concerns?...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-17 17:30:30",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Hyundai-Ioniq-5-1-of-10-500x500.jpg"
-    },
-    {
-      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-      "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-      "summary": "Model maker commits to new framework for reporting misaligned models....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-17 16:18:34",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-875641-001-500x500.jpg"
-    },
-    {
-      "title": "EPA immediately sued over plans to repeal climate rules for power plants",
-      "link": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
-      "summary": "Public health groups warn EPA rule will cost Americans billions in health bills....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-17 15:38:04",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2261166461-500x500-1789657361.jpg"
-    },
-    {
       "title": "The Download: mice with part-human brains and climate tech innovators",
       "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Mult...",
@@ -916,28 +960,6 @@
       "thumbnail": ""
     },
     {
-      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
-      "link": "https://www.qbitai.com/2026/09/491454.html",
-      "summary": "中国电信，TeleAgent...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-17 09:39:19",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-      "link": "https://www.qbitai.com/2026/09/491391.html",
-      "summary": "文档和PPT都能做了...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-17 09:07:25",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Rethinking Robot Safety in the Age of AI",
       "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
       "summary": "\nThis article is brought to you by VicOne.\nRobot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe wh...",
@@ -946,7 +968,7 @@
       "region": "us",
       "pubDate": "2026-09-16 16:51:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=980"
+      "thumbnail": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=400&coordinates=0%2C229%2C0%2C230"
     },
     {
       "title": "Meet a mouse whose brain cortex is made up of human cells",
@@ -1012,7 +1034,7 @@
       "region": "us",
       "pubDate": "2026-09-15 13:00:05",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/image.jpg?id=67740890&width=980"
+      "thumbnail": "https://spectrum.ieee.org/media-library/silhouetted-hand-holding-a-glowing-computer-chip-against-a-blue-background.jpg?id=67740879&width=1200&height=400&coordinates=0%2C1000%2C0%2C1000"
     },
     {
       "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
@@ -1023,7 +1045,7 @@
       "region": "us",
       "pubDate": "2026-09-15 12:13:58",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-collage-shows-four-men-and-two-sports-cars-one-red-and-one-yellow.jpg?id=67759786&width=980"
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-collage-shows-four-men-and-two-sports-cars-one-red-and-one-yellow.jpg?id=67759786&width=1200&height=400&coordinates=0%2C416%2C0%2C417"
     },
     {
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
@@ -1045,7 +1067,7 @@
       "region": "us",
       "pubDate": "2026-09-14 18:00:04",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/students-in-red-uniforms-sit-outside-looking-at-smartphones.jpg?id=67749623&width=980"
+      "thumbnail": "https://spectrum.ieee.org/media-library/students-in-red-uniforms-sit-outside-looking-at-smartphones.jpg?id=67749623&width=1200&height=400&coordinates=0%2C292%2C0%2C292"
     },
     {
       "title": "Responsible AI for Higher Education",
@@ -1067,7 +1089,7 @@
       "region": "us",
       "pubDate": "2026-09-11 18:00:02",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-ballot-box-inside-a-dollar-bill-symbolizing-money-in-elections.jpg?id=67749579&width=980"
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-ballot-box-inside-a-dollar-bill-symbolizing-money-in-elections.jpg?id=67749579&width=1200&height=400&coordinates=0%2C292%2C0%2C292"
     },
     {
       "title": "Codeveloper of Ethernet Predecessor Dies at 91",
@@ -1078,29 +1100,7 @@
       "region": "us",
       "pubDate": "2026-09-10 20:00:04",
       "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-young-asian-man-in-a-suit-and-tie.jpg?id=67750969&width=980"
-    },
-    {
-      "title": "An Engineer’s Guide to Surviving a Layoff",
-      "link": "https://spectrum.ieee.org/how-to-survive-a-layoff",
-      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-09 15:03:38",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=980"
-    },
-    {
-      "title": "Rivian’s Gambit for Full Autonomy",
-      "link": "https://spectrum.ieee.org/rivian-self-driving",
-      "summary": "\nI’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage, the one...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-08 13:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/two-men-in-dark-blue-shirts-watch-suvs-being-put-together-on-an-assembly-line.jpg?id=67724197&width=980"
+      "thumbnail": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-young-asian-man-in-a-suit-and-tie.jpg?id=67750969&width=1200&height=400&coordinates=0%2C417%2C0%2C417"
     }
   ]
 }
