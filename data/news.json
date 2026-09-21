@@ -1,7 +1,315 @@
 {
-  "updateTime": "2026-09-21T13:50:26.590Z",
-  "total": 90,
+  "updateTime": "2026-09-21T19:13:09.763Z",
+  "total": 100,
   "news": [
+    {
+      "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
+      "link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
+      "summary": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems t...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-21 17:47:54",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "X will now tell users when governments have forced it to limit their posts",
+      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-21 17:45:35",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+      "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
+      "summary": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock s...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-21 17:42:15",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 watchOS 27.2 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/005/486.htm",
+      "summary": "\n 【点此直达升级教程】 \n IT之家 9 月 22 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24S5091f），本次更新距离上次发布 Beta/RC 间隔 5 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版软...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-21 17:36:13",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 visionOS 27.2 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/005/485.htm",
+      "summary": "\n IT之家 9 月 22 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24N5093f），本次更新距离上次发布 Beta/RC 间隔 5 天。  \n 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n 本文由机器人发布，IT之家稍后将为大家带来具...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-21 17:36:13",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 macOS 27.2 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/005/484.htm",
+      "summary": "\n IT之家 9 月 22 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 2 更新（内部版本号：26B5091g），本次更新距离上次发布 Beta/RC 间隔 5 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-21 17:36:12",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/005/483.htm",
+      "summary": "\n 【点此直达升级教程】 \n IT之家 9 月 22 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24B5089g），本次更新距离上次发布 Beta/RC 间隔 5 天。   如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Be...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-21 17:36:12",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dyson Won't Say What's Wrong With Its CameraJet Toothbrush",
+      "link": "https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/",
+      "summary": "Despite admitting to a “component issue,” the company refuses to say what went wrong, how many units are affected in how many countries, and why it won't recall its $500 AI toothbrush....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-21 17:22:19",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6ab140218da5aa2e264dbbfa/master/pass/092126-Dyson%20Jetbrush%20Leak.jpg"
+    },
+    {
+      "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+      "link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+      "summary": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-21 16:45:47",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-21 16:38:51",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
+      "link": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
+      "summary": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content V...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-21 16:35:59",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "小米 69 元米家夜灯 4 开售：支持磁吸 / 悬挂 / 粘贴 + 8 个月长续航",
+      "link": "https://www.ithome.com/1/005/480.htm",
+      "summary": "\nIT之家 9 月 22 日消息，小米月初才开启众筹的米家夜灯 4 现已直接上架京东并开售，首发到手价 69 元起，首发期间晒单返 500 京豆（9 月 22 日-10 月 22 日）。\n京东米家夜灯 4 米家智能人体感应小夜灯婴儿喂奶起夜灯卫生间卧室床头灯磁吸充电 69 元直达链接\n米家夜灯 4 为全新升级版本，主打暗光感应，微动即亮，拥有多项核心升级。\n首先，这款产品升级 24GHz 雷达，人...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-21 16:00:10",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 2026 款 Mac mini 发售：全新 M6 / M5 Pro 芯片，6999 元起",
+      "link": "https://www.ithome.com/1/005/479.htm",
+      "summary": "\nIT之家 9 月 21 日消息，苹果全新 Mac mini（2026 款）将于 9 月 22 日发售，搭载全新 M6 芯片和 M5 Pro 芯片，售价 6999 元起。\n\nIT之家从官方介绍获悉，M6 芯片集成 12 核中央处理器，比前代增加 2 颗核心。12 核图形处理器同样比前代增加 2 颗核心，首次为 Mac mini 的每颗图形处理器核心均配备神经网络加速器，相比搭载 M4 芯片的 Ma...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-21 15:45:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 2026 款 Mac Studio 发售：M5 Max / Ultra 芯片，19999 元起",
+      "link": "https://www.ithome.com/1/005/478.htm",
+      "summary": "\nIT之家 9 月 21 日消息，苹果于 8 月 25 日推出全新 Mac Studio（2026 款），搭载 M5 Max 和全新 M5 Ultra 芯片，新品将于 9 月 22 日正式发售。\nIT之家附全新 Mac Studio 售价如下：\n\nMac Studio（搭载 M5 Max 处理器）起售价为 19,999 元（36GB+512GB），教育版售价为 18,399 元。\nMac Stud...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-21 15:40:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "【视频】首发 2nm 的苹果 M6 Mac mini 体验：对比上代提升多大？",
+      "link": "https://www.ithome.com/1/005/477.htm",
+      "summary": "\n首发 2nm 的苹果 M6 Mac mini 体验：对比上代提升多大，IT之家这就带你第一时间体验一下。       点击关注IT之家B站账号 \n...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-21 15:32:20",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+      "link": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+      "summary": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depen...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-21 15:13:32",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "华为 Mate 60 等老机型升级鸿蒙 7“隐藏”新功能盘点：粒子动效实装、超级省电模式回归",
+      "link": "https://www.ithome.com/1/005/475.htm",
+      "summary": "\nIT之家 9 月 21 日消息，华为 Mate 60、Mate X5、Pura 70 等系列老机型已在 9 月 17 日提前开启了鸿蒙 HarmonyOS 7 系统的花粉 Beta 版升级活动。用户可前往设置 → 软件更新处报名尝鲜。报名成功的用户点击系统更新后就可以获得新版本推送。\n\n▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏官方更新日志显示，此次新版本升级了沉浸光感、3D 空...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-21 15:07:02",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "天文学家新发现：超大质量黑洞并非只搞破坏，其激波可驱动恒星形成",
+      "link": "https://www.ithome.com/1/005/474.htm",
+      "summary": "\nIT之家 9 月 21 日消息，天文学家对 9 个近域星系开展了观测研究，试图弄清星系中心超大质量黑洞产生的激波是如何塑造恒星形成过程的。\n\n该研究团队选取了核心拥有活动星系核（AGN）的星系作为观测对象。活动星系核是明亮且动荡的区域；其动力来自星系中央的超大质量黑洞。这类黑洞质量可达太阳的数百万乃至数十亿倍，正在吞噬大量气体与尘埃。当能量从核心向外涌出、撞击周围被称作星际介质的气体云时，就会生...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-21 15:05:21",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-21 15:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-21 14:39:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-21 14:30:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Here’s the iFixit Repairability Rating for the iPhone 18 Pro",
+      "link": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/",
+      "summary": "It’s actually pretty good for an iPhone, given Apple’s long-standing reticence to make its products repairable....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-21 14:15:09",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6ab12864df29604136e308dd/master/pass/Aperture-(4x3).gif"
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-21 14:15:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Can John Ternus find Apple’s next big thing?",
+      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.  Earlier this month, ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-21 14:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+      "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts. ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-21 13:49:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iP...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-21 13:36:52",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+      "link": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
+      "summary": "Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors an...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-21 13:16:25",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "These are the first five Googlebook laptops",
+      "link": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "summary": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for preo...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-21 13:01:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
       "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
@@ -23,6 +331,61 @@
       "pubDate": "2026-09-21 13:00:11",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HP-Googlebook-500x500.jpg"
+    },
+    {
+      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+      "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "summary": "\nShortwave radios offer a way to connect one location on Earth to practically anywhere else with minimal infrastructure. But these radios come with some drawbacks—a significant one being that, unlike ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-09-21 13:00:04",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/mans-face-framed-by-abstract-tech-graphics-antenna-towers-and-green-palm-leaves.png?id=67783301&width=1245&height=700&coordinates=0%2C113%2C0%2C113"
+    },
+    {
+      "title": "The long dream of the Googlebook",
+      "link": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
+      "summary": "In late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch of reporters and explained that Google had a big new idea about laptops. In the future, he said, ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-21 13:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "I got to see Google’s wild ideas about the future of laptops",
+      "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
+      "summary": "There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook)....",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-21 13:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+      "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+      "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-21 13:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ab1289a5263c12dd1677528/master/pass/DSC_9551.jpg"
+    },
+    {
+      "title": "Apple Mac Mini (M6) Review: For the AI Curious",
+      "link": "https://www.wired.com/review/apple-mac-mini-m6/",
+      "summary": "Apple has refreshed the Mac Mini with a brand-new chip, the M6. And this time, it’s more focused on AI than ever....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-21 13:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6aae22b9dc76ce434d3ced2e/master/pass/Review--Apple-Mac-Mini-(M6)-2.jpg"
     },
     {
       "title": "安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线",
@@ -47,123 +410,57 @@
       "thumbnail": ""
     },
     {
-      "title": "大疆发布 2 度电户外电源 DJI Power Auro 2000 Elite：体积缩减 24%，售价 4799 元起",
-      "link": "https://www.ithome.com/1/005/427.htm",
-      "summary": "\nIT之家 9 月 21 日消息，大疆今晚发布了 DJI Power Auro 2000 Elite 2 度电户外电源，售价 4799 元起。\n\n这款新品采用磷酸铁锂电芯并通过针刺测试，历经 4000 次充放电循环后，依然保持 80% 以上容量；相比 DJI Power 2000，体积缩减 24%，重量减轻 14%；所有接口集中于单侧，支持仰侧多角度摆放；支持最高 2000 瓦稳定输出，能带动部分...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-21 12:22:17",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "华为、vivo、OPPO、小米、荣耀五大国产主流手机全部接入中国地震预警网",
-      "link": "https://www.ithome.com/1/005/426.htm",
-      "summary": "\nIT之家 9 月 21 日消息，据中国地震台网，近日，荣耀手机地震预警应用全面通过中国地震台网中心技术评测，正式接入中国地震预警网。至此，华为、vivo、OPPO、小米、荣耀五大国产主流手机厂商全部获得官方授权，依托统一的公共服务模型算法与服务规范，面向亿万用户免费提供权威地震预警服务。这标志着我国地震预警公共服务在移动终端领域实现国产主流品牌全覆盖，国家地震预警工程的减灾效益将进一步惠及更多民...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-21 12:21:17",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "青岛地铁 8 号线明日全线通车，五四广场最快 40 分钟直达胶东机场",
-      "link": "https://www.ithome.com/1/005/425.htm",
-      "summary": "\nIT之家 9 月 21 日消息，据青岛地铁官方微信公众号消息，青岛地铁 8 号线南段明日开通，8 号线将实现全线通车。至此，青岛地铁运营线路达 8 条，运营里程 365 公里、运营车站 176 座、换乘站 17 座。8 号线全线通车后，从五四广场前往青岛胶东国际机场，无需换乘，最快 40 分钟内即可地铁速通。\n\n据悉，8 号线南段自北向南沿周口路、南昌路、山东路敷设，串联李沧区、市北区、市南区，...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-21 12:11:53",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "雷军谈小米澎程 N90 升顶探索版：4 年前理想 L9 爆火时开始讨论设计，和后装车顶帐篷相比感受差很远",
-      "link": "https://www.ithome.com/1/005/424.htm",
-      "summary": "\nIT之家 9 月 21 日消息，小米创办人、董事长兼 CEO 雷军今日开启直播，和大家聊聊澎程发布这些天。\nIT之家从直播获悉，雷军谈到了小米澎程系列为什么要做 N90 升顶探索版，他表示这个产品的讨论是 4 年前，2022 年 9 月理想 L9 正式发布，当时 L9 如日中天，很多朋友包括同行就劝小米做增程车。\n“我们当时的想法就是说我们在做纯电，纯电的还没做完，再做个增程，不是很好。另外，理...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-21 12:07:30",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "消息称理想汽车推进芯片子公司首轮融资，投前估值约 150 亿元",
-      "link": "https://www.ithome.com/1/005/423.htm",
-      "summary": "\nIT之家 9 月 21 日消息，据晚点 Auto 消息，理想芯片子公司正推进首轮外部融资，投前估值约 150 亿元，计划融资数十亿元。\n工商信息显示，一家名为 Mach Intelligent Cores Limited（下称“Mach 香港”）的公司于 7 月 14 日在香港成立。8 月 4 日，Mach 香港全资持有的上海马赫智芯智能科技有限公司成立，理想 CTO 谢炎担任法定代表人。数日后...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-21 12:04:40",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "影石 Luna Ultra 演唱会超长焦套装上市：带来 22.5 倍长焦、舞台模式与 4K 竖拍直出，售价 4358 元",
-      "link": "https://www.ithome.com/1/005/422.htm",
-      "summary": "\nIT之家 9 月 21 日消息，今日，影石 Insta360 为旗舰云台相机 Luna Ultra 带来长焦与人像两大升级。长焦方面，搭配全新增距镜，Luna Ultra 最高可实现 22.5 倍变焦、450mm 等效焦距，化身演唱会“小巨炮”；人像方面，新增 4K 超清竖拍、电影感实况与美颜实况、竖拍照片，进一步丰富人像直出体验。此次更新还带来全新舞台模式、暗光长焦追踪及“拍录一体”等功能，提...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-21 12:04:01",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "曝 GDDR7 显存 2027~2028 年将新增单颗封装 32Gb / 48Gb 版本",
-      "link": "https://www.ithome.com/1/005/420.htm",
-      "summary": "\nIT之家 9 月 21 日消息，消息人士 @金猪升级包 昨日爆料称，GDDR7 显存在 2027~2028 年将在现有的单颗粒封装 16Gb (2GB) / 24Gb (3GB) 外新增 32Gb (4GB) / 48Gb (6GB) 大容量版本。\n\n更大的单颗粒封装意味着相同位宽下能集成更多显存，从而提升单个处理器的最大显存规模，部分当前仅能通过正反“双贴”实现的超大显存容量未来仅需单面焊接就...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-21 12:00:20",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "蚂蚁集团 CEO 韩歆毅发布全员信，将组建全新的支付宝事业群",
-      "link": "https://www.ithome.com/1/005/419.htm",
-      "summary": "\n9 月 21 日晚间消息，蚂蚁集团 CEO 韩歆毅发布全员信，宣布支付宝进行组织调整与人事任命，以加速布局智能体商业。\n根据调整，支付宝事业群、数字支付事业群和芝麻信用事业部将“会师”，组建全新的支付宝事业群。吴敏芝将担任新支付宝事业群总裁，并兼任蚂蚁 CPO。\n据悉，吴敏芝于 2021 年 8 月加入蚂蚁集团。在此之前在阿里巴巴集团任职 20 余年，先后担任阿里巴巴国际贸易事业群总裁、B2B ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-21 11:56:40",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "科技巨头因 AI 购物起争端：亚马逊封禁 Meta Muse 智能体",
-      "link": "https://www.ithome.com/1/005/418.htm",
-      "summary": "\nIT之家 9 月 21 日消息，亚马逊已经阻断了 Meta 全新的个人 AI 智能体 Muse 代用户在亚马逊网站购物的访问权限。此前亚马逊曾尝试劝说这家 Facebook 母公司主动在 Muse 当中排除亚马逊电商站点，但协商未果。\n\n亚马逊表示，整件事的问题在于，亚马逊自始至终从未许可过该访问行为。Meta 事先没有告知亚马逊 Muse 会访问其电商平台；这款智能体在网页浏览的时候也不会主动...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-21 11:52:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "vivo 影像创新外设“随拍屏”亮相：3.92 英寸触控屏，仅 68g 重",
-      "link": "https://www.ithome.com/1/005/417.htm",
-      "summary": "\nIT之家 9 月 21 日消息，vivo X500 系列及智慧终端新品发布会正在举行，vivo 影像创新外设“随拍屏”正式亮相。\n\nIT之家从发布会现场获悉，该产品配备 3.92 英寸超大 AMOLED 触控屏，机身厚度仅 5.65mm，重量仅 68g，支持 419 PPI 超高清晰度、10m 内无线传输。\n此外，该产品超深度适配 vivo 原生设计，支持六大相机模式，适配拍短片、录口播、拍开箱...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-21 11:38:36",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Teardown details the iPhone 18 Pro’s mechanical camera",
-      "link": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown",
-      "summary": "iFixit's latest device teardown shows us the inner workings of the new variable aperture lens inside Apple's iPhone 18 Pro and 18 Pro Max, alongside some repair concerns to be mindful of. The adjustab...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it cat...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
       "region": "us",
-      "pubDate": "2026-09-21 10:57:27",
+      "pubDate": "2026-09-21 12:20:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and a...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-09-21 12:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. W...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-09-21 12:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-09-21 12:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "summary": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Ti...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-09-21 12:00:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -188,17 +485,6 @@
       "pubDate": "2026-09-21 10:30:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6aae1ef93ed816b2d8e7a03c/master/pass/Review--Bambu-Lab-P2S-Combo-3D-Printer.jpg"
-    },
-    {
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of Open...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-21 10:18:06",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "OpenAI自曝6起事故：AI安全的第一份\"审计报告\"由谁签字？",
@@ -300,15 +586,15 @@
       "thumbnail": ""
     },
     {
-      "title": "The Search for Silicon Valley’s Most Powerful Woman",
-      "link": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/",
-      "summary": "Women hold some of the most consequential jobs in tech, but they’re still not cult figures. WIRED investigates why....",
+      "title": "Justice for CSS",
+      "link": "https://www.wired.com/story/justice-for-css/",
+      "summary": "In defense of the girliest programming language....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-09-21 10:00:00",
       "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6aac71b5d7fc34009fe6c60f/master/pass/silicon-valley-women-power.jpg"
+      "thumbnail": "https://media.wired.com/photos/6aa3bc8f991e3505961905d1/master/pass/WIRED-MRCSS-AaronFernandez-01.png"
     },
     {
       "title": "Women Still Face Too Much Bullshit—in Silicon Valley and Beyond",
@@ -322,15 +608,15 @@
       "thumbnail": "https://media.wired.com/photos/6aad7219fce4a3658524c943/master/pass/WIRED_WomenInTechSurvey_web.jpg"
     },
     {
-      "title": "Justice for CSS",
-      "link": "https://www.wired.com/story/justice-for-css/",
-      "summary": "In defense of the girliest programming language....",
+      "title": "The Search for Silicon Valley’s Most Powerful Woman",
+      "link": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/",
+      "summary": "Women hold some of the most consequential jobs in tech, but they’re still not cult figures. WIRED investigates why....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-09-21 10:00:00",
       "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6aa3bc8f991e3505961905d1/master/pass/WIRED-MRCSS-AaronFernandez-01.png"
+      "thumbnail": "https://media.wired.com/photos/6aac71b5d7fc34009fe6c60f/master/pass/silicon-valley-women-power.jpg"
     },
     {
       "title": "We Surveyed 634 Women Who Work in Tech. They Let Loose",
@@ -353,39 +639,6 @@
       "pubDate": "2026-09-21 09:58:57",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow",
-      "link": "https://www.wired.com/review/factor-perpared-meals-2026/",
-      "summary": "Factor home-delivery meals have mastered the art of a juicy, medium-rare steak. But inconsistency is still an issue....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-21 09:37:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6aae28bbbd0d09be77a943f2/master/pass/Review--Factor-Prepared-Meals-(2026).jpg"
-    },
-    {
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unau...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-21 09:21:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
-      "link": "https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/",
-      "summary": "Following a difficult journey, the probe will soon begin unravelling the mysteries of Mercury’s magnetic field and internal structure....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-21 09:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6aac758c7e684437a1d8cee6/master/pass/BepiColombo_Cruise_configuration_1280.jpg"
     },
     {
       "title": "微软工程师花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变成 80 万行 Rust，快 15.9 倍",
@@ -597,17 +850,6 @@
       "thumbnail": ""
     },
     {
-      "title": "No Dogs in Space is back to feed your need for obsessive music history",
-      "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
-      "summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidal...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-20 20:51:57",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "World model companies are keeping a lot of secrets",
       "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
       "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil...",
@@ -619,160 +861,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
-      "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
-      "summary": "Many of The Boring Company's announced project have not materialized....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-20 19:38:48",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Is the AI industry really ready to slow down?",
-      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-20 18:56:04",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-20 18:50:18",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-20 18:32:52",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kojima Productions disputes reports the studio is in trouble",
-      "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
-      "summary": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the fall...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-20 18:15:10",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitche...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-20 18:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "New California law will penalize influencers who don’t disclose political ads",
-      "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
-      "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-20 16:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
-      "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click Tech...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-20 16:02:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-20 15:39:22",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "A small but growing number of founders are betting on bringing people together offline",
-      "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
-      "summary": "On the surface, a game console and a leathercraft school don't appear to have much in common. But both founders think there's money in fostering the kind of connection that technology has eroded over ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-20 15:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "A24’s reputation is on the line with the SCP Foundation movie",
-      "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
-      "summary": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation univer...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-20 12:45:48",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "A great new video game movie",
-      "link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
-      "summary": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions a...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-20 12:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The hidden monopoly behind your TI graphing calculator",
-      "link": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
-      "summary": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode o...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-20 12:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Thermacell LIV 2.0 Review: Taking My Yard Back",
-      "link": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
-      "summary": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-20 11:07:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6aae0145c68108fad4b9bc12/master/pass/Review--Thermacell-LIV-Smart-Mosquito-Repellent-System-2.0.jpg"
-    },
-    {
       "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
       "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
       "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle....",
@@ -782,17 +870,6 @@
       "pubDate": "2026-09-20 11:07:00",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-500x500.jpg"
-    },
-    {
-      "title": "Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs",
-      "link": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/",
-      "summary": "“This is a place where you can come and say, I fucking hate my dog today,” a Dogs Anonymous cofounder tells WIRED. “And there are people who are going to be like, yeah, that was me last Tuesday.”...",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-20 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6aa8645f9bc29761b67d49dc/master/pass/Inside-Support-Group-Bad-Dogs-Culture.jpg"
     },
     {
       "title": "Don't call it an SUV: The Ferrari Purosangue review",
@@ -815,17 +892,6 @@
       "pubDate": "2026-09-20 09:00:11",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-500x500-1789756455.jpg"
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-19 20:39:13",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Learning another language may be one of the best ways to keep your brain healthy",
@@ -870,6 +936,28 @@
       "pubDate": "2026-09-18 19:20:50",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-500x500.jpg"
+    },
+    {
+      "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
+      "link": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
+      "summary": "\nThis White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication time...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-09-18 18:29:50",
+      "category": "other",
+      "thumbnail": "https://spectrum.ieee.org/media-library/black-text-logo-spelling-cdata-on-a-transparent-checkerboard-background.png?id=67794446&width=980"
+    },
+    {
+      "title": "Turning Tech Talent Into Leadership Legacy",
+      "link": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+      "summary": "\nTransitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisi...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-09-18 18:00:04",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-team-of-seven-people-having-a-work-meeting-in-an-open-concept-office-space.jpg?id=67787397&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
     },
     {
       "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
@@ -938,59 +1026,81 @@
       "thumbnail": ""
     },
     {
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this rodent so carefully? N...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
+      "title": "Rethinking Robot Safety in the Age of AI",
+      "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "summary": "\nThis article is brought to you by VicOne.\nRobot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe wh...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-09-16 15:00:00",
+      "pubDate": "2026-09-16 16:51:02",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1245&height=700&coordinates=0%2C0%2C0%2C0"
     },
     {
-      "title": "Building the materials foundation for AI",
-      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
+      "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
+      "link": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
+      "summary": "\nLearn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches.\nDownload this free whitepaper n...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-09-16 12:47:34",
+      "pubDate": "2026-09-16 13:24:18",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/coolit-logo-with-text-an-ecolab-company-on-transparent-checkerboard-background.png?id=67781549&width=980"
     },
     {
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wa...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
+      "title": "The AI Inference Revolution Is Here",
+      "link": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "summary": "\nSince about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest vers...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-09-16 12:10:00",
+      "pubDate": "2026-09-15 13:00:05",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/silhouetted-hand-holding-a-glowing-computer-chip-against-a-blue-background.jpg?id=67740879&width=1245&height=700&coordinates=0%2C770%2C0%2C771"
     },
     {
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremonger...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
+      "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
+      "link": "https://spectrum.ieee.org/elon-musk-tesla",
+      "summary": "\nIn 2003, Martin Eberhard, a cofounder of Tesla Motors, decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he coul...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-09-15 17:47:51",
+      "pubDate": "2026-09-15 12:13:58",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/a-collage-shows-four-men-and-two-sports-cars-one-red-and-one-yellow.jpg?id=67759786&width=1245&height=700&coordinates=0%2C187%2C0%2C187"
     },
     {
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs D...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
+      "title": "Countries Seek to Curb Social Media Addiction for Kids",
+      "link": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids",
+      "summary": "\nSocial media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves.\nThe benefits, however, are accompanied by ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
       "region": "us",
-      "pubDate": "2026-09-15 12:10:00",
+      "pubDate": "2026-09-14 18:00:04",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://spectrum.ieee.org/media-library/students-in-red-uniforms-sit-outside-looking-at-smartphones.jpg?id=67749623&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
+    },
+    {
+      "title": "Responsible AI for Higher Education",
+      "link": "https://webinars.on24.com/wileyevents/ResponsibleAI",
+      "summary": "\nThis interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-09-14 14:18:11",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/ibm-skillsbuild-logo-in-bold-black-text.png?id=67770920&width=980"
+    },
+    {
+      "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
+      "link": "https://spectrum.ieee.org/ieee-to-reward-sections",
+      "summary": "\nFor this year’s IEEE annual election, the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward af...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-09-11 18:00:02",
+      "category": "ai",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-ballot-box-inside-a-dollar-bill-symbolizing-money-in-elections.jpg?id=67749579&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
     }
   ]
 }
