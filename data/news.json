@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-26T12:54:38.285Z",
-  "total": 90,
+  "updateTime": "2026-09-26T17:00:45.334Z",
+  "total": 100,
   "news": [
     {
       "title": "北京越野泰钽 700 开启首批交付：搭载华为乾崑智驾 ADS 5，超级焕新价 24.98 万元起",
@@ -43,6 +43,17 @@
       "sourceKey": "theverge",
       "region": "us",
       "pubDate": "2026-09-26 12:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "link": "https://www.qbitai.com/2026/09/498478.html",
+      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-26 11:49:43",
       "category": "other",
       "thumbnail": ""
     },
@@ -168,6 +179,28 @@
       "thumbnail": "https://media.wired.com/photos/6ab3c9022004e68475746c84/master/pass/092326-BROWSER%20SAVE%20FOR%20LATER.jpg"
     },
     {
+      "title": "外国人来华科技游，看见了什么？",
+      "link": "https://www.tmtpost.com/8153087.html",
+      "summary": "外国人，推开中国工厂的门。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-26 09:55:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "谷歌，准备升空",
+      "link": "https://www.tmtpost.com/8153088.html",
+      "summary": "皮查伊亲自官宣，谷歌10月1日要把TPU送上轨道...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-26 09:55:05",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "A Gravitational Battle Within the Earth Is Changing the Length of Days",
       "link": "https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/",
       "summary": "A competition between the gravity of the inner core and other forces in the mantle is altering the Earth's rotation....",
@@ -179,6 +212,17 @@
       "thumbnail": "https://media.wired.com/photos/6ab57aedee39eece457c3eb4/master/pass/962321400"
     },
     {
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "link": "https://www.qbitai.com/2026/09/498271.html",
+      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-26 09:07:41",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
       "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/",
       "summary": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends....",
@@ -188,6 +232,50 @@
       "pubDate": "2026-09-26 09:05:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6aade6d4a9e8cfe3a855c8d8/master/pass/Prime-Day-Deals-Are-Already-Here.-These-Are-the-Ones-I%E2%80%99d-Buy.jpg"
+    },
+    {
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "link": "https://www.qbitai.com/2026/09/497624.html",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-26 09:01:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+      "link": "https://www.qbitai.com/2026/09/497613.html",
+      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-26 07:18:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "link": "https://www.qbitai.com/2026/09/497425.html",
+      "summary": "vLLM人马创业公司团队出品...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-26 07:12:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+      "link": "https://www.qbitai.com/2026/09/497382.html",
+      "summary": "还把「密钥」叫战利品...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-26 07:04:15",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "Can ‘eSUV’ e-bikes really go from trail to town?",
@@ -209,7 +297,7 @@
       "region": "cn",
       "pubDate": "2026-09-26 04:46:19",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/d0e2af40564ea6544b02e786f7603c0c_1790397986.png"
+      "thumbnail": ""
     },
     {
       "title": "从买东西到买体验：为什么4个周末替代不了一个8天长假？",
@@ -220,7 +308,7 @@
       "region": "cn",
       "pubDate": "2026-09-26 04:34:26",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t43q5hwry3.png"
+      "thumbnail": ""
     },
     {
       "title": "山姆没有捷径，中国零售平台集体追赶30%自营率",
@@ -231,7 +319,7 @@
       "region": "cn",
       "pubDate": "2026-09-26 04:31:16",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t43q5hwry3.png"
+      "thumbnail": ""
     },
     {
       "title": "0元购机，卒于2026",
@@ -242,7 +330,7 @@
       "region": "cn",
       "pubDate": "2026-09-26 04:14:54",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/26/b7ca976b79bbad7bd0f3c2d15804a829_1790386997.webp"
+      "thumbnail": ""
     },
     {
       "title": "羽绒服品牌集体抢人过冬",
@@ -253,7 +341,7 @@
       "region": "cn",
       "pubDate": "2026-09-26 04:14:46",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/09/20260926092033929705.jpg"
+      "thumbnail": ""
     },
     {
       "title": "阿里的蒸汽机时代",
@@ -264,7 +352,7 @@
       "region": "cn",
       "pubDate": "2026-09-26 03:35:14",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/09/20260926105213247350.jpg"
+      "thumbnail": ""
     },
     {
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -286,7 +374,7 @@
       "region": "cn",
       "pubDate": "2026-09-26 00:38:24",
       "category": "robot",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/09/20260925235746231925.jpg"
+      "thumbnail": ""
     },
     {
       "title": "悬而未决的港股聆讯，与“非洲之王”传音的利润幻象",
@@ -297,29 +385,7 @@
       "region": "cn",
       "pubDate": "2026-09-26 00:38:21",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/09/20260926010920227537.jpg"
-    },
-    {
-      "title": "小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲",
-      "link": "https://www.tmtpost.com/8152829.html",
-      "summary": "小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-26 00:21:56",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/43t5y6jytfeb3.png"
-    },
-    {
-      "title": "华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？",
-      "link": "https://www.tmtpost.com/8152798.html",
-      "summary": "华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-26 00:19:43",
-      "category": "robot",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r34qtwhtrdn3.png"
+      "thumbnail": ""
     },
     {
       "title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
@@ -377,7 +443,7 @@
       "thumbnail": ""
     },
     {
-      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
       "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say....",
       "source": "Ars Technica",
@@ -663,6 +729,28 @@
       "thumbnail": "https://media.wired.com/photos/6ab58be48f6b080f4d1982f3/master/pass/Backchannel-Silicon-Valley-Pro-War-Or-Not-Business-2269212880.jpg"
     },
     {
+      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+      "link": "https://www.qbitai.com/2026/09/497278.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-25 13:24:20",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+      "link": "https://www.qbitai.com/2026/09/497177.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-25 13:15:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "Social Media Bans Aren’t Enough to Make Children Safe",
       "link": "https://spectrum.ieee.org/social-media-bans",
       "summary": "\nEven before France approved legislation banning social media for children under 15 last January, 13-year-old Benjamin was already wondering what life without social media would look like. “If we want...",
@@ -682,7 +770,7 @@
       "region": "us",
       "pubDate": "2026-09-25 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/brain-ice2.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "灵界 OS 6.0 稳定版 · 三处更新与一个崩溃修复",
@@ -696,6 +784,17 @@
       "thumbnail": ""
     },
     {
+      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+      "link": "https://www.qbitai.com/2026/09/497108.html",
+      "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-25 10:00:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly...",
@@ -704,7 +803,7 @@
       "region": "us",
       "pubDate": "2026-09-25 09:16:25",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Altec_Poly_2.jpeg"
+      "thumbnail": ""
     },
     {
       "title": "Young organs may not be a fountain of youth for recipients",
@@ -715,6 +814,17 @@
       "region": "us",
       "pubDate": "2026-09-25 09:00:00",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+      "link": "https://www.qbitai.com/2026/09/497075.html",
+      "summary": "Agent的手越伸越长...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-25 06:20:56",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -781,7 +891,7 @@
       "region": "us",
       "pubDate": "2026-09-24 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/10/miotke_MIT_1.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "龙蜥社区SkillHub：Workshop实战、云栖颁奖、推荐系统发布，三箭齐发",
@@ -902,7 +1012,7 @@
       "region": "us",
       "pubDate": "2026-09-23 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/PainChek-Montage-3-edited.jpg"
+      "thumbnail": ""
     },
     {
       "title": "The AI Hype Index: AI loves cheating",
