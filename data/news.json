@@ -1,7 +1,29 @@
 {
-  "updateTime": "2026-09-29T18:31:54.447Z",
+  "updateTime": "2026-09-29T22:53:41.725Z",
   "total": 90,
   "news": [
+    {
+      "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+      "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+      "summary": "So is SpaceX just being selfish or what?...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-29 18:34:00",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig-500x500.jpg"
+    },
+    {
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-29 18:11:09",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1840671728-500x500.jpg"
+    },
     {
       "title": "OpenAI Codex CLI 升级支持语音对话，更新终端界面",
       "link": "https://www.ithome.com/1/008/526.htm",
@@ -56,6 +78,17 @@
       "pubDate": "2026-09-29 17:35:03",
       "category": "ai",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
+      "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+      "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-29 17:29:14",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237457256-500x500-1790699681.jpg"
     },
     {
       "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
@@ -256,6 +289,17 @@
       "thumbnail": ""
     },
     {
+      "title": "删除储能相关，川润股份大幅下调定增募资额，“瘦身”过冬押注液冷",
+      "link": "https://www.tmtpost.com/8156522.html",
+      "summary": "储能出局，募资变动始末...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-29 15:24:18",
+      "category": "energy",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/f5f4ba3d0e37149c6fd3cb58bb6489d6_1790695461.png"
+    },
+    {
       "title": "古尔曼：苹果新任 CEO 特努斯着手全面改革，加快产品开发、精简管理层",
       "link": "https://www.ithome.com/1/008/516.htm",
       "summary": "\nIT之家 9 月 29 日消息，彭博社马克 · 古尔曼刚刚报道称，苹果新任 CEO 约翰 · 特努斯（John Ternus）上任不到一个月，便已着手对公司内部展开大刀阔斧的改革。\n特努斯希望调整公司组织和产品开发方式，目标包括加快产品研发节奏、扩大硬件产品线，并精简管理层，将更多资源和决策重心放在工程团队上。当然，相关方案目前仍处于内部讨论阶段。\n\n特努斯于 9 月 1 日正式接替蒂姆 · 库...",
@@ -322,6 +366,39 @@
       "thumbnail": ""
     },
     {
+      "title": "This study looks at how and with whom connected cars share your data",
+      "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
+      "summary": "Between the cars and their companion apps, you’re exposed to a lot of trackers....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-29 14:49:44",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2212041468-1-500x500.jpg"
+    },
+    {
+      "title": "Less protein for maggots means longer lives for fruit flies",
+      "link": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
+      "summary": "Eating less protein as larvae may limit their ability to produce proteins as adults....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-29 14:39:25",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1914127482-500x500.jpg"
+    },
+    {
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "summary": "Similar performance, security trade-offs also seen in current public models....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-29 14:22:31",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1822585391-500x500.jpg"
+    },
+    {
       "title": "Leaked images reveal new colors for Amazon’s next entry-level Kindle",
       "link": "https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button",
       "summary": "Amazon typically introduces new Kindle models a few months ahead of the holiday shopping season, and this year it looks like that will include a bigger update to the entry-level Kindle than what debut...",
@@ -333,6 +410,17 @@
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/kindle1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-29 14:10:00",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-500x500.jpg"
+    },
+    {
       "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
       "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing gre...",
@@ -342,6 +430,50 @@
       "pubDate": "2026-09-29 14:08:21",
       "category": "ai",
       "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "8.25亿增资、8.26亿转让：迈威生物TCE管线分拆至新公司联威创元",
+      "link": "https://www.tmtpost.com/8156362.html",
+      "summary": "上市公司资金完成一轮内部流转之后，最终落到平台的是外部投资人实缴的1.6亿元增量资金。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-29 13:49:42",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/b9119800c152605d15ad6e2c1a0d06b9_1790689785.png"
+    },
+    {
+      "title": "押注固态电池设备“三年后”：金银河15亿定增卡位",
+      "link": "https://www.tmtpost.com/8156391.html",
+      "summary": "金银河此时融资扩产，赌的是三年后的量产线招标，而非今年的中试订单。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-29 13:43:14",
+      "category": "energy",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/54ed34dbf0872bfb5a0fb1c9529411d3_1790689396.png"
+    },
+    {
+      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+      "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+      "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-29 13:00:19",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Firefox-header-1-500x500-1790642591.jpg"
+    },
+    {
+      "title": "跨界医疗梦碎，永和智控持续甩卖资产",
+      "link": "https://www.tmtpost.com/8156335.html",
+      "summary": "实控人曹德莅曾多次筹划出让上市公司控制权。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-09-29 12:32:20",
+      "category": "other",
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/cbe99b68c8fc2fa2a7c8e32f5c0c2af2_1790685143.png"
     },
     {
       "title": "The Download: climate tech companies to watch and AI’s discovery problem",
@@ -374,7 +506,7 @@
       "region": "cn",
       "pubDate": "2026-09-29 11:13:01",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/09/7f5b235cfa443f69168521d05f92c40a_1790680386.jpg"
     },
     {
       "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
@@ -462,7 +594,7 @@
       "region": "cn",
       "pubDate": "2026-09-29 10:25:19",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r4t3hrn3.png"
     },
     {
       "title": "A Pentagon Influencer Called Liberal Women a ‘Pestilence’ Who Will End Western Civilization",
@@ -484,7 +616,7 @@
       "region": "cn",
       "pubDate": "2026-09-29 10:12:56",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35hyjtngf3.png"
     },
     {
       "title": "消失的网页，膨胀的APP",
@@ -495,7 +627,7 @@
       "region": "cn",
       "pubDate": "2026-09-29 10:12:52",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5hyjtngf3.png"
     },
     {
       "title": "Manus 要做AI时代的“全家桶”",
@@ -506,7 +638,7 @@
       "region": "cn",
       "pubDate": "2026-09-29 10:12:45",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y4u65jyhtgr3.png"
     },
     {
       "title": "卖碳收入超10亿？小鹏不只靠卖车赚钱了",
@@ -517,18 +649,7 @@
       "region": "cn",
       "pubDate": "2026-09-29 10:12:39",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "82亿美元，硅谷上演顶级版“Girls help girls”",
-      "link": "https://www.tmtpost.com/8155853.html",
-      "summary": "苏姿丰与李飞飞“会师”。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-29 10:12:36",
-      "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/23453.png"
     },
     {
       "title": "Goodlink 支持同时运行多个Local端和Remote端 全网最简单、最快、零成本的内网穿透",
@@ -539,39 +660,6 @@
       "region": "cn",
       "pubDate": "2026-09-29 10:07:38",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "信达生物跟辉瑞的关系，这下要更铁了",
-      "link": "https://www.tmtpost.com/8155840.html",
-      "summary": "创新药迎来重大利好。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-29 10:03:34",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Agent扎堆金融：一场真正的AI大考开始了",
-      "link": "https://www.tmtpost.com/8155852.html",
-      "summary": "一场金库门口的AI落地大考。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-29 10:03:29",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "十年蜕变之作，荣耀Magic9系列写下越级答案",
-      "link": "https://www.tmtpost.com/8155188.html",
-      "summary": "从“掌中阿莱，视频之王”的影像突破，到Agentic OS的系统重构，再到阿尔法战略的体系化兑现，荣耀Magic9系列翻开的不只是产品新一页，更是一个AI终端生态公司的新一页。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-09-29 10:02:40",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -782,94 +870,6 @@
       "pubDate": "2026-09-28 21:49:10",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-500x500.jpg"
-    },
-    {
-      "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
-      "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
-      "summary": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-28 21:26:19",
-      "category": "space",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-500x500.jpg"
-    },
-    {
-      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-      "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-      "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-28 20:49:39",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-500x500.jpg"
-    },
-    {
-      "title": "New device captures carbon dioxide by pumping it across a battery",
-      "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
-      "summary": "The design requires less energy to capture CO2 than current systems....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-28 20:31:06",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1695996169-500x500.jpg"
-    },
-    {
-      "title": "To keep drug prices high, pharma has been piling up the patents",
-      "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
-      "summary": "Add-on patents have increased drug patent periods from two years to over six....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-28 19:53:37",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prescription-thicket-500x500.jpg"
-    },
-    {
-      "title": "Trump cuts fuel economy standards back to 2014 levels",
-      "link": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
-      "summary": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-28 19:35:51",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-155384429-500x500.jpg"
-    },
-    {
-      "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
-      "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
-      "summary": "Kalshi's defiance of state gambling laws may be headed to Supreme Court....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-28 19:04:09",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-500x500-1783536860.jpg"
-    },
-    {
-      "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-      "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
-      "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-28 18:04:59",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/list-500x500.jpg"
-    },
-    {
-      "title": "Scientists solve 1840s space weather mystery",
-      "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-      "summary": "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-28 17:56:36",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/spaceweather-500x500.jpg"
     },
     {
       "title": "When can we say AI made a scientific discovery?",
