@@ -1,61 +1,358 @@
 {
-  "updateTime": "2026-09-29T12:33:55.182Z",
+  "updateTime": "2026-09-29T18:31:54.447Z",
   "total": 90,
   "news": [
     {
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrang...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-29 12:00:00",
+      "title": "OpenAI Codex CLI 升级支持语音对话，更新终端界面",
+      "link": "https://www.ithome.com/1/008/526.htm",
+      "summary": "\nIT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布 Codex CLI 迎来焕新升级。\n\nCodex CLI 现已支持语音对话，用户可以直接与 Codex 对话来启动任务并引导任务推进。\n借助全新的 /agents 视图，用户可以将工作分配给多个智能体，并轻松跟踪多项任务的进度。\nOpenAI 还改进了...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-29 17:56:00",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI devel...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
       "region": "us",
-      "pubDate": "2026-09-29 11:48:27",
+      "pubDate": "2026-09-29 17:45:51",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "荣耀 Magic9 全系机型获首批“AI 智能体手机”入网认证",
-      "link": "https://www.ithome.com/1/008/465.htm",
-      "summary": "\nIT之家 9 月 29 日消息，荣耀终端股份有限公司 CEO 李健宣布，荣耀 Magic9 全系机型今日获得首批“AI 智能体手机”入网认证。\n\n李健表示，Magic9 此次获批是对荣耀多年深耕 MagicOS 和系统级 AI 的权威认可，也标志着 AI 智能体手机正式走向标准化。\n据IT之家此前报道，荣耀 Magic9 系列手机发布于昨日，包含荣耀 Magic9 Pro Max、荣耀 Magi...",
+      "title": "OpenAI 推出每月 500 美元的 Pro 套餐，专享 Astra Ultrafast 最快模型",
+      "link": "https://www.ithome.com/1/008/525.htm",
+      "summary": "\nIT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布为了满足更高的构建需求，推出每月 500 美元（IT之家注：现汇率约合 3,361 元人民币）的 Pro 套餐。\nPro 500 套餐可提供最高用量限额，还可专享 Astra Ultrafast —— OpenAI 速度最快的前沿模型。\n在“ChatGP...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-09-29 11:46:22",
+      "pubDate": "2026-09-29 17:44:59",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/6887ce91-af30-4633-8860-42b8822cf22f.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "iQOO16 手机行业首发 Q-flex 操控技术：至高 5000Hz 瞬时触控采样率，陀螺仪采样率最高 500Hz",
-      "link": "https://www.ithome.com/1/008/463.htm",
-      "summary": "\nIT之家 9 月 29 日现场消息，iQOO 今天召开新品发布会，推出 iQOO 16 手机。据官方介绍，iQOO 16 将行业首发 Q-flex 操控技术，在滑动时延、触控采样率、陀螺仪采样率等方面均有提升。\n\n据悉，iQOO 16 将深入游戏引擎打通 VIP 专属通道，针对高频操作场景进行专项优化，对比功能开启前，滑动时延大幅降低 28%。\n同时，该机还将搭载全新一代超感触控芯片，至高 50...",
+      "title": "最高每秒 300 个词元：OpenAI 推出 GPT‑6 Astra Ultrafast 服务",
+      "link": "https://www.ithome.com/1/008/524.htm",
+      "summary": "\nIT之家 9 月 30 日消息，在今天召开的 2026 年 OpenAI 开发者日活动日中，官方推出 Ultrafast 全新服务层级，在 Codex 中可提供最高 8 倍词元（Token）生成速度，在 API 调用时最高可以实现 6 倍生成速度。\n\nAPI 调用费用方面，IT之家查询官方信息，附上售价如下：\n\n\n模型\n价格类型\n短上下文（输入＜ 272K Token）\n长上下文（输入＞ 272...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-09-29 11:38:21",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/9fb4a78d-7138-4e82-a3a3-66dc34a798f9.png?x-bce-process=image/format,f_auto"
+      "pubDate": "2026-09-29 17:43:14",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
-      "title": "中国科学家发起的国际大科学计划步入实施阶段：π-HuB 计划研究框架含 13 项研究计划，先导项目取得进展",
-      "link": "https://www.ithome.com/1/008/449.htm",
-      "summary": "\nIT之家 9 月 29 日消息，据新华社今日报道，中国科学院院士贺福初表示，由中国科学家领衔发起的“人体蛋白质组导航国际大科学计划”（π-HuB 计划）已进入实施阶段。该计划已提出一套研究框架，正按程序审议，多个先导项目取得初步成果。\n第 25 届国际人类蛋白质组组织大会于 9 月 27 日至 10 月 1 日在新加坡举行。贺福初在大会期间举行的“π-HuB 计划全球日”活动上介绍进展，来自不同...",
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI resear...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-29 17:35:03",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "link": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+      "summary": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-29 17:27:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI 发布 dots 全天候智能助理：可爱卡通形象，Astra 模型加持",
+      "link": "https://www.ithome.com/1/008/523.htm",
+      "summary": "\nIT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 发布了 dots。\n\n\n\ndots 是一个全天候在线的智能体，采用四个可爱的卡通形象，可以帮助用户规划议程、设计网站、测试应用、修改笔记等。\n\n\n\n\n此外，它会随着时间的推移逐渐了解用户的工作习惯，以及用户想要将注意力集中在哪些方面。它能够查看夜间收到的信息...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-09-29 11:30:57",
+      "pubDate": "2026-09-29 17:23:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI 在 Codex 上线 GPT-6.1 Sol 模型：性能接近 Astra，价格仅为 1/5",
+      "link": "https://www.ithome.com/1/008/522.htm",
+      "summary": "\nIT之家 9 月 30 日消息，在今天召开的 OpenAI 开发者日活动中，官方在 Codex 和 ChatGPT Work 中推出 GPT 6.1 Sol 模型，官方表示：“GPT-6.1 Sol 在处理复杂任务时，性能接近 Astra，但成本低于 Astra。”\n\n\n\nIT之家翻译官方介绍如下：\nGPT-6.1 Sol 在处理复杂任务时，性能接近 Astra，但成本低于 Astra。它适用于...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-29 17:20:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-29 17:20:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
+      "link": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
+      "summary": "Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireles...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-29 17:19:07",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Deathstalker-v2-pro-tkl-roundup.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-29 17:17:15",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-29 17:15:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step busin...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-29 17:15:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-29 17:15:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-29 17:15:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-29 17:15:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6abbcee9422fade848ea964d/master/pass/Dots%20Hero%20Image.png"
+    },
+    {
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-29 17:12:27",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3019.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-29 16:55:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Xbox’s Mythic Achievements are here and they’re just like PlayStation Platinum trophies",
+      "link": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
+      "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trop...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-29 16:17:01",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Toast-Gears-E-Day-1e689e713ada7e9b3d37.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Apple’s new CEO could change when it launches phones and laptops",
+      "link": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
+      "summary": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial pl...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-29 16:09:44",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/JohnTernus.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed severa...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-29 16:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "This might be our first look at Google’s Pixel 11A",
+      "link": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look",
+      "summary": "Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are potentially our first ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-29 15:57:10",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pixel-11a-leaks-Android-Headlines.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "微信鸿蒙版 App 获 8.0.22.35 尝鲜升级，修复了一些已知问题",
+      "link": "https://www.ithome.com/1/008/517.htm",
+      "summary": "\nIT之家 9 月 29 日消息，继 8.0.22.34 之后，微信鸿蒙版 App 在华为应用市场（App Gallery）紧接着开启了 8.0.22.35 (8394275) 版本尝鲜升级，测试时间为 2026/9/29-2026/10/29。\n微信鸿蒙版 App 尝鲜可能量少，有需要的朋友可通过应用市场-我的-应用尝鲜-点击搜索框搜索。\n\n和往常一样，本次更新的说明依旧为“修复了一些已知问题”...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-29 15:39:40",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "古尔曼：苹果新任 CEO 特努斯着手全面改革，加快产品开发、精简管理层",
+      "link": "https://www.ithome.com/1/008/516.htm",
+      "summary": "\nIT之家 9 月 29 日消息，彭博社马克 · 古尔曼刚刚报道称，苹果新任 CEO 约翰 · 特努斯（John Ternus）上任不到一个月，便已着手对公司内部展开大刀阔斧的改革。\n特努斯希望调整公司组织和产品开发方式，目标包括加快产品研发节奏、扩大硬件产品线，并精简管理层，将更多资源和决策重心放在工程团队上。当然，相关方案目前仍处于内部讨论阶段。\n\n特努斯于 9 月 1 日正式接替蒂姆 · 库...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-29 15:21:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 iPhone 18 Pro 售价大涨，越来越多日本人开始考虑二手手机",
+      "link": "https://www.ithome.com/1/008/515.htm",
+      "summary": "\nIT之家 9 月 29 日消息，苹果本月初推出 iPhone 18 Pro 系列手机。新机带来可变光圈、灵动岛尺寸缩小等一系列升级，售价增长也引发热议。在日本市场，iPhone 18 Pro 与 5 年前同级机型相比，价格几乎翻了一番。\n\n▲ IT之家 Apple Park 实拍：iPhone 18 Pro 系列真机据共同社今天报道，苹果 iPhone 18 Pro 在日本直营渠道起售价 21....",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-29 15:15:39",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-29 15:12:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "RGB 硬件最后一环：英特尔专利提出在 CPU 封装中集成 Micro LED，可用作指示灯或装饰",
+      "link": "https://www.ithome.com/1/008/511.htm",
+      "summary": "\nIT之家 9 月 29 日消息，TomsHardWare 发现，英特尔本月初公开了一项关于 CPU 封装的新专利，提出将 Micro LED 灯珠直接集成到处理器内部的想法。\n这意味着，未来处理器表面不仅可以显示 RGB 灯效，还可以自定义点亮 Logo 或文字，或者根据处理器负载、温度或执行状态实时改变光效。\n\n这项专利于 2022 年提交，并于本月正式公开。该专利描述了一种基于玻璃基板（Gl...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-29 15:07:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "报道称 OpenAI 年化经常性收入接近 700 亿美元，较三季度初增长超 70%",
+      "link": "https://www.ithome.com/1/008/510.htm",
+      "summary": "\nIT之家 9 月 29 日消息，据外媒 Axios 今天报道，据知情人士透露，OpenAI 年化经常性收入（ARR）已接近 700 亿美元（IT之家注：现汇率约合 4,705.11 亿元人民币）。\n\n据报道，自 2026 年三季度初以来，OpenAI 的年化经常性收入增长超 70%，其 B2B（企业对企业）收入增长超 100%。\n消费者业务层面，OpenAI 三季度新增收入超 2025 年全年新...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-29 15:05:17",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+      "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+      "summary": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-29 15:00:00",
       "category": "other",
       "thumbnail": ""
+    },
+    {
+      "title": "Leaked images reveal new colors for Amazon’s next entry-level Kindle",
+      "link": "https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button",
+      "summary": "Amazon typically introduces new Kindle models a few months ahead of the holiday shopping season, and this year it looks like that will include a bigger update to the entry-level Kindle than what debut...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-29 14:10:50",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/kindle1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing gre...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-29 14:08:21",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch ...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-09-29 12:10:00",
+      "category": "ai",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260511-drug-manufacturing-space-hero.jpg?fit=2128,1196"
     },
     {
       "title": "I Found National Coffee Day Deals Worth Making Coffee at Home For (2026)",
@@ -69,50 +366,6 @@
       "thumbnail": "https://media.wired.com/photos/6abadf00e349019c1a3a4730/master/pass/The-Best-National-Coffee-Day-Deals-to-Grab-Today.jpg"
     },
     {
-      "title": "吉利首款 AI 全地形硬核 SUV：银河战舰 700 将于 10 月 10 日正式上市，预售价 19.98 万元起",
-      "link": "https://www.ithome.com/1/008/446.htm",
-      "summary": "\nIT之家 9 月 29 日消息，吉利官方今天宣布，银河战舰 700 汽车将于 10 月 10 日上市。新车预售价为 19.98 万元起，是吉利首款 AI 全地形硬核 SUV，基于 GTA 原生新能源越野架构打造。\n\n外观方面，该车采用硬朗的线条勾勒与方盒子车身造型，塑造出鲜明的硬派越野视觉风格。前脸采用长条矩形格栅轮廓，搭配贯穿式日间行车灯设计，品牌 Logo 具备点亮功能。车身侧面配备传统样式...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-29 11:28:20",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/5ef9291f-67f9-4b23-baf7-946f96947305.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "4499 元联想瑞天 14X 笔记本电脑发售：英特尔酷睿 5 320、14 英寸 2.8K 120Hz",
-      "link": "https://www.ithome.com/1/008/445.htm",
-      "summary": "\nIT之家 9 月 29 日消息，联想上周推出了一款新的瑞天 14X 2026 笔记本电脑，现已开售，官方定价 4999 元，首发 4499 元（9 月 28 日-30 日），叠加国补后 3824.15 元。\n京东联想瑞天 14X 笔记本电脑 14 英寸 英特尔酷睿 5 320 12G 512G 2.8K 120Hz 银灰券后 4499 元领 300 元券\n这款笔记本定位商务办公，搭载英特尔第 3...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-29 11:21:28",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/521999/31/13730/86679/6ab4d6f0Fc2f2c1dd/00833203200061c6.jpg"
-    },
-    {
-      "title": "因市场不确定性，智能穿戴设备公司 OURA 推迟 IPO 计划",
-      "link": "https://www.ithome.com/1/008/444.htm",
-      "summary": "\nIT之家 9 月 29 日消息，据科技媒体 CNBC 今天报道，智能穿戴设备公司宣布推迟首次公开募股（IPO）计划，原因为市场存在不确定性。\n\n据报道，OURA 于上周公布了 IPO 计划，计划通过发行 5000 万股股票筹集至多 22 亿美元（IT之家注：现汇率约合 147.87 亿元人民币）。公司目前已实现盈利，预计 2026 财年营收同比增长 90%。\nOURA 首席执行官 Tom Hal...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-29 11:20:48",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/98f5821a-ff7f-4c5c-9bbf-5818d896bd14.jpg"
-    },
-    {
-      "title": "iQOO 15 手机销量突破 200 万台",
-      "link": "https://www.ithome.com/1/008/443.htm",
-      "summary": "\nIT之家 9 月 29 日现场消息，iQOO 16 及 iQOO Pad Ultra 新品发布会正在举行，IT之家在现场获悉，iQOO 15 手机销量突破 200 万台。\n\niQOO 15 手机于 2025 年 10 月 20 日发布，搭载第五代骁龙 8 至尊版处理器、2K 三星珠峰屏（M14 发光材料），采用 iQOO 有史以来最好最强的 M14 发光材料，售价 4199 元起。\n续航方面，i...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-29 11:18:18",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/bac84923-5c68-42cc-93db-153e9abe3d7d.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "ARR真的是大模型企业的黄金指标吗？",
       "link": "https://www.tmtpost.com/8154376.html",
       "summary": "快速上涨的ARR，要花多少钱才能维持。...",
@@ -124,37 +377,26 @@
       "thumbnail": ""
     },
     {
-      "title": "央视提醒：手机充电器长期不拔会加速老化，已引发多起火灾",
-      "link": "https://www.ithome.com/1/008/442.htm",
-      "summary": "\nIT之家 9 月 29 日消息，央视新闻今日报道称，多地出现因手机充电器长时间不拔引发的火灾。消防部门提醒公众养成充满电及时拔下充电器的习惯。\n据报道，福建泉州一处民房发生火灾。调查显示，住户将手机充电器长时间插在客厅沙发下方插座上，充电器故障产生电火花引燃周边可燃物，最终酿成火灾。火灾导致客厅墙面大面积剥落，墙体布满烟熏痕迹，沙发等家具被烧毁，地面散落大量碎片和燃烧残渣。\n\n2026 年 7 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-29 11:12:28",
-      "category": "energy",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/c34ada54-73ce-4fba-a6a7-c3c5b4d2e544.jpg"
-    },
-    {
-      "title": "荣耀 AI 耳夹耳机 FlyClip Pro 开售：国补价 389.7 元，续航 44 小时",
-      "link": "https://www.ithome.com/1/008/441.htm",
-      "summary": "\nIT之家 9 月 29 日消息，荣耀 AI 耳夹耳机 FlyClip Pro 现已开售，提供紫、白、灰三种配色，京东显示为 443 元，正常叠加国补后为 398.7 元，但京东还提供了 10 元优惠券，叠加国补后 389.7 元。\n京东荣耀 FlyClip Pro 耳夹式蓝牙耳机开放式不入耳舒适佩戴运动通话降噪 AI 翻译超长续航 HONOR Life 珠光白 398.7 元直达链接\n这款耳机采...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-29 11:06:23",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/525530/3/12286/71657/6aba42c6F6bc70f96/00833203202c6a22.jpg"
-    },
-    {
-      "title": "荷兰政府计划放弃微软 Windows 系统，转投本土替代产品 NixOS",
-      "link": "https://www.ithome.com/1/008/440.htm",
-      "summary": "\nIT之家 9 月 29 日消息，据科技媒体 TechRadar 今天报道，荷兰政府宣布推出 DAWO（政府自主数字工作环境）计划，考虑放弃微软 Windows 操作系统，转向开源替代方案。\n\n据报道，该迁移计划当前处于早期状态。荷兰 8 个地方政府计划开展试点，弃用 Windows 操作系统。该国政府希望使用本土替代产品 NixOS，此前曾测试过 openSUSE 和 Fedora。据IT之家了...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-29 10:59:13",
+      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+      "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+      "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achiev...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-09-29 11:00:00",
       "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/9/39f0e068-8c95-42ec-a5eb-bb8ead1c95f3.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
+    },
+    {
+      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+      "link": "https://www.qbitai.com/2026/09/499239.html",
+      "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-29 10:56:33",
+      "category": "other",
+      "thumbnail": ""
     },
     {
       "title": "How to Beat Surveillance Pricing Before It Bleeds You Dry",
@@ -168,6 +410,17 @@
       "thumbnail": "https://media.wired.com/photos/6aba44beccafc0a614090535/master/pass/092826-Gouged%20Book%20Q&amp;A.jpg"
     },
     {
+      "title": "Making AI an asset, not an expense",
+      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-09-29 10:43:45",
+      "category": "ai",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?w=840"
+    },
+    {
       "title": "7 Best Smartwatch Models: Apple, Google, Garmin (2026)",
       "link": "https://www.wired.com/story/best-smartwatch/",
       "summary": "These WIRED-tested wearables reduce your reliance on a phone while keeping you connected....",
@@ -176,7 +429,7 @@
       "region": "us",
       "pubDate": "2026-09-29 10:39:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://media.wired.com/photos/6abac0e3db7cae3a76703ee7/master/pass/The-Best-Smartwatch-Isn%E2%80%99t-the-Smartest.jpg"
     },
     {
       "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
@@ -322,28 +575,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-      "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-      "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 10:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Your car’s data privacy problems are worse than you think",
-      "link": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
-      "summary": "You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive, ho...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-29 10:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Beats 360 Review: Customizable, Stylish, and Fun",
       "link": "https://www.wired.com/review/beats-360/",
       "summary": "Beats’ new flagship headphones are customizable, stylish, fun, and great for working out. But there are stronger options for everyday use....",
@@ -399,13 +630,24 @@
       "thumbnail": ""
     },
     {
-      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-      "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
-      "summary": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 09:00:00",
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "link": "https://www.qbitai.com/2026/09/499188.html",
+      "summary": "",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-29 07:59:46",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI因新模型太强叫停发布",
+      "link": "https://www.qbitai.com/2026/09/499140.html",
+      "summary": "AGI计划暂停。...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-29 07:49:20",
       "category": "ai",
       "thumbnail": ""
     },
@@ -432,6 +674,17 @@
       "thumbnail": ""
     },
     {
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "link": "https://www.qbitai.com/2026/09/499135.html",
+      "summary": "诺因从Demo走向家庭...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-29 07:10:59",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "Jeff 开源发布：22 毫秒出一次决策的小模型、0.8B 微调在 benchmark 上逼近 Jev",
       "link": "https://www.oschina.net/news/502796",
       "summary": "一个叫 Jeff 的开源项目，把「专做快速决策的小模型」这条路又往前推了一步。它是 Qwen3.5 和 Gemma 4 的微调版本，定位是“zero-shot（零样本）”分类器——你描述一个场景、列一堆选项，Jeff 一次前向计算就返回每个选项的校准概率，不生成文本、不用解析，在 RTX PRO 6000 上约 22 毫秒出一次决策，Apple M4 Max（MLX......",
@@ -441,28 +694,6 @@
       "pubDate": "2026-09-29 06:12:39",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 05:13:43",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Motorola Coupon Code for October 2026",
-      "link": "https://www.wired.com/story/motorola-coupon-code/",
-      "summary": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-29 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png"
     },
     {
       "title": "Claude Sonnet 5.5 发布：速度快 3 成、Agent 编程评测从 10% 跳到 70%",
@@ -509,17 +740,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
-      "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
-      "summary": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leav...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-29 01:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
       "link": "https://www.qbitai.com/2026/09/499098.html",
       "summary": "李飞飞将入职AMD首席科学家...",
@@ -528,39 +748,6 @@
       "region": "cn",
       "pubDate": "2026-09-29 00:49:30",
       "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 00:30:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-28 23:39:20",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
-      "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-      "summary": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-28 22:58:35",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -597,28 +784,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-500x500.jpg"
     },
     {
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-28 21:31:35",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-28 21:29:18",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
       "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
       "summary": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit....",
@@ -639,17 +804,6 @@
       "pubDate": "2026-09-28 20:49:39",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-500x500.jpg"
-    },
-    {
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-28 20:39:33",
-      "category": "chip",
-      "thumbnail": ""
     },
     {
       "title": "New device captures carbon dioxide by pumping it across a battery",
@@ -685,39 +839,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-155384429-500x500.jpg"
     },
     {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-28 19:33:57",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bose starts adding Auracast to its headphones",
-      "link": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
-      "summary": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-28 19:31:24",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tesla delays Roadster 2 event again due to bad weather",
-      "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "summary": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-28 19:27:27",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
       "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
       "summary": "Kalshi's defiance of state gambling laws may be headed to Supreme Court....",
@@ -727,39 +848,6 @@
       "pubDate": "2026-09-28 19:04:09",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-500x500-1783536860.jpg"
-    },
-    {
-      "title": "OpenAI’s AI agents need to catch up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI a...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-28 18:45:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trump finalizes rule to make cars less fuel efficient",
-      "link": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards",
-      "summary": "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Administration.\" It's a nai...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-28 18:39:50",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, a...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-28 18:30:00",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
@@ -791,17 +879,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-09-28 17:03:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. Accord...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-28 17:00:23",
       "category": "ai",
       "thumbnail": ""
     },
@@ -883,50 +960,6 @@
       "thumbnail": ""
     },
     {
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "link": "https://www.qbitai.com/2026/09/498546.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-27 09:44:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "link": "https://www.qbitai.com/2026/09/498478.html",
-      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-26 11:49:43",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "link": "https://www.qbitai.com/2026/09/498271.html",
-      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-26 09:07:41",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "link": "https://www.qbitai.com/2026/09/497624.html",
-      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-26 09:01:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie dete...",
@@ -935,7 +968,7 @@
       "region": "us",
       "pubDate": "2026-09-25 12:10:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/brain-ice2.jpg?fit=2128,1196"
     },
     {
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
@@ -946,7 +979,7 @@
       "region": "us",
       "pubDate": "2026-09-25 09:16:25",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Altec_Poly_2.jpeg"
     },
     {
       "title": "Young organs may not be a fountain of youth for recipients",
@@ -957,39 +990,6 @@
       "region": "us",
       "pubDate": "2026-09-25 09:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-09-24 12:10:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI is dominating the conversation at Climate Week",
-      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fan...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-09-24 10:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "A congressional representative just proposed killing America’s border tower program",
-      "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.  The announceme...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-09-23 17:10:11",
-      "category": "other",
       "thumbnail": ""
     }
   ]
