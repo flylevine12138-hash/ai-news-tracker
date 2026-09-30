@@ -1,7 +1,249 @@
 {
-  "updateTime": "2026-09-30T15:47:10.682Z",
+  "updateTime": "2026-09-30T20:41:41.618Z",
   "total": 100,
   "news": [
+    {
+      "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-30 18:25:04",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-500x500-1784833195.jpg"
+    },
+    {
+      "title": "The AI Tamagotchis are coming",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 18:07:38",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 17:45:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+      "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+      "summary": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Ol...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 17:45:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 17:24:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon’s delivery driver smart glasses will reportedly take photos ‘almost constantly’",
+      "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+      "summary": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomb...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 17:21:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 17:15:49",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "This blog could help you poop better",
+      "link": "https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 17:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+      "link": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
+      "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-30 16:48:56",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1242530931-500x500.jpg"
+    },
+    {
+      "title": "Asus won’t say how it escaped the US router ban",
+      "link": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
+      "summary": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national s...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 16:44:20",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "‘Xbox is not for sale’ says Microsoft’s gaming chief",
+      "link": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
+      "summary": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been conside...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 16:24:30",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was tu...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 16:24:23",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "乐扩公布 B650 扩展卡 PB65MX4，支持模块化按需拓展",
+      "link": "https://www.ithome.com/1/008/950.htm",
+      "summary": "\nIT之家 10 月 1 日消息，乐扩 (Lekuo) 昨日公布了基于 AMD B650 芯片组 \"PROM 21\" 的新款 PCIe AIC 扩展卡 PB65MX4。这一型号采用模块化设计，支持用户按需拓展 I/O。\n\nPB65MX4 正面提供 2 个 M.2 2230 / 2242 / 2260 / 2280 插槽，支持 PCIe Gen3 ×2。这两个插槽既可直接安装 M.2 SSD，也兼容...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 16:15:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google's early attempt to pay websites for AI answers is struggling",
+      "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-30 16:03:48",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-500x500.jpg"
+    },
+    {
+      "title": "复兴号 CR400AF-X 动车组首发上线 UFCS 支持：高铁无线快充迈入 30W 时代，半小时充至 60%",
+      "link": "https://www.ithome.com/1/008/946.htm",
+      "summary": "\nIT之家 10 月 1 日消息，9 月 30 日，第三代智能高铁 CR400AF-X 型动车组首次上线运营，从北京南开往杭州东的 G43 次列车成为首发车次，随后 G42、G35 京沪、京杭热门线路均已上线（仅复兴号商务座）。\n该动车组由国铁集团主导、中车四方股份公司研制，搭载的无线充电功能使用我国自主推动的 UFCS（融合快速充电）无线充电技术规范。\n\n据中国信息通信研究院总工程师魏然介绍，以...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 16:01:31",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 16:00:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 16:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
+      "link": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
+      "summary": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 16:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 15:56:28",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google figures out how to watermark AI-designed proteins",
+      "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+      "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-30 15:54:52",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-500x500.jpg"
+    },
+    {
+      "title": "海盗船《英雄联盟》选手 Gumayusi 联名键鼠发售，1749 / 1549 元",
+      "link": "https://www.ithome.com/1/008/945.htm",
+      "summary": "\nIT之家 9 月 30 日消息，CORSAIR（海盗船）正式发售了与《英雄联盟》三届全球总决赛冠军选手李 \"Gumayusi\" 珉炯合作打造的键盘与鼠标，两款外设的定价分别为 1749 元和 1549 元。\n\n▲ 先锋者 VANGUARD PRO 96 霍尔效应游戏键盘 Gumayusi 限量版京东海盗船 Gumayusi 联名键盘 1749 元直达链接\n\n▲ 圣剑 SABRE v2 PRO C...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 15:52:42",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "三星发布 Galaxy SmartTag 3 追踪器：体积缩小 35%，续航最长 790 天",
+      "link": "https://www.ithome.com/1/008/944.htm",
+      "summary": "\nIT之家 9 月 30 日消息，三星电子今日宣布推出新一代 Galaxy SmartTag3 追踪器。\n该产品体积比前代小约 35%，重量轻 33%，单个售价 29.99 美元（现汇率约合 201.5 元人民币），四件装 99.99 美元（IT之家注：现汇率约合 671.7 元人民币），将于 11 月初上市，提供白、黑两色，还可单独购买硅胶保护壳和环扣保护壳等配件。\n\n三星 Galaxy Sma...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 15:46:55",
+      "category": "other",
+      "thumbnail": ""
+    },
     {
       "title": "微软 Win11 27H2 前瞻：预计将基于全新 Strontium 平台，Win12 仍难现身",
       "link": "https://www.ithome.com/1/008/943.htm",
@@ -25,6 +267,17 @@
       "thumbnail": ""
     },
     {
+      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+      "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+      "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 15:26:02",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "169 美元：舒尔发布第二代 MV6 USB 游戏麦克风，支持实时降噪",
       "link": "https://www.ithome.com/1/008/941.htm",
       "summary": "\nIT之家 9 月 30 日消息，舒尔（Shure）今天宣布推出第二代 MV6 USB 游戏麦克风（MV6 Gen 2）。新品专为电竞发烧友、主播等群体打造，带来一系列新技术，售价 169 美元（IT之家注：现汇率约合 1,135 元人民币）/150 欧元（现汇率约合 1,143 元人民币）。\n\n据介绍，这款麦克风采用舒尔全新语音隔离技术，新增自动电平模式和实时可调降噪，可以更好地滤除环境噪音，并...",
@@ -34,6 +287,28 @@
       "pubDate": "2026-09-30 15:21:22",
       "category": "other",
       "thumbnail": ""
+    },
+    {
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re w...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 15:18:49",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The PS5 hacking scene just took a big leap forward",
+      "link": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
+      "summary": "New exploit works on all but the most recently updated consoles....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-30 15:12:46",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2186493403-500x500.jpg"
     },
     {
       "title": "Glow Security：AI 智能体无意间泄露企业敏感信息，超 1.3 万张截图被放在 GitHub 公开仓库",
@@ -69,47 +344,113 @@
       "thumbnail": ""
     },
     {
-      "title": "GEEKOM 推出 GeekBook M14 笔记本，可选酷睿 Ultra 5 125U / 锐龙 5 220 处理器",
-      "link": "https://www.ithome.com/1/008/935.htm",
-      "summary": "\nIT之家 9 月 30 日消息，GEEKOM（积核）现已在美国市场推出 GeekBook M14 笔记本，新品可选英特尔或 AMD 处理器，最高可选配 16GB 内存和 72Wh 电池。\n\n据介绍，这款笔记本可选择英特尔酷睿 Ultra 5 125U 或 AMD 锐龙 5 220 处理器，内存为 16GB，硬盘可选 256GB/512GB SSD。\n\n同时，该笔记本配备 72Wh 电池，续航最长...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 14:56:11",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "TrendForce 预测：DRAM 内存、NAND 闪存合约价 2026Q4 还将上涨 15~20%",
-      "link": "https://www.ithome.com/1/008/934.htm",
-      "summary": "\nIT之家 9 月 30 日消息，TrendForce（集邦）今日发布存储器市场 2026Q4 走势预测：一般 DRAM 合约价将环比上涨 10~15%，计入 HBM 后的整体 DRAM 合约价上涨 15~20%；NAND 闪存整体合约价也将环比上涨 15~20%。\n从整体上来看，DRAM 上游原厂将持续把先进制程产能投入高性能服务器产品，整体维持供应不足格局，但合约价涨势放缓；NAND 市场则呈...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 14:51:17",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "《足球经理 27》11 月 10 日发售：新增动态天气，球员建模升级",
-      "link": "https://www.ithome.com/1/008/933.htm",
-      "summary": "\nIT之家 9 月 30 日消息，由 Sports Interactive 开发、世嘉发行的足球模拟游戏《足球经理 27》确认将于 11 月 10 日发售。新作将在比赛观感、球场环境和玩家战术表达等方面进行改进。\n\n《足球经理 27》将采用更加直观的操作界面，减少玩家完成常用操作所需的点击次数。同时，游戏世界进一步丰富，加入更加细致的观众反应、动态天气和改进后的光照效果，并为玩家提供更大的战术表达...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 14:48:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "《英雄不再》系列游戏开发商草蜢工作室宣布脱离网易，独立运营",
-      "link": "https://www.ithome.com/1/008/932.htm",
-      "summary": "\nIT之家 9 月 30 日消息，据外媒 Insider Gaming 今天报道，曾开发《英雄不再》系列游戏的草蜢工作室（Grasshopper Manufacture）宣布，自 2026 年 10 月 1 日起公司将脱离网易游戏，重新成为独立开发商。\n\nIT之家了解到，网易游戏 2021 年宣布收购草蜢工作室。网易方面为草蜢提供游戏开发资金，并提供数千名开发人员支持。\n草蜢工作室创办人须田刚一对...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 14:42:08",
+      "title": "Discord gives more advertisers more tools to target its users",
+      "link": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
+      "summary": "Discord is \"opening the platform to advertisers, regardless of their budget.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-30 15:01:40",
       "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1244881649-500x500.jpg"
+    },
+    {
+      "title": "What butterfly wings have in common with barbershop poles",
+      "link": "https://arstechnica.com/science/2026/09/what-butterfly-wings-have-in-common-with-barbershop-poles/",
+      "summary": "Wing patterns, flight dynamics create \"motion dazzle\" effect, make it harder to gauge speed, direction....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-30 15:00:56",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/butterfly1-500x500-1790621009.jpg"
+    },
+    {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes ar...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 14:51:49",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+      "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+      "summary": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety mea...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 14:50:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
+      "link": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
+      "summary": "The 2027 BMW 330 starts at $49,900, the i3 50 xDrive at $61,500....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-30 14:42:58",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/P90657631_highRes_the-new-bmw-3-series-500x500.jpg"
+    },
+    {
+      "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
+      "link": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
+      "summary": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 14:32:03",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Instagram rolls out an AI video assistant for creators",
+      "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+      "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 14:30:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos",
+      "link": "https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/",
+      "summary": "The practice of editing the genes of embryos remains highly controversial and risky, but Origin Genomics founder Cathy Tie argues its a “moral imperative” to address hereditary diseases....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-30 14:30:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6abbe05edfaa177dfd594822/master/pass/092926-Human%20Embryo%20Gene%20Editing.jpg"
+    },
+    {
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-09-30 14:06:15",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sam-altman-1-500x500.jpg"
+    },
+    {
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "link": "https://www.qbitai.com/2026/09/499654.html",
+      "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-30 14:03:43",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -168,48 +509,26 @@
       "thumbnail": ""
     },
     {
-      "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-      "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-      "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 12:00:00",
+      "title": "直播回顾：工业AI的下一个机会在哪？",
+      "link": "https://www.qbitai.com/2026/09/499605.html",
+      "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-09-30 12:11:24",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "Airbnb adds AI search, more social features",
-      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fal...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
       "region": "us",
-      "pubDate": "2026-09-30 12:00:00",
+      "pubDate": "2026-09-30 12:10:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
-      "link": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
-      "summary": "Since the Galaxy Tab S10 line, Samsung has updated its flagship Ultra tablet annually, but alternates its regular and Plus variants. It means that this year's Galaxy Tab S12 series includes an Ultra m...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-30 12:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/samsung-galaxy-tab-s12-plus-ultra-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones",
-      "link": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features",
-      "summary": "Samsung has announced its third-generation Bluetooth tracker, the Galaxy SmartTag 3. It combines a smaller design and improved battery life with a few new tracking and software features, including cro...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-30 12:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/samsung-galaxy-smarttag-3-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The Best Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets",
@@ -300,17 +619,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-500x500-1772240635.jpg"
     },
     {
-      "title": "Apple’s ‘HomePad’ will reportedly launch on October 13th",
-      "link": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
-      "summary": "Apple's long-rumored smart home hub will reportedly be revealed on October 13th. Bloomberg's Mark Gurman reports that the smart home device will be revealed alongside a new HomePod mini and an upgrade...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-30 11:11:24",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "The Best Gaming Routers (2026): Tested By a Family of Gamers",
       "link": "https://www.wired.com/story/best-gaming-routers/",
       "summary": "Gaming online can seriously strain your internet connection, but the best gaming routers could give you the edge....",
@@ -320,6 +628,17 @@
       "pubDate": "2026-09-30 11:00:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/master/pass/The-Best-Gaming-Routers.jpg"
+    },
+    {
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-09-30 10:40:30",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "Black Twitter Is Thriving—on Threads",
@@ -564,17 +883,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple Pay finally launches in India after years on the sidelines",
-      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-      "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 04:08:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
       "link": "https://www.qbitai.com/2026/09/499263.html",
       "summary": "",
@@ -583,28 +891,6 @@
       "region": "cn",
       "pubDate": "2026-09-30 02:53:17",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We inte...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-30 00:19:13",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 23:30:55",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -617,248 +903,6 @@
       "pubDate": "2026-09-29 23:01:05",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Range Rover Sport Electric: Price, Specs, Availability",
-      "link": "https://www.wired.com/story/range-rover-sport-electric-arrives-with-more-for-less/",
-      "summary": "By sharing the same platform, the Sport gets the same specs as the classier Range Rover Electric, but with added torque at a smaller outlay....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-29 23:01:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/6aba6196add005d32caeaf5b/master/pass/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg"
-    },
-    {
-      "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-      "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
-      "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-29 22:30:37",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-500x500.jpg"
-    },
-    {
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super I...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-29 22:25:45",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 22:20:59",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-      "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
-      "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 22:18:35",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-      "link": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
-      "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-29 22:01:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/26_03_BMW_Preview-Gruppe.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Protests against OpenAI get increasingly creative",
-      "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-      "summary": "New sculpture depicts AI leaders escaping a sinking ship....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-29 21:52:58",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-500x500.jpg"
-    },
-    {
-      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-      "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-      "summary": "EliseAI raises $350M, doubles valuation in a year....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 21:51:36",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Suspected ShinyHunters leader arrested in the Netherlands",
-      "link": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
-      "summary": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-29 21:50:31",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220209_4977_0226.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
-      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't revie...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-29 21:49:09",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-      "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
-      "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 21:20:12",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-29 21:14:49",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-500x500-1790711871.jpg"
-    },
-    {
-      "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
-      "summary": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-29 20:23:40",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-500x500-1790710277.jpg"
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 20:15:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-29 19:52:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-      "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
-      "summary": "So is SpaceX just being selfish or what?...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-29 18:34:00",
-      "category": "space",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig-500x500.jpg"
-    },
-    {
-      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-      "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-29 18:11:09",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1840671728-500x500.jpg"
-    },
-    {
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI resear...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-29 17:35:03",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
-      "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
-      "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-29 17:29:14",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237457256-500x500-1790699681.jpg"
-    },
-    {
-      "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
-      "link": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
-      "summary": "Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireles...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-29 17:19:07",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Deathstalker-v2-pro-tkl-roundup.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "This study looks at how and with whom connected cars share your data",
-      "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
-      "summary": "Between the cars and their companion apps, you’re exposed to a lot of trackers....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-29 14:49:44",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2212041468-1-500x500.jpg"
-    },
-    {
-      "title": "Less protein for maggots means longer lives for fruit flies",
-      "link": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
-      "summary": "Eating less protein as larvae may limit their ability to produce proteins as adults....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-09-29 14:39:25",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1914127482-500x500.jpg"
     },
     {
       "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
@@ -925,28 +969,6 @@
       "pubDate": "2026-09-29 10:00:06",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/chipagents-ai-logo-with-abstract-hexagon-icon-on-transparent-background.png?id=67843727&width=980"
-    },
-    {
-      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
-      "link": "https://www.qbitai.com/2026/09/499188.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-29 07:59:46",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI因新模型太强叫停发布",
-      "link": "https://www.qbitai.com/2026/09/499140.html",
-      "summary": "AGI计划暂停。...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-09-29 07:49:20",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -1055,28 +1077,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-09-25 12:10:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-09-25 09:16:25",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught ...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-09-25 09:00:00",
       "category": "ai",
       "thumbnail": ""
     },
