@@ -1,7 +1,315 @@
 {
-  "updateTime": "2026-09-30T20:41:41.618Z",
-  "total": 100,
+  "updateTime": "2026-10-01T00:26:42.559Z",
+  "total": 90,
   "news": [
+    {
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-01 00:23:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "宝马启动“自救”计划：扩大 AI 应用、削减两成管理层、发力新车",
+      "link": "https://www.ithome.com/1/008/963.htm",
+      "summary": "\nIT之家 10 月 1 日消息，据路透社 9 月 30 日报道，宝马公布了一项重组计划，重点包括扩大 AI 应用、精简管理层以及推出两款新车型。\n宝马此前连续发布盈利预警，股价也大幅下挫，希望通过这项计划重振投资者信心。\n欧洲汽车业面临需求低迷、中国车企竞争加剧以及美国关税压力。过去以经营稳健著称的宝马，今年 6 月再次发布盈利预警。这是宝马三年多来第三次因中国市场表现疲弱发出盈利预警。\n随后，...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-01 00:06:18",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "初探安卓 7.0 测试版苹果 Apple Music：首迎液态玻璃设计",
+      "link": "https://www.ithome.com/1/008/962.htm",
+      "summary": "\nIT之家 10 月 1 日消息，科技媒体 9to5Google 昨日（9 月 30 日）发布博文，报道称苹果已面向安卓平台，推出 7.0 测试版 Apple Music 应用，在 iOS 平台推出一年后首次在安卓上引入“液态玻璃”设计语言。\n外观方面，安卓 7.0 测试版 Apple Music 现在采用悬浮式底部栏，让用户可同时看到上方、下方和两侧内容。\n\n导航栏带有少量半透明效果，用户能够看...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 23:56:30",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "IT早报 1001：豆包支持出行服务；被罗永浩炮轰后东方甄选溜溜凳退款 2 倍不退货；凯越机车辟谣网传经销商跑路；金融新规实施贷款中介集体“消失”...",
+      "link": "https://www.ithome.com/1/008/961.htm",
+      "summary": "\n“IT早报”时间，大家好，现在是 2026 年 10 月 1 日星期四，今天的重要科技资讯有：\n1. 豆包宣布支持出行服务：覆盖订机票、火车票以及打车导航\n豆包新增机票、火车票预订及打车导航等服务，动动嘴就能搞定全程出行。豆包出行服务已合作航班管家、高铁管家、曹操出行、百度地图等头部服务商。&gt;&gt; 查看详情\n2. 被罗永浩炮轰后东方甄选回应溜溜凳事件：退双倍货款不退货\n针对近期引发关注...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 23:48:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "1100 亿美元大并购：派拉蒙收购华纳兄弟预计 10 月 6 日完成交易",
+      "link": "https://www.ithome.com/1/008/960.htm",
+      "summary": "\nIT之家 10 月 1 日消息，北京时间今天（1 日）凌晨，据彭博社报道，美国加州联邦法官批准和解协议，结束 12 州总检察长为反对合并提起的诉讼，为交易完成扫清了道路。\n派拉蒙计划于 10 月 6 日完成收购华纳兄弟的交易。根据和解条件，派拉蒙承诺每年至少有 30 部电影登陆院线，并为旗下 CBS 和 CNN 两家新闻机构设立编辑独立委员会。\n派拉蒙天舞公司董事长兼 CEO 大卫 · 埃里森宣...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 23:46:41",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "仅用 22 天：Meta Muse 超越 ChatGPT，成美国下载量破 500 万次最快 AI 应用",
+      "link": "https://www.ithome.com/1/008/959.htm",
+      "summary": "\nIT之家 10 月 1 日消息，根据市场调查机构 Sensor Tower 公布数据，Meta 的 AI 助手 Muse 上线约三周，下载量突破 500 万次，成为美国 App Store 免费榜榜首，并连续 12 天保持榜首位置。\nSensor Tower 高级洞察分析师 Kara Lee 预测 Muse 下载量在 9 月 30 日（耗时 22 天）突破 500 万次，达到这一规模所用时间明显...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 23:45:52",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 23:43:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 iPad Mini 8 前瞻：首次支持 IP 防水，A20 Pro 芯片、OLED 屏、12GB 内存",
+      "link": "https://www.ithome.com/1/008/958.htm",
+      "summary": "\nIT之家 10 月 1 日消息，科技媒体 MacRumors 昨日（9 月 30 日）发布博文，进一步补充关于苹果 iPad mini 8 的更多细节信息，除了 A20 Pro 芯片外，还将首次引入 IP 等级防水等。\n发布日期方面，该媒体认为苹果可能会在 2026 年 10 月发布该产品。售价方面，现款 iPad Mini 在美国起售价为 599 美元（IT之家注：现汇率约合 4,024 元人...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 23:34:36",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "《GTA 6》是否会在雷奥奈达州还原一座“迪士尼乐园”？R 星暗示“未必”",
+      "link": "https://www.ithome.com/1/008/957.htm",
+      "summary": "\nIT之家 10 月 1 日消息，Rockstar Games 暗示，《侠盗猎车手 6》预计不会把现实中佛罗里达州的迪士尼乐园、奥兰多海洋世界等著名景点搬进游戏中的雷奥奈达州。\nR 星在当地时间 29 日的最新一期《Game Informer》采访中透露，以佛罗里达州为原型的雷奥奈达州不会一一还原当地所有标志性景观。\n\nGame Informer 问及迪士尼乐园、奥兰多海洋世界、佛罗里达环球影城等...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 23:27:24",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果 Invites App 升至 1.12.0：升级相册共享、扩展图乐园、简化邮箱验证流程",
+      "link": "https://www.ithome.com/1/008/956.htm",
+      "summary": "\nIT之家 10 月 1 日消息，科技媒体 MacRumors 昨日（9 月 30 日）发布博文，报道称苹果更新邀请（Invites）App，升级到最新 1.12.0 版本，聚焦活动邀请、照片共享与验证流程优化。\nIT之家注：Apple Invites 是苹果推出的活动邀请应用，用于创建和管理生日派对、迎婴派对等活动。\n本次应用更新升级共享相册功能，现支持全分辨率照片共享。用户可在应用内查看高清细...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 23:24:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软夏尔马回应称 XBOX 不会出售，将竭尽所能推动游戏业务重回增长",
+      "link": "https://www.ithome.com/1/008/955.htm",
+      "summary": "\nIT之家 10 月 1 日消息，游戏媒体 kotaku 昨日（9 月 30 日）发布博文，报道称针对“微软考虑出售 Xbox 游戏业务”的传闻，微软 XBOX 首席执行官阿莎 · 夏尔马（Asha Sharma）予以明确否认，强调“ XBOX 不会出售”，并强调团队将与微软长期合作、推动业务重回增长轨道。\n\nIT之家援引博文报道，该传闻可以追溯到 2026 年 6 月，科技媒体 The Info...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 23:16:27",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The new and huger Paramount has a new co-CEO",
+      "link": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
+      "summary": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alon...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 23:08:49",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administrati...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 23:08:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果新智能家居设备设置流程曝光，新增“Photo Face”步骤",
+      "link": "https://www.ithome.com/1/008/954.htm",
+      "summary": "\nIT之家 10 月 1 日消息，消息源 @itspdfu 昨日（9 月 30 日）发布博文，爆料称在苹果即将推出（此前爆料为 10 月 13 日）的智能家居设备中，苹果计划在设置过程中，添加创建“照片面孔”（Photo Face）关键步骤。\nIT之家附上相关截图如下：\n\n该步骤基于 iCloud Photos，用于设备快速显示用户面部图像，提升交互体验。用户设置时，iPhone 会先发送几张全分...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-09-30 23:05:51",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 21:07:40",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The White House Is Starting to Panic Over the Midterms",
+      "link": "https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/",
+      "summary": "President Donald Trump still thinks Republicans have a shot. His aides are less convinced....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-30 21:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6abbfbe5422fade848ea97c7/master/pass/politics_republicans_midterms_panic.jpg"
+    },
+    {
+      "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+      "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
+      "summary": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it comm...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 20:45:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterpris...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-09-30 20:41:41",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 20:39:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+      "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-30 20:30:09",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6abd59726a04d6e6fe37da5a/master/pass/093026-ai-regulations.jpg"
+    },
+    {
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthc...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 20:20:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-30 19:30:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6abc30af03c559dbc086f308/master/pass/AI-Lab-AI-Agent-War-Business.jpg"
+    },
+    {
+      "title": "Hackers stole millions of US military personnel records during months-long data breach",
+      "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 19:29:08",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "DoorDash’s drone strategy started on the ground",
+      "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 19:22:13",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+      "link": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+      "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 19:19:40",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Furry Airline Pilots Are Just Minding Their Own Business",
+      "link": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/",
+      "summary": "“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-30 19:09:57",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6abbb04db96cb58163524730/master/pass/092926-Pilots%20are%20furries.jpg"
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 19:00:57",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+      "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-09-30 19:00:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6abc561adcf8a088a1995737/master/pass/science_biological_weapons_ai.jpg"
+    },
     {
       "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
       "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
@@ -12,6 +320,17 @@
       "pubDate": "2026-09-30 18:25:04",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-500x500-1784833195.jpg"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-09-30 18:23:57",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
       "title": "The AI Tamagotchis are coming",
@@ -25,17 +344,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 17:45:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
       "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
       "summary": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Ol...",
@@ -43,17 +351,6 @@
       "sourceKey": "theverge",
       "region": "us",
       "pubDate": "2026-09-30 17:45:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The ugly economics of consumer AI",
-      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 17:24:45",
       "category": "ai",
       "thumbnail": ""
     },
@@ -113,39 +410,6 @@
       "thumbnail": ""
     },
     {
-      "title": "‘Xbox is not for sale’ says Microsoft’s gaming chief",
-      "link": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
-      "summary": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been conside...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-30 16:24:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was tu...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 16:24:23",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "乐扩公布 B650 扩展卡 PB65MX4，支持模块化按需拓展",
-      "link": "https://www.ithome.com/1/008/950.htm",
-      "summary": "\nIT之家 10 月 1 日消息，乐扩 (Lekuo) 昨日公布了基于 AMD B650 芯片组 \"PROM 21\" 的新款 PCIe AIC 扩展卡 PB65MX4。这一型号采用模块化设计，支持用户按需拓展 I/O。\n\nPB65MX4 正面提供 2 个 M.2 2230 / 2242 / 2260 / 2280 插槽，支持 PCIe Gen3 ×2。这两个插槽既可直接安装 M.2 SSD，也兼容...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 16:15:09",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Google's early attempt to pay websites for AI answers is struggling",
       "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
       "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments....",
@@ -155,61 +419,6 @@
       "pubDate": "2026-09-30 16:03:48",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-500x500.jpg"
-    },
-    {
-      "title": "复兴号 CR400AF-X 动车组首发上线 UFCS 支持：高铁无线快充迈入 30W 时代，半小时充至 60%",
-      "link": "https://www.ithome.com/1/008/946.htm",
-      "summary": "\nIT之家 10 月 1 日消息，9 月 30 日，第三代智能高铁 CR400AF-X 型动车组首次上线运营，从北京南开往杭州东的 G43 次列车成为首发车次，随后 G42、G35 京沪、京杭热门线路均已上线（仅复兴号商务座）。\n该动车组由国铁集团主导、中车四方股份公司研制，搭载的无线充电功能使用我国自主推动的 UFCS（融合快速充电）无线充电技术规范。\n\n据中国信息通信研究院总工程师魏然介绍，以...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 16:01:31",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 16:00:24",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 16:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
-      "link": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
-      "summary": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-30 16:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 15:56:28",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "Google figures out how to watermark AI-designed proteins",
@@ -223,83 +432,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-500x500.jpg"
     },
     {
-      "title": "海盗船《英雄联盟》选手 Gumayusi 联名键鼠发售，1749 / 1549 元",
-      "link": "https://www.ithome.com/1/008/945.htm",
-      "summary": "\nIT之家 9 月 30 日消息，CORSAIR（海盗船）正式发售了与《英雄联盟》三届全球总决赛冠军选手李 \"Gumayusi\" 珉炯合作打造的键盘与鼠标，两款外设的定价分别为 1749 元和 1549 元。\n\n▲ 先锋者 VANGUARD PRO 96 霍尔效应游戏键盘 Gumayusi 限量版京东海盗船 Gumayusi 联名键盘 1749 元直达链接\n\n▲ 圣剑 SABRE v2 PRO C...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 15:52:42",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "三星发布 Galaxy SmartTag 3 追踪器：体积缩小 35%，续航最长 790 天",
-      "link": "https://www.ithome.com/1/008/944.htm",
-      "summary": "\nIT之家 9 月 30 日消息，三星电子今日宣布推出新一代 Galaxy SmartTag3 追踪器。\n该产品体积比前代小约 35%，重量轻 33%，单个售价 29.99 美元（现汇率约合 201.5 元人民币），四件装 99.99 美元（IT之家注：现汇率约合 671.7 元人民币），将于 11 月初上市，提供白、黑两色，还可单独购买硅胶保护壳和环扣保护壳等配件。\n\n三星 Galaxy Sma...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 15:46:55",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "微软 Win11 27H2 前瞻：预计将基于全新 Strontium 平台，Win12 仍难现身",
-      "link": "https://www.ithome.com/1/008/943.htm",
-      "summary": "\nIT之家 9 月 30 日消息，据 Windows Central 今日报道，尽管微软尚未确认 Windows 11 27H2 的发布计划，但消息人士称 27H2 可能重新统一目前分裂的 Windows 11 平台。\n自 25H2/26H1 开始，微软首次将 Win11 用户群分成两部分。多数用户继续使用 Germanium 平台，包括 24H2、25H2 和 26H2；而 26H1 则基于新的...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 15:29:35",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "美国外卖平台 DoorDash 将在加州北部推出无人机送餐服务，最快 5 分钟送达",
-      "link": "https://www.ithome.com/1/008/942.htm",
-      "summary": "\nIT之家 9 月 30 日消息，美国外卖平台 DoorDash 宣布将在加利福尼亚州北部推出无人机送餐服务，初期合作餐厅涵盖 Chipotle（奇波雷墨西哥烧烤）、Popeyes（博派斯）。\n\n据介绍，DoorDash 将使用轻型无人机完成送餐任务。执行送餐的无人机配备 6 个螺旋桨，飞行时噪音与行驶的汽车相近。理想情况下，外卖从商家送到顾客家门口的速度为 5 分钟。该公司将应用全新配送管理系统...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 15:29:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
-      "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
-      "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 15:26:02",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "169 美元：舒尔发布第二代 MV6 USB 游戏麦克风，支持实时降噪",
-      "link": "https://www.ithome.com/1/008/941.htm",
-      "summary": "\nIT之家 9 月 30 日消息，舒尔（Shure）今天宣布推出第二代 MV6 USB 游戏麦克风（MV6 Gen 2）。新品专为电竞发烧友、主播等群体打造，带来一系列新技术，售价 169 美元（IT之家注：现汇率约合 1,135 元人民币）/150 欧元（现汇率约合 1,143 元人民币）。\n\n据介绍，这款麦克风采用舒尔全新语音隔离技术，新增自动电平模式和实时可调降噪，可以更好地滤除环境噪音，并...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 15:21:22",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re w...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-30 15:18:49",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The PS5 hacking scene just took a big leap forward",
       "link": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
       "summary": "New exploit works on all but the most recently updated consoles....",
@@ -309,39 +441,6 @@
       "pubDate": "2026-09-30 15:12:46",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2186493403-500x500.jpg"
-    },
-    {
-      "title": "Glow Security：AI 智能体无意间泄露企业敏感信息，超 1.3 万张截图被放在 GitHub 公开仓库",
-      "link": "https://www.ithome.com/1/008/938.htm",
-      "summary": "\nIT之家 9 月 30 日消息，据科技媒体 TechRadar 今天报道，网络安全研究机构 Glow Security 近日发现，多个 AI 智能体创建的公开 GitHub 仓库存在超 1.3 万张屏幕截图，其中部分截图包含各种科技公司的敏感信息。\n\nIT之家从原报道获悉，这种泄密方式被称为“PixelLeak”。研究人员解释称，人类有时候可能会要求 AI 智能体提供项目修改前后的对比图，这时智...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 15:11:23",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "砺算 LX 7G100 显卡获推 Windows 驱动程序 30.0.2260.773，含 34 修复、33 优化",
-      "link": "https://www.ithome.com/1/008/937.htm",
-      "summary": "\nIT之家 9 月 30 日消息，砺算 (LiSuan) 本月 28 日为其消费级显卡 LX 7G100 推送了 Pilot Release v30.0.2260.773 和 WHQL Release v29.0.2260.697 两版 Windows 操作系统驱动程序。\n\nIT之家注意到，WHQL Release v29.0.2260.697 的发行说明并未提及具体改进；Pilot Releas...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 15:06:15",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI Dot 虚拟机配置曝光：AMD 霄龙 9V74 处理器 + 9.73GB 内存，Geekbench 7 多核 9435 分",
-      "link": "https://www.ithome.com/1/008/936.htm",
-      "summary": "\nIT之家 9 月 30 日消息，OpenAI 今日凌晨在 DevDay 活动上发布了 Dot 智能体，而每个 Dot 运行在独立的云端虚拟机中。\nDot 虚拟机现已出现在 Geekbench 基准测试平台中，显示其搭载了 AMD EPYC 9V74 服务器处理器，每个 Dot 虚拟机实例分配 9 个核心，单核得分 1667，多核得分 9435。另外，该实例配备 9.73GB 内存和 32GB 存...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-09-30 15:03:39",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "Discord gives more advertisers more tools to target its users",
@@ -366,28 +465,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/butterfly1-500x500-1790621009.jpg"
     },
     {
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes ar...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-09-30 14:51:49",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-      "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-      "summary": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety mea...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 14:50:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
       "link": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
       "summary": "The 2027 BMW 330 starts at $49,900, the i3 50 xDrive at $61,500....",
@@ -397,28 +474,6 @@
       "pubDate": "2026-09-30 14:42:58",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/P90657631_highRes_the-new-bmw-3-series-500x500.jpg"
-    },
-    {
-      "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
-      "link": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
-      "summary": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 14:32:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Instagram rolls out an AI video assistant for creators",
-      "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-      "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-09-30 14:30:00",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos",
@@ -463,17 +518,6 @@
       "pubDate": "2026-09-30 13:33:23",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "A Brief History of the Bloomberg Terminal",
-      "link": "https://spectrum.ieee.org/bloomberg-terminal",
-      "summary": "\nFinancial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires conne...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-30 13:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/vintage-bloomberg-financial-keyboard-terminal-with-built-in-speaker-and-market-function-keys.jpg?id=67857164&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     },
     {
       "title": "Sharpa最新发布的三大新品，把机器人进场景的门槛打了下来",
@@ -707,17 +751,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More",
-      "link": "https://www.wired.com/gallery/the-best-kids-mattresses/",
-      "summary": "Learn what to look for when buying a kids’ mattress, plus how six top models stack up, according to my 2-year-old....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-30 09:32:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6abc3abdadb8c46babb74b7e/master/pass/The-Best-Kids%E2%80%99-Mattresses,-Put-Through-the-Toddler-Test.jpg"
-    },
-    {
       "title": "OpenAI 发布 GPT‑6.1 Sol：智能水平接近 Astra、价格仅为其五分之一",
       "link": "https://www.oschina.net/news/502831/openai-gpt-6-1-sol",
       "summary": "OpenAI 上周才推出 GPT-6 Sol，这周就把 6.1 Sol 端上了桌。官方称之为一次「重大升级」，覆盖专业办公、操控电脑、agentic 编程等任务。放在别家这可能只是常规迭代，但放在此刻的 OpenAI 身上，最刺眼的参照系是隔壁：6.1 代号的 Astra 迭代，前两天刚因为没通过安全标准被按下暂停。 Sol 打市场的方式是「错位」——现......",
@@ -817,17 +850,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-      "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-      "summary": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-30 05:30:53",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6870914c7df7ab0fb03f65d5/master/pass/The%20Best%20Laptop%20Docking%20Stations%20to%20Supercharge%20Your%20Workstation.png"
-    },
-    {
       "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
       "link": "https://www.qbitai.com/2026/09/499308.html",
       "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）...",
@@ -837,39 +859,6 @@
       "pubDate": "2026-09-30 05:18:05",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-30 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png"
-    },
-    {
-      "title": "30% Off Canon Promo Codes | October 2026",
-      "link": "https://www.wired.com/story/canon-promo-code/",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-30 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg"
-    },
-    {
-      "title": "Fanatics Promo Code: 10% Off",
-      "link": "https://www.wired.com/story/fanatics-promo-code/",
-      "summary": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-09-30 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png"
     },
     {
       "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
@@ -903,17 +892,6 @@
       "pubDate": "2026-09-29 23:01:05",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
-      "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-      "summary": "\nSeventeen years ago, cell biologist Donald Ingber and his colleagues at Harvard University’s Wyss Institute for Biologically Inspired Engineering submitted a paper to the journal Science describing t...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-29 13:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-photo-shows-a-hand-holding-a-small-clear-plastic-device-with-red-and-blue-lines-inside-it.jpg?id=67819184&width=2000&height=2488&coordinates=0%2C180%2C0%2C0"
     },
     {
       "title": "The Download: climate tech companies to watch and AI’s discovery problem",
@@ -960,17 +938,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-      "link": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-      "summary": "\nLearn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.\nKey Takeaways\n\nExplore fou...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-29 10:00:06",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/chipagents-ai-logo-with-abstract-hexagon-icon-on-transparent-background.png?id=67843727&width=980"
-    },
-    {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
       "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap...",
@@ -982,28 +949,6 @@
       "thumbnail": ""
     },
     {
-      "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-      "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-      "summary": "\nBuilding useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-28 21:48:56",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/man-standing-beside-a-tall-wheeled-robot-smiling-and-waving-at-the-camera.jpg?id=67880303&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
-      "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
-      "link": "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
-      "summary": "\nIEEE TryEngineering is dedicated to inspiring intellectual curiosity in children.\nThe technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-28 18:00:03",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-grid-of-six-book-covers-related-to-engineering-topics-such-as-semiconductors-artificial-intelligence-and-communication-techno.jpg?id=67874961&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
-    },
-    {
       "title": "When can we say AI made a scientific discovery?",
       "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it ...",
@@ -1013,17 +958,6 @@
       "pubDate": "2026-09-28 17:03:16",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
-      "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "summary": "\nIt’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-28 13:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-elaborate-building-with-domed-roof-brightly-lit-at-night.jpg?id=67825102&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     },
     {
       "title": "The Download: rogue agent liability and the AI Hype Index",
@@ -1048,28 +982,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Poetry for Engineers: The UI Designer’s Dream",
-      "link": "https://spectrum.ieee.org/poetry-user-interface-design",
-      "summary": "\nMy job is to translatedry and unrelenting codeinto a user interface of surpassing beauty.With my mouse, I roll one pixel after anotherup the vast anthill of the internet.\nMy dream is to translatethe ...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-27 13:00:03",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/silhouette-of-a-human-head-with-purple-pixelated-blocks-dissolving-from-the-back.jpg?id=67846122&width=1245&height=700&coordinates=0%2C469%2C0%2C469"
-    },
-    {
-      "title": "Social Media Bans Aren’t Enough to Make Children Safe",
-      "link": "https://spectrum.ieee.org/social-media-bans",
-      "summary": "\nEven before France approved legislation banning social media for children under 15 last January, 13-year-old Benjamin was already wondering what life without social media would look like. “If we want...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-25 13:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/phone-showing-social-apps-with-a-childs-shadow-using-a-smartphone-in-background.jpg?id=67777766&width=1245&height=700&coordinates=0%2C62%2C0%2C63"
-    },
-    {
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie dete...",
@@ -1079,28 +991,6 @@
       "pubDate": "2026-09-25 12:10:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-      "link": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-      "summary": "\nIn Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools s...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-24 18:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/four-young-adult-students-laugh-together-while-one-of-them-holds-a-robot-shaped-like-a-hexagonal-cylinder.jpg?id=67845427&width=1245&height=700&coordinates=0%2C156%2C0%2C157"
-    },
-    {
-      "title": "Measure Distant Asteroids With a DIY Rig",
-      "link": "https://spectrum.ieee.org/asteroid-shadow",
-      "summary": "\nI’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-09-24 13:00:04",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/a-telescope-on-tripod-with-laptop-and-power-boxes-for-a-portable-astronomy-setup.png?id=67788039&width=1245&height=700&coordinates=0%2C73%2C0%2C74"
     }
   ]
 }
