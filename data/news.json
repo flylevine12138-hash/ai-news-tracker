@@ -1,7 +1,161 @@
 {
-  "updateTime": "2026-10-04T22:57:40.596Z",
+  "updateTime": "2026-10-05T01:49:21.313Z",
   "total": 100,
   "news": [
+    {
+      "title": "2026 诺贝尔奖即将揭晓，9 位华人科学家成热门候选人",
+      "link": "https://www.ithome.com/1/009/748.htm",
+      "summary": "\nIT之家 10 月 5 日消息，2026 年诺贝尔奖各奖项揭晓活动将于 10 月 5 日至 12 日依次进行，其中与科技相关的生理学或医学奖（10 月 5 日）、物理学奖（10 月 6 日）、化学奖（10 月 7 日）即将公布，目前有 9 位华人科学家被视作相关奖项的热门候选人，其中薛其坤、卢煜明、陈志坚等人呼声最高。\n\n据IT之家了解，薛其坤是南方科技大学校长，因 2012 年率团队首次实验观...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-05 00:27:39",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "宝马中国 2027 年产品规划路线图曝光：iX1 长轴距版与 3 系长轴距版有望同期亮相",
+      "link": "https://www.ithome.com/1/009/747.htm",
+      "summary": "\nIT之家 10 月 5 日消息，宝马在 2026 资本市场日活动的相关文件中披露了一张面向中国市场的产品路线图，其中展示了数款身披伪装车衣、计划于 2027 年底前登陆中国市场的神秘车型。\n\n这张路线图并未标注具体车型名称，但结合宝马当前的产品规划，BMWBlog 对其中的蒙布车型给出了若干推测。\n已明确出现在路线图中的车型包括：iX3 长轴距版将于 2026 年第四季度推出；2027 年第一季...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-05 00:24:57",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "“机器人通用大脑”受追捧：FieldAI 拟融资 7 亿美元，估值达 100 亿美元",
+      "link": "https://www.ithome.com/1/009/746.htm",
+      "summary": "\nIT之家 10 月 5 日消息，FieldAI 正在为人形机器人、无人机等各类机器人打造一款通用大脑。投资者正为重押这一发展愿景投入巨资。\n\n据《商业内幕》报道，一位了解本次交易的人士透露，这家机器人企业正在融资 7 亿美元（IT之家注：现汇率约合 46.97 亿元人民币），投后估值达到 100 亿美元（现汇率约合 671.04 亿元人民币）；短短一年多时间之内，其估值就翻至原先的五倍。\n该公司...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-05 00:15:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
+      "link": "https://www.ithome.com/1/009/745.htm",
+      "summary": "\n大模型圈的核心机密，终究还是保不住了！继前阵子 Opus 5.5 被爆出 190 万字提示词泄露后，AI 圈的「地心引力」再次失效 ——OpenAI 的现役代码模型 GPT-6 Sol Codex 惨遭「开盒」，老底被扒得一干二净！\n\n据外网爆料者（@elder_plinius）放出的大瓜，他成功提取了 GPT-6 Sol Codex 高达 29.4 万字符的完整系统提示词及工具定义。\n\n▲ 链...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-05 00:14:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "TypeSafe AI 决策模型 Jev 日处理量达 1 万亿 Token，硅谷巨头火速跟进复刻",
+      "link": "https://www.ithome.com/1/009/744.htm",
+      "summary": "\nIT之家 10 月 5 日消息，据《华尔街日报》报道，一款仅问世三周的人工智能模型 Jev 已经在硅谷圈子引发热议，人们开始探讨大语言模型之外的替代路线，同时这款模型也已经催生出不少跟风仿制产品。\n\n初创企业 TypeSafe AI 于当地时间 9 月 15 日发布了 Jev。该模型的运行方式不同于聊天机器人，它并不生成文本。相反，它借助机器学习，把输入内容归类到一组预先设定好的输出结果当中：回...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-05 00:06:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件",
+      "link": "https://www.ithome.com/1/009/743.htm",
+      "summary": "\nIT之家 10 月 5 日消息，Meta 于当地时间 10 月 2 日宣布推出开源项目 Muse Gadgets，允许开发者为旗下个人 AI 智能体 Muse 打造自定义硬件。\nMeta 同时也已经在 GitHub 上按照 Apache 2.0 许可发布了 ESP32 固件和 Linux 设备 SDK。开发者可以将低成本 ESP32 开发板或树莓派等 Linux 设备连接到 Muse，接入显示屏...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-05 00:00:33",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "IT早报 1005：乐山大佛“掏耳朵”视频系 AI 合成；央视曝光外卖“明厨亮灶”造假；余承东称华为已量产 381 款 τ 芯片；马斯克确认 SpaceXAI 将更名 SpaceXSI...",
+      "link": "https://www.ithome.com/1/009/742.htm",
+      "summary": "\n“IT早报”时间，大家好，现在是 2026 年 10 月 5 日星期一，今天的重要科技资讯有：\n1. 乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”\n网传视频显示文保工人给大佛掏耳朵、掏鼻孔，还出现猴子抢安全帽等离谱画面。乐山大佛管委会回应称该视频系他人 AI 生成，并非真实场景。2026 年以来大佛已开展 5 次保养维护，耳鼻内并无杂物，凌云山片区也没有猴子...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-04 23:49:22",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+      "link": "https://www.ithome.com/1/009/741.htm",
+      "summary": "\nIT之家 10 月 5 日消息，美国上周逮捕了一名嫌疑人，此人被控走私含有受出口管制的英伟达芯片的高端计算机服务器进入中国。\n\n美国司法部于当地时间上周四发布新闻稿，指控 38 岁的格雷格 · 刘（Greg Lui）使用虚假文件掩盖一批货值超过 3 亿美元（IT之家注：现汇率约合 20.16 亿元人民币）的服务器货物；据称他明知这批货物最终将运往中国。\n美国联邦调查局的起诉书中称，格雷格 · 刘...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-04 23:40:33",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%",
+      "link": "https://www.ithome.com/1/009/740.htm",
+      "summary": "\nIT之家 10 月 5 日消息，韩媒 ddaily 于 10 月 2 日发布博文，报道称在决定上调 10%~20% 基础上，台积电计划 2027 年第一季度针对最先进晶圆出货价格，再次上调约 6%~8%，理由是制造成本和电力费用上涨。\n报道援引半导体业界消息称，台积电 2 纳米制程订单激增，公司已将晶圆订单目标较原计划提高 15% 至 20%。\n为应对订单增长，台积电将位于新竹宝山和高雄等地的 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-04 23:29:15",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代",
+      "link": "https://www.ithome.com/1/009/739.htm",
+      "summary": "\nIT之家 10 月 5 日消息，半导体分析机构 Kurnal Insights 于当地时间 9 月 30 日发布了华为麒麟 9050 Pro 芯片的裸片（Die Shot）显微照，首次从物理层面展示了这款芯片的内部结构。\n照片显示，麒麟 9050 Pro 由两颗尺寸完全相同的裸片垂直堆叠而成，尺寸 11.13 × 10.84 mm，每颗裸片面积约 120.65mm²，这一面积甚至略小于前代麒麟 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-04 23:26:12",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The new Fitbit Edge leaks",
+      "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, y...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-04 21:02:09",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "summary": "AI slop seems to be overwhelming bug bounty programs....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-04 20:31:07",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-04 20:08:34",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-04 20:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
     {
       "title": "The best early October Prime Day deals happening now",
       "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
@@ -11,7 +165,7 @@
       "region": "us",
       "pubDate": "2026-10-04 17:18:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
@@ -22,7 +176,7 @@
       "region": "us",
       "pubDate": "2026-10-04 16:16:04",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "TechCrunch Mobility: Reining in robotaxis",
@@ -47,17 +201,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/africa3-500x500-1791057200.jpg"
     },
     {
-      "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
-      "link": "https://www.ithome.com/1/009/736.htm",
-      "summary": "\nIT之家 10 月 4 日消息，据 tomshardware 今日报道，一家机器人格斗公司在旧金山举办了一场人机格斗赛后，收到了加州政府发来的停止侵权禁令。加州州立体育委员会（CSAC）要求该公司停止举办、宣传或赞助这类未经审批的格斗赛事，并称在未取得许可的情况下组织此类活动属于轻罪。\nIT之家从报道获悉，这份停止令针对的是该公司在 2026 年 9 月 18 日赞助的一场人形机器人笼斗赛。油管...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-04 15:22:56",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
       "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
       "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made ...",
@@ -66,7 +209,7 @@
       "region": "us",
       "pubDate": "2026-10-04 15:21:59",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "Trump unveils his new Super Intelligence Force",
@@ -88,39 +231,6 @@
       "region": "us",
       "pubDate": "2026-10-04 15:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-01.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "消息称微软为 20 多个数据中心建设项目引入“仿生”计划：修复湿地生态、种植本土植物以降低环境影响",
-      "link": "https://www.ithome.com/1/009/734.htm",
-      "summary": "\nIT之家 10 月 4 日消息，据外媒 The Verge 报道，微软正在推行一项名为“仿生”（Biomimicry）的计划，该公司正重新规划旗下 20 多个数据中心周边土地，陆续恢复原先湿地生态、种植本土植物，希望让数据中心更好地融入当地环境。\n微软透露，后续微软在美国境内所有新建项目都将采用这一方式，在项目建设过程中，微软会收集当地社区意见，并通过生态研究了解项目所在地的环境状况。微软团队还...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-04 14:59:48",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "10 月 5 日高速服务区充电特别繁忙清单公布，主要集中河北、湖南、山西等省份",
-      "link": "https://www.ithome.com/1/009/733.htm",
-      "summary": "\nIT之家 10 月 4 日消息，据交通运输部动态研判，10 月 5 日，全国高速公路预计有 30 个服务区充电特别繁忙，主要集中在河北、湖南、山西等省份，大家可通过“e 路畅通”微信小程序查询服务区充电桩运行状态。\nIT之家整理如下：\n\n\n\n\n\n\n\n\n\n\n\n\n序号\n省份\n所在城市\n服务区名称\n编号\n方向\n\n\n1\n河北\n唐山市\n唐海服务区\nG0111\n天津-沈阳\n\n\n2\n河北\n唐山市\n唐海服务区\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-04 14:48:56",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "时隔九年重返内地大银幕，《生化危机：爆发夜》游改真人电影明日上映",
-      "link": "https://www.ithome.com/1/009/732.htm",
-      "summary": "\nIT之家 10 月 4 日消息，《生化危机：爆发夜》游改真人电影将于明日在中国内地上映，该电影将以 CINITY、IMAX、中国巨幕、4DX、SCREENX 多制式上映，让影迷感受扑面而来的惊悚感。值得一提的是，这也是《生化危机》系列时隔九年，重返内地大银幕。\n\n\nIT之家附该电影官方简介如下：\n\n嘘，别出声。\n黑暗中的生化怪物正在凝视，楼顶上的嗜血异种们虎视眈眈。\n城市变为血色废墟，危险即将全...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-04 14:26:26",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -146,61 +256,6 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/3r2egf3.png"
     },
     {
-      "title": "海南商发二期项目已基本建成，再添三号、四号两个发射工位",
-      "link": "https://www.ithome.com/1/009/731.htm",
-      "summary": "\nIT之家 10 月 4 日消息，海南商发 10 月 1 日官宣，海南商业航天发射场二期项目以崭新姿态震撼亮相，该项目已基本建成并正式进入全系统合练阶段。\n\nIT之家注意到，海南商业航天发射场是中国首个专业化商业航天发射基地，位于海南省文昌市东郊镇，由海南国际商业航天发射有限公司建设运营。该项目于 2022 年 7 月 6 日正式开工。2024 年 6 月建成国内首个液体通用型发射工位并具备执行发...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-04 13:42:07",
-      "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "央视曝光车辆“ETC 异常”短信骗局：系不法分子钓鱼陷阱",
-      "link": "https://www.ithome.com/1/009/730.htm",
-      "summary": "\nIT之家 10 月 4 日消息，据央视新闻报道，近期市面上出现一种“ETC 异常”短信骗局，相应短信谎称汽车 ETC“被停用”“更新升级”“认证失效”，要求车主点击所谓链接处理。\n\n央视新闻表示，相应短信系陷阱。这种不明链接往往是骗子专门设置的钓鱼网站，为的就是骗取银行卡号、密码、身份证号等个人信息。如果车主对车辆 ETC 存在疑问，可打开“交管 12123”App，或者拨打 ETC 官方客服电...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-04 13:34:53",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "荣耀平板 X10 Mini 上架：9.7 英寸护眼屏，10 月 23 日发售",
-      "link": "https://www.ithome.com/1/009/729.htm",
-      "summary": "\nIT之家 10 月 4 日消息，荣耀平板 X10 Mini 现已在京东平台上架并预约，将于 10 月 23 日 10:00 发售。\nIT之家从官方海报获悉，这款新品配备 9.7 英寸 2K 护眼屏，内置 8000mAh 大电池，获得 SGS 抗摔抗压五星金标认证。\n\n作为参考，今年 3 月发布的荣耀平板 X10 搭载高通骁龙 680 处理器，首发价 1299 元起。该产品配备 11 英寸 LCD...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-04 13:31:32",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”",
-      "link": "https://www.ithome.com/1/009/728.htm",
-      "summary": "\nIT之家 10 月 4 日消息，近期网络上流传一段所谓“乐山大佛开展养护作业”短视频，其中显示文保工人正在给大佛“掏耳朵”，佛耳里掏出鸽子和腐叶，鼻孔里清理出大量腐叶等物质，旁边还有一只猴子在佛身上上蹿下跳，猴子还抢工人的安全帽戴在自己头上。\n\n对此，乐山大佛文物保护（景区）管委会回应媒体“四川观察”，称相应视频不实，系他人 AI 生成，不是乐山大佛景区里的真实场景。希望广大网友不信谣、不传谣。...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-04 13:20:18",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "竞速游戏《星球大战：银河赛车手》获 IGN 8 分评价，10 月 6 日发售",
-      "link": "https://www.ithome.com/1/009/727.htm",
-      "summary": "\nIT之家 10 月 4 日消息，开发商 Fuse Games 旗下《星球大战》IP 竞速游戏《星球大战：银河赛车手（STAR WARS：Galactic Racer）》将于 10 月 6 日正式发售，目前本作全球媒体评分已解禁。\n\n截至IT之家发稿，本作 PC 版在 Metacritic 上获 84 分（基于 16 家媒体评分）、XBOX Series X 版获 86 分（基于 12 家媒体评分...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-04 13:09:40",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The AirPods Pro 3 are a fantastic deal at $179",
       "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
       "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a...",
@@ -209,17 +264,6 @@
       "region": "us",
       "pubDate": "2026-10-04 13:00:00",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "拉瑞安工作室：《博德之门 3》Steam 国区即将永久降价：298 元起 → 268 元起",
-      "link": "https://www.ithome.com/1/009/726.htm",
-      "summary": "\nIT之家 10 月 4 日消息，拉瑞安工作室宣布，为了感谢中国玩家一直以来的支持，《博德之门 3》将在本次 10 月促销活动结束后降价。游戏基础版从 298 元下调至 268 元。\n\n目前，《博德之门 3》正在 Steam 秋季特卖中进行促销，7 折后到手价为 208.6 元，活动预计将于 10 月 9 日结束。IT之家附游戏商品页（https://store.steampowered.com/...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-04 12:58:21",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -231,7 +275,7 @@
       "region": "us",
       "pubDate": "2026-10-04 12:34:01",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The iPad Mini is slightly cheaper again during Prime Day",
@@ -242,7 +286,7 @@
       "region": "us",
       "pubDate": "2026-10-04 12:31:50",
       "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The forgotten Chromebook that started it all",
@@ -253,29 +297,7 @@
       "region": "us",
       "pubDate": "2026-10-04 12:00:00",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Chromebook_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The rise, fall, and rise of portable MP3 players",
-      "link": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. The ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-04 12:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10187187/jbareham_180208_2298_0023_04.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon’s colorful and sturdy new Kindles",
-      "link": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
-      "summary": "Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all the old editions at ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-04 12:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/installer.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "All hail electrification. But let’s talk about the hard part.",
@@ -575,17 +597,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-03 14:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
       "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs....",
@@ -670,17 +681,6 @@
       "sourceKey": "oschina",
       "region": "cn",
       "pubDate": "2026-10-03 01:05:58",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-03 00:45:39",
       "category": "other",
       "thumbnail": ""
     },
@@ -770,7 +770,7 @@
       "region": "us",
       "pubDate": "2026-10-02 15:49:04",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Report-2026-UPDATE-cover.png"
+      "thumbnail": ""
     },
     {
       "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
@@ -781,7 +781,7 @@
       "region": "us",
       "pubDate": "2026-10-02 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/SR-1_Freedom_Mars_flyby.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
@@ -891,7 +891,7 @@
       "region": "us",
       "pubDate": "2026-10-01 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/07/Asteroid_Redamonti_7.2.25.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
@@ -924,7 +924,7 @@
       "region": "us",
       "pubDate": "2026-10-01 10:00:00",
       "category": "other",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Copper-Sept-2026-NolanCalischPhoto-9.jpg?w=840"
+      "thumbnail": ""
     },
     {
       "title": "IEEE Celebrates Innovators Shaping the Future",
@@ -957,7 +957,7 @@
       "region": "us",
       "pubDate": "2026-09-30 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MIT_TR_Uri_Moaz-177-thumb.jpg?w=840"
+      "thumbnail": ""
     },
     {
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
@@ -1045,7 +1045,7 @@
       "region": "us",
       "pubDate": "2026-09-29 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260511-drug-manufacturing-space-hero.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
