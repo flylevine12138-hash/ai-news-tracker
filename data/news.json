@@ -1,7 +1,414 @@
 {
-  "updateTime": "2026-10-08T16:18:31.200Z",
+  "updateTime": "2026-10-08T21:56:22.991Z",
   "total": 100,
   "news": [
+    {
+      "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+      "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+      "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-08 20:15:53",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hamilton2-500x500.jpg"
+    },
+    {
+      "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+      "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+      "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-08 19:57:17",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-security-privacy-500x500-1736892656.jpg"
+    },
+    {
+      "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
+      "link": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
+      "summary": "Mass surveillance gets stupider....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-08 19:42:30",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/texas-flag-500x500.jpg"
+    },
+    {
+      "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
+      "summary": "\"[T]he Trump-RFK Jr anti-vax agenda keeps getting more corrupt and dangerous.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-08 19:26:32",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-500x500.jpg"
+    },
+    {
+      "title": "An experimental tour-de-force: Entanglement between glass bead and light",
+      "link": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
+      "summary": "Getting a glass bead to act like a quantum object by entangling it with light....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-08 18:45:23",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2258360221-500x500-1791483672.jpg"
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-08 18:20:32",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-08 18:19:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-08 18:19:42",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-08 18:18:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-08 18:16:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Forza Horizon 6 is being delayed on PS5 to January 2027",
+      "link": "https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay",
+      "summary": "Playground Games first revealed earlier this year that Forza Horizon 6 would be arriving on PS5 in 2026, but the launch is now being pushed back. I reported last month that there would be a delay to e...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-08 18:14:25",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-08 18:10:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by R...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-08 17:58:33",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-08 17:57:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Older Pixel watches are losing free cellular access to several safety features",
+      "link": "https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending",
+      "summary": "Google announced through a short community post today that the LTE versions of the Pixel Watch 2 and 3 are losing free access to Safety Signal that allowed features like Emergency SOS, Fall Detection,...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-08 17:40:05",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-08 17:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "899 元起雷蛇巴塞利斯蛇 V4 专业版 / 极速版鼠标发布，还有第二代无线充电底座",
+      "link": "https://www.ithome.com/1/010/745.htm",
+      "summary": "\nIT之家 10 月 9 日消息，雷蛇 10 月 8 日晚正式发布了 Razer Basilisk V4 Pro 雷蛇巴塞利斯蛇 V4 专业版鼠标，售价 1399 元。\n\n该鼠标搭载第二代 Razer Hyperscroll 纵横滚轮，四种滚轮模式兼顾游戏操控与日常浏览；以及第三代 Razer Focus Pro 50K 光学传感器、第四代 Razer 光学鼠标微动，支持最高 50000 DPI。...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-08 16:58:03",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/92ef2bfc-a739-4b6f-b46d-20d480cd4fe0.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Trump administration says Microsoft ‘abused’ worker visa program and is cutting off access",
+      "link": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance",
+      "summary": "The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as report...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-08 16:57:27",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "New York accuses TikTok of serving users ‘placebo’ safety features",
+      "link": "https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features",
+      "summary": "New York is alleging that thousands of TikTok users, including kids and teens, were unknowingly given \"ghost\" versions of the platform's safety features rather than the working versions. Reuters repor...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-08 16:53:49",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "消息称华为阔直板机型有多产品线布局动作，nova 中端线也在评估中",
+      "link": "https://www.ithome.com/1/010/744.htm",
+      "summary": "\nIT之家 10 月 9 日消息，博主 @数码闲聊站 发文透露，菊菊（此处预计指华为）阔直板手机有多产品线布局的动作，n 中端线（预计指 nova 产品线）也在评估阔直板中。\n\n有网友询问 Mate 系列是否会推出阔直板形态手机，博主表示：“Mate 暂时没有这个计划。”还有网友谈及了 Pura X View 的销量带火了阔直板这一形态，博主回复称：“所以都在跟，但进度最快的也还是晚华子大半年。”...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-08 16:50:47",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/95397b28-e6aa-46b8-9580-99b3dcf76d7a.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+      "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+      "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-08 16:45:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Are you ready for everything to look like TikTok?",
+      "link": "https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok",
+      "summary": "Since TikTok burst into mainstream consciousness, many things have been called a \"TikTok clone\": YouTube Shorts, Instagram Reels, Snapchat Spotlight, Netflix's Clips, LinkedIn's vertical video feed, a...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-08 16:45:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon is phasing out Fire Tablets because they weren’t ‘giving customers what they were asking for’",
+      "link": "https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay",
+      "summary": "In an interview with Bloomberg, Amazon's head of consumer electronics, Panos Panay, confirmed the company would phase out the Fire brand in favor of Alexa Tablets. The new lineup runs proper Android, ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-08 16:34:57",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+      "link": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+      "summary": "Amazon killed its app store, so Google Play it is....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-08 16:32:46",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/assets.aboutamazon-500x500.png"
+    },
+    {
+      "title": "苹果官宣“欢迎回家”发布会定档 10 月 13 日，暗示首款智能家居中枢产品",
+      "link": "https://www.ithome.com/1/010/743.htm",
+      "summary": "\nIT之家 10 月 9 日消息，苹果营销高级副总裁 Greg Joswiak 发布预告，官宣“Welcome home（欢迎回家）”发布会定档美国东部时间 10 月 13 日上午 9 点（北京时间 10 月 13 日晚 9 点）。\n\n\n从宣传语来看，预计将发布苹果首款智能家居中枢产品。该产品此前被曝配备 6 英寸屏幕，提供壁挂与桌面两款形态。\n\nIT之家综合此前爆料，桌面版整体外形类似 iMac...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-08 16:26:13",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/fdc426a6-af51-4d7c-b5b8-ec0c1f772c73.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "鸿蒙新补丁包惊喜 +1：华为 Mate 80 等系列机型新增隔空手势翻转加密分享功能",
+      "link": "https://www.ithome.com/1/010/742.htm",
+      "summary": "\nIT之家 10 月 9 日消息，华为今日面向 Mate 80 系列等机型，推送了鸿蒙 HarmonyOS 7.0.0.109 版本最新补丁包，包体大小约 206.99MB，优化了部分场景的使用体验。\n\nIT之家实测发现，更新该补丁包除了带来多设备互助通信共享外，还支持了隔空手势翻转加密分享功能（使用隔空手势抓取需要分享的内容，设备弹出动画后再翻转手势）。具体效果如下：\n\n根据华为官方说法，加密后...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-08 16:16:27",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/f48ffef9-ea36-4255-a431-aa40d882c856.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Apple announces surprise ‘Welcome home’ launch event",
+      "link": "https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th",
+      "summary": "Apple has just announced a new October event, taking place in New York on October 13th at 9AM ET. The company is rumored to be launching smart home-focused products this month, and the event invite hi...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-08 16:08:40",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-08 16:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-08 16:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "NASA SpaceX “龙飞船”Crew-12 在洛杉矶海岸溅落，四名宇航员完成 235 天驻留任务",
+      "link": "https://www.ithome.com/1/010/741.htm",
+      "summary": "\nIT之家 10 月 8 日消息，NASA 刚刚宣布，美国东部时间上午 11 点 34 分（北京时间 23 点 34 分），搭载杰西卡・U・梅尔、杰克・哈撒韦两名美国国家航空航天局（NASA）宇航员、欧洲空间局（ESA）宇航员索菲・阿德诺以及俄罗斯航天集团（俄罗斯联邦航天局）宇航员安德烈・费佳耶夫的 SpaceX “龙”飞船，在加利福尼亚州洛杉矶附近海域完成溅落。\n\nIT之家从官方公告获悉，回收船...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-08 15:51:49",
+      "category": "space",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/9c5f415c-17d0-4f12-a847-973212916800.png"
+    },
+    {
+      "title": "又一里程碑时刻：深开鸿宣布开鸿开发者注册量突破 20 万",
+      "link": "https://www.ithome.com/1/010/740.htm",
+      "summary": "\nIT之家 10 月 8 日消息，深开鸿官方今日发布喜报，宣布开鸿开发服务平台开发者注册量突破 20 万（统计数据截止：2026 年 10 月 8 日）。\n\n据IT之家此前报道，今年 8 月，深圳开鸿数字产业发展有限公司 CEO 王成录宣布：深开鸿贡献 OpenHarmony 主干代码达 1000 万行！这是一个值得纪念的里程碑！\n\n四年来，深开鸿在开源社区里每敲下一行代码，都是对“技术立命”的践...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-08 15:44:02",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/2c9ab98e-ad78-4ccd-abe3-c42c5c120760.jpg"
+    },
+    {
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+      "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+      "summary": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-08 15:42:26",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软拿出最高 1000 美元置换补贴，吸引苹果 MacBook Pro 用户跳槽 Surface Laptop Ultra",
+      "link": "https://www.ithome.com/1/010/739.htm",
+      "summary": "\nIT之家 10 月 8 日消息，微软今天在美国和加拿大官方商城推出一项限时优惠，消费者购买 Surface Laptop Ultra 时，如果选择将手上的苹果 MacBook Pro 置换掉，那么将获得最高 1,000 美元（IT之家注：现汇率约合 6,712 元人民币）补贴。\n\nIT之家了解到，微软已在美国和加拿大官方商城的 Surface Laptop Ultra 商店页打出“告别你的 Ma...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-08 15:36:48",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/88e9221c-8c3f-4b4a-bd63-dbb1e2826d85.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "R 星公布《GTA6》六大电台阵容：首次加入播客功能、走路时也能戴耳机收听",
+      "link": "https://www.ithome.com/1/010/738.htm",
+      "summary": "\nIT之家 10 月 8 日消息，Rockstar 今日公布《GTA6》游戏内广播电台详情。官方宣称，《GTA6》将带来系列游戏迄今最大、风格最丰富的电台阵容。\n据介绍，《GTA6》首次加入了一系列播客，让玩家随时收听。除了开车的时候听广播，玩家还可以在游戏中戴上耳机，在步行时收听音乐。\nIT之家附《侠盗猎车手 VI》游戏六大电台如下：\n椰风电台（Cocoteo FM）\n这是雷奥奈达州的最佳现代拉...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-08 15:29:19",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/0a13095b-cc5f-4dcc-957e-62fd134fec1c.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "余承东：未来肯定会有更多华为手机采用基于韬定律的逻辑折叠芯片",
+      "link": "https://www.ithome.com/1/010/737.htm",
+      "summary": "\nIT之家 10 月 8 日消息，在 5 月 25 日的 2026 国际电路与系统研讨会上，华为公司董事、半导体业务部总裁何庭波时隔 7 年再次回到公众视野，并在主旨演讲中首次提出半导体全新演进路径 ——“韬（τ）定律”。这是中国在全球半导体领域首次提出指导产业发展的新原则。\n\n华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 9 月 29 日的国际媒体圆桌会议上表示，Mate 9...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-08 15:29:17",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/5/3ef0711c-7583-47e8-b979-6e085dfe2b86.png?x-bce-process=image/resize,w_1200,h_795/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_50,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_20,y_20/format,f_auto"
+    },
+    {
+      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
+      "link": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
+      "summary": "\"If this was easy, everybody else would be doing it.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-08 15:28:36",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Satellite-1000-500x500.png"
+    },
+    {
+      "title": "Epic 喜加二：《熊视眈眈》《愿景之城》游戏免费领取",
+      "link": "https://www.ithome.com/1/010/735.htm",
+      "summary": "\nIT之家 10 月 8 日消息，Epic 本周送出的游戏是《熊视眈眈》和《愿景之城》，下周送出的游戏是《Bad Cheese》以及《Agent A - 伪装游戏》。\n领取链接：《熊视眈眈 (Out of Sight)》，《愿景之城》\nIT之家附《熊视眈眈》游戏简介：\n\n\n这是一款将第一人称和第二人称视角相融合的氛围恐怖游戏，拥有引人入胜的配音，给你带来沉浸式的惊悚情感之旅。\n作为参考，本作在 S...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-08 15:05:25",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/39c55db3-dcff-4c7c-8f0a-f58d8c37a4c8.jpg?x-bce-process=image/format,f_auto"
+    },
     {
       "title": "一块刹车踏板支架，让江淮一天蒸发62亿元？",
       "link": "https://www.tmtpost.com/8161639.html",
@@ -14,7 +421,7 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/e046e03320ecebc1a56d9257729ef1bf_1791470409.png"
     },
     {
-      "title": "ExxonMobil's own scientists doubted climate fixes the company hyped",
+      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
       "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
       "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations....",
       "source": "Ars Technica",
@@ -36,6 +443,17 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5yyjtng3.png"
     },
     {
+      "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
+      "link": "https://www.qbitai.com/2026/10/502049.html",
+      "summary": "Vidu Q4预览版，了解一下~...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-10-08 13:28:23",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "业绩失色，股价腰斩，西部材料仍要在高处定增“补血”",
       "link": "https://www.tmtpost.com/8161567.html",
       "summary": "近三成补流，现金流压力凸显...",
@@ -47,26 +465,26 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/99e866e47e41914a648646ad0b78312e_1791465489.png"
     },
     {
-      "title": "《全面战争：幕府将军 2-完全版》游戏将登陆苹果 macOS，预计 2027 第一季度上线",
-      "link": "https://www.ithome.com/1/010/699.htm",
-      "summary": "\nIT之家 10 月 8 日消息，开发商 Creative Assembly 今天宣布，《全面战争：幕府将军 2-完全版》游戏将登陆苹果 macOS 平台。\n\n据介绍，该作包含《武士崛起》和《武士陨落》战役。游戏的分辨率、内容相比原版作品均有提升，预计 2027 年第一季度登陆 Mac。\nIT之家了解到，《全面战争：幕府将军 2》将深度回合制策略玩法与宏大的即时战斗相结合。玩家将在从武士阶层崛起到...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-08 12:56:52",
+      "title": "Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price",
+      "link": "https://www.wired.com/story/amazon-alexa-tablets-2026/",
+      "summary": "The three new aluminum Alexa Tablets now run Android with full access to the Google Play Store. There are versions for kids too....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-08 13:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://media.wired.com/photos/6ac61e4b2ab0bbd59ca811da/master/pass/DSC_9820.jpg"
     },
     {
-      "title": "七彩虹预热 iGame Ultra 主板新品：AMD AM5 平台，ATX 板型",
-      "link": "https://www.ithome.com/1/010/698.htm",
-      "summary": "\nIT之家 10 月 8 日消息，七彩虹 (Colorful) 今日预告将推出一款 iGame 序列主板新品，并称该型号兼顾“潮流颜值担当”“完整家族生态”“六边形战士”三方面特质。\n\n从官方配图不难看出，这款主板属于 iGame Ultra 家族，采用 ATX 板型，拥有 4 条内存插槽、2 条金属加固的 PCIe 插槽。\n如果仔细观察还能发现，该主板左上方拥有 2 组 EPS 8-Pin CP...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-08 12:56:03",
-      "category": "chip",
-      "thumbnail": ""
+      "title": "The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone",
+      "link": "https://www.wired.com/story/alexa-tablets-blueprint-for-upcoming-amazon-phone/",
+      "summary": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-08 13:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ac61ed08eeaec50812f97eb/master/pass/DSC_9810.jpg"
     },
     {
       "title": "伏美替尼全球III期试验折戟，艾力斯封死跌停、市值蒸发超百亿",
@@ -80,112 +498,24 @@
       "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/baa90f9014ab99c7a3ebc441df267ff9_1791463884.png"
     },
     {
-      "title": "Counterpoint 数据：晶圆代工 2.0 营收 2026Q2 达 966 亿美元，同比增长 25%",
-      "link": "https://www.ithome.com/1/010/697.htm",
-      "summary": "\nIT之家 10 月 8 日消息，研究机构 Counterpoint Research 在 9 月 29 日报告称，全球晶圆代工 2.0 市场营业收入总额在 2026 年第 2 季度达到 966 亿美元，同比增长 25%、环比增长 11%，增速较上一季度有所提升。\n\n▲ 图源：Counterpoint Research从分类来看，纯晶圆代工行业营收同比增长 29% 至 549 亿美元；非存储 ID...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+      "link": "https://www.qbitai.com/2026/10/502035.html",
+      "summary": "打造便利店“人机协作”运营新模式...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-10-08 12:46:05",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "用鸿蒙开发鸿蒙：DevEco Studio / Code / CLI 开启华为鸿蒙 PC 公测",
-      "link": "https://www.ithome.com/1/010/696.htm",
-      "summary": "\nIT之家 10 月 8 日消息，华为官方今日宣布，DevEco Studio 今日正式上线鸿蒙 PC 并开启公测，一站式鸿蒙应用 AI 开发工具 DevEco Code 与 AI 开发能力套件 DevEco CLI 同步迎来鸿蒙 PC 版首次公测。\n\nIT之家附安装前提条件：\n\n支持机型：HUAWEI MateBook Pro、HUAWEI MateBook Fold 非凡大师、HUAWEI M...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-08 12:44:53",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "宝马全新 MINI COUNTRYMAN 特别版全球首秀，计划于 2027 年引入中国市场",
-      "link": "https://www.ithome.com/1/010/695.htm",
-      "summary": "\nIT之家 10 月 8 日消息，宝马集团今日宣布，全新 MINI COUNTRYMAN UNTAMED EDITION 特别版于美国太浩湖迎来全球首秀。新车基于全新一代 MINI COUNTRYMAN 打造，计划于 2027 年引入中国市场。\n\n\n从车头看去，全新 MINI COUNTRYMAN UNTAMED EDITION 特别版全新设计的前格栅，以纵向排列的黑色饰条配合碳钢灰色边框，发动机...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-08 12:44:08",
+      "pubDate": "2026-10-08 12:43:31",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "尊界 V800 刹车踏板支架断裂引发关注，鸿蒙智行门店回应称华为将联合江淮重新测评并公开数据",
-      "link": "https://www.ithome.com/1/010/694.htm",
-      "summary": "\nIT之家 10 月 8 日消息，据第一财经报道，针对懂车帝测试尊界 V800 刹车踏板支架断裂一事，记者探访鸿蒙智行体验中心，工作人员回应称：华为将联合江淮重新测评并公布数据，目前试驾车急刹未见隐患，相关车型亦未出现退车情况。\n\n据新浪科技报道，江淮汽车投资者关系部门对此表示：“这个事情已经跟相关部门反馈过了。”谈及今日股价触及跌停等问题，工作人员表示，“公司的生产经营是正常的，车辆出厂之前都是...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-08 12:31:47",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "微软 XBOX 宣布设立全新 XP 部门，聚焦电子游戏本体外的娱乐体验",
-      "link": "https://www.ithome.com/1/010/693.htm",
-      "summary": "\nIT之家 10 月 8 日消息，Microsoft（微软）XBOX 当地时间今日宣布设立全新的 XP 部门。这一机构将聚焦电子游戏本体外的娱乐体验，为玩家群体带来更为丰富的沉浸式体验，扩展游戏 IP 的触及范围。\nXBOX XP 业务涵盖电影电视、消费产品、现场体验、战略合作 4 大投资领域：\n\nXBOX PICTURES：通过电影、电视和其它线性叙事形式，将 XBOX 游戏世界和角色带给新的观...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-08 12:31:29",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "卢放晒岚图汽车刹车踏板，采用多层高强度钢板主梁设计",
-      "link": "https://www.ithome.com/1/010/692.htm",
-      "summary": "\nIT之家 10 月 8 日消息，岚图汽车科技股份有限公司董事长卢放刚刚在微博晒出了岚图汽车的刹车踏板，并透露其采用多层高强度钢板主梁设计。\n\n卢放微博的第二张配图进一步展示了刹车踏板的细节。\n\n据IT之家此前报道，本月初，岚图汽车公布了 2026 年 9 月交付数据 —— 当月交付 13025 辆。同时，岚图汽车 2026 年 1 月-9 月累计交付 115481 辆，同比增长 19%。\n\n岚图...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-08 12:21:06",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Omdia：2027 年全球高端电视出货量将增长 9.3%，而全球电视整体出货量将出现下滑",
-      "link": "https://www.ithome.com/1/010/691.htm",
-      "summary": "\nIT之家 10 月 8 日消息，Omdia 的最新研究显示，2027 年，全球高端电视出货量预计将同比增长 9.3%。高端电视定义为平均售价 (ASP) 超过 1,000 美元（IT之家注：现汇率约合 6,712 元人民币）的机型，该细分市场预计将实现增长，而全球电视整体出货量将下降 1.0%。\n北美地区有望成为高端电视出货量增长的主要市场，2027 年预计同比增长 21.9%。Omdia《20...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-08 12:18:12",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "超 10 万亿元，1—8 月我国软件业务收入同比增长 8.8%",
-      "link": "https://www.ithome.com/1/010/689.htm",
-      "summary": "\nIT之家 10 月 8 日消息，工信部今日公布 2026 年 1—8 月份软件业运行情况。2026 年前 8 个月，我国软件和信息技术服务业（以下简称“软件业”）运行态势良好，软件业务收入稳健增长，利润总额增势平稳，软件业务出口保持较快增长。\nIT之家整理主要内容如下：\n一、总体运行情况\n前 8 个月，我国软件业务收入 102820 亿元，同比增长 8.8%。软件业利润总额 11837 亿元，同...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-08 12:11:45",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Xbox is launching a new film and TV division",
-      "link": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
-      "summary": "Xbox is launching a new division, called \"XP,\" that's dedicated to Xbox experiences that aren't video games, including films and TV adaptations, consumer products, live events, and partnerships with c...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time s...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
       "region": "us",
-      "pubDate": "2026-10-08 12:01:12",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25742545/Screenshot_2024_11_19_at_3.46.13_PM.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-      "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-      "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital. ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 12:00:00",
+      "pubDate": "2026-10-08 12:10:00",
       "category": "ai",
       "thumbnail": ""
     },
@@ -267,17 +597,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Cupertino might be made for your mom, but it’s a good take on tech",
-      "link": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
-      "summary": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do wi...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-08 11:30:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3172660_Cupertino_S1_10030b.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
       "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
       "summary": "Full-stack safety solution for physical AI is being used by robotics companies....",
@@ -300,17 +619,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/blanche-kalshi-sports-500x500-1791305873.jpg"
     },
     {
-      "title": "Spend Elon Musk’s Money",
-      "link": "https://www.wired.com/story/spend-elon-musk-money/",
-      "summary": "What’s it like to be the richest man in the world? Find out for yourself....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-08 11:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/clips/6ac66f9536a7c6731ae53916/master/pass/Spend-Elon-Musks-money-site.mp4"
-    },
-    {
       "title": "How Massive Is Elon Musk’s Trillion-Dollar Fortune? Spend It Yourself",
       "link": "https://www.wired.com/story/how-massive-is-elon-musks-trillion-dollar-fortune-spend-it-yourself/",
       "summary": "WIRED has partnered with Neal Agarwal of Neal.fun to create a visualization of Elon Musk’s massive wealth. Here’s how it came together....",
@@ -320,6 +628,17 @@
       "pubDate": "2026-10-08 11:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6ac6951bab3cf053552feec3/master/pass/Spend-Elons-Money-QandA-Business.gif"
+    },
+    {
+      "title": "Spend Elon Musk’s Money",
+      "link": "https://www.wired.com/story/spend-elon-musk-money/",
+      "summary": "What’s it like to be the richest man in the world? Find out for yourself....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-08 11:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/clips/6ac66f9536a7c6731ae53916/master/pass/Spend-Elon-Musks-money-site.mp4"
     },
     {
       "title": "德国搜索引擎 Ecosia 甩了 Mistral：性能落后一整年，换中国开源模型省一半钱",
@@ -476,17 +795,6 @@
       "thumbnail": "https://media.wired.com/photos/6ac1fde2990edb2cf8e3903d/master/pass/Best%20Cheap%20Phones%20102026%20top%20art%20SOURCE%20Amazon.jpg"
     },
     {
-      "title": "The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe",
-      "link": "https://www.wired.com/story/the-man-behind-a-west-bank-telegram-channel-trying-to-keep-palestinian-drivers-safe/",
-      "summary": "With no accurate Big Tech mapping app to help him, Anas Hattab launched a Telegram group to get himself home at night. Now nearly 350,000 Palestinians rely on it to navigate the occupied West Bank....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-08 09:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6ac6a0115f6cc15e079284f6/master/pass/Anas%20Hattab%20and%20Janiyah%20village%20by%20Samar%20Hazboun-29.jpg"
-    },
-    {
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
       "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we liv...",
@@ -529,17 +837,6 @@
       "pubDate": "2026-10-08 07:53:24",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "50 Best Last Minute Prime Day Deals You Can Still Shop Today (2026)",
-      "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026/",
-      "summary": "Prime Day might be over, but the discounts are still going. We’ve tracked down the best last minute Prime Day deals on all the gear our team recommends....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-08 07:46:36",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6ac3ef9c649b084becf0e2b4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Absolute%20Best%20Prime%20Day%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg"
     },
     {
       "title": "极速调度，可靠备份 OpsDump v0.2.0 桌面版发布",
@@ -597,17 +894,6 @@
       "thumbnail": ""
     },
     {
-      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-      "link": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-      "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 06:14:11",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
       "link": "https://www.qbitai.com/2026/10/501915.html",
       "summary": "",
@@ -641,248 +927,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "summary": "Get ready for more AI in your Windows and more AI on the desktop....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-08 00:00:24",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-500x500.png"
-    },
-    {
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-07 23:36:57",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-      "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-07 22:59:16",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-      "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
-      "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-07 22:01:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WGM31182.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-      "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-07 21:56:42",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-500x500-1791408830.webp"
-    },
-    {
-      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-      "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-      "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a mu...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-07 21:19:54",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0007.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-07 20:48:45",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Android’s physical navigation buttons are back on Googlebooks, but not the way you think",
-      "link": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
-      "summary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is some...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-07 20:44:34",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebook_home_buttons_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "We found some great October Prime Day deals under $50",
-      "link": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
-      "summary": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale t...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-07 20:30:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/anker_nano2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-07 20:22:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
-      "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
-      "summary": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-07 20:01:14",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/misinfoTOP-500x500.jpg"
-    },
-    {
-      "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
-      "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
-      "summary": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-07 19:53:42",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tp-link-routers-500x500.jpg"
-    },
-    {
-      "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
-      "link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale",
-      "summary": "Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day. Th...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-07 19:27:39",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/roku-oled-tv-lifestyle.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gi...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-07 19:10:42",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
-      "link": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
-      "summary": "The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-07 19:05:52",
-      "category": "chip",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/surfacelaptopultra1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
-      "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
-      "summary": "Altering molecular handedness has implications for the origins of life....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-07 18:48:18",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1337028378-500x500.jpg"
-    },
-    {
-      "title": "It appears .agent and .agi are about to be the hot new domains",
-      "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
-      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-07 18:46:16",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24643586/Amp_Search.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-07 18:30:57",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
-      "link": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/",
-      "summary": "In renewed policy, pediatricians review the benefits of heating milk to kill germs....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-07 18:24:39",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-2176630363-500x500.jpg"
-    },
-    {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-07 18:15:28",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
-      "link": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
-      "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-07 18:10:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-07 18:00:19",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "IEEE Report Predicts Tech That Will Transform Lives",
       "link": "https://spectrum.ieee.org/ieee-report-predicts-tech",
       "summary": "\nBy 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology...",
@@ -894,17 +938,6 @@
       "thumbnail": "https://spectrum.ieee.org/media-library/line-drawing-of-an-ai-humanoid-surrounded-by-representations-of-biomedical-research-surveillance-and-pollution.jpg?id=68052574&width=1245&height=700&coordinates=0%2C187%2C0%2C188"
     },
     {
-      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-      "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-      "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-07 17:57:39",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2297466143-500x500.jpg"
-    },
-    {
       "title": "Changing Your Career Isn’t Easy",
       "link": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
       "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
@@ -914,17 +947,6 @@
       "pubDate": "2026-10-07 17:04:02",
       "category": "ai",
       "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1245&height=700&coordinates=0%2C112%2C0%2C113"
-    },
-    {
-      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
-      "link": "https://www.qbitai.com/2026/10/501825.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-10-07 14:10:33",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
@@ -945,17 +967,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-10-07 12:10:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-      "link": "https://www.qbitai.com/2026/10/501803.html",
-      "summary": "",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-10-07 11:34:47",
       "category": "ai",
       "thumbnail": ""
     },
@@ -1007,17 +1018,6 @@
       "title": "WeLion New Energy and its semi-solid-state batteries",
       "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
       "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-10-06 10:35:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Form Energy and its iron batteries",
-      "link": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-      "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind inst...",
       "source": "MIT Tech Review",
       "sourceKey": "mit-tech",
       "region": "us",
