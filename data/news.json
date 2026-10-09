@@ -1,7 +1,425 @@
 {
-  "updateTime": "2026-10-09T16:02:18.355Z",
+  "updateTime": "2026-10-09T21:32:19.990Z",
   "total": 90,
   "news": [
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-09 19:43:50",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-500x500-1791573923.jpg"
+    },
+    {
+      "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+      "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-09 19:27:27",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2252095020-500x500.jpg"
+    },
+    {
+      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+      "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+      "summary": "\"The current decline may be just the beginning of a new downward cycle.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-09 18:54:52",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-500x500.jpg"
+    },
+    {
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-09 18:44:06",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikon1-500x500-1791567849.jpg"
+    },
+    {
+      "title": "Your artwork could be featured in the next Debian release",
+      "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+      "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-09 18:33:26",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ceratopsian_wallpaper-500x500.png"
+    },
+    {
+      "title": "Starlink spectrum deal boosts Musk plan to beat AT&amp;T, T-Mobile, and Verizon",
+      "link": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+      "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-09 18:24:39",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-500x500-1768005711.jpg"
+    },
+    {
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 18:06:57",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Google teases Fitbit Edge launch next week",
+      "link": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
+      "summary": "It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 18:05:55",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fitbit-edge.jpeg?quality=90&strip=all&crop=0,0,82.198155651743,100"
+    },
+    {
+      "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
+      "link": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
+      "summary": "Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature is the adjustable priv...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 17:41:24",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268399_Samsung_Galaxy_S26_Ultra_review_AJohnson_0011.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Amazon’s new Kindles appear to have a light leak problem",
+      "link": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
+      "summary": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appeara...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 17:25:39",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011582.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "LumenUs helps automate tedious paperwork in times of grief",
+      "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+      "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 17:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft tries to spark new life into Windows",
+      "link": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
+      "summary": "When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, wit...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 17:00:00",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299110674.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against ...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 16:56:42",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
+      "link": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
+      "summary": "Facebook whistleblower Frances Haugen was mostly unfazed watching Oscar-winning actress Mikey Madison play a character named after her in The Social Reckoning, except for one thing: the wrist warmers....",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 16:50:40",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298625475.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Apple and LG leak shows new ‘tap to control’ HomeKit features",
+      "link": "https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor",
+      "summary": "A post on X from \"pdfu,\" who has previously posted leaks and renders of suspected Apple features and LG smart home gear, shows new details of rumored Apple Home accessories from LG. According to the n...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 16:45:31",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKS495_Smart_Home_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 16:45:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 16:40:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson",
+      "link": "https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/",
+      "summary": "The Justice Department is considering a perjury and obstruction-of-justice case against Cassidy Hutchinson, a former White House aide who testified against Donald Trump to the January 6 committee....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-09 16:09:08",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6ac8ddd09e3491cd7012831f/master/pass/Cassidy%20Hutchinson.jpg"
+    },
+    {
+      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+      "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+      "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 16:07:26",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Remember Orkut? Its founder wants to bring it back",
+      "link": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+      "summary": "Orkut's founder is now taking aim at algorithms and AI-generated content....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 15:56:15",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "东风猛士・猛 8 越野旅居车亮相：6.7L 电控增压柴油发动机，生活系统一应俱全",
+      "link": "https://www.ithome.com/1/011/156.htm",
+      "summary": "\nIT之家 10 月 9 日消息，东风汽车今日宣布全新东风猛士・猛 8 越野旅居车在第 21 届阿拉善英雄会亮相并正式开启全球预订。\n\nIT之家从官方介绍获悉，猛 8 采用东风猛士 MS600 单排军车平台技术，把三代猛士军车积累的硬实力落地到民用旅居车上。该车搭载 6.7L 电控增压柴油发动机，峰值扭矩 1050N・m，搭配全时四驱系统和双横臂独立悬架，可攀爬 31° 陡坡（约是普通小区地下车库...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 15:47:12",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "华为鸿蒙星河互联 App 登陆 Apple Watch 端，可与 HarmonyOS 7.0.0.109 及以上版本手机配对连接",
+      "link": "https://www.ithome.com/1/011/155.htm",
+      "summary": "\nIT之家 10 月 9 日消息，苹果 App Store Watch 专区显示，鸿蒙星河互联 App 已正式登陆 Apple Watch 端。\n\n应用介绍页显示，其支持 Apple Watch 与 HarmonyOS 7.0.0.109 及以上版本华为手机配对连接，用户可体验信息流转、查找设备等功能。\n参考IT之家此前报道，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 15:45:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 15:43:33",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "漫威新剧《幻视任务》首曝中字片段：奥创以人类形态回归，10 月 14 日 Disney+ 开播",
+      "link": "https://www.ithome.com/1/011/154.htm",
+      "summary": "\nIT之家 10 月 9 日消息，漫威新剧《幻视任务》今日首曝两段中字片段。本剧也是《旺达幻视》三部曲的终章，将于今年 10 月 14 日在 Disney+ 开播。\n\n据介绍，《幻视任务》是继《旺达幻视》《女巫阿加莎》后 MCU 衍生剧系列三部曲的最后一部，将讲述幻视试图恢复记忆和人性的故事。\nIT之家查询获悉，保罗 · 贝坦尼 / 詹姆斯 · 斯派德 / 埃米丽 · 汉普希尔 / 托德 · 斯塔...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 15:38:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "第二艘国产大邮轮“爱达 · 花城号”明年将以香港作为母港营运",
+      "link": "https://www.ithome.com/1/011/153.htm",
+      "summary": "\nIT之家 10 月 9 日消息，据央视新闻今日报道，爱达邮轮在港正式发布第二艘国产大型邮轮“爱达 · 花城号”的航线及产品布局，“爱达 · 花城号”将于明年正式以香港为母港，这艘邮轮将于今年 11 月启航并造访香港。\n\n据介绍，“爱达 · 花城号”将于 2027 年全面展开香港母港航季，预计营运近 20 个邮轮航次。航线设计灵活多元，增设 3 个海上游航次，为本地旅客提供“邮轮即是目的地”的海上...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 15:26:48",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号",
+      "link": "https://www.ithome.com/1/011/152.htm",
+      "summary": "\nIT之家 10 月 9 日消息，据央视新闻报道，10 月 9 日，第 77 届国际宇航大会在土耳其闭幕。闭幕式上，国际宇航联合会为中国科学院院士、中国科学院空天信息创新研究院研究员郭华东颁发 2026 年度国际宇航联合会“名人堂”奖，以表彰其毕生深耕宇航领域并作出卓越贡献。\n郭华东院士此次获奖的一项重要成果，是主持研发了全球首颗可持续发展科学卫星 1 号（SDGSAT-1）。该卫星通过“光-热-...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 15:18:38",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "漫步者“EDF200259”耳机通过星闪测试列名，预计将成第二款支持星闪音频三方品牌耳机",
+      "link": "https://www.ithome.com/1/011/151.htm",
+      "summary": "\nIT之家 10 月 9 日消息，星闪联盟官网显示，来自北京爱德发科技有限公司的“EDF200259”耳机已通过星闪联盟测试列名，测试集包括高清音频协议一致性测试等。\n\n公开资料显示，北京爱德发科技有限公司成立于 1996 年 4 月 16 日，其母公司是深圳市漫步者科技股份有限公司，公司旗下拥有“漫步者（Edifier）”主品牌及多个子品牌，覆盖不同消费市场和产品领域。\n此次耳机通过星闪认证，意...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 15:15:49",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "YouTube, Meta, and Twitch won’t say if they’ll allow the US government to livestream an execution",
+      "link": "https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream",
+      "summary": "YouTube, Twitch, Meta, and X aren't saying whether they'll allow the US government to livestream an execution on their platforms. The four companies didn't respond to The Verge's requests for comment ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 15:15:30",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294930392.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The AI is in the computer",
+      "link": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
+      "summary": "It's gadget season, and a lot of companies are launching a lot of new products. But whether it's Microsoft dropping a high-end laptop, Amazon shipping a fancy Android tablet, or Apple diving headlong ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 15:10:12",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_100926_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "猛士 X700 首台量产车将于 10 月 10 日正式下线，预售价 24.98 万元起",
+      "link": "https://www.ithome.com/1/011/150.htm",
+      "summary": "\nIT之家 10 月 9 日消息，猛士汽车宣布旗下 X700 首台量产车将于 10 月 10 日在襄阳工厂正式下线，该车预售价 24.98 万元起，共推出 3 款车型，搭载华为乾崑智驾 ADS 5 及鸿蒙座舱 HarmonySpace 6，是猛士品牌 X 系列的首款产品。\n\n设计方面，猛士 X700 承袭猛士“雄魂美学”理念，保留狮吼梯形前脸、剑指苍穹尾灯等家族识别符号，并采用贯穿式止戈为武大灯与...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 15:08:53",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "10nm 以下迎来新玩家！格罗方德目标 2028 年量产 7nm 级 FD-SOI 工艺",
+      "link": "https://www.ithome.com/1/011/149.htm",
+      "summary": "\nIT之家 10 月 9 日消息，GlobalFoundries（GF，格罗方德）当地时间今日公布了其全新 FD-SOI（完全耗尽型绝缘体上硅）先进制程技术平台 FDX Fusion 平台的计划。\nFDX Fusion 平台的第一代技术预计将提供 7nm 级的数字性能。格罗方德计划 2027 年初向客户交付演示芯片、2027 年中提供初步的 PDK，2028 年在德国德累斯顿晶圆厂启动量产。\n这意...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 15:06:35",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "长安启源 Q06 新增宁德时代电池选装，纯电里程 602 公里",
+      "link": "https://www.ithome.com/1/011/148.htm",
+      "summary": "\nIT之家 10 月 9 日消息，据易车报道，10 月 9 日，长安启源 Q06 正式面向 602 智享型、602 越享型车型，推出宁德时代电芯选装包。用户可选择将 66.02 度中创新航 800V 6C 电芯，升级为同容量规格的 66.02 度宁德时代 800V 6C 电芯，选装升级后整车续航里程维持不变。\n据介绍，无论是原车标配的中创新航电芯，还是可选装的宁德时代电芯，均纳入长安自研金钟罩电池...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 15:05:37",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "Automattic loses its interim CFO just weeks after boardroom shakeup",
+      "link": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
+      "summary": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back t...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 15:02:30",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "I’m Still Convinced the iPod Was the Perfect Gadget",
+      "link": "https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget/",
+      "summary": "Apple’s original music player got many things right. Chief among them: It didn’t connect to the internet....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-09 15:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6abdb2233241c89b6aaeb7ab/master/pass/Backchannel-iPod-Anniversary-Business-678384.jpg"
+    },
+    {
+      "title": "小鹏 G9L 汽车官宣将亮相巴黎车展：正式开启全球上市，登陆 64 个国家和地区",
+      "link": "https://www.ithome.com/1/011/147.htm",
+      "summary": "\nIT之家 10 月 9 日消息，小鹏汽车官方今日宣布，小鹏 G9L 即将亮相巴黎车展，正式开启全球上市，计划登陆全球 64 个国家和地区。\n\n据IT之家此前报道，小鹏 G9L 汽车已于 9 月 17 日晚间在国内正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择，限时优惠价 23.18 万-29.98 万元。\n\n小鹏 G9L 拥有普罗旺斯紫、托斯卡纳绿、珠峰白、峡湾灰、极夜黑等...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 14:57:27",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties &amp; Networking You Can’t Miss",
+      "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco d...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 14:42:34",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 14:30:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 14:25:43",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "Microsoft barred from sponsoring foreign workers for US residency",
       "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
@@ -25,15 +443,15 @@
       "thumbnail": ""
     },
     {
-      "title": "Xona’s commercial GPS alternative is about to go live",
-      "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-      "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
       "region": "us",
-      "pubDate": "2026-10-09 12:00:00",
-      "category": "space",
-      "thumbnail": ""
+      "pubDate": "2026-10-09 12:10:00",
+      "category": "ai",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/08/Copy-of-Library-15-of-15.jpeg?fit=2128,1196"
     },
     {
       "title": "安踏集团正式成为彪马最大股东；lululemon开启2026“一起好状态”年度活动；星巴克进入新疆市场；ALO张园限时体验空间启幕｜消研所周报",
@@ -89,17 +507,6 @@
       "pubDate": "2026-10-09 10:28:03",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "微博 CEO 王高飞再谈尊界 V800 刹车踏板事件，称暂停交付、查车厂台架实验记录比较合理",
-      "link": "https://www.ithome.com/1/011/089.htm",
-      "summary": "\nIT之家 10 月 9 日消息，懂车帝昨日（10 月 8 日）发布视频，实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断。随即相关话题登上热搜并迅速引发网络热议。\n\n尊界汽车官方昨晚发布了关于尊界汽车制动踏板支架底座相关问题的情况说明，表示尊界汽车的制动系统，按照高于国家标准（GB 21670‑2025 / GB 7258‑2026）、高于行业标准（QC/T 7...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:21:30",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/ae06c176-4462-4de4-8915-4660710ce6f3.jpg"
     },
     {
       "title": "特斯拉供应商们，正在悄悄“造人”",
@@ -179,28 +586,6 @@
       "thumbnail": ""
     },
     {
-      "title": "美团：将提高超重、体积大、步行上下楼等较难配送订单计费权重",
-      "link": "https://www.ithome.com/1/011/088.htm",
-      "summary": "\nIT之家 10 月 9 日消息，据国是直通车今日报道，2026 年度美团劳动规则和算法协商恳谈会近日在北京召开。来自全国各地的一线骑手代表与美团平台围绕劳动报酬、派单规则、休息休假、劳动保护等议题开展协商，现场签署《2026 年度美团劳动规则和算法协商协议》。\n协议明确，美团将提高超重、体积大、步行上下楼等较难配送订单的计费权重，增加特殊天气下的收入报酬；继续执行“取消超时扣款”，持续优化顺路派...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:17:19",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "全部金属：比亚迪郑羽公布仰望制动踏板材质，称踏板力执行 2500N 企业标准",
-      "link": "https://www.ithome.com/1/011/087.htm",
-      "summary": "\nIT之家 10 月 9 日消息，汽车制动安全相关话题最近引发了大家的热议。比亚迪仰望汽车总经理助理、市场营销及用户发展负责人郑羽今日发布视频，回答了仰望制动踏板的材质及踏板力等相关问题。\n\n郑羽介绍称，仰望 U8 和 U8L 的刹车踏板总成全部是金属材质，仰望 U7 的踏板总成同样是金属材质。\n针对国标踏板力 1500N、2000N 的两种说法，他表示不用在这个数据上纠结，因为仰望执行的企业标准...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:13:03",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/96f43a0f-221b-49a5-acbf-465d2d9734a2.jpg"
-    },
-    {
       "title": "Best Battery-Powered Leaf Blowers (2026): Tested for Power, Battery Life, and Noise",
       "link": "https://www.wired.com/story/best-battery-powered-leaf-blowers/",
       "summary": "It’s finally time to ditch the gas canister—I tested these cordless leaf blowers on gravel, wood chips, and even a 5-pound concrete paver....",
@@ -234,28 +619,6 @@
       "thumbnail": "https://media.wired.com/photos/6ac6842a2962a868125e6095/master/pass/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg"
     },
     {
-      "title": "广汽集团公布 9 月份产销快报：本田销量同比下降 86.02%，丰田下降 28.37%",
-      "link": "https://www.ithome.com/1/011/078.htm",
-      "summary": "\nIT之家 10 月 9 日消息，广汽集团今天公告，2026 年 9 月汽车产量为 136,150 辆，同比下降 24.01%，本年累计产量为 1,162,939 辆，同比下降 6.03%；9 月汽车销量为 128,634 辆，同比下降 25.72%，本年累计销量为 1,141,237 辆，同比下降 3.58%。\nIT之家汇总详细销量情况如下：\n\n广汽本田：9 月销量 4,588 辆，同比下降 8...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 09:59:41",
-      "category": "auto",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/18150ee9-1df5-433d-bbd9-9a331e66f152.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”",
-      "link": "https://www.ithome.com/1/011/077.htm",
-      "summary": "\nIT之家 10 月 9 日消息，懂车帝 10 月 8 日发布视频，实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络热议。\n尊界汽车官方 10 月 8 日晚发布情况说明，表示尊界汽车的制动系统按照高于国家标准、高于行业标准的要求完成全流程开发与验证；但也表示将进一步优化该部件设计，并为已交付用户提供免费升级选择。\n\n据河南广播电视台大象新闻今日报道，尊界...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 09:51:34",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/37d26de5-5030-4543-9427-4e73e9b8df63.png"
-    },
-    {
       "title": "计算机科学家 Margaret Hamilton 去世，“软件工程”术语创造者",
       "link": "https://www.oschina.net/news/502922/margaret-hamilton-computing-pioneer-dies",
       "summary": "Margaret Hamilton——那个站在一摞齐腰高的阿波罗代码打印纸旁边、让无数人第一次意识到『写代码』可以是什么的软件工程师——于 2026 年 9 月 30 日去世，享年 90 岁。MIT 在讣告里称她是『极具影响力的计算机科学家』；而她自己更愿意被记住的，是那个在软件尚属荒地的年代亲手把它变成一门工程学科的人。 她为『软件......",
@@ -267,50 +630,6 @@
       "thumbnail": ""
     },
     {
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-09 09:48:26",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "国家广播电视总局：9 月处理电视剧侵权账号 181 个，清理侵权链接 339 万条",
-      "link": "https://www.ithome.com/1/011/076.htm",
-      "summary": "\nIT之家 10 月 9 日消息，据央视新闻报道，记者今天从国家广播电视总局获悉，2026 年 9 月共清理电视剧侵权链接 339 万条，处理侵权账号 181 个。\n据了解，按照国家广播电视总局工作部署，2026 年 5 月开展的电视剧侵权传播专项治理工作取得显著成效。为进一步巩固治理成果，治理工作通过常态化、制度化长效机制开展，与“剑网 2026”有效衔接，同向发力，形成对侵权传播违规行为持续打...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 09:42:31",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "打击倒卖副卡：山姆会员商店拟限制亲友卡绑定，新规预计 10 月 16 日生效",
-      "link": "https://www.ithome.com/1/011/075.htm",
-      "summary": "\nIT之家 10 月 9 日消息，山姆会员商店宣布拟更新《山姆会员商店会员章程》，拟新增：自首次激活亲友卡之日起每 365 天，该亲友卡关联的实名身份信息仅能用于激活两名个人主卡会员的亲友卡，且每次仅能激活一名个人主卡会员的亲友卡。\n根据公告内容，征求意见期为 7 日，期满如无更改，则于 2026 年 10 月 16 日生效。IT之家注意到，山姆会员商店还给出了参考案例：\n\n您在 2026 年 1...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 09:37:56",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/4e6aedbb-002e-4b2d-84d5-1b6e6d245211.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "懂车帝发内部通告整顿工作？知情人士：假的",
-      "link": "https://www.ithome.com/1/011/073.htm",
-      "summary": "\n10 月 9 日，一张懂车帝《关于开展公司内部整顿工作的通知》的截图在网络上广泛流传。截图中以“懂车帝科技有限公司人力资源部”名义发布，声称因“市场竞争中存在的不正当竞争行为，已被相关监管部门立案调查”，并宣布自 2026 年 10 月 9 日起开展为期一个月的内部整顿。该截图引发了大量网友关注与转发。针对上述网传信息，知情人士对凤凰网科技表示，这是假的，公章号不对，主体也不对。\n\n在此也提醒广...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 09:32:29",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/84a24f2f-178e-4ea8-80f0-96d04a795a92.jpg"
-    },
-    {
       "title": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
       "link": "https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/",
       "summary": "Castelion—a next-generation defense tech company—is building a facility in Rio Rancho Estates that documents show could pose a major fire and chemical hazard to neighboring communities....",
@@ -320,17 +639,6 @@
       "pubDate": "2026-10-09 09:30:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6abd1e80dae3985b8f0ee44b/master/pass/093926-New%20Mexico%20Missle.jpg"
-    },
-    {
-      "title": "联通港深：新皇岗口岸将于 10 月 12 日开通，采用“合作查验、一次放行”通关模式",
-      "link": "https://www.ithome.com/1/011/072.htm",
-      "summary": "\nIT之家 10 月 9 日消息，据“深视新闻”，联通香港深圳的新皇岗口岸定于 2026 年 10 月 12 日上午 6 时 30 分正式开通运行，为旅客和客运车辆提供 24 小时通关服务，同时暂停往来深圳皇岗口岸临时旅检楼和香港落马洲管制站的旅检服务。\n目前，皇岗口岸新联检大楼已通过验收，深港双方已完成一系列系统测试、试运行及应急演练，确认皇岗口岸已具备开通条件。预计口岸初期可以处理高峰日通关量...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 09:29:39",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/55c5113d-0a3d-494e-afff-b14d2ce241a6.jpg?x-bce-process=image/format,f_auto"
     },
     {
       "title": "TRAE终于把Code和Work合并了",
@@ -410,17 +718,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
-      "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
-      "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsof...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-09 07:14:32",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "字节找到了DeepSeek时强时弱的原因",
       "link": "https://www.qbitai.com/2026/10/502364.html",
       "summary": "答不答得对，得看Token站位...",
@@ -454,17 +751,6 @@
       "thumbnail": ""
     },
     {
-      "title": "今晚 20:00 京东 11.11 全面开抢：家居家电 3C 数码年内好价，OPPO N6 折叠屏国补 10%",
-      "link": "https://www.ithome.com/1/010/921.htm",
-      "summary": "\n京东家居家电 10 月 9 日今晚 20:00 正式开启双十一全面抢，现在可去主会场领加码 9 折券：点此领券。\nPLUS 会员可加领 200-25、480-60、1500-150 元超级补贴券：点此领券。\n\n多数家电支持 30 天价保（宝贝页面可见价保时间），今晚 20:00 下单，可以选择 11 月 1 日后送货。\n如果 10 月 9 日 20:00 价格好，则稳赚不赔；如果 10 月 31...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 06:07:22",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/cf27ecbe-0ab0-42c8-9e50-6cd4873d2e72.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
       "title": "TurboTax Full Service Coupons This October 2026",
       "link": "https://www.wired.com/story/turbotax-coupon/",
       "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED....",
@@ -476,37 +762,15 @@
       "thumbnail": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg"
     },
     {
-      "title": "Ulta Promo Codes: Up to 20% Off in October 2026",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more....",
+      "title": "Instacart Promo Code: $15 Off | October 2026",
+      "link": "https://www.wired.com/story/instacart-promo/code/",
+      "summary": "Find the best Instacart promo code for massive savings in October 2026....",
       "source": "Wired",
       "sourceKey": "wired",
       "region": "us",
       "pubDate": "2026-10-09 05:00:00",
       "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png"
-    },
-    {
-      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-      "link": "https://www.wired.com/story/lowes-promo-code/",
-      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-09 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png"
-    },
-    {
-      "title": "Valvoline Coupons and Promo Codes for October 2026",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
-      "summary": "We've gathered all the top Valvoline coupons and promo codes for October 2026, including deals on full synthetic oil changes and other essential maintenance....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-09 05:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png"
+      "thumbnail": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png"
     },
     {
       "title": "不写一行 Python，不引一行 C：纯 Uya 从零实现的 CLI 编程 Agent 开源了",
@@ -663,39 +927,6 @@
       "thumbnail": ""
     },
     {
-      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-      "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-      "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 22:33:59",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "US plans livestream of execution by firing squad",
-      "link": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
-      "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-08 22:32:04",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298331635.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic secur...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-08 21:53:51",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
       "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
       "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"...",
@@ -705,226 +936,6 @@
       "pubDate": "2026-10-08 21:37:32",
       "category": "space",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starshipflight14_deploy-500x500.jpg"
-    },
-    {
-      "title": "SpaceX announces plan to become a ‘major mobile carrier’",
-      "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
-      "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communicati...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-08 21:23:31",
-      "category": "space",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
-      "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
-      "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-08 21:01:18",
-      "category": "chip",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 21:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-      "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
-      "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-08 20:53:01",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2279085532-500x500.jpg"
-    },
-    {
-      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-      "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
-      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-08 20:39:31",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/trump-mobile-500x500.jpg"
-    },
-    {
-      "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
-      "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
-      "summary": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the Octob...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-08 20:32:21",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268395_Apple_MacBook_Pro_16_M5_Max_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Feds get ready to rewrite car headlight rules",
-      "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
-      "summary": "Reducing glare and allowing modern light technologies will be two goals....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-08 20:26:13",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1291667515-500x500-1791488497.jpg"
-    },
-    {
-      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-      "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-      "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-08 20:15:53",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hamilton2-500x500.jpg"
-    },
-    {
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which too...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-08 20:06:56",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 20:04:26",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
-      "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
-      "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-08 19:57:17",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-security-privacy-500x500-1736892656.jpg"
-    },
-    {
-      "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
-      "link": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
-      "summary": "Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-08 19:45:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2233996808.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
-      "link": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
-      "summary": "Mass surveillance gets stupider....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-08 19:42:30",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/texas-flag-500x500.jpg"
-    },
-    {
-      "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
-      "link": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
-      "summary": "Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is muc...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-08 19:30:21",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/windowssearch.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-      "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-      "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 18:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 18:20:32",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 18:19:45",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 18:19:42",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 18:18:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-08 18:16:24",
-      "category": "ai",
-      "thumbnail": ""
     },
     {
       "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
@@ -980,17 +991,6 @@
       "pubDate": "2026-10-07 12:10:00",
       "category": "ai",
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Photo-2_AbsolicsInc.jpg?fit=2128,1196"
-    },
-    {
-      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-      "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, accord...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-10-06 16:40:36",
-      "category": "other",
-      "thumbnail": ""
     }
   ]
 }
