@@ -1,7 +1,161 @@
 {
-  "updateTime": "2026-10-09T21:32:19.990Z",
-  "total": 90,
+  "updateTime": "2026-10-10T01:37:05.278Z",
+  "total": 80,
   "news": [
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-10 00:18:32",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B",
+      "link": "https://www.ithome.com/1/011/166.htm",
+      "summary": "\nIT之家 10 月 10 日消息，当地时间 10 月 9 日，微软宣布推出 Microsoft-Decision-1 决策模型。\n\n官方表示，该模型专为结构化决策任务打造，在响应延迟与决策质量上均具备顶尖性能，其实际表现全面超越大语言模型及其他传统决策模型。该模型现已上线 Microsoft Foundry，并同步接入 OpenRouter。\n在包含 36 项基准测试、涵盖近 15 万个训练阶段...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 23:12:53",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "部分用户反馈谷歌 Gboard 输入法 Shift 键失灵，导致无法输入大写字母",
+      "link": "https://www.ithome.com/1/011/165.htm",
+      "summary": "\nIT之家 10 月 10 日消息，科技媒体 Android Authority 昨日（10 月 9 日）发布博文，报道称部分用户报告谷歌 Gboard 输入法 Shift 键突然失灵，导致无法手动输入大写字母。\nIT之家附上用户反馈相关截图如下：\n\n问题表现方面，用户按下 Shift 键后，Gboard 输入法不再切换大小写，用户无法手动输入大写字母。在受影响机型方面，根据目前用户反馈的情况，主...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 23:04:16",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "德国交通部提出异议后，特斯拉在欧洲市场将 FSD 更名为“特斯拉辅助驾驶”",
+      "link": "https://www.ithome.com/1/011/164.htm",
+      "summary": "\nIT之家 10 月 10 日消息，当地时间 9 日，据外媒 TechCrunch 报道，特斯拉在德国交通部提出异议后，决定将欧洲市场的高级驾驶辅助系统由“完全自动驾驶（监督版）”更名为“特斯拉辅助驾驶”。\n特斯拉为此作出了重大让步。多年来，尽管该系统要求驾驶员时刻注意路况，必要时接管车辆，特斯拉始终沿用“完全自动驾驶”的名称。\n更名则有望帮助特斯拉在欧洲推广该系统，为公司开辟一项潜在的巨额收入来...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 22:59:03",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "谷歌预告 10 月 12 日将推新品，预估为 Fitbit Edge 手环",
+      "link": "https://www.ithome.com/1/011/163.htm",
+      "summary": "\nIT之家 10 月 10 日消息，谷歌 Google Health 官方账号（@googlehealth）今天（10 月 10 日）在 X 平台发布推文，预告将于 10 月 12 日发布新款产品，预估关联近期 Fitbit Edge 健身手环。\n图片展示了疑似设备侧边按键，配文写有“Get an Edge on your health”和“10.12.26”。\n\n这款设备的相关图片最早可追溯至 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 22:53:39",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本",
+      "link": "https://www.ithome.com/1/011/162.htm",
+      "summary": "\nIT之家 10 月 10 日消息，据《商业内幕》报道，谷歌即将向公众正式发布新一代 Gemini 4“Argon”模型。与此同时，其内部员工已在测试性能更强的后续迭代版本，有望进一步缩小与竞品之间的技术差距。\n据该媒体获取的内部文档与截图显示，谷歌员工近期一直在测试代号为“Carbon”的全新 Gemini 4 版本。该模型很可能是 Argon 架构下的新检查点（Checkpoint）更新，并已...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 22:51:52",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果首款智能家居中枢新线索，HomeView 商标曝光",
+      "link": "https://www.ithome.com/1/011/161.htm",
+      "summary": "\nIT之家 10 月 10 日消息，科技媒体 MacRumors 昨日（10 月 9 日）发布博文，报道称苹果可能通过空壳公司 Home Services LLC，在美国及其他国家申请 HomeView 商标。\nIT之家援引博文介绍，HomeView 申请出现时，另一家空壳公司 Home Operations Suite LLC 也申请了 homeOS 商标，后者同样关联苹果公司。\n苹果据报道计划...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 22:44:42",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "我国成功发射卫星互联网低轨 27 组卫星",
+      "link": "https://www.ithome.com/1/011/160.htm",
+      "summary": "\nIT之家 10 月 10 日消息，据央视新闻，今天（10 月 10 日）3 时 27 分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨 27 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。\n\n据IT之家了解，就在不久前的 9 月 23 日，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨 26 组卫星发射升空，卫星顺利进入预定轨道，发射任...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 22:38:09",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Long live the mechanical keyboard",
+      "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 22:08:24",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Decade-old RAM is making a comeback",
+      "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "summary": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 21:50:00",
+      "category": "chip",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 21:41:29",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the P...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 21:15:38",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "小米智能温湿度计 3 Pro 今日开售：129 元，新增二氧化碳浓度监测",
+      "link": "https://www.ithome.com/1/011/159.htm",
+      "summary": "\nIT之家 10 月 10 日消息，小米智能温湿度计 3 Pro 今日 10:00 正式开售，零售价 129 元，相比众筹价 114 元贵了 15 元。\n\nIT之家从官方获悉，这款温湿度计支持检测室内温度、湿度以及二氧化碳浓度，帮助用户及时了解空气状态。该机搭载 Sensirion 新一代低功耗导热原理二氧化碳传感器，持续监测室内二氧化碳浓度。\n规格方面，该机搭载 3.6 英寸大尺寸 LCD 显示...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-09 21:00:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe",
+      "link": "https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/",
+      "summary": "The automaker has been criticized for misleading drivers with the feature’s name. Now it’s renaming it for European regulators....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-09 20:18:15",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ac9386f3122e744c08a4121/master/pass/GettyImages-1228358583.jpg"
+    },
     {
       "title": "AI coding agents generate more code, but not more software",
       "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
@@ -14,6 +168,39 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-500x500-1791573923.jpg"
     },
     {
+      "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+      "link": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
+      "summary": "A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of po...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 19:41:11",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 19:36:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-09 19:28:49",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/master/pass/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+    },
+    {
       "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
       "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
       "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine....",
@@ -23,6 +210,39 @@
       "pubDate": "2026-10-09 19:27:27",
       "category": "other",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2252095020-500x500.jpg"
+    },
+    {
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tr...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 19:09:44",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+      "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+      "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 18:57:58",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-09 18:57:06",
+      "category": "other",
+      "thumbnail": ""
     },
     {
       "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
@@ -58,6 +278,28 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ceratopsian_wallpaper-500x500.png"
     },
     {
+      "title": "Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution",
+      "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
+      "summary": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The P...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-09 18:30:48",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public",
+      "link": "https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/",
+      "summary": "The data drop includes photographs, audio, video, and astronauts’ notes that will be used to study the moon and prepare for future human missions....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-09 18:30:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6ac7fc75775a25ece8a94633/master/pass/art002e016252%20(1).jpg"
+    },
+    {
       "title": "Starlink spectrum deal boosts Musk plan to beat AT&amp;T, T-Mobile, and Verizon",
       "link": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
       "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors....",
@@ -88,7 +330,7 @@
       "region": "us",
       "pubDate": "2026-10-09 18:05:55",
       "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fitbit-edge.jpeg?quality=90&strip=all&crop=0,0,82.198155651743,100"
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fitbit-edge.jpeg?quality=90&strip=all&crop=0,0,71.318894733819,62.485080718084"
     },
     {
       "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
@@ -146,28 +388,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
-      "link": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
-      "summary": "Facebook whistleblower Frances Haugen was mostly unfazed watching Oscar-winning actress Mikey Madison play a character named after her in The Social Reckoning, except for one thing: the wrist warmers....",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-09 16:50:40",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298625475.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Apple and LG leak shows new ‘tap to control’ HomeKit features",
-      "link": "https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor",
-      "summary": "A post on X from \"pdfu,\" who has previously posted leaks and renders of suspected Apple features and LG smart home gear, shows new details of rumored Apple Home accessories from LG. According to the n...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-09 16:45:31",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKS495_Smart_Home_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Danu Robotics’ fight to build a better recycling robot",
       "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
       "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste....",
@@ -201,28 +421,6 @@
       "thumbnail": "https://media.wired.com/photos/6ac8ddd09e3491cd7012831f/master/pass/Cassidy%20Hutchinson.jpg"
     },
     {
-      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
-      "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-      "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-09 16:07:26",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Remember Orkut? Its founder wants to bring it back",
-      "link": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
-      "summary": "Orkut's founder is now taking aim at algorithms and AI-generated content....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-09 15:56:15",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "东风猛士・猛 8 越野旅居车亮相：6.7L 电控增压柴油发动机，生活系统一应俱全",
       "link": "https://www.ithome.com/1/011/156.htm",
       "summary": "\nIT之家 10 月 9 日消息，东风汽车今日宣布全新东风猛士・猛 8 越野旅居车在第 21 届阿拉善英雄会亮相并正式开启全球预订。\n\nIT之家从官方介绍获悉，猛 8 采用东风猛士 MS600 单排军车平台技术，把三代猛士军车积累的硬实力落地到民用旅居车上。该车搭载 6.7L 电控增压柴油发动机，峰值扭矩 1050N・m，搭配全时四驱系统和双横臂独立悬架，可攀爬 31° 陡坡（约是普通小区地下车库...",
@@ -245,127 +443,6 @@
       "thumbnail": ""
     },
     {
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-09 15:43:33",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "漫威新剧《幻视任务》首曝中字片段：奥创以人类形态回归，10 月 14 日 Disney+ 开播",
-      "link": "https://www.ithome.com/1/011/154.htm",
-      "summary": "\nIT之家 10 月 9 日消息，漫威新剧《幻视任务》今日首曝两段中字片段。本剧也是《旺达幻视》三部曲的终章，将于今年 10 月 14 日在 Disney+ 开播。\n\n据介绍，《幻视任务》是继《旺达幻视》《女巫阿加莎》后 MCU 衍生剧系列三部曲的最后一部，将讲述幻视试图恢复记忆和人性的故事。\nIT之家查询获悉，保罗 · 贝坦尼 / 詹姆斯 · 斯派德 / 埃米丽 · 汉普希尔 / 托德 · 斯塔...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 15:38:09",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "第二艘国产大邮轮“爱达 · 花城号”明年将以香港作为母港营运",
-      "link": "https://www.ithome.com/1/011/153.htm",
-      "summary": "\nIT之家 10 月 9 日消息，据央视新闻今日报道，爱达邮轮在港正式发布第二艘国产大型邮轮“爱达 · 花城号”的航线及产品布局，“爱达 · 花城号”将于明年正式以香港为母港，这艘邮轮将于今年 11 月启航并造访香港。\n\n据介绍，“爱达 · 花城号”将于 2027 年全面展开香港母港航季，预计营运近 20 个邮轮航次。航线设计灵活多元，增设 3 个海上游航次，为本地旅客提供“邮轮即是目的地”的海上...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 15:26:48",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号",
-      "link": "https://www.ithome.com/1/011/152.htm",
-      "summary": "\nIT之家 10 月 9 日消息，据央视新闻报道，10 月 9 日，第 77 届国际宇航大会在土耳其闭幕。闭幕式上，国际宇航联合会为中国科学院院士、中国科学院空天信息创新研究院研究员郭华东颁发 2026 年度国际宇航联合会“名人堂”奖，以表彰其毕生深耕宇航领域并作出卓越贡献。\n郭华东院士此次获奖的一项重要成果，是主持研发了全球首颗可持续发展科学卫星 1 号（SDGSAT-1）。该卫星通过“光-热-...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 15:18:38",
-      "category": "space",
-      "thumbnail": ""
-    },
-    {
-      "title": "漫步者“EDF200259”耳机通过星闪测试列名，预计将成第二款支持星闪音频三方品牌耳机",
-      "link": "https://www.ithome.com/1/011/151.htm",
-      "summary": "\nIT之家 10 月 9 日消息，星闪联盟官网显示，来自北京爱德发科技有限公司的“EDF200259”耳机已通过星闪联盟测试列名，测试集包括高清音频协议一致性测试等。\n\n公开资料显示，北京爱德发科技有限公司成立于 1996 年 4 月 16 日，其母公司是深圳市漫步者科技股份有限公司，公司旗下拥有“漫步者（Edifier）”主品牌及多个子品牌，覆盖不同消费市场和产品领域。\n此次耳机通过星闪认证，意...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 15:15:49",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "YouTube, Meta, and Twitch won’t say if they’ll allow the US government to livestream an execution",
-      "link": "https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream",
-      "summary": "YouTube, Twitch, Meta, and X aren't saying whether they'll allow the US government to livestream an execution on their platforms. The four companies didn't respond to The Verge's requests for comment ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-09 15:15:30",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294930392.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The AI is in the computer",
-      "link": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
-      "summary": "It's gadget season, and a lot of companies are launching a lot of new products. But whether it's Microsoft dropping a high-end laptop, Amazon shipping a fancy Android tablet, or Apple diving headlong ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-09 15:10:12",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_100926_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "猛士 X700 首台量产车将于 10 月 10 日正式下线，预售价 24.98 万元起",
-      "link": "https://www.ithome.com/1/011/150.htm",
-      "summary": "\nIT之家 10 月 9 日消息，猛士汽车宣布旗下 X700 首台量产车将于 10 月 10 日在襄阳工厂正式下线，该车预售价 24.98 万元起，共推出 3 款车型，搭载华为乾崑智驾 ADS 5 及鸿蒙座舱 HarmonySpace 6，是猛士品牌 X 系列的首款产品。\n\n设计方面，猛士 X700 承袭猛士“雄魂美学”理念，保留狮吼梯形前脸、剑指苍穹尾灯等家族识别符号，并采用贯穿式止戈为武大灯与...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 15:08:53",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "10nm 以下迎来新玩家！格罗方德目标 2028 年量产 7nm 级 FD-SOI 工艺",
-      "link": "https://www.ithome.com/1/011/149.htm",
-      "summary": "\nIT之家 10 月 9 日消息，GlobalFoundries（GF，格罗方德）当地时间今日公布了其全新 FD-SOI（完全耗尽型绝缘体上硅）先进制程技术平台 FDX Fusion 平台的计划。\nFDX Fusion 平台的第一代技术预计将提供 7nm 级的数字性能。格罗方德计划 2027 年初向客户交付演示芯片、2027 年中提供初步的 PDK，2028 年在德国德累斯顿晶圆厂启动量产。\n这意...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 15:06:35",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "长安启源 Q06 新增宁德时代电池选装，纯电里程 602 公里",
-      "link": "https://www.ithome.com/1/011/148.htm",
-      "summary": "\nIT之家 10 月 9 日消息，据易车报道，10 月 9 日，长安启源 Q06 正式面向 602 智享型、602 越享型车型，推出宁德时代电芯选装包。用户可选择将 66.02 度中创新航 800V 6C 电芯，升级为同容量规格的 66.02 度宁德时代 800V 6C 电芯，选装升级后整车续航里程维持不变。\n据介绍，无论是原车标配的中创新航电芯，还是可选装的宁德时代电芯，均纳入长安自研金钟罩电池...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 15:05:37",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "Automattic loses its interim CFO just weeks after boardroom shakeup",
-      "link": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
-      "summary": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back t...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-09 15:02:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "I’m Still Convinced the iPod Was the Perfect Gadget",
       "link": "https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget/",
       "summary": "Apple’s original music player got many things right. Chief among them: It didn’t connect to the internet....",
@@ -375,50 +452,6 @@
       "pubDate": "2026-10-09 15:00:00",
       "category": "other",
       "thumbnail": "https://media.wired.com/photos/6abdb2233241c89b6aaeb7ab/master/pass/Backchannel-iPod-Anniversary-Business-678384.jpg"
-    },
-    {
-      "title": "小鹏 G9L 汽车官宣将亮相巴黎车展：正式开启全球上市，登陆 64 个国家和地区",
-      "link": "https://www.ithome.com/1/011/147.htm",
-      "summary": "\nIT之家 10 月 9 日消息，小鹏汽车官方今日宣布，小鹏 G9L 即将亮相巴黎车展，正式开启全球上市，计划登陆全球 64 个国家和地区。\n\n据IT之家此前报道，小鹏 G9L 汽车已于 9 月 17 日晚间在国内正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择，限时优惠价 23.18 万-29.98 万元。\n\n小鹏 G9L 拥有普罗旺斯紫、托斯卡纳绿、珠峰白、峡湾灰、极夜黑等...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-09 14:57:27",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties &amp; Networking You Can’t Miss",
-      "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco d...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-09 14:42:34",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-09 14:30:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-09 14:25:43",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Microsoft barred from sponsoring foreign workers for US residency",
@@ -432,17 +465,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/microsoft-logo-lights-500x500.jpg"
     },
     {
-      "title": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级",
-      "link": "https://www.tmtpost.com/8157820.html",
-      "summary": "围绕印章效力、控股股东主体存续风险、上市公司治理稳定性等多重争议，一场关乎董事会席位的博弈持续发酵。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-09 13:09:49",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
       "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s...",
@@ -452,17 +474,6 @@
       "pubDate": "2026-10-09 12:10:00",
       "category": "ai",
       "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/08/Copy-of-Library-15-of-15.jpeg?fit=2128,1196"
-    },
-    {
-      "title": "安踏集团正式成为彪马最大股东；lululemon开启2026“一起好状态”年度活动；星巴克进入新疆市场；ALO张园限时体验空间启幕｜消研所周报",
-      "link": "https://www.tmtpost.com/8163045.html",
-      "summary": "NikeSKIMS上海慢闪店开幕；雅诗兰黛集团发布第九届进博参展主题“至美八十，创见未见”。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-09 11:04:35",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
@@ -496,94 +507,6 @@
       "pubDate": "2026-10-09 11:00:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6ac201081f48c9ec501c8cc7/master/pass/Update%20best%20mac%20desktops%20102026%20top%20art%20SOURCE%20Amazon.jpg"
-    },
-    {
-      "title": "Robotaxi Races Shift From Tech Specs to Partnerships",
-      "link": "https://www.tmtpost.com/8163126.html",
-      "summary": "In 2026 the leading Robotaxi operators are no longer competing mainly on test miles or demonstration flash. Policy openings, cheaper sensors and stronger models have turned pure technical lead into an...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:28:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "特斯拉供应商们，正在悄悄“造人”",
-      "link": "https://www.tmtpost.com/8162947.html",
-      "summary": "人形机器人量产前夜，均胜、拓普、三花抢跑。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:18:54",
-      "category": "robot",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI家电，攻占黄金周",
-      "link": "https://www.tmtpost.com/8162948.html",
-      "summary": "AI能让用户多掏钱吗？...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:18:49",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧",
-      "link": "https://www.tmtpost.com/8162833.html",
-      "summary": "回望手机行业五十年，每一代霸主都曾以为自己握住了终点。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:18:43",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "印尼出口新低，印度库存告急，全球煤市最危险的窗口期正在倒计时",
-      "link": "https://www.tmtpost.com/8162956.html",
-      "summary": "不是需求有多强，是这轮供给断得太快。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:18:33",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "最大半导体IPO来了，英特尔“弃子”，逆袭成万亿新贵",
-      "link": "https://www.tmtpost.com/8162942.html",
-      "summary": "SK海力士旗下Solidigm筹划IPO。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:18:29",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI平均3小时完成一个数学证明，科研进入大通胀时代？",
-      "link": "https://www.tmtpost.com/8162938.html",
-      "summary": "数学的潘多拉魔盒打开了。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:18:24",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "34集拿下63.4%市占率，中剧让长剧的牌桌变了？",
-      "link": "https://www.tmtpost.com/8162846.html",
-      "summary": "中剧，上桌！...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-09 10:18:18",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "Best Battery-Powered Leaf Blowers (2026): Tested for Power, Battery Life, and Noise",
@@ -650,17 +573,6 @@
       "pubDate": "2026-10-09 09:19:57",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "America’s Hybrid Hype Has Hit the Used Market",
-      "link": "https://www.wired.com/story/america-hybrid-hype-has-hit-the-used-market/",
-      "summary": "Demand is so high that some used cars are selling for more than new ones....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-09 09:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6ac761317178fc1562f277f4/master/pass/2026_Toyota-RAV4-HEV-Limited_0001H.jpg"
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -749,28 +661,6 @@
       "pubDate": "2026-10-09 06:28:55",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "TurboTax Full Service Coupons This October 2026",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-09 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg"
-    },
-    {
-      "title": "Instacart Promo Code: $15 Off | October 2026",
-      "link": "https://www.wired.com/story/instacart-promo/code/",
-      "summary": "Find the best Instacart promo code for massive savings in October 2026....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-09 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png"
     },
     {
       "title": "不写一行 Python，不引一行 C：纯 Uya 从零实现的 CLI 编程 Agent 开源了",
