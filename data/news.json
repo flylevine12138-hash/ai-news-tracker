@@ -1,72 +1,182 @@
 {
-  "updateTime": "2026-10-11T05:19:35.949Z",
-  "total": 90,
+  "updateTime": "2026-10-11T12:32:03.442Z",
+  "total": 80,
   "news": [
     {
-      "title": "华硕 ROG 推出超杀 27 二代显示器：26.5 英寸 2K 320Hz QD-OLED，3699 元",
-      "link": "https://www.ithome.com/1/011/546.htm",
-      "summary": "\nIT之家 10 月 11 日消息，华硕 ROG 现已推出超杀 27 二代显示器，将于 10 月 16 日开售，售价 3699 元。\n\n这款显示器搭载了一块 26.5 英寸 2K 320Hz QD-OLED 面板；采用 BlackShield 黑盾涂层，相比前代抗刮擦能力提升至 2.5 倍；拥有 1.5M:1 对比度、 0.03ms GTG 响应时间、 99% DCI-P3 色域、Delta E&...",
+      "title": "理光注册 R10010 新相机，预计为 GR IVx",
+      "link": "https://www.ithome.com/1/011/686.htm",
+      "summary": "\nIT之家 10 月 11 日消息，据消息源 Pentax &amp; Ricoh Rumors 昨日透露，理光映像现已在中国注册一款新数码相机，型号为 R10010。\n\nIT之家从原报道获悉，这款相机配备三频段 Wi-Fi 6 模块，工作频段分别为 2.4GHz、5.1GHz 和 5.8GHz，并支持 1024-QAM，即 10 位正交幅度调制，对应 Wi-Fi 6 标准。这与理光 GR IV ...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-10-10 23:30:14",
-      "category": "ai",
-      "thumbnail": ""
+      "pubDate": "2026-10-11 11:35:19",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/8/b76fabfb-8721-4762-9363-462931d4a86f.jpg?x-bce-process=image/format,f_auto"
     },
     {
-      "title": "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务",
-      "link": "https://www.ithome.com/1/011/545.htm",
-      "summary": "\nIT之家 10 月 11 日消息，微软 CEO 萨蒂亚 · 纳德拉认为，在 AI 日益蓬勃发展的时代，使用超级智能自我监控等简单策略是不够的。\n纳德拉在北京时间 10 月 10 日晚的一篇长文中指出，传统软件系统在过去几十年中被广泛部署，人类已经拥有追踪特定代码路径行为的工具和能力。然而，AI 模型比传统软件更强大，但却是一个黑盒子，我们部署了这些复杂的智能体系统和模型，访问我们最敏感的数据，并...",
+      "title": "点击链接就可被实时定位：警方查获“极速定位”非法服务黑色产业链",
+      "link": "https://www.ithome.com/1/011/685.htm",
+      "summary": "\nIT之家 10 月 11 日消息，据法治日报，近日江苏扬州的陈先生前往辖区派出所报案称自己因债务纠纷，疑似被债主周某装了“定位器”，周某总能掌握他的行踪，令其出门提心吊胆，正常工作与生活受到严重干扰，最终选择报警求助。\n警方调查发现，周某在“极速定位”非法网站付费注册，把内容包装成小程序链接发给对方，接收人一旦点击允许获取位置，网站程序的后台就可以获取被定位人点击链接时的精准位置信息。同时，周某...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-10-10 23:19:46",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "日本罗森、JR 九州等多家企业遭非法访问，超千万条用户信息外泄",
-      "link": "https://www.ithome.com/1/011/544.htm",
-      "summary": "\nIT之家 10 月 11 日消息，据共同社报道，日本便利店巨头罗森 8 日发布消息称，其会员账号服务“Lawson ID”遭第三方非法访问，导致用户个人信息外泄，涉及的 ID 约达 215.5 万个。\n罗森泄露的信息包括邮件地址、姓名、性别、电话号码及住址等。据悉 7 日实施的调查中发现，系统在 9 月 12 至 14 日遭到非法访问。该公司表示：“给用户带来巨大困扰，深表歉意。”\n卡拉 OK ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-10 23:08:26",
+      "pubDate": "2026-10-11 11:35:05",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "国家互联网应急中心：内置后门功能的恶意软件“荐片播放器”大规模传播，已监测到超 70 万台设备感染",
-      "link": "https://www.ithome.com/1/011/543.htm",
-      "summary": "\nIT之家 10 月 11 日消息，国家互联网应急中心（CNCERT）10 月 9 日发布关于内置后门功能的恶意软件“荐片播放器”大规模传播的风险提示。\n近期，国家互联网应急中心（CNCERT）监测发现，“荐片播放器”Windows 端应用程序内置后门功能，可在用户不知情的情况下采集终端信息、下载运行其他程序，并接收服务端指令执行任意代码，存在终端被远程控制、个人信息泄露等安全风险。目前，境内已监...",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "summary": "A long day’s haul in the video game slop mines....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-11 11:30:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "阿维塔 T09 预告图公布，2026 巴黎国际车展全球首秀",
+      "link": "https://www.ithome.com/1/011/684.htm",
+      "summary": "\nIT之家 10 月 11 日消息，阿维塔 T09 最新预告图今日公布，将于 2026 巴黎国际车展全球首秀。\n\n\n\n\n今年 9 月，阿维塔官方公布了 T09 的官图。新车由阿维塔和华为乾崑联合设计，前脸采用点阵封闭式格栅 + 分体式大灯设计，顶部有一颗激光雷达（预计是华为乾崑 896 线双光路图像级激光雷达），车门配备了半隐藏式门把手。\nIT之家注意到，阿维塔 T09 已完成申报，提供两种动力版...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-10-10 23:05:58",
+      "pubDate": "2026-10-11 11:25:51",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/c3e41938-727b-4695-bc4c-ee807315b981.jpg?x-bce-process=image/format,f_auto"
     },
     {
-      "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
-      "link": "https://www.ithome.com/1/011/542.htm",
-      "summary": "\nIT之家 10 月 11 日消息，亚马逊云科技 10 月 10 日宣布与北京姚基金公益基金会（以下简称“姚基金”）共同推出“云上篮图”体育 × 科技育人计划。\n该公益计划依托姚基金覆盖全国的学校网络、体育人才培养经验，同时借助亚马逊云科技 Breaking Barriers 全球创新活动，以及云与 AI 技术、由资深解决方案架构师组成的导师团队和培训与认证学习资源，旨在培养更多兼备 AI 素养与...",
+      "title": "利民上架 PA120 VISION MAX ARGB BLACK 风冷散热器：6 根 6mm 热管、配 5 英寸磁吸彩屏，439 元",
+      "link": "https://www.ithome.com/1/011/683.htm",
+      "summary": "\nIT之家 10 月 11 日消息，利民现已在京东上架 PA120 VISION MAX ARGB BLACK 风冷散热器，定价为 439 元。\n京东利民 Peerless Assassin 120 VISION MAX ARGB BLACK 风冷散热器 439 元直达链接\n\n\n该散热器主体尺寸为 125 x 110 x 164mm，使用纯铜热管及铝制鳍片，顶部搭载了一块 5 英寸 480x854...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-10-10 22:53:49",
+      "pubDate": "2026-10-11 11:21:03",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/528691/25/11814/81666/6abcba5cF4ffaeb14/00833203201fd981.jpg"
     },
     {
-      "title": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型",
-      "link": "https://www.ithome.com/1/011/541.htm",
-      "summary": "\nIT之家 10 月 11 日消息，据金融时报消息，知情人士透露，英伟达正就收购美国初创公司 Reflection AI 或向其追加投资展开深入谈判。\nReflection AI 专注于开发开放权重模型，于当地时间 10 月 5 日发布旗下首款开放权重 AI 模型 Beam。\n知情人士补充称，目前的谈判尚处初期阶段，潜在交易可能采取多种形式 —— 包括所谓“人才兼并”模式。在这一架构下，英伟达将吸...",
+      "title": "华硕 ROG 八爪鱼 8 电竞无线路由器开启预约：双 10G+ 四 2.5G 网口，支持 Wi-Fi 8",
+      "link": "https://www.ithome.com/1/011/682.htm",
+      "summary": "\nIT之家 10 月 11 日消息，华硕 ROG 八爪鱼 8 电竞无线路由器现已在京东开启预约，新品主打旗舰配置，拥有双 10G+4 个 2.5G 以太网口，支持 Wi-Fi 8（802.11bn），售价暂未公布。\n\n\n京东 ROG 八爪鱼 8 NEXTGENWIFI 三频 AI 电竞路由器 待公布立即预约\n“八爪鱼 8”基于博通 4 核 2.6GHz 处理器，配备 2GB DDR4 内存；拥有 ...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-10-10 22:46:30",
+      "pubDate": "2026-10-11 11:18:06",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/c544a015-88b7-46af-86eb-32b5fd8bb86f.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "末日搜打撤游戏《HUNGER》10 月 19 日开启测试：在拿破仑时代疫病欧洲杀出血路",
+      "link": "https://www.ithome.com/1/011/680.htm",
+      "summary": "\nIT之家 10 月 11 日消息，开发商 GOOD FUN CORPORATION 宣布，旗下全新搜打撤游戏《HUNGER》即将在 Steam 平台开启 Playtest 测试，本次测试预计于 10 月 19 日开启，持续至 10 月 26 日，感兴趣的玩家可前往游戏商店页面申请获取测试资格，IT之家附游戏商品页（https://store.steampowered.com/app/175208...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-11 11:08:40",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/87be96ed-b421-435c-b0f1-e1914e8f514d.png"
+    },
+    {
+      "title": "消息称三星 Galaxy S27 Ultra 手机可能不会采用 Exynos 2700 芯片",
+      "link": "https://www.ithome.com/1/011/679.htm",
+      "summary": "\nIT之家 10 月 11 日消息，此前曾有传闻称，三星可能会为部分市场的 Galaxy S27 Ultra 机型使用 Exynos 2700 芯片，其余市场采用高通最新骁龙芯片。\n\n消息人士 yeux1122 则在本周四（IT之家注：10 月 8 日）表示，Exynos 2700 目前良率表现优秀，三星 Galaxy S27 系列手机应该能用上。但三星尚未给 Galaxy S27 Ultra 分...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-11 11:02:38",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/34cab74a-4aad-4af7-b3ce-09662cca1904.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图 / 角色缩略图，尚未决定上线“AI 标签”声明",
+      "link": "https://www.ithome.com/1/011/678.htm",
+      "summary": "\nIT之家 10 月 11 日消息，《VRChat》开发商 VRChat Inc. 于 10 月 7 日公布了针对 AI 生成内容的应对方针，同步更新创作者指南。官方明确禁止使用 AI 生成误导性地图 / 角色缩略图，避免创作者利用与实际内容完全不符的缩略图吸引玩家点击。\n《VRChat》指出，平台一直将“自由表达”“人类无限的创造力”以及“人与人之间的联系”视为核心价值，尽管 AI 技术提升了开...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-11 10:54:55",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/012a3797-aeec-48bb-ba6f-3a17c276abab.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "CUDA 生态优势推动 RTX Spark 笔记本热销，微软 128GB 内存版 Surface Laptop Ultra 开始在美国缺货",
+      "link": "https://www.ithome.com/1/011/677.htm",
+      "summary": "\nIT之家 10 月 11 日消息，微软美国官网显示，Surface Laptop Ultra 笔记本 128GB 统一内存、1TB SSD 配置已经缺货，该产品定价 5,899.99 美元（IT之家注：现汇率约合 39,570 元人民币），其他较低配置机型仍可购买。\n\n结合科技媒体 Wccftech 报道，这款笔记本迅速售罄的原因可能与早期供应有限有关，但由于微软没有公布详细数据，我们无法验证这...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-11 10:38:04",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/8835bc8f-808c-45a0-89ce-1860793077af.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "开发者公布创意应用《Desktop Cleaning》，用一块“虚拟地毯”盖住电脑桌面上杂乱文件",
+      "link": "https://www.ithome.com/1/011/676.htm",
+      "summary": "\nIT之家 10 月 11 日消息，近期一位开发者 Terkel Gjervig 公布一款名为《Desktop Cleaning》的创意应用，可以在电脑桌面上铺设一块“虚拟地毯”，可盖住杂乱文件，让桌面显得“干净整洁”。\n\n据介绍，这张虚拟地毯支持调整尺寸和旋转角度，并拥有动态物理效果。用户拖动布料时，可以看到地毯随动作发生形变并产生褶皱。把文件藏好后，用户甚至还可以稍微拉扯一下地毯边角，让其看起...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-11 10:37:16",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/f56285ce-7574-4458-a3c0-b48a16e5e86c.png"
+    },
+    {
+      "title": "13 Best Gifts for Every Traveler Should Have (2026)",
+      "link": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "summary": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-11 10:33:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ac9252e8ec0dcf9ff583b39/master/pass/Best%20Gifts%20for%20Travelers%20102026%20top%20art%20SOURCE%20Amazon_Afform_Bearaby.jpg"
+    },
+    {
+      "title": "Inside the Muslim Manosphere Policing Women Online",
+      "link": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+      "summary": "From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-11 10:30:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/clips/6abd68b0bf10c46895eb1621/master/pass/Manosphere_lead.mp4"
+    },
+    {
+      "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
+      "link": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+      "summary": "From the Senate to governors’ mansions, candidates are trying to outcompete each other to be the most anti–data center in races across the US....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-11 10:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ac8dbbab63e0ee0b0821445/master/pass/101126-Power%20Play.jpg"
+    },
+    {
+      "title": "How the 2026 Super El Niño and Climate Change Are Related",
+      "link": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
+      "summary": "Here’s what we know about the record-setting El Niño on a record-hot planet, and the most important questions scientists are trying to answer....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-11 09:30:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ac8231cca19e55033ce8ba8/master/pass/cambio%20clim%C3%A1tico%20El%20Ni%C3%B1o%202298072299.jpg"
+    },
+    {
+      "title": "California’s Tallest and Most Iconic Trees Are Getting Heatstroke",
+      "link": "https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/",
+      "summary": "Redwoods adapted to a cool, foggy climate. Now a new study shows they slow down photosynthesis when their environment warms....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-10-11 09:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ac8bfc343102e19d08d1486/master/pass/GettyImages-2271228456.jpg"
     },
     {
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -77,7 +187,7 @@
       "region": "us",
       "pubDate": "2026-10-10 22:10:17",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
@@ -110,7 +220,7 @@
       "region": "us",
       "pubDate": "2026-10-10 18:52:07",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
@@ -132,7 +242,7 @@
       "region": "us",
       "pubDate": "2026-10-10 16:36:44",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Cloudflare acquires Deno to improve its Workers programming model",
@@ -144,105 +254,6 @@
       "pubDate": "2026-10-10 16:25:42",
       "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "安卓首款、全球第二款阔直板手机将至：酷派新机首曝，价格干到“999 定位千元档”",
-      "link": "https://www.ithome.com/1/011/540.htm",
-      "summary": "\nIT之家 10 月 11 日消息，全球首款阔直板手机 —— 华为 Pura X View 已于今年 9 月正式发布，搭载麒麟 9030S 处理器，配备 6400mm² VC 均热板，正面采用一块 6.39 英寸 2232×1320 分辨率的 OLED 直屏，屏幕比例为 16:9.5，售价 5999 元起。\n\nIT之家注意到，简介为“酷派手机旗舰店”的小红书账号 @coolpad方块数码 今日首爆...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-10 16:15:27",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台",
-      "link": "https://www.ithome.com/1/011/539.htm",
-      "summary": "\nIT之家 10 月 10 日消息，今日，宁德时代宣布与赛力斯集团在重庆签署长期战略合作协议。\n\n据介绍，问界品牌自创立以来，全系车型均搭载宁德时代电池，截至目前累计交付已突破 120 万台。以此为新起点，问界将继续长期全系搭载宁德时代电池，双方将围绕三大核心领域全面深化战略协同。\n首先是扩建“厂中厂”产能，加速赛力斯超级工厂“厂中厂”二期建设，二期年规划产能 10-12GWh，建成后一、二期总年...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-10 15:59:01",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "第二款三方品牌星闪耳机将至：漫步者 Lolli Spark 通过 OpenHarmony 认证",
-      "link": "https://www.ithome.com/1/011/538.htm",
-      "summary": "\nIT之家 10 月 10 日消息，OpenHarmony 官网显示，型号为“EDF200259”的漫步者 Lolli Spark 耳机已通过测试认证，搭载 Hi3372 芯片、OpenHarmony 5.1.0 Release 轻量系统。\n\nIT之家注意到，该型号耳机还通过了星闪联盟测试列名，测试集包括高清音频协议一致性测试等。这意味着这款耳机将于近期上市，有望成为第二款支持星闪音频的三方品牌耳...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-10 15:53:05",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "华为鸿蒙星河互联与 Apple Watch 互联适配机型公布，首批含 Pura X View、Mate 90 系列等",
-      "link": "https://www.ithome.com/1/011/537.htm",
-      "summary": "\nIT之家 10 月 10 日消息，华为鸿蒙星河互联 App 已正式登陆 Apple Watch 端。\n\n应用介绍页显示，其支持 Apple Watch 与 HarmonyOS 7.0.0.109 及以上版本华为手机配对连接，用户可体验信息流转、查找设备等功能。\nIT之家从华为官网了解到，当前仅 Pura X View、Mate 90 系列、Mate XT 2 支持与 Apple Watch 互联...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-10 15:48:10",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "收废品，怎么就成了大生意？",
-      "link": "https://www.tmtpost.com/8163795.html",
-      "summary": "废品站那杆秤，连着伦敦、纽约和布鲁塞尔的全球大宗市场。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-10 15:32:54",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/46ce6d98e7e1b73a7d36e3025f789c13_1791646379.jpg"
-    },
-    {
-      "title": "模型还在加速，世界如何跟上？｜北美AI交流手记",
-      "link": "https://www.tmtpost.com/8163636.html",
-      "summary": "北美手记：15天，5座城，101人...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-10 15:28:17",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/f4eb728a84cab60f63470031e7c1bbf5_1791646105.png"
-    },
-    {
-      "title": "坐在马化腾身旁的姚顺雨，拿到中国第一",
-      "link": "https://www.tmtpost.com/8163587.html",
-      "summary": "Arena发布对齐指数榜单，姚顺雨一年前的预言应验了...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-10 15:26:40",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35hyjtngf3.png"
-    },
-    {
-      "title": "今年双11的逻辑已经完全变了",
-      "link": "https://www.tmtpost.com/8163269.html",
-      "summary": "大促规则在变少，平台承担的确定性却在变多。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-10 15:23:55",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/453654uujhg3.png"
-    },
-    {
-      "title": "医疗影像走到分叉口：谁在为「AI读片」买单？",
-      "link": "https://www.tmtpost.com/8163192.html",
-      "summary": "技术跑到了专家水平，收费规则还停在「不单独计价」。医疗影像AI分两条路，谁先跑通，看谁先找到一个按结果付钱的买方。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-10 15:21:04",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/089296a7353639d1a6824306182f16fa_1791645669.jpg"
     },
     {
       "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
@@ -264,7 +275,7 @@
       "region": "us",
       "pubDate": "2026-10-10 15:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Photo-1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Anthropic is cutting off its internal evaluations from the internet",
@@ -275,7 +286,7 @@
       "region": "us",
       "pubDate": "2026-10-10 14:41:16",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Here are the top AI agents that can live in your text messages ",
@@ -297,7 +308,7 @@
       "region": "us",
       "pubDate": "2026-10-10 14:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_0319.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
@@ -308,7 +319,7 @@
       "region": "us",
       "pubDate": "2026-10-10 13:00:00",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268807_LG_MRGB95B_RGB_LED_TV_review_JHIGGINS_3.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "AI agent makers are promising privacy — will they deliver?",
@@ -319,18 +330,7 @@
       "region": "us",
       "pubDate": "2026-10-10 13:00:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "主业竞争激烈，中鼎股份募资急拓第二增长曲线",
-      "link": "https://www.tmtpost.com/8163965.html",
-      "summary": "公司希望依托汽车零部件领域的技术积累，补齐新业务的规模化制造与系统集成能力，拓展收入来源。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-10 12:54:39",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/94532d6a8b92ccd13f72808ff0927168_1791636881.png"
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The techlash has gone Hollywood",
@@ -341,7 +341,7 @@
       "region": "us",
       "pubDate": "2026-10-10 12:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-147.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "AI Is Getting Really Good at Messing With Cybercriminals",
@@ -407,7 +407,7 @@
       "region": "us",
       "pubDate": "2026-10-10 11:00:00",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/telo_lifestyle_07.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "QuotaPanel v0.2.0 点开菜单栏就看到额度，MiMo 额度来源上线",
@@ -476,50 +476,6 @@
       "thumbnail": ""
     },
     {
-      "title": "【数智周报】特朗普政府要求AI公司在发生安全事件后立即上报；华为与高通宣布达成广泛专利许可协议；月之暗面据悉即将完成IPO前融资，估值将达500亿美元",
-      "link": "https://www.tmtpost.com/8163752.html",
-      "summary": "（10月5日-10日）Manus完成超5亿美元新一轮融资；博通据悉计划为OpenAI定制芯片项目融资逾500亿美元；Anthropic发布最新AI模型Claude Haiku 5.5，运行成本较4.5低约75%；OpenAI宣布面向全球所有ChatGPT用户上线GPT-6...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-10 09:57:43",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/25717a24daef1bf6354f49efe50d9938_1791626267.png"
-    },
-    {
-      "title": "AI落地遭遇账单焦虑，大厂开始对Token成本“下手”",
-      "link": "https://www.tmtpost.com/8163627.html",
-      "summary": "企业的AI价值评估与成本管控仍存在脱节。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-10 09:57:24",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/e9861433b448af317ff2802223f98ab6_1791626247.jpg"
-    },
-    {
-      "title": "“请3休13”的黄金周，AI旅游攻略把我练成了特种兵",
-      "link": "https://www.tmtpost.com/8163230.html",
-      "summary": "攻略精确到分钟，落地全靠腿。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-10 09:40:11",
-      "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/750302a608c8d1b4b40ae2790ac1941e_1791625216.jpg"
-    },
-    {
-      "title": "张雪的老东家要去IPO了",
-      "link": "https://www.tmtpost.com/8163619.html",
-      "summary": "两年三轮融资之外，张雪“老东家”也在排队上市。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-10-10 09:38:56",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/10/20261010112814798276.jpg"
-    },
-    {
       "title": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition",
       "link": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
       "summary": "The new image isn’t just stunning—it may also provide clues about how this star survived its own explosion....",
@@ -540,17 +496,6 @@
       "pubDate": "2026-10-10 09:08:05",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
-      "link": "https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/",
-      "summary": "Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-10 09:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6ac8bde343102e19d08d1480/master/pass/Pikio%20Helmut.jpg"
     },
     {
       "title": "Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态",
@@ -584,61 +529,6 @@
       "pubDate": "2026-10-10 06:59:02",
       "category": "auto",
       "thumbnail": ""
-    },
-    {
-      "title": "Home Depot Promo Codes: 30% Off in October 2026",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-10 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png"
-    },
-    {
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-10 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png"
-    },
-    {
-      "title": "30% Off Canon Promo Codes | October 2026",
-      "link": "https://www.wired.com/story/canon-promo-code/",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-10 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg"
-    },
-    {
-      "title": "Disney Plus Discount Codes: 52% Off October 2026",
-      "link": "https://www.wired.com/story/disney-plus-discounts/",
-      "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-10 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg"
-    },
-    {
-      "title": "Altra Running Promo Codes: 10% Off October 2026",
-      "link": "https://www.wired.com/story/altra-promo-code/",
-      "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-10-10 05:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png"
     },
     {
       "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
@@ -792,7 +682,7 @@
       "region": "us",
       "pubDate": "2026-10-09 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/08/Copy-of-Library-15-of-15.jpeg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "TRAE终于把Code和Work合并了",
@@ -814,7 +704,7 @@
       "region": "us",
       "pubDate": "2026-10-09 09:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924SP1.jpg?w=840"
+      "thumbnail": ""
     },
     {
       "title": "Job titles of the future: Delivery drone air traffic controller",
@@ -946,7 +836,7 @@
       "region": "us",
       "pubDate": "2026-10-08 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2023/12/pohoiki-springs-neuromorphic-1-16x9.jpg.rendition.intel_.web_.1920.1080.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "Why we’re watching these climate tech companies",
@@ -968,7 +858,7 @@
       "region": "us",
       "pubDate": "2026-10-08 09:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AP25364739329087_1.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Building a safer path to autonomous industrial AI",
@@ -990,7 +880,7 @@
       "region": "us",
       "pubDate": "2026-10-07 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Photo-2_AbsolicsInc.jpg?fit=2128,1196"
+      "thumbnail": ""
     }
   ]
 }
