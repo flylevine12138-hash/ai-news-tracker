@@ -1,7 +1,414 @@
 {
-  "updateTime": "2026-10-14T18:26:43.182Z",
-  "total": 100,
+  "updateTime": "2026-10-14T22:09:42.522Z",
+  "total": 90,
   "news": [
+    {
+      "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+      "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+      "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-14 20:48:07",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/davinci-heat-test-3-500x500.jpg"
+    },
+    {
+      "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+      "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+      "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-14 20:15:56",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/classroom-tablets-500x500.jpg"
+    },
+    {
+      "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
+      "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+      "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-14 19:53:01",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2213769379-500x500.jpg"
+    },
+    {
+      "title": "Software development and rules stability: Prototype racing in 2030",
+      "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+      "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-14 19:44:26",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/img_3-500x500-1792003992.jpg"
+    },
+    {
+      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+      "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+      "summary": "\"Have you ever seen a world born?\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-14 19:10:58",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/narniaTOP-500x500-1791998070.jpg"
+    },
+    {
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy procee...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-14 18:47:54",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+      "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
+      "summary": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio pa...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-14 18:38:59",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-tv-4k-2026-event.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as  involved in composition and vocals....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-14 18:23:46",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound l...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-14 18:22:56",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/youtube-music-gen-ai-labels.width-1200.format-webp.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Save up to 20 percent on gift cards for REI, Barnes &amp; Noble, and more",
+      "link": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale",
+      "summary": "While we cover a lot of deals on specific products, it’s rare that we find worthwhile savings on gift cards that let you save on essentially anything the store sells. However, until October 19th, you ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-14 18:20:55",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-14 18:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple’s new HomeView smart display is $10 cheaper at Amazon",
+      "link": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
+      "summary": "Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $28...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-14 17:24:42",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-welcome-home-roundup.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
+      "link": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
+      "summary": "There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgra...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-14 17:19:11",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
+      "link": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds",
+      "summary": "Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been m...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-14 17:13:27",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dds1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-14 17:10:15",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-500x500-1791994331.jpg"
+    },
+    {
+      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+      "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+      "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease ri...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-14 17:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "My AI doppelganger tells me what to eat",
+      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-14 17:00:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268801_DigitalTwin_made_me_a_doppelganger_to_test_my_health_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this inform...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-14 16:43:24",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-14 16:41:49",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-500x500-1791993503.jpg"
+    },
+    {
+      "title": "Repairing the iPhone Duo’s folding screen costs as much as a new iPhone",
+      "link": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
+      "summary": "If you don't get AppleCare Plus for the iPhone Duo, any repairs are going to be pretty expensive. Apple published the estimated repair costs for the iPhone Duo without AppleCare Plus today, as reporte...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-10-14 16:21:28",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
+      "link": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
+      "summary": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-14 16:02:08",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/levelord-500x500.png"
+    },
+    {
+      "title": "Prismm helps banks keep inherited money in-house",
+      "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+      "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-14 16:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "赛力斯康波：面对欧洲豪华车市场严苛标准，要让当地消费者认可中国品牌需要时间",
+      "link": "https://www.ithome.com/1/013/134.htm",
+      "summary": "\nIT之家 10 月 14 日消息，赛力斯集团董事、副总裁康波今日分享了一篇《华尔街日报》的报道，其中提到中国车如今主导了欧洲最大的车展。\n\n康波透露自己也接受了《华尔街日报》的采访，而自己在采访中也提到，面对欧洲豪华车市场的严苛标准，要让当地消费者认可中国品牌的豪华车需要时间，但相信我们终将做到。\n据IT之家此前报道，赛力斯集团旗下豪华电动汽车品牌问界 10 月 12 日在巴黎车展宣布，计划 2...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-14 15:28:34",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/b9cfc9cf-491e-4923-b38d-3b8555029954.png"
+    },
+    {
+      "title": "消息称 Steam Frame OLED 头显正在开发：代号 Plano，单眼原生分辨率 3552*3840",
+      "link": "https://www.ithome.com/1/013/133.htm",
+      "summary": "\nIT之家 10 月 14 日消息，据 Steam Frame Hub 今天报道，Valve 的 VR 头显 Steam Frame 近期发售。不过V社如今可能已在开发后续产品，带来分辨率等方面升级。\n\n公开的 Linux 内核源码显示，新款 Steam Frame 代号为“Plano”，配备 Micro-OLED 显示屏，单眼原生分辨率为 3552*3840。作为对比，现款产品配备两块 LCD ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-14 15:23:53",
+      "category": "chip",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/0475db20-975b-4efe-a7d3-f29386460f09.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "男子发布 AI 视频造谣问界，赛力斯起诉索赔百万元",
+      "link": "https://www.ithome.com/1/013/132.htm",
+      "summary": "\nIT之家 10 月 14 日消息，据深蓝财经报道，赛力斯汽车有限公司对外披露，已对一名抖音平台短视频用户提起民事诉讼。该用户借助 AI 工具合成问界车辆行驶中车身塌陷的虚假画面，发布到网络抹黑车辆安全性能。\n案件将于 10 月 23 日在重庆市两江新区人民法院开庭审理。\n\n该用户使用 AI 生成虚假视频，伪造问界车辆行驶过程中车身塌陷的画面，视频标注问界品牌，暗示车辆存在严重安全缺陷，发布于抖音...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-14 15:20:19",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/0db29497-44be-48f2-9d4a-c9b390ad241b.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "summary": "Deezer said that the new toggle will be rolled out by the end of the year....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-14 15:16:04",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "任天堂展示《塞尔达传说：时之笛重制版》实体版包装：含特殊纹理烫箔，首发限量提供",
+      "link": "https://www.ithome.com/1/013/131.htm",
+      "summary": "\nIT之家 10 月 14 日消息，任天堂旗下新作《塞尔达传说：时之笛重制版》现已开启预购。官方今天在 X 平台发文，向玩家展示本作实体版的细节。\n\n据任天堂介绍，《塞尔达传说：时之笛重制版》实体卡带包装采用特殊纹理烫箔。玩家从不同角度端详盒子时，能够看到封面图案呈现独特反光。\n\n\n同时，本作的实体版售价 69.99 美元（IT之家注：现汇率约合 469.3 元人民币）。上文所述的特殊包装仅在首发...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-14 15:14:06",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/1f1600ab-7da9-4133-85c2-d4a9c4dc6486.png"
+    },
+    {
+      "title": "英特尔面向四至六代至强处理器推出推理微服务：自动检测硬件并配置 vLLM 参数",
+      "link": "https://www.ithome.com/1/013/130.htm",
+      "summary": "\nIT之家 10 月 14 日消息，英特尔今日宣布推出 Intel Inference Microservices 服务，这是一套面向大语言模型推理的容器化微服务方案，目标是让企业在已有的至强处理器上直接获得经过调优的模型推理能力，无需再花费数天时间进行手动硬件优化。\n在该模式下，每个微服务都是一个独立容器，通过 OpenAI 兼容 API 对外提供单个模型的服务，并在启动时自动检测所在的英特尔处...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-14 15:13:57",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/449f1465-fd40-4d59-a33b-18a22cccfda0.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-14 15:13:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "IBM 与西门子合作推进纳米堆叠架构，加速 3D 晶体管量产进程",
+      "link": "https://www.ithome.com/1/013/129.htm",
+      "summary": "\nIT之家 10 月 14 日消息，今日，IBM 与西门子宣布达成一项新的研究合作，旨在推进 IBM 今年早些时候发布的纳米堆叠（nanostack）晶体管架构。\n据 IBM 官方新闻稿，此次合作将结合 IBM 在半导体器件创新领域的领导地位与西门子在电子设计自动化（EDA）、工艺仿真、光刻优化及先进制造软件方面的专业能力，以加速纳米堆叠技术的开发。\n据介绍，双方合作内容包括开发纳米堆叠的先进虚拟...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-14 15:12:08",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/36951d08-f255-4d72-b317-a7de8f30fa2c.jpg"
+    },
+    {
+      "title": "游改真人电影《生化危机：爆发夜》上映 10 天，票房累计破 3.04 亿",
+      "link": "https://www.ithome.com/1/013/128.htm",
+      "summary": "\nIT之家 10 月 14 日消息，电影《生化危机：爆发夜》官方微博今日宣布，本片上映第 10 天，票房累计破 3.04 亿。\n\nIT之家附该电影官方简介如下：\n\n嘘，别出声。\n黑暗中的生化怪物正在凝视，楼顶上的嗜血异种们虎视眈眈。\n城市变为血色废墟，危险即将全面爆发！检查好手中的武器，抱紧需要运送的快递。前方高能，浣熊市的求生副本即将开启，请做好逃离准备。\n\n这部惊悚片此前已经在海外上映，在烂番...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-14 15:11:55",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/a905862b-6af7-4198-a192-3ea7da8d9766.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-14 15:08:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "英特尔酷睿 5 205H 首次现身 PassMark：8 核 12 线程，多核 19390 分较 i5-13420H 提升 15.7%",
+      "link": "https://www.ithome.com/1/013/127.htm",
+      "summary": "\nIT之家 10 月 14 日消息，@x86deadandback 今日发现，英特尔酷睿 5 205H 无核显处理器首次现身 PassMark 基准测试数据库，单核与多核成绩均较同配置的酷睿 i5-13420H 有明显提升。\n\n据 PassMark 页面数据，酷睿 5 205H 单核得分 3699 分，较 i5-13420H 高出约 10.5%；多核得分 19390 分，较后者的 16751 分提...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-14 15:06:01",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/886b434b-9fc5-4431-af23-a7a35ddaec1b.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-14 15:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
+      "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+      "summary": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-14 14:55:47",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "小米 17 Pro / Max 立减千元：京东手机 11.11 开启，MIX Flip2 折叠屏 5999 → 2719 元新低",
+      "link": "https://www.ithome.com/1/013/123.htm",
+      "summary": "\n小米 17 系列京东 11.11 狂促零点开启，至高享 12 期分期免息，折后均为好价。\n京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。\n小米 17 Pro Max\n至高立减 1050 元，国补额外立减 500 元，16+512G  仅需 5749 元，以旧换新至高补贴再减 1100 元：\n京东小米 17 Pro Max 妙享背屏 16+512G 国补后 5749...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-14 14:48:15",
+      "category": "ai",
+      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/532030/23/4429/361983/6ab4f8bdF971d0fe7/0083320320dd72ea.png"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-10-14 14:30:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies",
       "link": "https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/",
@@ -14,6 +421,17 @@
       "thumbnail": "https://media.wired.com/photos/6acec6fbaaecd379fb33abd9/master/pass/Earth-Condition-Getting-Worse-Science-2299206304.jpg"
     },
     {
+      "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+      "summary": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-10-14 13:56:11",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1259126916-500x500.jpg"
+    },
+    {
       "title": "‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a New Comic on the Way",
       "link": "https://www.wired.com/story/new-york-comic-con-interview/",
       "summary": "Brian K. Vaughan claims he’s seen Dune: Part Three and it’s “a fucking beautiful movie.”...",
@@ -23,127 +441,6 @@
       "pubDate": "2026-10-14 13:30:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6acd53c53982e9e93e8e9175/master/pass/Dune-Writer-Comic-Book-Culture-1242062718.jpg"
-    },
-    {
-      "title": "消息称苹果 AirPods Pro 4 耳机将提供双版本，金属高端款首发美国",
-      "link": "https://www.ithome.com/1/013/105.htm",
-      "summary": "\nIT之家 10 月 14 日消息，X 平台爆料人士 Early Apple 今日发文称，苹果考虑为 AirPods Pro 4 耳机采用双版本策略，类似 AirPods 4 和 AirPods 5 定价结构。其中高端版本将采用金属质感外壳，与历代产品有所不同，且首发仅在美国上市。\n\n作为参考，苹果历代 AirPods Pro 耳机推出时通常仅有一个版本。而 AirPods 4 拥有两个版本：不支...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-14 13:26:33",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "2022 年以来最大一轮裁员：Netflix 宣布全球裁员约 6%，涉及约 1000 个岗位",
-      "link": "https://www.ithome.com/1/013/104.htm",
-      "summary": "\nIT之家 10 月 14 日消息，据华尔街日报消息，Netflix 宣布在全球范围内裁员约 6%，涉及约 1000 个岗位。\nNetflix 联席 CEO 格雷格 · 彼得斯（Greg Peters）与泰德 · 萨兰多斯（Ted Sarandos）在当地时间周三（10 月 14 日）早间致员工的内部邮件中透露，此次裁减将主要集中在公司的产品、技术、法务以及人力资源部门。\nIT之家注意到，这是该公...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-14 13:22:38",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "任天堂《塞尔达传说：时之笛 重制版》新细节：城镇全程自由视角，钱包容量翻倍",
-      "link": "https://www.ithome.com/1/013/102.htm",
-      "summary": "\nIT之家 10 月 14 日消息，任天堂 Switch 2 游戏《塞尔达传说：时之笛 重制版》评测已解禁，IGN 等一众媒体刚刚放出了他们各自的体验报告。\nIGN 体验了《塞尔达传说：时之笛》重制版超过一小时，并整理出 29 项值得注意的变化。他们得出的结论是 —— 这部重制作品的重点不在于规模，而在于深度。\n本作将于 2026 年 11 月 5 日发售，是 Switch 2 独占作品，港区售价...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-14 13:17:05",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "游戏史首台中国 Vision GT：小米 Vision Gran Turismo 超跑官宣明日入驻 Gran Turismo 7",
-      "link": "https://www.ithome.com/1/013/101.htm",
-      "summary": "\nIT之家 10 月 14 日消息，小米汽车官方今日宣布，2026 年 10 月 15 日 14 点，Xiaomi Vision GT 将正式入驻 Gran Turismo 7（跑车浪漫旅 7）。\n这也是首台中国 Vision GT。\n\n据介绍，Vision GT 是由 Gran Turismo 系列制作人山内一典发起的一个全球性虚拟概念车合作项目。该项目邀请全球顶尖汽车制造商，抛开一切现实技术、...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-14 13:16:27",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "5499 → 3823 元：大疆 AI ROMO 2 超幅扫拖机器人 11.11 官方直降",
-      "link": "https://www.ithome.com/1/013/100.htm",
-      "summary": "\nDJI 大疆今年 5 月发布 ROMO 2 系列，包含 ROMO P2 和 ROMO A2。\nDJI ROMO P2（水箱版）定价 5999 元，DJI ROMO P2（自动上下水超薄基站版） 6499 元。\nDJI ROMO A2（水箱版）5499 元，DJI ROMO A2（自动上下水超薄基站版）5999 元。\n今日京东 11.11 大促，直降至：\n京东 DJI  ROMO2 扫地机器人 P...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-14 13:12:59",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "iQOO Pad Pro 8.8 英寸平板预热：165Hz OLED 屏、298g 重、5.74mm 厚、9020mAh 电池",
-      "link": "https://www.ithome.com/1/013/099.htm",
-      "summary": "\nIT之家 10 月 14 日消息，iQOO Pad Pro 8.8 英寸平板现已在全渠道开启预约。iQOO 旗舰系列产品经理王侃今日对这款新品进行预热，公布了部分参数。\n\nIT之家整理汇总如下：\n\n性能：第五代骁龙 8 至尊版、自研电竞芯片 Q3\n屏幕：8.8 英寸 165Hz OLED 极竞屏\n尺寸：298g 重、5.74mm 厚\n续航：9020mAh 蓝海电池\n散热：内置主动散热风扇，30×...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-14 13:11:07",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "小米用户专属：Goodnotes 宣布可在小米平板限时领永久会员",
-      "link": "https://www.ithome.com/1/013/098.htm",
-      "summary": "\nIT之家 10 月 14 日消息，Goodnotes 今日宣布，小米用户可限时领 Goodnotes 永久会员，活动时间为 2026 年 10 月 14 日 - 2026 年 10 月 15 日。\n\nIT之家附领取方式如下：\n\n下载 Goodnotes 极速版 App（注意是“极速版”，不是普通版）\n打开 App 后，输入暗号“开 G 啦”（在 App 内的兑换码 / 暗号入口输入）\n领取永久会...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-14 13:10:01",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "技嘉 Z790/B760/H610 全系主板获 BIOS 更新：支持英特尔新一代 LGA1700 处理器 Raptor Lake Next",
-      "link": "https://www.ithome.com/1/013/097.htm",
-      "summary": "\nIT之家 10 月 14 日消息，技嘉今日宣布面向旗下全部 Z790、B760 及 H610 主板推出新版 BIOS，为英特尔即将推出的 LGA1700 处理器提供支持，涵盖 DDR4 与 DDR5 两种内存版本。\nIT之家此前报道，技嘉已于 10 月 9 日宣布 B760 和 H610 系列获得支持，但当时 Z790 的缺席曾引发市场猜测，认为新处理器可能仅面向入门或工业级系统。\n随着 Z79...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-14 13:04:11",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "R 星驳斥《GTA6》游戏制作成本超 15 亿美元传闻，但员工规模相比 2018 年已翻倍",
-      "link": "https://www.ithome.com/1/013/096.htm",
-      "summary": "\nIT之家 10 月 14 日消息，据彭博社报道，Rockstar 发行部门负责人 Jennifer Kolbe 否认《GTA6》开发预算超 15 亿美元（IT之家注：现汇率约合 100.58 亿元人民币）的传闻。作为参考，这个数字是迪拜地标建筑哈利法塔的建造成本。\n\n不过，R 星并没有真正说出《GTA6》的开发预算。据IT之家此前报道，《商业内幕》今年采访 R 星母公司 T2 首席执行官泽尔尼克...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-14 13:02:30",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying",
-      "link": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
-      "summary": "With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-14 13:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Alexa Tablet 12 Pro is almost the Android tablet we needed",
-      "link": "https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review",
-      "summary": "We have to talk about this screen. It's the first thing you notice, and maybe the only thing that matters, about the Alexa Tablet 12 Pro. It's a 12-inch, 2800 x 1840 panel with a new technology Amazon...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-14 13:00:00",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "Formlabs Has a 3D Printer for Normies",
@@ -168,17 +465,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-500x500.jpg"
     },
     {
-      "title": "苹果 iOS 27.2 Beta 4 系统 Siri AI 新增支持法语、日语、西班牙语等",
-      "link": "https://www.ithome.com/1/013/094.htm",
-      "summary": "\nIT之家 10 月 14 日消息，苹果公司今日推送 iOS 27.2 Beta 4 开发者预览版（24B5110a）操作系统，为 Siri AI 新增五种语言。\n\n本次更新后，Siri AI 将支持英语、法语、日语、韩语、葡萄牙语和西班牙语。苹果已在此前确认这些语言扩展支持，具体可用性仍取决于用户所在地区和设备。\nIT之家了解到，Siri AI 是苹果最新的人工智能助理，支持 Apple 智能的...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-10-14 12:53:07",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "The Download: faking blood and the future of batteries",
       "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US military’s race to make fake blood In February 2007, a ...",
@@ -198,62 +484,7 @@
       "region": "cn",
       "pubDate": "2026-10-14 11:27:27",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Internet’s undersea backbone is slipping into the danger zone",
-      "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
-      "summary": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-14 11:15:24",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Undersea-cable-ship-500x500.jpg"
-    },
-    {
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-14 11:00:30",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-500x500.jpg"
-    },
-    {
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-14 11:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Tesla Roadster could have stayed vaporware",
-      "link": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
-      "summary": "For a car that's supposed to be one of the fastest ever made, the new Tesla Roadster certainly took its sweet-ass time getting here. It's been nearly a decade since Elon Musk made the surprise announc...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-14 11:00:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
-      "link": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
-      "summary": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the batter...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-14 11:00:00",
-      "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/f88ff674a99f9a1367187c1df345cc58_1791977250.png"
     },
     {
       "title": "My Friend Has No Soul",
@@ -286,7 +517,7 @@
       "region": "cn",
       "pubDate": "2026-10-14 10:52:21",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/14/723ac2592286bc9e75c6f6d956e4da3d_1791969701.png"
     },
     {
       "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
@@ -308,7 +539,7 @@
       "region": "cn",
       "pubDate": "2026-10-14 10:30:42",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/14/1079956df435fdffb2642f5e6394b883_1791968899.png"
     },
     {
       "title": "万元级人形机器人，只是“赛博玩具”？",
@@ -319,7 +550,7 @@
       "region": "cn",
       "pubDate": "2026-10-14 10:30:40",
       "category": "robot",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/y54htrg3.png"
     },
     {
       "title": "康方生物折价配股：钱拿到了，股价却砸了",
@@ -330,7 +561,7 @@
       "region": "cn",
       "pubDate": "2026-10-14 10:30:39",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/675859f3.png"
     },
     {
       "title": "The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA",
@@ -385,7 +616,7 @@
       "region": "cn",
       "pubDate": "2026-10-14 09:49:54",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/14/a7dd1bb972c1020540563375a95f4240_1791952912.jpeg"
     },
     {
       "title": "800MHz三年三易其主：马斯克买到的不是频谱，是美国电信业下一张桌子的座位",
@@ -396,7 +627,7 @@
       "region": "cn",
       "pubDate": "2026-10-14 09:49:53",
       "category": "space",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/rt435y4hrtg2.png"
     },
     {
       "title": "京东不等预售，天猫现货同步：双11 正在失去什么",
@@ -407,7 +638,7 @@
       "region": "cn",
       "pubDate": "2026-10-14 09:49:49",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r3t43gret3.png"
     },
     {
       "title": "Robotic Hands Become the Bottleneck for China’s Humanoid Push",
@@ -418,7 +649,7 @@
       "region": "cn",
       "pubDate": "2026-10-14 09:47:03",
       "category": "ai",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/1345y24htrwfgn3.png"
     },
     {
       "title": "I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)",
@@ -440,7 +671,7 @@
       "region": "cn",
       "pubDate": "2026-10-14 09:16:14",
       "category": "other",
-      "thumbnail": ""
+      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5yyjtng3.png"
     },
     {
       "title": "The US military’s race to make fake blood",
@@ -663,248 +894,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-      "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-14 01:30:42",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-13 23:13:31",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-13 23:05:34",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-13 23:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
-      "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
-      "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-13 22:48:12",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-500x500.jpg"
-    },
-    {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-13 22:36:59",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple’s HomeView ad is confusing to everyone except parents",
-      "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
-      "summary": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, mi...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-13 22:10:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
-      "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
-      "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-13 21:55:49",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-500x500.jpg"
-    },
-    {
-      "title": "Topgolf saved over $11.3 million after leaving VMware",
-      "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-      "summary": "Topgolf and VMware \"ran deep\" before the migration....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-13 21:33:43",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-500x500.jpg"
-    },
-    {
-      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-      "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-      "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-13 21:15:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence techn...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-13 20:59:11",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-13 20:45:25",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-13 20:36:44",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-      "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-      "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-10-13 20:13:53",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "It looks like Apple Music is getting a new icon",
-      "link": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
-      "summary": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-13 20:05:02",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trump commercial railing against his enemies kept airing after court blocked it",
-      "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
-      "summary": "US attorney apologized to court, said government has stopped running Trump ads....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-13 19:50:37",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-500x500-1790710277.jpg"
-    },
-    {
-      "title": "Shopify opens its catalog up to more AI agents",
-      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configur...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-13 19:42:42",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-13 19:00:48",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Nothing Headphone A are half off for the first time",
-      "link": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale",
-      "summary": "One of the best deals we’ve seen today bundles together a great pair of headphones with a solid album. When you add the Nothing Headphone A in black or white and the CD version of the Charli XCX album...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-10-13 18:33:14",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-13 18:23:33",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1167281066-500x500-1791912752.jpg"
-    },
-    {
-      "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
-      "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
-      "summary": "The higher prices are said to be unrelated to the Skydance merger....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-13 18:06:06",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1238343880-500x500.jpg"
-    },
-    {
-      "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
-      "link": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
-      "summary": "Small EVs and efficient people carriers update familiar names for the modern age....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-10-13 17:33:20",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/c2v-french-500x500.jpg"
-    },
-    {
       "title": "The Download: open model trade-offs and geothermal power’s promise",
       "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? An...",
@@ -914,6 +903,17 @@
       "pubDate": "2026-10-13 12:00:00",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "全家畅看《余红旧事》：爱奇艺黄金会员 + 京东 PLUS 年卡 168 元发车",
+      "link": "https://www.ithome.com/1/012/497.htm",
+      "summary": "\n爱奇艺黄金会员年卡 + 京东 PLUS 年卡日常售价 258 元，11.11 大促价 168 元：\n京东爱奇艺黄金 VIP 会员年卡加京东 PLUS 会员年卡 168 元直达链接\n如果需要爱奇艺白金卡，京东联合会员到手价为 248 元：\n京东爱奇艺白金 VIP 会员年卡 + 支持电视端加京东 PLUS 会员年卡券后 248 元领 20 元券\n京东 11.11 红包至高 26888 元无门槛可用，...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-10-13 10:07:22",
+      "category": "ai",
+      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/401783/39/15531/26662/69b3ad00F2b858410/0083320320357966.png"
     },
     {
       "title": "Open models have real benefits. Do they outweigh the risks?",
@@ -938,28 +938,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
-      "link": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
-      "summary": "\nIf you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.\nGurmeet Saran works to find that answer every da...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-10-12 18:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-indian-man-in-a-dress-shirt-smiling-in-front-of-the-entrance-to-an-office-building.jpg?id=68416593&width=1200&height=800&coordinates=0%2C208%2C0%2C209"
-    },
-    {
-      "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
-      "link": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
-      "summary": "\nThis article was originally published by Canary Media.\nThe geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scal...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-10-12 13:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/large-industrial-structure-in-the-desert-with-4-rows-of-16-large-fans.jpg?id=68403579&width=1200&height=800&coordinates=0%2C92%2C0%2C93"
-    },
-    {
       "title": "The Download: moon city problems and drone traffic controllers",
       "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US ...",
@@ -969,17 +947,6 @@
       "pubDate": "2026-10-12 12:10:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
-      "link": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
-      "summary": "\nThis White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humano...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-10-12 10:00:03",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/noitom-robotics-logo-with-stylized-nr-on-transparent-background.png?id=68382463&width=980"
     },
     {
       "title": "What it would take to build a city on the moon",
@@ -1004,17 +971,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Master AI Chip Principles With New IEEE Design Program",
-      "link": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
-      "summary": "\nToday’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines th...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-10-09 18:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/graphic-illustration-of-arrows-and-data-symbols-representing-a-neural-network.jpg?id=68060909&width=1200&height=800&coordinates=0%2C83%2C0%2C84"
-    },
-    {
       "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
       "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s...",
@@ -1026,17 +982,6 @@
       "thumbnail": ""
     },
     {
-      "title": "We Need to Embed Ethics Into Our Engineering Courses",
-      "link": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-      "summary": "\nIn mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing conce...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-10-09 12:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/student-with-backpack-holding-a-map-before-entering-space-between-giant-circuit-boards.jpg?id=68389516&width=1200&height=800&coordinates=62%2C0%2C63%2C0"
-    },
-    {
       "title": "We’re putting too much faith in AI’s ability to say no",
       "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
       "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu...",
@@ -1046,61 +991,6 @@
       "pubDate": "2026-10-09 09:00:00",
       "category": "ai",
       "thumbnail": ""
-    },
-    {
-      "title": "IEEE Report Predicts Tech That Will Transform Lives",
-      "link": "https://spectrum.ieee.org/ieee-report-predicts-tech",
-      "summary": "\nBy 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-10-07 18:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/line-drawing-of-an-ai-humanoid-surrounded-by-representations-of-biomedical-research-surveillance-and-pollution.jpg?id=68052574&width=1200&height=800&coordinates=0%2C83%2C0%2C84"
-    },
-    {
-      "title": "Changing Your Career Isn’t Easy",
-      "link": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
-      "summary": "\nThis article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development comp...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-10-07 17:04:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=1200&height=800&coordinates=0%2C50%2C0%2C50"
-    },
-    {
-      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
-      "link": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
-      "summary": "\nThis White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how polic...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-10-07 13:49:48",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/noitom-robotics-logo-with-stylized-nr-monogram-on-transparent-background.png?id=68382308&width=980"
-    },
-    {
-      "title": "Happy IEEE Day!",
-      "link": "https://spectrum.ieee.org/ieee-day",
-      "summary": "\nHappy IEEE Day 2026!\nIEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884.\nOne of the IEEE Day’s objectives i...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-10-06 09:21:18",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/ieee-day-logo.jpg?id=48111342&width=1200&height=800&coordinates=0%2C347%2C0%2C347"
-    },
-    {
-      "title": "6 Guidelines for Governing AI",
-      "link": "https://spectrum.ieee.org/6-guidelines-governing-ai",
-      "summary": "\nFor the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to pr...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-10-05 18:00:02",
-      "category": "ai",
-      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-floating-hands-rearranging-various-ai-chat-boxes-and-tasks.jpg?id=68052366&width=1200&height=800&coordinates=0%2C208%2C0%2C209"
     }
   ]
 }
