@@ -1,9 +1,460 @@
 {
-  "updateTime": "2026-11-03T14:56:33.499Z",
+  "updateTime": "2026-11-03T20:52:05.735Z",
   "total": 90,
   "news": [
     {
-      "title": "Here's Why You Shouldn't Use AI to Vote",
+      "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
+      "link": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale",
+      "summary": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s si...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-03 20:29:26",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixel-buds-pro-2-roundup.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+      "link": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+      "summary": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-03 20:16:54",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all a...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-03 20:16:17",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "苹果 Fitness+ 进军健身房：推出 4 周个性化力量训练计划",
+      "link": "https://www.ithome.com/1/021/865.htm",
+      "summary": "\nIT之家 11 月 4 日消息，科技媒体 9to5Mac 今天（11 月 4 日）发布博文，报道称苹果 Fitness+ 推出 Gym Strength 力量训练功能，目前已开放测试。新功能面向健身房及居家训练场景，根据用户的目标、经验、时间安排和可用器材，生成四周渐进式计划，并根据每周记录的训练次数与重量，调整下一周内容。\n用户可选择训练日期和重点部位，每次安排 5 个或 7 个动作，预计分别...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-03 20:09:40",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/0ef2bd73-0366-42b7-903c-38d3626dbb9d.png?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "苹果 watchOS 27.3 首个开发者预览版 Beta 上线音频智能功能：支持全天谈话划重点 / 回顾 15 秒对话",
+      "link": "https://www.ithome.com/1/021/864.htm",
+      "summary": "\nIT 之家 11 月 4 日消息，苹果公司今天（11 月 4 日）面向开发者，推送 watchOS 27.3 首个开发者测试版，为 Apple Watch Series 12 和 Apple Watch Ultra 4 带来 Siri 回顾（Siri Recap）与 Live Rewind 两项音频智能功能。\n在苹果官方支持页面上，显示上述两项功能适用于 Apple Watch Series 1...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-03 20:01:49",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/3953d0cd-8a7f-4841-ac56-b8f3fad3d071.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "You can’t hit a wrong note when playing along with songs on Casio’s new keyboard",
+      "link": "https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology",
+      "summary": "Casio announced a new addition to its Casiotone line of portable electronic keyboards with a feature that could help aspiring musicians master skills like rhythm and timing without the frustrations or...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-03 19:48:41",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/casiokeyboard1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+      "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-03 19:45:48",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "This Election Day, remember which party ran against EVs and tethered us all to the gas pump",
+      "link": "https://www.theverge.com/transportation/1025318/trump-gop-ev-war-record-gas-prices-midterms",
+      "summary": "It's the midterms! Here's a fun fact for you as you head to the polls: Gas prices today are the highest ever recorded for a US Election Day. The national average for a gallon of gasoline is $4.12 and ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-03 19:44:46",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302796388.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "苹果 Safari 27.3 测试版浏览器上线：适配 iPhone Duo，引入垂直标签、Siri 帮你管网页",
+      "link": "https://www.ithome.com/1/021/863.htm",
+      "summary": "\nIT之家 11 月 4 日消息，苹果公司今天（11 月 4 日）推送 iOS / iPadOS / macOS 27.3 首个 Beta 开发者预览版，升级 Safari 27.3 测试版，引入垂直标签页、自适应深色模式，以及扩展 Siri AI 支持三项体验。\n本次 Safari 27.3 测试版最大的亮点，在于引入垂直标签页让用户更方便地浏览完整页面标题，减少打开大量网页后难以辨认的问题。M...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-03 19:39:29",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/45a66de6-64a8-4626-b751-60aa9d15b487.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-03 19:34:43",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-03 19:24:37",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果推送 macOS 27.3 首个开发者预览版：Siri AI 有望扩展支持繁体中文",
+      "link": "https://www.ithome.com/1/021/862.htm",
+      "summary": "\nIT之家 11 月 4 日消息，苹果公司今天推送 macOS 27.3 Golden Gate 首个开发者测试版，内部版本号为 26C5035r，距离上周推出 macOS 27.2 仅约一周。\n科技媒体 9to5Mac 称本次更新主要亮点在于扩展 Siri AI 语言支持，不过目前该信息依然有待验证。苹果 Siri AI 上线初期仅支持英语，在 macOS 27.2 更新中上线法语、日语、韩语、...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-03 19:17:04",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/10/0609fa63-3e53-4ca4-82ac-5a5abe3ebdf7.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "国行「Apple 智能与 Siri」如期上线，iPhone 15 Pro 及更新机型升级 iOS 27.3 开发者预览版可用",
+      "link": "https://www.ithome.com/1/021/861.htm",
+      "summary": "\nIT之家 11 月 4 日消息，苹果官方今日面向 iPhone 发布了最新的 iOS 27.3 开发者预览版。\n\nIT之家实测，在最新的 iOS 27.3 开发者预览版上，国行「Apple 智能与 Siri」如期上线，用户在更新最新版 iOS 系统后可以在设置中找到该功能设置页面。\n\n\n参考IT之家此前报道，国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Sir...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-03 19:08:12",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/a20745f9-18da-449b-9098-fb698098e273.jpg"
+    },
+    {
+      "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "link": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+      "summary": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-03 19:04:58",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6aea142af41713bdfbadc480/master/pass/Security_Suspected%20North%20Korean%20Hackers%20Stole%20$6.3%20Billion%20From%20Binance%20Using%20the%20Oldest%20Tricks%20in%20the%20Book_v1.jpg"
+    },
+    {
+      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+      "link": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+      "summary": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-03 19:04:52",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "支持中文：苹果 iOS 27.3 首个 Beta 开发者预览版上线新版“健康”应用，已覆盖 11 种语言",
+      "link": "https://www.ithome.com/1/021/860.htm",
+      "summary": "\nIT之家 11 月 4 日消息，苹果公司今天（11 月 4 日）发布新闻稿，宣布扩展重新设计的“健康”应用支持的语言，涵盖中文、法语、日语、韩语、葡萄牙语、西班牙语、土耳其语和越南语等，目前支持总数达到 11 种。\nIT之家援引博文介绍，附上新版“健康”应用支持的语言如下：\n\n英语\n简体中文\n繁体中文\n法语\n日语\n韩语\n挪威语\n葡萄牙语\n西班牙语\n土耳其语\n越南语\n\n官方介绍称重新设计的“健康”...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-03 18:59:06",
+      "category": "other",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/0e7036a7-25f9-4646-87a4-f475cfe06ae0.jpg"
+    },
+    {
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "link": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+      "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-03 18:51:33",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-03 18:42:16",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Reca...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-03 18:31:00",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run t...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-03 18:30:42",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-03 18:30:27",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-500x500.jpg"
+    },
+    {
+      "title": "Reddit is adding more ads",
+      "link": "https://www.theverge.com/tech/1025602/reddit-search-ads-test",
+      "summary": "Reddit is testing ads on another area of its platform: search. With this update, ads will appear within your search results \"based on a range of factors, including contextual relevance to a search que...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-03 18:26:36",
+      "category": "other",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Buttons are back and storage is king when it comes to car interiors",
+      "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+      "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-03 18:19:31",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-500x500.jpg"
+    },
+    {
+      "title": "Indie games are missing launch dates because Steam is backed up",
+      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss t...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-03 18:14:50",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_51fdf31162fecb3570ff97b0248b2706248e3281.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "iOS 27.3 首个开发者预览版推送，国行 iPhone 苹果 Apple 智能将至",
+      "link": "https://www.ithome.com/1/021/859.htm",
+      "summary": "\nIT之家 11 月 4 日闪讯速报，苹果今日凌晨面向 iPhone 推送了 iOS 27.3 系统首个测试版本。\n\n据IT之家此前报道，苹果智能（Apple Intelligence）及相关阿里千问大模型获得批准。苹果官方已宣布一系列 Apple 智能功能将自 11 月 4 日起随最新的 iOS 开发者 Beta 版开放测试，并将于 12 月 iOS 27.3 正式发布时面向中国用户推出。其他平...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-03 18:14:39",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/a20745f9-18da-449b-9098-fb698098e273.jpg"
+    },
+    {
+      "title": "Google’s Gemini-powered Home Speaker is already on sale for 20 percent off",
+      "link": "https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale",
+      "summary": "If you’re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That’s the best price we’ve seen for the Gemini...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-03 18:11:49",
+      "category": "ai",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
+      "link": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
+      "summary": "Save on WIRED-tested picks from Blueair, Levoit, and Air Doctor, including compact models for your bedroom....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-03 18:04:07",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6aea017a597f4e1cbf9d9730/master/pass/Air%20Purifiers%20Deal%20112026%20top%20art%20SOURCE%20Amazon.jpg"
+    },
+    {
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-03 17:56:52",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "summary": "Google will offer schools AI tools that purportedly don't give away the answers....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-03 17:54:43",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-500x500.jpg"
+    },
+    {
+      "title": "Another child dies of measles as CDC reportedly holds up health alert",
+      "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+      "summary": "NY gov. pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-03 17:21:29",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-500x500.jpg"
+    },
+    {
+      "title": "提速抗癌药物研发：谷歌 Antigravity 上线“AI 炼丹师”，1 小时筛完数千种化合物",
+      "link": "https://www.ithome.com/1/021/858.htm",
+      "summary": "\nIT之家 11 月 4 日消息，谷歌 DeepMind 团队昨日（11 月 3 日）发布博文，宣布为 Google Antigravity 推出一套“化学信息学技能”（Cheminformatics Skills），帮助科研人员更快完成药物发现中的文献检索、分子分析、模型构建和新分子设计等工作。\n\nIT之家援引博文介绍，在以肺癌药物为例的演示中，AI 智能体可在约一小时内检索数千种化合物、开展匹...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-03 17:19:56",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/f95b97ae-6258-47ad-9465-bff58d24890b.gif"
+    },
+    {
+      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+      "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+      "summary": "Google has cut ties with the company behind the botnet campaign....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-03 17:08:21",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware-500x500.jpg"
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-03 17:07:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "This space company is betting its future on a propellant available everywhere",
+      "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-03 16:50:32",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-500x500.jpg"
+    },
+    {
+      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "link": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+      "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-03 16:49:09",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-03 16:30:34",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "英伟达称 AI 重塑芯片工厂：仿真提速最高 35 倍，工程师决策从数天缩至数分钟",
+      "link": "https://www.ithome.com/1/021/857.htm",
+      "summary": "\nIT之家 11 月 4 日消息，英伟达于 11 月 3 日发布文章称，人工智能正在推动半导体晶圆厂进入“AI 定义工厂”阶段：通过加速仿真、学习型物理模型、AI 智能体和数字孪生，正在显著提速芯片制造中的设计、测试与生产决策。\n\n加速仿真（accelerated simulation）指利用 GPU、并行计算、AI 智能体模型等技术，把传统依赖 CPU 的工程仿真从数小时、数天压缩到数分钟甚至毫...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-03 16:06:40",
+      "category": "ai",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/b51cc562-4914-444b-9312-2125bc639c8c.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "荣威家越 X7 HEV 新车申报：1.5T 油电混动大五座中型 SUV",
+      "link": "https://www.ithome.com/1/021/856.htm",
+      "summary": "\nIT之家 11 月 4 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，荣威家越 X7 完成申报。\n\nIT之家注意到，此次申报的荣威家越 X7 为混合动力运动型乘用车，属于上汽荣威旗下全新家用 SUV 产品，定位大五座中型 SUV，主打家庭日常出行场景。\n车身尺寸方面，新车长宽高分别为 4900/1924/1759（1765）mm，轴距达到 2863mm，前轮距 1...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-03 16:04:59",
+      "category": "energy",
+      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/d397bb37-8abc-4730-920a-1b8a30889d9b.jpg?x-bce-process=image/format,f_auto"
+    },
+    {
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-03 16:03:13",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg"
+    },
+    {
+      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+      "summary": "Meta faces pressure to protect No Kings Instagram on election day....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-03 15:39:30",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-500x500-1793646871.jpg"
+    },
+    {
+      "title": "EPA throws in the towel on policing air pollution from factory farms",
+      "link": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+      "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-03 14:49:00",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-500x500.jpg"
+    },
+    {
+      "title": "Here’s Why You Shouldn’t Use AI to Vote",
       "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
       "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day....",
       "source": "Wired",
@@ -12,72 +463,6 @@
       "pubDate": "2026-11-03 14:45:08",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6ae90c8c0f4d264d864a7d42/master/pass/Politics_Here's%20Why%20You%20Shouldn't%20Use%20AI%20to%20Vote_v1.jpg"
-    },
-    {
-      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-      "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 14:30:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "A truck-sized NASA space telescope is about to crash to Earth",
-      "link": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth",
-      "summary": "Almost 22 years after it was launched, NASA's Swift Observatory is now about to fall back to Earth on Wednesday after attempts to push it back into a higher orbit failed. NASA announced that the aging...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 14:17:55",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NASA-Swift-rescue-mission-failure.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "欧洲六国联合打击跨国投资诈骗团伙，查封百余台服务器",
-      "link": "https://www.ithome.com/1/021/829.htm",
-      "summary": "\nIT之家 11 月 3 日消息，据科技媒体 Bleeping Computer 今天报道，欧洲多国执法部门联合打击投资诈骗，逮捕 7 名嫌疑人并查封 100 多台服务器。\n\nIT之家从原报道获悉，本次行动得到欧洲刑警组织和欧洲司法组织支持，参与执法的国家包括阿尔巴尼亚、塞浦路斯、芬兰、德国、科索沃和北马其顿。\n本次案件的调查始于 2022 年，当时一对德国夫妇报案称，他们通过某在线交易平台投资后...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-03 14:13:44",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/fbb23582-4bc6-4e40-b087-4c702711d442.jpg"
-    },
-    {
-      "title": "【视频】苹果把 OLED 塞进 mini 但还留了一手，iPad mini ( A20 Pro ) 首发体验",
-      "link": "https://www.ithome.com/1/021/828.htm",
-      "summary": "\n标准版 255 克，能泡水，声音直接从屏幕里出来——苹果三年没管的 iPad mini，这次一口气补了三个短板。这块 OLED 值不值得换机，一次说清。       点击关注IT之家B站账号 \n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-03 14:12:05",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "【IT之家开箱】苹果 iPad mini 8 图赏：升级 OLED 屏、A20 Pro 芯片，机身薄至 5.4mm",
-      "link": "https://www.ithome.com/1/021/827.htm",
-      "summary": "\nIT之家 11 月 3 日消息，10 月 26 日，苹果正式发布新一代 iPad mini 8 平板电脑。新机配备 8.5 英寸 OLED 显示屏，搭载 A20 Pro 芯片，同时对机身设计、影像系统和无线连接能力进行了升级，机身厚度相比上一代减少 14%，重量减轻 13%。\nIT之家上手视频：\n \n外观方面，iPad mini 8 提供午夜色、星光色两种配色，延续了系列小尺寸平板的设计风格。新...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-03 14:11:37",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/41ccec5b-686c-4789-98f7-16d225db93fb.jpg"
-    },
-    {
-      "title": "广电总局：一体化电视要方便用户安装开通",
-      "link": "https://www.ithome.com/1/021/826.htm",
-      "summary": "\nIT之家 11 月 3 日消息，据央视新闻今日报道，日前在京召开的一体化电视全国推广部署推进会，要求统筹家庭用户与酒店、养老机构等公共场所，精准制定推广策略，把握消费节点，广泛宣传一体化电视便民惠民优势，打通报装渠道，方便用户安装开通。\n\n广电总局负责人表示，要加快推进设备采购、安装部署、宣传推广等，确保年底前完成全部部署工作；要完整准确执行一体化电视标准，严格遵循直播优先、专网传输技术要求，严...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-03 14:08:38",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/7/ab424ea6-9e77-47e5-b39e-fe692a95b4c0.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto"
     },
     {
       "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
@@ -102,61 +487,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-500x500.jpg"
     },
     {
-      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-      "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 14:00:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Peak Design expands its collection of wireless charging accessories",
-      "link": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi",
-      "summary": "Peak Design, best known for its backpacks and travel bags packed full of useful features, announced it's expanding its collection of chargers and charging accessories with new devices that focus on pa...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 14:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pd4.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Bambu’s nine-nozzle H3C foretells the future of 3D printing",
-      "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
-      "summary": "Three years ago, I told you how home 3D printers had evolved for speed, producing parts in minutes that used to take hours or days. Now, the next evolution is here: printers that can swap between mate...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 14:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-h3c.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
-      "link": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
-      "summary": "The iPad Mini sometimes feels like a trap. It is, in some ways and for some people, the perfect iPad: meaningfully larger than my phone's screen but still small and light enough to use for reading in ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 14:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0002.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
-      "link": "https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music",
-      "summary": "Adobe is teaming up with Universal Music Group and Warner Music Group to add a library of licensed music clips to the Premiere mobile video editing app. No specific musicians have been announced with ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 14:00:00",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Premiere-mobile-UMG-WMG.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
       "link": "https://www.wired.com/review/ipad-mini-2026/",
       "summary": "The iPad Mini’s impressive new features make it a better tablet than ever—only to be betrayed by its higher price....",
@@ -168,81 +498,26 @@
       "thumbnail": "https://media.wired.com/photos/6ae914d0db4305d8f2ef46a8/master/pass/Review%20iPad%20Mini%20112026%20top%20art%20SOURCE%20Amazon.jpg"
     },
     {
-      "title": "价格不低！消息称华为子品牌星芒新品配置对标旗舰产线",
-      "link": "https://www.ithome.com/1/021/825.htm",
-      "summary": "\nIT之家 11 月 3 日消息，博主 @数码闲聊站 刚刚最新爆料，称华为子品牌星芒新品配置对标旗舰产线，价格不低。\n\n该博主最新爆料内容“价格不低”与此前透露的“主攻线上渠道，相对有性价比”存在一定出入，目前尚不知晓是品牌已规划的新品价格不低，还是新品牌产品价格都不低。关于华为子品牌星芒产品规划及价格还有待官方进一步披露。\n“星芒”这一名称并非首次出现在公众视野。IT之家查询公开商标信息获悉，华...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "link": "https://www.qbitai.com/2026/11/507507.html",
+      "summary": "AI接管调度运营，仓库越干越聪明...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
       "region": "cn",
-      "pubDate": "2026-11-03 13:53:49",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/4fabc9bd-7216-42df-9a56-afaa14860dbb.png"
+      "pubDate": "2026-11-03 13:57:11",
+      "category": "ai",
+      "thumbnail": ""
     },
     {
-      "title": "Itch.io 出手整治低质量 AI 游戏，数 TB 内容被删除",
-      "link": "https://www.ithome.com/1/021/824.htm",
-      "summary": "\nIT之家 11 月 3 日消息，据外媒 Kotaku 今天报道，独立游戏分发平台 Itch.io 最近几个月面临着 AI 游戏激增问题。最近几个月，该平台的游戏数量增长了一倍。\n\nItch.io 公布数据显示，从 8 月 3 日到 10 月 30 日，平台内每天新增的游戏数量翻了一倍，从每天略高于 3000 个增长至 6000 个以上。但问题在于，游戏的下载量和购买量并没有出现类似增长。\nIT之...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": "九赴进博，西门子把工业 AI 推上产线",
+      "link": "https://www.tmtpost.com/8192212.html",
+      "summary": "本届进博会上，西门子将持续聚焦以工业AI为引领的数智化、低碳化技术创新，重点展示高增长行业应用（数据中心、人形机器人等）、绿色转型成果（从企业自身运营到供应链），以及40余家企业数智化、低碳化转型与工业AI应用落地案例，彰显“全球经验、本土创新、中国速度”的乘数效应。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
       "region": "cn",
-      "pubDate": "2026-11-03 13:47:52",
+      "pubDate": "2026-11-03 13:33:10",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/2e0eff1c-dace-4bc8-94d6-fb6061648a51.png"
-    },
-    {
-      "title": "软硬都有：荣耀研发工程师透露 700 系列新机有好几个之前产品都没有过的全新特性和硬件",
-      "link": "https://www.ithome.com/1/021/823.htm",
-      "summary": "\nIT之家 11 月 3 日消息，荣耀全球首席营销官关海涛今日发文，正式官宣了数字 700 系列手机，号称“荣耀数字系列全面大换新的一代”。\n\n荣耀研发工程师 @荣耀曹工 发文透露：“确实有好几个之前在荣耀产品上都没有过的全新的，软的硬的都有。”\n\n参考IT之家今日早些时候报道，荣耀 700 元气版、荣耀 700 标准版和荣耀 700 Pro 版已通过 3C 认证，将于本月正式发布。此前爆料称，荣...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-03 13:45:11",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/e667ab0d-bf06-40ba-9fff-5ba7236f67eb.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "《霍格沃茨之遗》后天起支持英伟达 DLSS 5，《战争雷霆》《燕云十六声》等游戏后续跟进",
-      "link": "https://www.ithome.com/1/021/822.htm",
-      "summary": "\nIT之家 11 月 3 日消息，英伟达最近宣布，《霍格沃茨之遗》将在 11 月 5 日更新后支持 DLSS 5 技术，《战争雷霆》和《燕云十六声》游戏将在 11 月中旬和下旬支持。\n\n英伟达表示，《霍格沃茨之遗》开启 DLSS 5 后将提升环境细节、阴影效果和角色纹理。Avalanche Software 开发团队还对 AI 模型进行了调整，在改善整体画面效果的同时，尽可能保留角色原本的外观。\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-03 13:31:39",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/ea3de98c-4611-4462-a31f-689c7b80443a.jpg"
-    },
-    {
-      "title": "总台央视频 CPOPwave 长红 IP 和十大优秀出海案例发布，含《原神》、《凡人》动画等",
-      "link": "https://www.ithome.com/1/021/821.htm",
-      "summary": "\nIT之家 11 月 3 日消息，总台央视频 CPOPwave 长红 IP 和十大优秀出海案例昨晚正式发布。\n\nIT之家附具体名单如下：\n\n\nCPOPwave 长红 IP：《原神》\nCPOPwave 十大优秀出海案（CPOPwave 十大优秀出海案例按首字母排序）：\n\n《凡人》动画\n《绝区零》\n《浪浪山小妖怪》\n《鸣潮》\n《哪吒之魔童闹海》\n《盛世天下》\n《时光代理人》\n《水龙吟》\n《燕云十六声》...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-03 13:31:37",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/0cfbae11-8754-439d-b724-304e4be9e15f.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "Steam 新一周游戏销量榜公布：《影之刃零》反超《COD：MW4》登顶双榜",
-      "link": "https://www.ithome.com/1/021/820.htm",
-      "summary": "\nIT之家 11 月 3 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 10 月 27 日 - 2026 年 11 月 3 日，无免费游戏），IT之家注意到，《影之刃零》反超此前连冠的《Call of Duty®: Modern Warfare® 4》，同时登顶全球区与国区区榜首，新游《深空当铺：可能是偷的》首次上榜即冲入全球前 5，《足球经理 27》预购版也携 -10%...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-03 13:31:28",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/90bb24fe-fad7-4885-aff5-11029a7c0c44.jpg"
-    },
-    {
-      "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
-      "link": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
-      "summary": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descrip...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 13:22:38",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925968/acastro_STK045_03.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "thumbnail": ""
     },
     {
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
@@ -253,7 +528,7 @@
       "region": "us",
       "pubDate": "2026-11-03 13:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/GettyImages-546444524.jpg?w=2667"
+      "thumbnail": ""
     },
     {
       "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
@@ -267,26 +542,26 @@
       "thumbnail": ""
     },
     {
-      "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
-      "link": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
-      "summary": "After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. T...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 12:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/redmagic-12-pro-3.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "title": "如何投资中国生物科技的崛起：买入美国制药股",
+      "link": "https://www.tmtpost.com/8192181.html",
+      "summary": "美国许多炙手可热的新药候选药物都是由中国公司开发的。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-03 12:33:00",
+      "category": "biotech",
+      "thumbnail": ""
     },
     {
-      "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
-      "link": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
-      "summary": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanfor...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 12:00:00",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2242247571.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "title": "AMD将试图通过财报来扭转市场情绪",
+      "link": "https://www.tmtpost.com/8192178.html",
+      "summary": "华尔街分析师预计，该公司第三季度的销售额将达到130亿美元，比去年增长42%。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-03 12:31:19",
+      "category": "chip",
+      "thumbnail": ""
     },
     {
       "title": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
@@ -352,7 +627,7 @@
       "region": "cn",
       "pubDate": "2026-11-03 11:00:09",
       "category": "chip",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/11/3879323d6d1a41e57c0863597827972b_1793703612.png"
+      "thumbnail": ""
     },
     {
       "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
@@ -396,18 +671,7 @@
       "region": "cn",
       "pubDate": "2026-11-03 10:43:28",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2y56jutyh3.png"
-    },
-    {
-      "title": "White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More",
-      "link": "https://www.wired.com/story/best-white-noise-machines/",
-      "summary": "Catch more Z’s with soothing background noise from our favorite sound machines....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-03 10:35:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6ae7c5f55d95fb1734aa8438/master/pass/White%20noise%20machines%20112026%20top%20art%20SOURCE%20Amazon.jpg"
+      "thumbnail": ""
     },
     {
       "title": "康佳退市：同一代彩电巨头，为什么活成了完全不同的样子",
@@ -418,18 +682,7 @@
       "region": "cn",
       "pubDate": "2026-11-03 10:30:50",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/10/31/1f40f92fac70b524104a6aad23197db1_1793427075.webp"
-    },
-    {
-      "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
-      "link": "https://www.wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past/",
-      "summary": "The 4.1-billion-year-old meteorite is a “Rosetta Stone for Mars,” preserving clues about how the Martian environment has changed since the solar system formed....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-03 10:15:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/6ae8fe6dbbb2a7fcc242fba1/master/pass/505137454"
+      "thumbnail": ""
     },
     {
       "title": "从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考",
@@ -440,7 +693,7 @@
       "region": "cn",
       "pubDate": "2026-11-03 10:13:15",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/11/b300c96bc824ca971639f575b69e2ee9_1793700799.png"
+      "thumbnail": ""
     },
     {
       "title": "Transsion Under Memory Inflation: Stockpiles, a Cold H-Share, and an AI Bet",
@@ -451,7 +704,7 @@
       "region": "cn",
       "pubDate": "2026-11-03 09:46:06",
       "category": "ai",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t35y4hrtg3.png"
+      "thumbnail": ""
     },
     {
       "title": "星巴克的“沙发”，不养“闲人”",
@@ -462,7 +715,7 @@
       "region": "cn",
       "pubDate": "2026-11-03 09:39:11",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/11/03/a66b2cdb7ef48e119131c779f09195f2_1793697753.jpeg"
+      "thumbnail": ""
     },
     {
       "title": "营收新高，报表优化，主动终止H股IPO，欣旺达的价值重构",
@@ -473,50 +726,6 @@
       "region": "cn",
       "pubDate": "2026-11-03 09:39:08",
       "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/wx/2026/11/20261103094446983327.jpg"
-    },
-    {
-      "title": "火山和阿里MaaS“双第一”的虚与实",
-      "link": "https://www.tmtpost.com/8191199.html",
-      "summary": "一个是高毛利的单价游戏，一个是高周转的规模战争...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-03 09:39:03",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/2rt43q5whyt3.png"
-    },
-    {
-      "title": "台式奶茶30年：三次穿越周期，这一轮谁能留下？",
-      "link": "https://www.tmtpost.com/8191184.html",
-      "summary": "古早味仍有市场，但开店逻辑变了。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-03 09:39:01",
-      "category": "other",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5yyjtng3.png"
-    },
-    {
-      "title": "实控人IPO前套现2.5 亿，董秘临阵离职，科大智能赴港上市为了“国际化”？",
-      "link": "https://www.tmtpost.com/8191028.html",
-      "summary": "电网独大、机器人式微。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-03 09:38:46",
-      "category": "robot",
-      "thumbnail": "https://images.tmtpost.com/uploads/images/2026/11/03/275fc2d7de5229e9c8a579a860891f7d_1793644455.png"
-    },
-    {
-      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-      "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-      "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 08:01:00",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -528,17 +737,6 @@
       "region": "cn",
       "pubDate": "2026-11-03 07:20:31",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 07:20:00",
-      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -630,17 +828,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 03:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
       "link": "https://www.qbitai.com/2026/11/507367.html",
       "summary": "GPU迭代一百次的事，它一步做完...",
@@ -685,28 +872,6 @@
       "thumbnail": ""
     },
     {
-      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
-      "link": "https://www.qbitai.com/2026/11/507322.html",
-      "summary": "指令执行能力也同步提升...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-11-03 01:57:30",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 01:49:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "DBPanel 1.1.3 发布：增强网站防护与版本化部署，新增空间清理",
       "link": "https://www.oschina.net/news/503356",
       "summary": "DBPanel 1.1.3 发布。本次更新重点完善网站防护、部署管理、磁盘清理和系统更新，让服务器日常运维中的发布、清理与升级操作更加清晰、可控。 DBPanel 是面向 Linux 服务器的可视化管理面板，提供运行环境安装、网站管理、数据库管理、SSL 证书、备份恢复、日志与基础安全管理，并针对 DBShop、DBErp 提供安装部署、运行......",
@@ -718,160 +883,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-      "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals coul...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 01:12:55",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 00:35:52",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
-      "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
-      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 00:14:51",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
-      "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
-      "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-02 23:30:16",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-500x500-1793635517.jpg"
-    },
-    {
-      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
-      "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-02 23:25:32",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
-      "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
-      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many custome...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-02 22:56:11",
-      "category": "ai",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Why large dogs age faster than small ones, and other October research highlights",
-      "link": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
-      "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-02 22:54:35",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-500x500-1793464878.jpg"
-    },
-    {
-      "title": "Apple set an iPhone sales record even without a new standard iPhone",
-      "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-02 22:02:36",
-      "category": "other",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Third person dies of bird flu since virus started jumping to livestock",
-      "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
-      "summary": "The threat is still considered to be low, but the virus continues to spread....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-02 21:21:43",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-500x500.jpg"
-    },
-    {
-      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
-      "link": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
-      "summary": "\"The flow of time is always cruel.\"...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-02 19:52:23",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-500x500.jpg"
-    },
-    {
-      "title": "Most of our measures of a key cognitive process don't agree",
-      "link": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
-      "summary": "A big study with very little beyond negative results still gets published....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-02 19:13:26",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-500x500.jpg"
-    },
-    {
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-02 18:32:21",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-500x500.jpg"
-    },
-    {
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "summary": "The tsunami of imitators is way bigger than any one model maker can stem....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-02 18:05:31",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-500x500.jpg"
-    },
-    {
-      "title": "China publicly discloses plan for a lunar landing within three years",
-      "link": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-      "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-02 17:09:13",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1-500x500.jpg"
-    },
-    {
       "title": "Raising the quality of insights in agentic analytics",
       "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
       "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa...",
@@ -880,18 +891,7 @@
       "region": "us",
       "pubDate": "2026-11-02 17:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png"
-    },
-    {
-      "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-      "link": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
-      "summary": "There was plenty of drama on and off the track for Formula 1 this weekend....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-02 15:57:24",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302218135-500x500-1793632200.jpg"
+      "thumbnail": ""
     },
     {
       "title": "Stop counting tokens, start counting what ships",
@@ -902,7 +902,7 @@
       "region": "us",
       "pubDate": "2026-11-02 13:10:32",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?w=840"
+      "thumbnail": ""
     },
     {
       "title": "The Download: the agentic web arrives and the drive for safer roads",
@@ -913,7 +913,7 @@
       "region": "us",
       "pubDate": "2026-11-02 13:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/01/Wafer-Testing.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "Cordonix 0.0.5 发布：新增原生手机工具与 Windows 进程查询",
@@ -957,7 +957,7 @@
       "region": "us",
       "pubDate": "2026-11-02 09:35:19",
       "category": "other",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/spot1.jpg"
+      "thumbnail": ""
     },
     {
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
@@ -968,7 +968,7 @@
       "region": "us",
       "pubDate": "2026-10-30 11:30:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/260320_AIfarming3.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
@@ -990,7 +990,7 @@
       "region": "us",
       "pubDate": "2026-10-29 12:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/04/250404_kathleenhicks_hero.jpg?fit=2128,1196"
+      "thumbnail": ""
     }
   ]
 }
