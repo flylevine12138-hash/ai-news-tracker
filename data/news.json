@@ -1,39 +1,622 @@
 {
-  "updateTime": "2026-11-04T08:53:08.107Z",
+  "updateTime": "2026-11-04T16:59:12.575Z",
   "total": 90,
   "news": [
     {
-      "title": "谷歌为 Google 通讯录 / 信息 / 电话推送新版图标，覆盖安卓系统应用及网页服务",
-      "link": "https://www.ithome.com/1/022/229.htm",
-      "summary": "\nIT之家 11 月 4 日消息，谷歌在其博客发文，透露正陆续向 Android 设备推送新版 Google 通讯录、Google 信息和 Google 电话应用图标。\n据谷歌介绍，此次视觉调整主要是为了让应用图标在手机主屏幕上更加醒目、清晰。开发团队重新调整了图标边缘的弧度，使整体造型更加圆润，同时将原本较为单一的纯色背景改为色彩更加丰富的渐变效果，让图标看起来更具层次感和动感。\n\n需要注意的是...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-04 07:59:04",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/e1e01e99-ed92-4b0a-87bc-3846b433edec.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "美开发商拟将高尔夫球场改造为数据中心，以应对社区反对",
-      "link": "https://www.ithome.com/1/022/216.htm",
-      "summary": "\nIT之家 11 月 4 日消息，据彭博社报道，为了应对数据中心引发的反对浪潮，美国加利福尼亚州的开发商提出了一种环保替代方案：将高尔夫球场及其巨大的用水需求，改造成耗水量更低的计算机服务器设施。\n\n在南加州圣盖博谷地区的工业市（City of Industry），18 洞加利福尼亚乡村俱乐部（California Country Club）的所有者已提交项目计划，拟在这片占地 124 英亩（约 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-04 07:55:48",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-04 16:17:22",
       "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/4f40fadf-9523-42e1-9319-186d8c7548d1.jpg?x-bce-process=image/format,f_auto"
+      "thumbnail": ""
     },
     {
-      "title": "消息称三井化学计划以超 1.3 万亿日元收购光刻胶大厂 JSR",
-      "link": "https://www.ithome.com/1/022/212.htm",
-      "summary": "\nIT之家 11 月 4 日消息，《日经新闻》当地时间今日报道称，三井化学 (Mitsui Chemicals) 计划以超过 1.3 万亿日元（IT之家注：现汇率约合 548.16 亿元人民币）的价格收购全球第二大光刻胶制造商 JSR。\n报道指出，这笔交易有望超过昭和电工在 2020 年对日立化成的收购（两家企业后续合并为 Resonac），创下日本化学工业行业的交易规模纪录。\n\n日本政府系基金产...",
+      "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+      "link": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+      "summary": "Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-04 16:10:05",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Voters Set $400 Million of Elon Musk’s Money on Fire",
+      "link": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
+      "summary": "Elon Musk almost single-handedly funded the Republican midterms push. But of every traceable dollar Musk put into races that have been decided, more than 99 cents went to a race he lost....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-04 16:06:12",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ae8ece0dbe70363e491398f/master/pass/110226-elon-musk-midterm-races.jpg"
+    },
+    {
+      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+      "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-04 16:06:03",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-500x500.jpg"
+    },
+    {
+      "title": "Data centers lost the midterms",
+      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-04 16:05:39",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-04 15:58:45",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "My favorite 25W wireless power bank is down to $35",
+      "link": "https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale",
+      "summary": "If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wireless...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-04 15:57:55",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "What I learned driving the Slate electric truck prototype",
+      "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
+      "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-04 15:42:18",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/slate-in-car-500x500.jpg"
+    },
+    {
+      "title": "Not even $200 million could help Elon Musk buy Texas",
+      "link": "https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding",
+      "summary": "James Talarico, the Democratic Texas senator-elect, not only managed to flip the state in yesterday's midterms but prevailed in the most expensive Senate election to date. More than $573 million was s...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-04 15:33:59",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Election Deniers Aren’t Contesting Their Massive Losses",
+      "link": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
+      "summary": "For months, election deniers claimed without evidence that the vote would be rigged. Now they appear to be accepting crushing defeats....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-04 15:30:18",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6aea37fa21be717333c5244d/master/pass/110326-midterms-election-deniers.jpg"
+    },
+    {
+      "title": "Bluetooth is getting a big boost to data transfer speeds",
+      "link": "https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt",
+      "summary": "The Bluetooth Special Interest Group (SIG) that oversees the wireless standard has formally adopted Bluetooth High Data Throughput (HDT) as an optional feature of the Bluetooth Core 7.0. It's an upgra...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-04 15:19:54",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The DEA banned a drug some opioid users called a miracle",
+      "link": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
+      "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-04 15:08:48",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-500x500.jpg"
+    },
+    {
+      "title": "The fight for tech accountability starts now",
+      "link": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
+      "summary": "When Donald Trump began his second term as president, Silicon Valley gratefully embraced moral nihilism. Google, Amazon, Microsoft, and more collectively donated millions to Trump's inauguration fund ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-04 15:02:25",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+      "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+      "summary": "Titan OS has raised $110 million in funding to date....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-04 15:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the w...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-04 14:46:01",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
+      "link": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
+      "summary": "SpaceX is teaming up with Qualcomm to build out its nationwide mobile network. Under the multi-year deal, SpaceX will bring Qualcomm's Dragonwing technology to \"tens of thousands\" of 5G cell sites acr...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-04 14:38:20",
+      "category": "space",
+      "thumbnail": ""
+    },
+    {
+      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
+      "summary": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-04 14:15:21",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ae8f6f7fdca8a2bb1f7b5e1/master/pass/Alex-Gibney-WWF-Culture-2299894058.jpg"
+    },
+    {
+      "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+      "link": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+      "summary": "Glade Brook, Coatue and T. Rowe Price were among the investors that led the share sale....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-04 14:10:10",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Does opting out of TV tracking work?",
+      "link": "https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study",
+      "summary": "The fact our TVs are gathering our information isn't new, but what and how they're tracking - and if we can stop it - is hard to figure out. Researchers at Northeastern University monitored 12 TVs fro...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-04 14:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+      "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption...",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-04 13:49:51",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/pass/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+    },
+    {
+      "title": "‘I’m 100 Percent at War with Trump’: MAGA Revolts After Midterms Wipeout",
+      "link": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
+      "summary": "While some of Donald Trump’s closest allies have remained silent, much of MAGA is blaming him for historic losses....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-04 13:48:28",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6ae50a5c21bfda08f54b3e88/master/pass/GettyImages-2266022222.jpg"
+    },
+    {
+      "title": "单项致胜：五星偏股混合型基金产品深度参考（2026年三季度）",
+      "link": "https://www.tmtpost.com/8194019.html",
+      "summary": "我们聚焦2026年第三季度获评五星偏股混合型基金中单项能力优秀的产品，具体标准为“单项能力五星且综合评级五星”的双五星产品，通过梳理其评价标准、季度表现变化和具体产品评级，为投资者提供该类优质产品的核心参考。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-04 13:27:45",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "基金市场概况与资产配置观点 （10.26—11.01）",
+      "link": "https://www.tmtpost.com/8194003.html",
+      "summary": "腾讯济安指数上周下跌1.58%。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-04 13:25:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "上市公司TOP5济安评估（10月26日至11月1日）",
+      "link": "https://www.tmtpost.com/8193992.html",
+      "summary": "本周机构调研热度飙升，受上市公司三季报披露进入高峰驱动，调研活动仍保持活跃，公募机构的活跃度在短期内出现了爆发式增长。调研数据不仅反映了资金关注方向，也折射出当前行业景气度的变化趋势。谁是本周最受机构青睐的公司？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-04 13:21:33",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for r...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-04 13:10:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-04 13:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-04 13:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "同样是破净，为什么有的可能是错杀，有的却是价值陷阱？",
+      "link": "https://www.tmtpost.com/8193964.html",
+      "summary": "判断一个行业是否值得关注，不能只看PB有多低，还要追问两个问题：公司的“家底”是在变厚还是变薄？市场给出的价格，是在认可基本面，还是在提前反映风险？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-04 12:59:03",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "价值判断：跌停板的投资机会和风险提示（11月3日）｜上市公司观察",
+      "link": "https://www.tmtpost.com/8193958.html",
+      "summary": "本期两只标的分两类：聚石化学是首次跌停的高位修正，奥精医疗因财务立案连续跌停，收盘已低于济安定价七成一。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-04 12:57:36",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "价值判断：涨停板的投资机会和风险提示（11月3日）｜上市公司观察",
+      "link": "https://www.tmtpost.com/8193950.html",
+      "summary": "本期三只标的分为两头：三只首板涨停、收盘仍低于济安定价三成八至四成九，来自光伏发电、焊材与热缩膜；三只连续涨停、收盘已高于济安定价七成四至一倍，分别是白酒的皇台酒业、铝塑膜的紫竹高科与复牌重组的高争民爆。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-04 12:51:36",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "三星 Galaxy T1 运动耳机获美国 FCC 认证，预计明年初发布",
+      "link": "https://www.ithome.com/1/022/417.htm",
+      "summary": "IT之家 11 月 4 日消息，三星下一代运动耳机的上市准备工作似乎正在稳步推进。这款采用耳挂式设计的神秘新品此前已先后通过中国、韩国和印度尼西亚的相关认证，如今又跨过了一道重要门槛：获得美国联邦通信委员会（FCC）认证。与此前曝光的信息相比，此次认证文件还透露了更多产品细节。这款尚未正式发布的耳机型号为 SM-R545，内部代号为 Galaxy T1，于 2026 年 11 月 4 日获得 FC...",
       "source": "IT之家",
       "sourceKey": "ithome",
       "region": "cn",
-      "pubDate": "2026-11-04 07:54:11",
-      "category": "chip",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/dac0b527-faef-4d2f-a310-bf5b734e0ce8.jpg?x-bce-process=image/format,f_auto"
+      "pubDate": "2026-11-04 12:14:23",
+      "category": "energy",
+      "thumbnail": ""
+    },
+    {
+      "title": "微信鸿蒙电脑版 App 发布 4.1.13.4 版本邀测升级，已支持图片视频发送后可合并展示等功能",
+      "link": "https://www.ithome.com/1/022/416.htm",
+      "summary": "IT之家 11 月 4 日消息，据用户反馈，微信鸿蒙电脑版 App 在华为应用市场（App Gallery）发布了 4.1.13.4 (269572) 版本邀测升级。测试说明显示，当前版本为测试版，部分功能会受到限制或者不可用。IT之家目前主要功能如下：支持语音输入文字；可发送语音消息；图片视频发送后可合并展示；支持群接龙；表情可以预览动态效果；在单聊中邀请人时可分享聊天记录；在发消息时，支持边写...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-04 12:12:27",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "京东宣布率先在行业内推出安装充电桩线缆“按米收费”：0 米起售，用多少米买多少米",
+      "link": "https://www.ithome.com/1/022/414.htm",
+      "summary": "IT 之家 11 月 4 日消息，京东发文，宣布率先在行业内推出新能源汽车充电桩线缆安装“按米收费”服务，消费者下单后由京东工程师上门开展专业勘测，根据现场实际布线长度核算费用，按需取用线缆，适配不同车位、电表距离，计费清晰透明。京东表示，过去安装家用充电桩，大多采用固定长度线缆套包，常见规格有 10 米、20 米、30 米。比如实际布线只需要 15 米，却只能购买 20 米套包，多余线缆用不上还...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-04 12:08:20",
+      "category": "auto",
+      "thumbnail": ""
+    },
+    {
+      "title": "格罗方德 2026 财年第三财季归母亏损 2.7 亿美元，同比下降 208%",
+      "link": "https://www.ithome.com/1/022/413.htm",
+      "summary": " IT之家 11 月 4 日消息，格罗方德今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告：   营业总收入：18.99 亿美元（IT之家注：现汇率约合 126.93 亿元人民币），同比增长 13%，环比增长 6%     毛利润：5.71 亿美元（现汇率约合 38.17 亿元人民币），同比增长 36%，环比增长 1...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-04 12:04:40",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "上海警方：两人使用“外挂”软件代拍演出活动门票非法牟利，被依法刑拘",
+      "link": "https://www.ithome.com/1/022/411.htm",
+      "summary": "IT之家 11 月 4 日消息，据澎湃新闻报道，近日，两名男子因使用“外挂”软件代拍演出活动门票非法牟利，被上海警方依法刑事拘留。经查，自今年 10 月起，余某、冯某分别在网络平台、朋友圈发布演出活动门票代抢揽客信息，并约定以收取服务费的方式加价出售。两人各自操控多部手机接入票务平台，通过非法“外挂”软件实施快速抢票并非法获利。目前，案件正在进一步办理中。警方提示，消费者应当通过官方平台预约，勿轻...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-04 12:00:59",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Canva lays off over 1,200 people amid slowing growth",
+      "link": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+      "summary": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-04 11:59:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "支持一键微信通话：小米智能摄像机 4 Pro 329 → 242 元直降，老人小孩轻松使用",
+      "link": "https://www.ithome.com/1/022/409.htm",
+      "summary": "小米智能摄像机 4 Pro 今年 10 月 13 日发售，首发价为 329 元。今日京东政府补贴后仅需 252 元，支持一键微信通话。下单晒单再返 10 元京豆（限量 500 份，目前名额还算充裕），折合仅需 242 元刚需好价。京东小米 智能摄像机 4 Pro 一键微信通话 800 万像素国补后 252 元领 40 元券京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-04 11:58:58",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "奇瑞全新捷途自由者 7 燃油 SUV 上市，限时焕新价 8.99 万元起",
+      "link": "https://www.ithome.com/1/022/408.htm",
+      "summary": "IT之家 11 月 4 日消息，在今晚举行的全新捷途自由者 7 上市发布会上，奇瑞全新捷途自由者 7 正式上市，售价区间为 11.39-13.49 万元，限时焕新价 8.99-11.09 万元。1.5TGDI 轻享：上市指导价 11.39 万元，限时焕新价 8.99 万元1.5TGDI 舒享：上市指导价 12.39 万元，限时焕新价 9.99 万元1.5TGDI 舒享 +：上市指导价 12.99 ...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-04 11:56:52",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "谷歌捣毁大型僵尸网络：合作厂商在 130 万台安卓机顶盒中植入后门牟利",
+      "link": "https://www.ithome.com/1/022/407.htm",
+      "summary": "IT之家 11 月 4 日消息，谷歌近日捣毁了一项大规模僵尸网络行动，涉事方是一家同时从事 OEM（原始设备制造商）和 ODM（原始设计制造商）业务的企业。根据谷歌发布的博客文章，曾获得 Android TV 合作伙伴认证的视壮科技（Videostrong Technology Co.）故意在 130 万台电视机顶盒中植入后门，并将相关访问权限出售给犯罪团伙成员。借助这一后门，攻击者可以在受感染设...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-04 11:50:05",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "首个：华为云智果 AgentArts 获中国信通院最高等级评级",
+      "link": "https://www.ithome.com/1/022/406.htm",
+      "summary": "IT之家 11 月 4 日消息，华为官方今日宣布，华为云智果 AgentArts 智能体平台近日顺利通过中国信通院组织的可信 AI 企业级智能体平台评估，是首个通过该项测评，并获得当前最高等级（4+ 级）的产品。据介绍，本次评估依据《企业级智能体技术要求》，围绕企业级智能体平台的技术能力、应用能力和服务能力三方面展开，全面考察平台在智能体认知、规划、执行、业务集成、知识管理、运行维护及安全合规等方...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-04 11:46:44",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "索尼 SIE 获澳洲消费者权益倡导组织 2026 年度“黑心奖”：取消生产实体光盘、数字游戏所有权争议性政策...",
+      "link": "https://www.ithome.com/1/022/405.htm",
+      "summary": "IT之家 11 月 4 日消息，澳大利亚消费者权益倡导组织 Choice 日前公布 2026 年度“黑心奖”（Shonky Award）获奖名单，索尼互动娱乐（SIE）因计划停止生产 PlayStation 实体游戏光盘，以及数字游戏所有权政策等问题入选。Choice 首席执行官 Monique Perry 表示，索尼今年入选主要是因为该公司“要求消费者付费游玩游戏，却不让消费者真正拥有游戏”，依...",
+      "source": "IT之家",
+      "sourceKey": "ithome",
+      "region": "cn",
+      "pubDate": "2026-11-04 11:39:14",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
+      "link": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+      "summary": "If you already have a compatible e-reader, the $35 Kindle Click could be all the upgrade you need....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-04 11:36:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6aea06f2bd6c21c6b16c255d/master/pass/Kindle%20Klick%20112026%20top%20art%20SOURCE%20Amazon.jpg"
+    },
+    {
+      "title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
+      "link": "https://www.wired.com/story/best-wireless-earbuds/",
+      "summary": "I tested over a hundred options—my top picks from Apple, Bose, and Beats stood out from the rest....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-04 11:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6aea036065269e4ac1456c7d/master/pass/Wireless%20earbuds%20update%20Nov%20112026%20top%20art%20SOURCE%20Amazon.jpg"
+    },
+    {
+      "title": "谁在害怕“字节时间”？",
+      "link": "https://www.tmtpost.com/8190644.html",
+      "summary": "“时间”都去哪儿了？...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-04 10:45:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "What’s the Difference Between an Ebike and an E-Moto?",
+      "link": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
+      "summary": "Riders and lawmakers often don’t know the difference, and retailers sometimes muddy the waters on purpose. Here’s how to buy the micromobility vehicle you actually want....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-04 10:45:00",
+      "category": "ai",
+      "thumbnail": "https://media.wired.com/photos/6aea8cee83523dc6a2dbcc8a/master/pass/Gear_What%E2%80%99s%20the%20Difference%20Between%20an%20Ebike%20and%20an%20E-Moto.jpg"
+    },
+    {
+      "title": "New Jersey’s New Ebike Law Is Causing Chaos",
+      "link": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
+      "summary": "Since early 2026, the law has required electric bike owners to get licenses—and in some cases, insurance—to ride. It has left many stranded and confused....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-04 10:45:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ae4e94d4bc4fc3930909772/master/pass/Gear_New%20Jersey%E2%80%99s%20New%20Ebike%20Law%20Is%20Causing%20Confusion%20and%20Chaos.jpg"
+    },
+    {
+      "title": "大模型时代，智驾芯片的算力赢学失效了",
+      "link": "https://www.tmtpost.com/8193596.html",
+      "summary": "玩不过通用芯片，就玩定制芯片。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-04 10:44:24",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "为什么大家都学腾讯，把对手的模型请进来？",
+      "link": "https://www.tmtpost.com/8192671.html",
+      "summary": "这又牵出AI办公竞争的另一面：公司要如何围绕任务协同，重组自身的能力与资源。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-04 10:44:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "最懂猪的巨头们，为什么套保了还是巨亏？",
+      "link": "https://www.tmtpost.com/8192542.html",
+      "summary": "期货套保能够对冲部分价格风险，但管理不了经营周期，成本、产能与现金流才是穿越周期的底牌。...",
+      "source": "钛媒体",
+      "sourceKey": "tmt",
+      "region": "cn",
+      "pubDate": "2026-11-04 10:43:38",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "link": "https://www.qbitai.com/2026/11/507586.html",
+      "summary": "仅激活3B参数，十项基准全线提升！...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-11-04 10:08:38",
+      "category": "robot",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why",
+      "link": "https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/",
+      "summary": "A new study found evidence of natural selection in the dogs of Chernobyl, but it’s still unclear what drove these genetic differences and what evolutionary advantages they may provide....",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "region": "us",
+      "pubDate": "2026-11-04 10:00:00",
+      "category": "other",
+      "thumbnail": "https://media.wired.com/photos/6ae8fedf93d0a10b8d7f1f42/master/pass/492210506"
+    },
+    {
+      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+      "link": "https://www.qbitai.com/2026/11/507574.html",
+      "summary": "一场别开生面的具身智能科技盛宴...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-11-04 08:59:57",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "调问更新 10.19 ~ 11.3：测评计分能力全面升级，问卷设计与管理体验持续优化",
+      "link": "https://www.oschina.net/news/503394",
+      "summary": "DWSurvey 更新日志 测评计分能力全面升级，问卷设计与管理体验持续优化 坚持前后端代码 100% 开源 助力企业建设自主可控的问卷调研系统 官网地址www.diaowen.net ➔ 源码下载Gitee 仓库 ➔ 本次更新：新增迫选题、量表反向计分、维度结果判定及公式赋分等功能，进一步完善测评应用能力。同时优化规则引擎、AI 外呼、团队......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-04 08:55:48",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "link": "https://www.qbitai.com/2026/11/507567.html",
+      "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。...",
+      "source": "量子位",
+      "sourceKey": "qbitai",
+      "region": "cn",
+      "pubDate": "2026-11-04 08:49:12",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "仓颉语言原生 Coding Agent：cjh，一个文件就是整个开发团队",
+      "link": "https://www.oschina.net/news/503393",
+      "summary": "项目地址 GitHub: https://github.com/yangyongzhen/cjh 它是什么 cjh 是一个用华为仓颉语言从零实现的交互式编码代理（coding agent harness）。在终端里用自然语言描述任务，Agent 自主规划、调用工具、观察结果、迭代直到完成——全程 TUI 实时呈现，也可以通过 Web 远程驱动。 但它不是又一个\"LLM 套壳\"。cjh 从立项......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-04 08:44:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "PingWAF - 面向现代 Web 应用的高性能分布式安全防护平台",
+      "link": "https://www.oschina.net/p/pingwaf",
+      "summary": "PingWAF 基于 Rust 构建，是一款开源 Web 应用防火墙（WAF）与反向代理安全平台。项目以 Pingap 和 Cloudflare Pingora 为底层代理技术，融合语义级攻击检测、智能规则匹配、CC 防护、Bot 管理、访问控制、分布式策略同步及可视化安全运营能力，为企业网站、API 服务、SaaS 平台及互联网业务提供一套可自主部署、集中管理......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-04 08:37:50",
+      "category": "other",
+      "thumbnail": ""
     },
     {
       "title": "qData 数据中台专业版 v3.0.1 发布：模型设计、版本管理与指标建模迎来多项升级！",
@@ -47,83 +630,6 @@
       "thumbnail": ""
     },
     {
-      "title": "《GTA6》游戏预载 11 月 10 日开启：澳大利亚国家宽带网络称“已做好流量应对准备”",
-      "link": "https://www.ithome.com/1/022/210.htm",
-      "summary": "\nIT之家 11 月 4 日消息，R 星昨天宣布，《GTA6》游戏将在 11 月 10 日（周二）开始预载，游戏预载文件最高需要占用 212GB 存储空间。\n\n综合外媒 TechRadar 报道，对此澳大利亚国家宽带网络（NBN）发文，宣布已为《GTA6》预载做好了准备。\n澳大利亚国家宽带网络表示，公司一直在针对这类大型下载活动制定预案，有信心应对《GTA 6》上市带来的网络流量增长，预计游戏预载...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-04 07:45:57",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/496624c0-0a9d-434d-9278-aee61da227dc.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "微星推出 24.5 英寸 2K 275Hz 超刃显示器，首发 1049 元",
-      "link": "https://www.ithome.com/1/022/208.htm",
-      "summary": "\nIT之家 11 月 4 日消息，微星新推出了一款 24.5 英寸的超刃 MAG 256QE27 电竞显示器，首发价 1049 元。\n京东微星（MSI）超刃 24.5 英寸 2K 275Hz 电竞显示器 Rapid IPS 低蓝光 0.5msHDR 三角洲游戏小钢炮电脑显示屏幕 超刃 MAG 256QE27 券后 1049 元领 80 元券\n这款显示器采用 24.5 英寸 Rapid IPS 面板...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-04 07:44:37",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/547769/27/11585/150314/6ae46a14F9618564a/00833203205dd5d2.png"
-    },
-    {
-      "title": "理想官方电动踏板上线：适用于 24、25 款的理想 L7、L8、L9，售价 6999 元",
-      "link": "https://www.ithome.com/1/022/207.htm",
-      "summary": "\nIT之家 11 月 4 日消息，理想汽车今日宣布，理想官方电动踏板现已上线，适用于 24、25 款的理想 L7、L8、L9，售价 6999 元。\n\nIT之家注意到，官方还预告，适用于 24、25 款的理想 L6 的理想官方电动踏板 11 月即将上线，敬请期待。\n\n据介绍，这款电动踏板通过全套车规验证（通过 EMC、高低温、振动、盐雾、耐久等多项车规级测试），融入原车系统，支持中控屏控制踏板伸缩，...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-04 07:42:50",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/9769b708-2320-49c8-af2b-c9cdcfb86a8b.jpg"
-    },
-    {
-      "title": "OpenAI 展示员工“副业”硬件成果：一周出图、一月出样，外壳、电路板、固件 AI 全包办",
-      "link": "https://www.ithome.com/1/022/204.htm",
-      "summary": "\nIT之家 11 月 4 日消息，OpenAI 公司昨日（11 月 3 日）发布博文，公布 AI 辅助实体产品研发的最新进展，展示 GPT‑6 Astra 在机械、电路及软件协同设计中的应用，并宣布与马自达开展研究合作，将模型用于汽车设计与仿真评估。\nIT之家附上相关视频如下：\n\n在 AI 辅助实体产品研发方面，OpenAI 称两名团队成员利用业余时间，在不到一周内借助 Astra 完成一款可与 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-04 07:40:25",
-      "category": "ai",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/c5826f6f-8a0c-48f5-afbd-1c36831db8a5.png?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "联想拯救者启动平板电脑“绝密项目 002”先锋内测招募，暗示 Y900 产品线迭代款",
-      "link": "https://www.ithome.com/1/022/203.htm",
-      "summary": "\nIT之家 11 月 4 日消息，联想 (Lenovo) 拯救者 (Legion) 现已启动平板电脑“绝密项目 002”的先锋内测招募。\n\nIT之家注意到，此次官方图片中展示的平板电脑形象包括配套键盘，这是尺寸更大的 Y900 系列的特征。\n相关阅读：\n《联想启动拯救者下代游戏平板电脑先锋内测招募，12 月 31 日公布名单》\n...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-04 07:40:21",
-      "category": "other",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/07d49a66-324d-48de-af32-fe9433e76afa.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "人类改变轨道的小行星，终于被欧空局赫拉探测器拍摄到",
-      "link": "https://www.ithome.com/1/022/200.htm",
-      "summary": "\nIT之家 11 月 4 日消息，欧洲行星防御探测器“赫拉”（Hera）正在接近 NASA 曾实施 DART 撞击偏转测试的双小行星系统，目前已能够分辨出这两颗岩质天体。\n\n赫拉探测器即将结束前往“迪迪莫斯”（Didymos）小行星系统的旅程。该探测器于 2024 年 10 月搭乘 SpaceX 猎鹰 9 号火箭发射升空。10 月 18 日，赫拉在距离这对小行星约 1280 公里处拍摄了迪迪莫斯及...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-04 07:38:44",
-      "category": "space",
-      "thumbnail": "https://img.ithome.com/newsuploadfiles/2026/11/73cf0cc2-674e-40d8-8acd-8ecab7b69832.jpg?x-bce-process=image/format,f_auto"
-    },
-    {
-      "title": "199 元联想异能者 A7 航天系列耳机发售，2.4G + 蓝牙 6.0 双模双通道",
-      "link": "https://www.ithome.com/1/022/192.htm",
-      "summary": "\nIT之家 11 月 4 日消息，联想异能者航天系列耳机 A7（带底座）今晚 20:00 开售，原价 299 元，预售价 199 元。\n京东联想（Lenovo）异能者 A7 航天底座耳机 | 红 2.4G 蓝牙三模游戏耳机真无线半入耳电脑电竞耳机充电底座 299 元直达链接\n这款耳机采用蓝牙 6.0 + 2.4G 双模双通道设计，搭载双模发射器芯片，支持 LE 音频与 USB 转接口。其中，2.4...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-04 07:36:32",
-      "category": "ai",
-      "thumbnail": "https://img14.360buyimg.com/pop/jfs/t1/551998/10/11893/113172/6ae8884fFefb90b0c/0083320320b5afe5.jpg"
-    },
-    {
       "title": "Jync v1.12.0 · 同步前检查、内容校验与诊断包",
       "link": "https://www.oschina.net/news/503388",
       "summary": "Jync v1.12.0 · 同步前检查、内容校验与诊断包 新增 同步前检查：项目页可在不写入任何数据的情况下排练下一轮：源/目标连通性、待执行的 CREATE/ALTER/DROP、目标表缺失/缺列/类型不兼容、游标列与索引、CDC 可用性，以及 binlog CDC 的表布局漂移（停机期间源表跑过 DDL 会在预检报错并提示重建基线）。结果按 ERROR ......",
@@ -132,226 +638,6 @@
       "region": "cn",
       "pubDate": "2026-11-04 07:04:17",
       "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "京东本地生活负责人郭庆卸任，业务转入京东外卖下一阶段｜独家",
-      "link": "https://www.tmtpost.com/8193164.html",
-      "summary": "本次人事变动，或许标志着京东业务发展主线切换...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-04 06:46:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "50% Off DoorDash Promo Code | November 2026",
-      "link": "https://www.wired.com/story/doordash-promo-code/",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-04 06:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg"
-    },
-    {
-      "title": "Hoka Coupon Codes: 30% Off in November 2026",
-      "link": "https://www.wired.com/story/hoka-coupon-code/",
-      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-04 06:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg"
-    },
-    {
-      "title": "SteelSeries Coupon Codes: 15% Off in November 2026",
-      "link": "https://www.wired.com/story/steelseries-coupon-code/",
-      "summary": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-04 06:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg"
-    },
-    {
-      "title": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026",
-      "link": "https://www.wired.com/story/the-motley-fool-promo-code/",
-      "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-04 06:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png"
-    },
-    {
-      "title": "Columbia Promo Codes: 15% Off | November 2026",
-      "link": "https://www.wired.com/story/columbia-promo-code/",
-      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-04 06:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png"
-    },
-    {
-      "title": "25% Off Adidas Promo Code | November 2026",
-      "link": "https://www.wired.com/story/adidas-promo-code/",
-      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-04 06:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg"
-    },
-    {
-      "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-      "link": "https://www.wired.com/story/legalzoom-promo-code/",
-      "summary": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-04 06:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png"
-    },
-    {
-      "title": "Alo Discount Code: 20% Off November 2026",
-      "link": "https://www.wired.com/story/alo-yoga-discount-code/",
-      "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-04 06:00:00",
-      "category": "other",
-      "thumbnail": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png"
-    },
-    {
-      "title": "Hulu Promo Codes &amp; Discounts: 20% Off in November 2026",
-      "link": "https://www.wired.com/story/hulu-promo-code/",
-      "summary": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-04 06:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/66ea0770dbf190a9d5157ecd/master/pass/WIRED-Coupons-7.jpg"
-    },
-    {
-      "title": "Hostinger Promo Code: 79% Off for November 2026",
-      "link": "https://www.wired.com/story/hostinger-coupon-code/",
-      "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today....",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "region": "us",
-      "pubDate": "2026-11-04 06:00:00",
-      "category": "ai",
-      "thumbnail": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png"
-    },
-    {
-      "title": "猫贷中的“贷”与“猫”",
-      "link": "https://www.tmtpost.com/8192970.html",
-      "summary": "以萌为名的阳谋。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-04 05:38:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "六大科创龙头密集发声，谁在狂赚，谁在抢占下一轮风口",
-      "link": "https://www.tmtpost.com/8193040.html",
-      "summary": "三季报业绩分化，AI算力与半导体增长强劲。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-04 05:33:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "通威48亿收购丽豪再进一步，逆周期整合优质产能，硅料出清多了一条并购通道",
-      "link": "https://www.tmtpost.com/8192987.html",
-      "summary": "通威拟斥资不超48亿收购青海丽豪促光伏产能出清。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-04 05:29:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI视频的下一场竞争",
-      "link": "https://www.tmtpost.com/8192972.html",
-      "summary": "生成容易，交付不易。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-04 05:23:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "即时零售进入下半场",
-      "link": "https://www.tmtpost.com/8192950.html",
-      "summary": "无短板竞争。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-04 05:15:00",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "新国标落地，陪人看病是一门好生意吗？",
-      "link": "https://www.tmtpost.com/8193012.html",
-      "summary": "决定企业长期收益的，并非服务人员总数或覆盖城市多少，而是能否获得客户愿意支付的价格，并以合理的人力与管理成本完成交付。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-04 05:12:40",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "中国能建三季报订单降幅第一，绿氨成重要看点， 五大发电央企的财报数据没有一个轻松",
-      "link": "https://www.tmtpost.com/8192983.html",
-      "summary": "建筑央企周期博弈，能建调结构承压待破局。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-04 05:12:34",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "泰格医药的钱去哪了？",
-      "link": "https://www.tmtpost.com/8192999.html",
-      "summary": "医药“基金王者”的王冠，开始变重了。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-04 05:05:29",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "中国提供了七成储能设备，电站却写别人名下？储能出海该换算法了",
-      "link": "https://www.tmtpost.com/8192989.html",
-      "summary": "西班牙公示 27 个配储项目1.78GW；中国份额自电芯向电站开发递减，能否换成资产份额是关键。...",
-      "source": "钛媒体",
-      "sourceKey": "tmt",
-      "region": "cn",
-      "pubDate": "2026-11-04 05:05:24",
-      "category": "energy",
       "thumbnail": ""
     },
     {
@@ -399,61 +685,6 @@
       "thumbnail": ""
     },
     {
-      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
-      "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-04 01:15:34",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
-      "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
-      "summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-04 01:02:53",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the s...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-04 00:42:10",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Please stop asking me when the AI bubble will pop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-cha...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 23:37:45",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
-      "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
-      "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their role...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 22:59:36",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Anthropic is working on a system to prove AI models’ identity",
       "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from....",
@@ -476,17 +707,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-500x500.jpg"
     },
     {
-      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-      "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will app...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 22:20:50",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Data centers are turning to old jet engines as the wait for power grows",
       "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines...",
@@ -494,28 +714,6 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-11-03 22:19:53",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
-      "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
-      "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 bu...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 22:15:33",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process st...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 22:04:02",
       "category": "ai",
       "thumbnail": ""
     },
@@ -531,17 +729,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
-      "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
-      "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and ...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 21:21:04",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
       "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
       "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever....",
@@ -549,28 +736,6 @@
       "sourceKey": "techcrunch",
       "region": "us",
       "pubDate": "2026-11-03 21:05:55",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "Those Jeff Bezos hair transplant photos are very fake",
-      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some ima...",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "region": "us",
-      "pubDate": "2026-11-03 21:01:07",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
-      "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
-      "summary": "An in-space construction first could be an enabler for the space data centers of the future....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 20:57:17",
       "category": "other",
       "thumbnail": ""
     },
@@ -584,50 +749,6 @@
       "pubDate": "2026-11-03 20:39:55",
       "category": "ai",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-500x500.jpg"
-    },
-    {
-      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-      "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-      "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 19:45:48",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 19:34:43",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-      "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-      "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 19:24:37",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
-      "link": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
-      "summary": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-03 19:04:52",
-      "category": "other",
-      "thumbnail": ""
     },
     {
       "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
@@ -685,39 +806,6 @@
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware-500x500.jpg"
     },
     {
-      "title": "This space company is betting its future on a propellant available everywhere",
-      "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
-      "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?...",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-03 16:50:32",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-500x500.jpg"
-    },
-    {
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-03 16:03:13",
-      "category": "other",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg"
-    },
-    {
-      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-      "summary": "Meta faces pressure to protect No Kings Instagram on election day....",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "region": "us",
-      "pubDate": "2026-11-03 15:39:30",
-      "category": "ai",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-500x500-1793646871.jpg"
-    },
-    {
       "title": "Nginx 配置没人敢动？这台服务器的 SSL 证书续期，我终于不用手动了",
       "link": "https://www.oschina.net/news/503375",
       "summary": "Nginx 配置没人敢动？老系统的 SSL 证书续期，真的不应该这么折腾 做运维久了，应该都遇到过这种服务器。 一台 Linux 服务器，上面跑着几十个网站，Nginx 配置文件堆了好几层目录。主配置文件里面 include 了一堆子配置，有些站点的配置甚至已经不知道是谁写的、为什么这么写。 有些是五六年前留下来的老系统，有些经过好......",
@@ -748,7 +836,7 @@
       "region": "us",
       "pubDate": "2026-11-03 13:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/04/GettyImages-546444524.jpg?w=2667"
+      "thumbnail": ""
     },
     {
       "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
@@ -839,28 +927,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Jync v1.11.0 · MongoDB 专属迁移",
-      "link": "https://www.oschina.net/news/503368",
-      "summary": "Jync v1.11.0 · MongoDB 专属迁移 「专属迁移」新增 MongoDB → MongoDB 与 MongoDB → KingbaseES 两种整库一次性复制，与实时同步、ETL 完全隔离；ES / OpenSearch → Easysearch 的行为保持不变。 新增 MongoDB → MongoDB：使用随包内置的原生 mongodb-driver-sync，自动发现集合并按...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-11-03 05:33:51",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
-      "link": "https://www.qbitai.com/2026/11/507396.html",
-      "summary": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-11-03 05:16:35",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o...",
@@ -868,50 +934,6 @@
       "sourceKey": "mit-tech",
       "region": "us",
       "pubDate": "2026-11-03 04:18:47",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "思科给一个 27 岁工程师无限 token，让他重写 98% 的遗留代码",
-      "link": "https://www.oschina.net/news/503367/cisco-unlimited-ai-tokens-rewrite-legacy-code",
-      "summary": "Cisco 总裁兼首席产品官 Jeetu Patel 给了一个 27 岁工程师无限量的 AI token。原话是在一场小型圆桌晚宴上说的：\"我给了他无限的 tokens，因为他要去重构代码。所以我说，去吧，随便用。\" 这人叫 Padmanabhan Krishnamurthy，Patel 管他叫 Paddy。2023 年他联合创办了实时翻译公司 EzDubs，2025 年 Cisco 收购后他随之...",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-11-03 04:12:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "A社紧急修改招股书！RSI我们快要控制不住了",
-      "link": "https://www.qbitai.com/2026/11/507382.html",
-      "summary": "单季狂揽1130亿人民币，但......",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-11-03 03:41:06",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
-      "link": "https://www.qbitai.com/2026/11/507367.html",
-      "summary": "GPU迭代一百次的事，它一步做完...",
-      "source": "量子位",
-      "sourceKey": "qbitai",
-      "region": "cn",
-      "pubDate": "2026-11-03 03:16:23",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
-      "title": "GFlow v1.4.1 发布：审批流转全程留痕、审批消息直达 IM、开放外部系统集成",
-      "link": "https://www.oschina.net/news/503364",
-      "summary": "GFlow（极风工作流平台）基于 RuleGo 规则引擎构建，核心理念是：AI 先审 · 人再签 · 签完自动办——大模型先审风险，低风险自动直通；会签、加签、任意退回，中国式审批一个不少；审批通过那一刻，入账、通知、回写业务系统由规则链自动执行。 本次 v1.4.1 围绕流转留痕、IM 集成、开放集成、表单打印、安全合规五大方......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-11-03 03:14:56",
       "category": "ai",
       "thumbnail": ""
     },
@@ -924,7 +946,7 @@
       "region": "us",
       "pubDate": "2026-11-02 17:00:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png"
+      "thumbnail": ""
     },
     {
       "title": "Stop counting tokens, start counting what ships",
@@ -935,7 +957,7 @@
       "region": "us",
       "pubDate": "2026-11-02 13:10:32",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?w=840"
+      "thumbnail": ""
     },
     {
       "title": "The Download: the agentic web arrives and the drive for safer roads",
@@ -946,7 +968,7 @@
       "region": "us",
       "pubDate": "2026-11-02 13:10:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/01/Wafer-Testing.jpg?fit=2128,1196"
+      "thumbnail": ""
     },
     {
       "title": "The agentic web is here",
@@ -957,7 +979,7 @@
       "region": "us",
       "pubDate": "2026-11-02 09:35:19",
       "category": "other",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/spot1.jpg"
+      "thumbnail": ""
     },
     {
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
@@ -968,29 +990,7 @@
       "region": "us",
       "pubDate": "2026-10-30 11:30:00",
       "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/03/260320_AIfarming3.jpg?fit=2128,1196"
-    },
-    {
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating d...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-10-30 09:00:00",
-      "category": "other",
       "thumbnail": ""
-    },
-    {
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in rea...",
-      "source": "MIT Tech Review",
-      "sourceKey": "mit-tech",
-      "region": "us",
-      "pubDate": "2026-10-29 12:10:00",
-      "category": "ai",
-      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/04/250404_kathleenhicks_hero.jpg?fit=2128,1196"
     }
   ]
 }
