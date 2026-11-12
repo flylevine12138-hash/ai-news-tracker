@@ -1,15 +1,70 @@
 {
-  "updateTime": "2026-11-12T01:24:54.823Z",
-  "total": 50,
+  "updateTime": "2026-11-12T09:35:37.056Z",
+  "total": 70,
   "news": [
     {
-      "title": "谷歌推出 Gemini Decisions API 快速多模态决策，基于 Gemini Decision 1 模型",
-      "link": "https://www.ithome.com/1/025/858.htm",
-      "summary": "IT之家 11 月 12 日消息，谷歌昨日宣布推出 Gemini Decisions API 快速多模态决策，由全新 Gemini Decision 1 模型驱动。该 API 可在 1 次快速处理过程中，对文本、图像、视频和 PDF 内容进行至多 1000 项是非判断、选项选择和标准评估。据介绍，Gemini Decisions API 专为工具选择、策略检查、模型路由和上下文质量评估等决策任务打...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
+      "title": ".NET 11 正式发布，C# 15 补上了它欠缺二十年的东西",
+      "link": "https://www.oschina.net/news/503542/microsoft-announcing-dotnet-11",
+      "summary": ".NET 11 在 11 月 10 日正式发布。这是 STS（标准支持期）版本，两年支持，不是 LTS——.NET 10 仍然是那个长期支持的选项。版本号本身没什么好说的，值得看的是这次几个实打实的变化。 C# 15：union types 终于来了 把这条放最前面，因为它解决的是一个困扰 C# 很久的问题。 以前写一个「要么返回结果、要么返回错误」的......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
       "region": "cn",
-      "pubDate": "2026-11-12 00:55:39",
+      "pubDate": "2026-11-12 03:23:19",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-12 03:13:10",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "🔥 拾趣 (Magpie) v0.1.22 发布：英文朗读上线，单词、长句，地道的口语",
+      "link": "https://www.oschina.net/news/503541",
+      "summary": "🔥 拾趣 (Magpie) v0.1.22 发布：英文朗读上线，单词、长句，地道的口语 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现；复制、搜索、写入 Obsidian、预填日历，结果直接落地。图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-12 03:04:49",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "苹果正在开发一个把 Mac 变成私有 AI 推理服务器的应用",
+      "link": "https://www.oschina.net/news/503540/apple-new-mac-app-coming-to-make-running-local-ai-models-easy",
+      "summary": "爆料人 Aaron Perris 在 11 月 10 日发现了苹果内部的一个新 Mac 应用，名字叫 Harbor。它的定位写在功能描述第一句：把你的 Mac 变成私有 AI 推理服务器。 这件事有意思的地方在于，苹果过去的 AI 叙事一直围绕着云和端侧的小模型转，Harbor 换了个思路——拿你自己买的 Mac 硬件跑开源权重模型，数据不出你的机器。 按......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-12 02:58:12",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Skyeye 云企业级 AI + 零代码智能制造系统-消息通知 - v4.1.11 发布",
+      "link": "https://www.oschina.net/news/503539",
+      "summary": "Skyeye 云企业级AI+零代码智能制造，智能制造一体化，采用 SpringBoot+ UNI-APP + Ant Design Vue 的零代码平台开发模式。包含 100 多种电子流程，CRM、PM、ERP、MES、ADM、OA、EHR、AI、项目、商城、财务、多班次考勤、薪资、招聘、云售后、论坛、问卷、报表设计、工作流、Saas 等功能。打造全网首套零代码、AI应用最广......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-12 02:48:40",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "cc4g-AI 编程工具 Web 集成平台 v0.2.0 更新：增加 Codex CLI 集成",
+      "link": "https://www.oschina.net/news/503538",
+      "summary": "AI编程工具是汽车，Token是汽油，CC4G是你的汽车车库。 cc4g主要为了解决两个问题： 多人共用一套环境，手机也能接着用。它是一个用 Go 开发的 Web 版AI编程引擎集成平台平台，把 AI 编程引擎装进浏览器——纯 Go 编译出的单文件程序，跑在你自己的电脑或服务器上，装好之后打开浏览器就能干活。 支持在线安装nodejs、C......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-12 01:39:40",
       "category": "ai",
       "thumbnail": ""
     },
@@ -36,17 +91,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Polymarket 预测黄仁勋之女黄敏珊成接任英伟达 CEO 热门人选",
-      "link": "https://www.ithome.com/1/025/857.htm",
-      "summary": "IT之家 11 月 12 日消息，围绕英伟达下一任首席执行官的人选，市场讨论持续升温。预测市场平台 Polymarket 今天（11 月 12 日）发布推文，称黄仁勋之女黄敏珊（Madison Huang）成为接任英伟达 CEO 的“领先候选人”。IT之家查询公开资料，Polymarket 是一家把“未来事件的结果”做成可交易合约的预测市场公司，由 Shayne Coplan 于 2020 年创立...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-12 00:47:34",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
       "title": "在中国车市无人注意的角落里，日系车快烂完了",
       "link": "https://www.tmtpost.com/8201598.html",
       "summary": "日产在中国市场份额持续下滑，日系车竞争力减弱，中国市场对日系车需求减少。...",
@@ -58,91 +102,14 @@
       "thumbnail": ""
     },
     {
-      "title": "日本运营商 NTT Docomo 完成修复 5G SA 通信故障：原因为交换机拥塞",
-      "link": "https://www.ithome.com/1/025/856.htm",
-      "summary": "IT之家 11 月 12 日消息，日本运营商 NTT Docomo 表示，公司已于日本时间 11 月 11 日 19:17（北京时间 18:17）完成 5G SA 通信故障修复。NTT Docomo 透露，本次故障的原因是承载 5G SA 用户的交换机发生拥塞。截至目前，尚没有证据表明此次故障由未授权访问或网络攻击引起。该公司提醒客户，如果仍然无法使用通信服务，可以尝试重启设备或开关飞行模式，以解...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-12 00:39:35",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "桃色丑闻重创 AI 芯片巨头：黄仁勋第二段婚外情曝光，英伟达盘后股价重挫逾 9%",
-      "link": "https://www.ithome.com/1/025/855.htm",
-      "summary": "IT之家 11 月 12 日消息，英伟达股价当地时间 11 月 11 日美股盘后交易（北京时间 12 日今天早上 5 点至 9 点）中大幅下挫，跌幅一度扩大至 9%，目前市值为 4.19 万亿美元（IT之家注：现汇率约合 28.01 万亿元人民币），投资者正关注首席执行官黄仁勋可能离任所带来的不确定性。IT之家查询英伟达公司股价信息，美股盘后交易最低为 157.96 美元（现汇率约合 1,056 ...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-12 00:36:34",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-11 23:50:00",
       "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "华为 WATCH Ultimate 2 新增滑雪登山模式，六大模式覆盖室内外与越野场景",
-      "link": "https://www.ithome.com/1/025/854.htm",
-      "summary": "IT之家 11 月 12 日消息，华为官方今日宣布，华为 WATCH Ultimate 2 非凡探索手表新增滑雪登山模式，支持六种滑雪相关运动模式。六大模式具体包括滑雪登山、户外双板、户外单板、室内双板、室内单板和越野滑雪。其中，滑雪登山模式是华为智能手表产品线中首次引入，面向攀登与滑降交替进行的山地滑雪场景。IT之家注：滑雪登山（Skimo）指依靠人力攀登雪山、再以滑雪方式下降的运动，已被列为冬...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-12 00:36:18",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "第二艘国产大型邮轮“爱达 · 花城号”完成首个试运营航次，11 月 22 日从广州开启首航季",
-      "link": "https://www.ithome.com/1/025/853.htm",
-      "summary": "IT之家 11 月 12 日消息，据央视新闻今日报道，第二艘国产大型邮轮“爱达 · 花城号”今日完成首个试运营航次，抵达广州南沙国际邮轮母港。该航次于 11 月 9 日从上海吴淞口国际邮轮港启程，模拟真实商业运营状态，围绕海事安全、船岸联动、全船信息系统及餐饮、客房、演艺等核心服务流程展开压力测试。“爱达 · 花城号”由中国船舶集团旗下上海外高桥造船有限公司建造，总吨位 14.19 万吨，总长 3...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-12 00:29:59",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "英伟达董事会已聘请外部机构物色新 CEO 候选人以接替黄仁勋，同时考虑临时 CEO 方案",
-      "link": "https://www.ithome.com/1/025/852.htm",
-      "summary": "IT之家 11 月 12 日消息，彭博社刚刚报道称，英伟达董事会正聘请外部专业机构物色新的 CEO 候选人，并考虑在寻找正式继任者期间任命临时 CEO。在此之前，多个美媒报道称，英伟达董事会正在讨论公司联合创始人兼 CEO 黄仁勋的去留问题，英伟达可能面临领导层更迭。据知情人士透露，英伟达董事会已与一家外部机构合作，寻找可能接替黄仁勋的人选。同时，英伟达董事会还在考虑另一种方案，即在物色正式继任者...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-12 00:18:44",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "映泰推出 Thin Mini-ITX 工控主板 BIPTL-IHT，英特尔 PTL-H 平台、最高可选 128GB 内存",
-      "link": "https://www.ithome.com/1/025/851.htm",
-      "summary": "IT之家 11 月 12 日消息，据科技媒体 TechPower Up 昨天报道，映泰现已推出 BIPTL-IHT 主板，该产品面向工业控制场景，采用 Thin Mini-ITX 规格，专为智能边缘系统、AIoT 部署、自动化平台以及高级系统集成应用打造。据介绍，这款主板采用 Panther Lake-H 平台，搭载英特尔酷睿 Ultra Series 3 处理器，采用 170*170mm 紧凑规...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-12 00:17:08",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "约 40 年前构想迎来关键验证：无线电波给“人造太阳”续上电流",
-      "link": "https://www.ithome.com/1/025/850.htm",
-      "summary": "IT之家 11 月 12 日消息，科技媒体 TechSpot 昨日（11 月 11 日）发布博文，报道称美国通用原子公司研究团队在 DIII-D 国家聚变装置上，首次获得“螺旋波电流驱动”（Helicon Current Drive）的明确实验证据，为未来聚变反应堆长时间、稳态运行提供了新的技术选项。位于圣地亚哥通用原子公司的 DIII-D 研究托卡马克装置上，一种尖端梳状线天线的组成部分。图源：...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-12 00:13:08",
-      "category": "energy",
-      "thumbnail": ""
-    },
-    {
-      "title": "北京供暖季新增“再生水热源”：每天 10 万立方米“隔空换热”，只取温差不动水质",
-      "link": "https://www.ithome.com/1/025/849.htm",
-      "summary": "IT之家 11 月 12 日消息，据央视新闻今日报道，北京 2025 至 2026 年度供暖季将于 11 月 15 日正式达标供热。与往年不同，今冬供热体系中新增了一类不烧煤、不烧气的热源 —— 再生水。北京市水务局的信息显示，目前东升科技园、北京南站、高碑店华能一期等再生水源热泵项目已建成并稳定运行，中心城区已有 11 座再生水厂利用水源热泵为厂区制冷、供热。位于海淀区的东升科技园二期，是其中单...",
-      "source": "IT之家",
-      "sourceKey": "ithome",
-      "region": "cn",
-      "pubDate": "2026-11-12 00:03:31",
-      "category": "other",
       "thumbnail": ""
     },
     {
@@ -179,6 +146,17 @@
       "thumbnail": ""
     },
     {
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-11 23:10:17",
+      "category": "chip",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-500x500.jpg"
+    },
+    {
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
       "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w...",
@@ -210,6 +188,28 @@
       "pubDate": "2026-11-11 21:54:21",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-11 20:32:21",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-500x500-1752177364.jpg"
+    },
+    {
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-11 20:22:03",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-500x500.jpg"
     },
     {
       "title": "Why the data center you dread might never even be built",
@@ -247,7 +247,7 @@
     {
       "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
       "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third...",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thir...",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "region": "us",
@@ -278,6 +278,28 @@
       "thumbnail": ""
     },
     {
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "link": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-11 19:00:26",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-500x500.webp"
+    },
+    {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-11 18:16:40",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-500x500.jpg"
+    },
+    {
       "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
       "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
       "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) ...",
@@ -287,6 +309,28 @@
       "pubDate": "2026-11-11 18:13:52",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+      "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-11 18:05:26",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292869198-500x500.jpg"
+    },
+    {
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-11 17:37:32",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-500x500.png"
     },
     {
       "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
@@ -300,26 +344,37 @@
       "thumbnail": ""
     },
     {
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "summary": "Apple has already made the forum read-only....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
       "region": "us",
-      "pubDate": "2026-11-11 16:16:07",
+      "pubDate": "2026-11-11 17:04:26",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-500x500.jpg"
+    },
+    {
+      "title": "What to know about this year’s UN climate talks",
+      "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-11 17:00:00",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "IBM to offer access to a dual-processor quantum system in 2027",
+      "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "summary": "The company plans on linking two 520-qubit chips before next year is over....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
       "region": "us",
-      "pubDate": "2026-11-11 16:14:44",
-      "category": "ai",
-      "thumbnail": ""
+      "pubDate": "2026-11-11 16:33:08",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-500x500-1794412960.jpg"
     },
     {
       "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
@@ -344,6 +399,17 @@
       "thumbnail": ""
     },
     {
+      "title": "15 分钟让你有 C 语言超能力！！！",
+      "link": "https://www.oschina.net/news/503536",
+      "summary": "int load(const char *path)\r\n{\r\n    FILE *f = fopen(path, \"r\");\r\n    if (!f)\r\n        return -1;\r\n\r\n    defer fclose(f);\r\n\r\n    char *buf = malloc(4096);\r\n    if (!buf)\r\n        return -1;\r\n\r\n    defer...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-11 15:40:28",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
       "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
       "link": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
       "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its us...",
@@ -353,6 +419,17 @@
       "pubDate": "2026-11-11 15:30:00",
       "category": "other",
       "thumbnail": ""
+    },
+    {
+      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
+      "link": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
+      "summary": "Does this herald the start of a small car revolution, or is it a meaningless distraction?...",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-11 15:25:44",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06-500x500.jpg"
     },
     {
       "title": "上海合晶定增方案调整：砍掉补流项目、7亿加码12英寸硅片，扩产资金七成靠举债",
@@ -399,6 +476,17 @@
       "thumbnail": ""
     },
     {
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-11 13:10:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
       "title": "扩产太猛、5亿转债转不动，聚合顺3亿定增由实控人兜底遭问询",
       "link": "https://www.tmtpost.com/8201522.html",
       "summary": "扩产承压，定增补流遭问询。...",
@@ -407,6 +495,17 @@
       "region": "cn",
       "pubDate": "2026-11-11 11:43:07",
       "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
+      "link": "https://spectrum.ieee.org/innomotics-electric-motors-drive-systems",
+      "summary": "This article is brought to you by Innomotics.In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-11-11 11:00:02",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -487,68 +586,189 @@
       "thumbnail": ""
     },
     {
-      "title": "openKylin 社区 2026 年度贡献榜单公布！",
-      "link": "https://www.oschina.net/news/503523",
-      "summary": "",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-11-11 01:43:09",
+      "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
+      "link": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
+      "summary": "Bishnu Saroop AtalAcoustics and signal processing pioneerLife Fellow, 93; died 19 AugustAtal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&amp;T’...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-11-10 19:00:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huck...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-10 13:10:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Evolving metal extraction processes",
+      "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for ...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-10 13:00:00",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "DjangoAdmin 敏捷开发框架 Django+EleVue 版本 v2.8.2 发布",
-      "link": "https://www.oschina.net/news/503520",
-      "summary": "v2.8.2 更新内容： 1、大版本全新重构； DjangoAdmin 一款基于 Django、Vue3、TypeScript、ElementPlus、Vite、VueRouter 等技术栈构建的前后端分离企业级数据中台解决方案。内置精细化到按钮及方法级别的 RBAC 权限管控体系，集成用户管理、角色管理、权限菜单、部门管理、职级岗位、系统日志、数据字典、系统参数、行政......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-11-11 00:48:11",
-      "category": "other",
-      "thumbnail": ""
-    },
-    {
-      "title": "RXThinkCMF 敏捷开发框架 Laravel13+NaiveVue 版本 v2.6.0 发布",
-      "link": "https://www.oschina.net/news/503519",
-      "summary": "v2.6.0 更新内容： 1、修复近用户反馈的问题； 项目介绍 一款基于 Laravel13、Vue3、TypeScript、NaiveUI、Vite、VueRouter 等技术栈构建的前后端分离企业级数据中台解决方案。内置精细化到按钮及方法级别的 RBAC 权限管控体系，集成用户管理、角色管理、权限菜单、部门管理、职级岗位、系统日志、数据字典、系统参数、行......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-11-11 00:30:19",
+      "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
+      "link": "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/",
+      "summary": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-11-10 11:00:02",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "OwnCoder 0.2.0 发布，面向开发者的桌面端 AI 编程工具",
-      "link": "https://www.oschina.net/news/503518",
-      "summary": "修复了一些bug，优化了效果。 有时候我们总想多做点什么，告诉LLM要怎么做，最后发现，什么都不说，让LLM自行判断才是最好的。说的越多，越容易带偏。 佛家说，放下自己的执着。 道家讲无为，或许对LLM会很适用。无为，就是让LLM自己判断，不做过多的干涉和引导。 软件简介 OwnCode 是一款面向开发者的桌面端 AI 编程工具......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-11-10 17:13:40",
+      "title": "The backlash about data centers might really just be about electricity",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in ...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-09 19:35:33",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "phimint v0.8.0 发布：模型选择跨重启生效、终端贴图、长输出不再消失",
-      "link": "https://www.oschina.net/news/503517",
-      "summary": "phimint v0.8.0 已发布（2026-11-09） phimint 是一个用 Rust 写的终端 AI 编码 agent：一条命令装上、配好 API key，就能在终端里把需求变成跑通的代码——读代码、改多个文件、编译、测试、按报错迭代。 本轮更新重点在「模型选择」和「输入输出」两处。 更新重点 1. 模型选择跨重启生效 以前 /model 选完，重启就没了......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-11-10 14:33:10",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-09 17:05:43",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "YuanQi（UIEIP）低代码平台 v1.0 开源：一个 Go 单文件，装下建模、表单、权限、流程与 AI 知识库（MIT）",
-      "link": "https://www.oschina.net/news/503516",
-      "summary": "做企业后台这些年，最耗人的从来不是业务逻辑本身。 一个能用的后台管理系统，业务代码通常只占 20%，剩下 80% 全是公共设施：数据表怎么建模、表单怎么做校验和联动、RBAC 怎么拼、数据范围和按钮权限怎么控、审批流怎么接、统一登录怎么对接 OAuth2/OIDC/CAS/LDAP、门户和知识库是不是还得再搭一套。每开一个新项目，这......",
-      "source": "开源中国",
-      "sourceKey": "oschina",
-      "region": "cn",
-      "pubDate": "2026-11-10 12:25:47",
+      "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+      "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+      "summary": "This article is brought to you by Queen’s University Belfast.Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-11-09 16:25:06",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary N...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-09 13:15:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-09 13:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The climate case for AI has not been made",
+      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on coun...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-09 10:00:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "How Do You Land on a Moon With Almost No Gravity?",
+      "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
+      "summary": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos, the Martian moon name...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-11-06 15:00:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a ...",
+      "source": "MIT Tech Review",
+      "sourceKey": "mit-tech",
+      "region": "us",
+      "pubDate": "2026-11-06 13:10:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
+      "link": "https://spectrum.ieee.org/ieee-preuniversity",
+      "summary": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tes...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-11-05 19:00:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Use Your Year-End Review to Reach for a Promotion",
+      "link": "https://spectrum.ieee.org/how-to-get-a-promotion",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-11-05 16:08:03",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
+      "link": "https://spectrum.ieee.org/2026-solar-eclipse",
+      "summary": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza, it appears that a few puffy white clouds have started to blo...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-11-05 14:00:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
+      "link": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
+      "summary": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice, the IEEE Computer Society’s Central Ind...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-11-03 19:00:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Guarding the Gates of Knowledge",
+      "link": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of ...",
+      "source": "IEEE Spectrum",
+      "sourceKey": "ieee",
+      "region": "us",
+      "pubDate": "2026-11-01 14:00:01",
       "category": "ai",
       "thumbnail": ""
     }
