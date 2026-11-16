@@ -1,7 +1,117 @@
 {
-  "updateTime": "2026-11-15T21:36:35.588Z",
-  "total": 50,
+  "updateTime": "2026-11-16T01:44:29.537Z",
+  "total": 70,
   "news": [
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting t...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-16 01:26:56",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-15 23:30:00",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-15 23:11:54",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-500x500.jpg"
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-15 21:56:35",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Listen to this: Armand Hammer’s Snakes &amp; Ladders",
+      "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Sna...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-15 21:49:22",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's ...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-15 21:05:02",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of ne...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-15 20:43:49",
+      "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once....",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-15 20:20:57",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republic...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-15 19:15:43",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”...",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-15 18:29:14",
+      "category": "ai",
+      "thumbnail": ""
+    },
     {
       "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
       "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
@@ -11,6 +121,28 @@
       "region": "us",
       "pubDate": "2026-11-15 17:05:00",
       "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "link": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "summary": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-15 17:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple’s first smart glasses are coming together",
+      "link": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June'...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-15 16:59:16",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -30,6 +162,17 @@
       "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond....",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
+      "region": "us",
+      "pubDate": "2026-11-15 16:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+      "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+      "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury woo...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
       "region": "us",
       "pubDate": "2026-11-15 16:00:00",
       "category": "other",
@@ -77,6 +220,28 @@
       "region": "cn",
       "pubDate": "2026-11-15 14:16:51",
       "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+      "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today,...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-15 14:00:00",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our c...",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "region": "us",
+      "pubDate": "2026-11-15 13:57:30",
+      "category": "ai",
       "thumbnail": ""
     },
     {
@@ -133,6 +298,17 @@
       "pubDate": "2026-11-15 13:16:54",
       "category": "ai",
       "thumbnail": ""
+    },
+    {
+      "title": "How the world’s fires changed while humanity hit pause",
+      "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-15 12:07:34",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-500x500.jpg"
     },
     {
       "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth &amp; Paper",
@@ -333,6 +509,28 @@
       "thumbnail": ""
     },
     {
+      "title": "AI 时代，微服务不该再被\"部署复杂\"劝退 —— QuickBlue 用 3 条命令，把整套微服务装进 Docker",
+      "link": "https://www.oschina.net/news/503579",
+      "summary": "AI 时代，微服务不该再被\"部署复杂\"劝退——QuickBlue 用 3 条命令，把整套微服务装进 Docker 本文是 QuickBlue-MicroAI 的部署理念与实践介绍。如果你只想直接上手，跳到文末的\"3 条命令速查\"即可。 一、微服务之争，争的其实不是架构 关于单体与微服务之争，业界观点并不统一： 单体架构胜在部署简单、调用链路短；微服......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-15 02:20:19",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "summary": "It felt like stepping into the future....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-15 00:40:59",
+      "category": "space",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-500x500.jpg"
+    },
+    {
       "title": "Where was Nvidia’s security team?",
       "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
       "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin...",
@@ -341,6 +539,17 @@
       "region": "us",
       "pubDate": "2026-11-15 00:08:07",
       "category": "chip",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jync 捷同 v2.2.1 发布：告警通知支持中英文，CDC 与 ETL 可靠性修复",
+      "link": "https://www.oschina.net/news/503578",
+      "summary": "新增 告警通知语言：告警设置可选跟随系统、中文或 English，通知正文按配置渲染；配置包携带该字段，旧包缺省按中文处理。 告警投递状态与设置审计：告警设置页显示最近一次投递的时间、成功与否及平台给出的原因；保存告警设置与外部认证设置写入审计。 变更日志中文句式：内容核对、Redis 基线写入、自动建表失败、首......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-14 23:27:47",
+      "category": "other",
       "thumbnail": ""
     },
     {
@@ -377,39 +586,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-      "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-14 17:45:04",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-14 17:30:00",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations....",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "region": "us",
-      "pubDate": "2026-11-14 16:34:15",
-      "category": "chip",
-      "thumbnail": ""
-    },
-    {
       "title": "Beware the New AI-Fueled Ransomware Boom",
       "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
       "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc....",
@@ -419,6 +595,28 @@
       "pubDate": "2026-11-14 13:00:00",
       "category": "ai",
       "thumbnail": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png"
+    },
+    {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "summary": "Radiation and collisions reshape the planetary building materials....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-14 12:15:48",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-500x500.jpeg"
+    },
+    {
+      "title": "Winemakers are learning that conservation can be good for business",
+      "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-14 12:05:51",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-500x500.jpg"
     },
     {
       "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
@@ -432,124 +630,146 @@
       "thumbnail": "https://media.wired.com/photos/6af78dee04380d6fbf425df6/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens.jpg"
     },
     {
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade. ...",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "phimint v0.10.0 发布：卡在「等你输入」的命令上，agent 能自己接上",
+      "link": "https://www.oschina.net/news/503576",
+      "summary": "phimint v0.10.0 已发布（2026-11-14）。phimint 是一个用 Rust 写的终端轻量AI 编码 agent——一条命令装上，配好 API key 就能在终端里把需求变成跑通的代码。 终端里跑一条命令，它停下来问你「确定吗？」——以前这类命令只能干等到超时。现在 agent 会读屏幕，判断这个提问是什么形状（是/否？选单？要密码？），再......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-14 04:24:27",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "summary": "One way or another, the company will get some more data on Saturday....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
       "region": "us",
-      "pubDate": "2026-11-13 23:00:00",
+      "pubDate": "2026-11-14 00:49:13",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-500x500.jpg"
+    },
+    {
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-13 23:17:38",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-500x500.jpg"
+    },
+    {
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-13 21:59:01",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-500x500.jpg"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-13 21:20:47",
+      "category": "ai",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-500x500.jpg"
+    },
+    {
+      "title": "In elephants, the resilience of communities has its limits",
+      "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population....",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "region": "us",
+      "pubDate": "2026-11-13 20:03:13",
+      "category": "other",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156609-500x500.jpg"
+    },
+    {
+      "title": "通用代码生成器光船，特默尔尝鲜版二，人工智能设置项目会话",
+      "link": "https://www.oschina.net/news/503572",
+      "summary": "通用代码生成器光船，特默尔尝鲜版二，人工智能设置项目会话 通用代码生成器光船已发布1.1.0特默尔尝鲜版二。特默尔尝鲜版二支持人工智能生成会话和项目设置功能。相关视频请见： https://www.bilibili.com/video/BV1ZMW26dEdS/ 通用代码生成器光船，特默尔尝鲜版二项目地址： https://gitee.com/jerryshensjf/LightBoat......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-13 09:32:32",
+      "category": "ai",
+      "thumbnail": ""
+    },
+    {
+      "title": "qData 数据中台开源版 v1.6.7 发布：修复消息通知与时间范围增量读取问题",
+      "link": "https://www.oschina.net/news/503570",
+      "summary": "在数据中台的日常使用中，消息通知、数据增量读取以及 ETL 字段处理，都是开发人员和平台使用者经常接触的功能。 相关逻辑能否按照预期执行，不仅影响日常操作，也关系到数据集成任务的处理过程。 本次 qData 数据中台开源版 v1.6.7 聚焦实际使用中发现的功能问题，对消息通知、数据集成和 ETL 字段处理进行修复与完善，......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-13 09:07:20",
       "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "How Microcredentials Help Engineers Build Trustworthy AI",
-      "link": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
-      "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governanc...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-11-13 19:00:03",
+      "title": "写《Python 之禅》的那个人走了",
+      "link": "https://www.oschina.net/news/503569/in-memoriam-tim-peters-1952-2026",
+      "summary": "Python 创始人 Guido van Rossum 在 Python 官方论坛发了一条帖子，标题只有一行：In Memoriam: Tim Peters 1952–2026。 「我非常悲痛地宣布，Tim Peters 已于今年 7 月 15 日去世。」 底下第一条回复是 Guido 自己补的：「欢迎分享你们自己的 Tim 逸事，我没能覆盖他做过的所有事。」 他做的最有名的一件事，是一首诗 .....",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-13 09:02:57",
+      "category": "other",
+      "thumbnail": ""
+    },
+    {
+      "title": "黄仁勋辞任英伟达 CEO，CFO 接任临时掌门",
+      "link": "https://www.oschina.net/news/503568/nvidia-announces-ceo-transition",
+      "summary": "英伟达 11 月 12 日宣布，联合创始人黄仁勋辞去 CEO 职务。CFO 科莱特·克雷斯（Colette Kress）出任临时 CEO。 一家 4 万亿美元的公司，在 AI 投资周期最关键的节点上，暂时由一位财务背景的高管掌舵。 这是一个 33 年的句号。黄仁勋 1993 年参与创办英伟达，把它从做游戏显卡的公司带成了市值 4 万亿美元的 AI 算力中枢......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-13 08:39:45",
       "category": "ai",
       "thumbnail": ""
     },
     {
-      "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
-      "link": "https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain/",
-      "summary": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options.What you wil...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-11-13 11:00:02",
-      "category": "ai",
+      "title": "MetaForge 2026.0.0 正式发布：从数据库管理到可视化分析，700+ 项改进带来全面升级",
+      "link": "https://www.oschina.net/news/503552",
+      "summary": "从 DataCap 到 MetaForge，我们迎来了一次真正意义上的全面升级。 2026 年 11 月，开源数据管理平台 MetaForge 2026.0.0 正式发布。 距离 2025.1.1 版本发布已经过去一年多。在此期间，我们围绕数据源管理、SQL 查询、数据集、数据同步、可视化分析、插件扩展和系统管理等核心能力，持续进行功能开发、架构重构和体验优化......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-13 00:03:54",
+      "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
-      "link": "https://spectrum.ieee.org/innomotics-electric-motors-drive-systems",
-      "summary": "This article is brought to you by Innomotics.In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-11-11 11:00:02",
-      "category": "ai",
+      "title": "Jync 捷同 v2.1.0 发布：CDC 流内 DDL 闭环，ETL 支持主键更新",
+      "link": "https://www.oschina.net/news/503551",
+      "summary": "新增 TLS「服务器路径」证书模式：证书页新增路径标签页，密钥库或 PEM 填服务器绝对路径即可，原地替换文件完成续期，无需重新上传。 配置文件证书模式：app.tls.keystore-path、pem-cert-path 等键或环境变量在启动时读取挂载证书，页面只读。 更新检查开关：系统配置页可关闭版本检查，关闭后不再访问 GitHub / Gitee......",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-12 23:24:55",
+      "category": "other",
       "thumbnail": ""
     },
     {
-      "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
-      "link": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
-      "summary": "Bishnu Saroop AtalAcoustics and signal processing pioneerLife Fellow, 93; died 19 AugustAtal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&amp;T’...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-11-10 19:00:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
-      "link": "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/",
-      "summary": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-11-10 11:00:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
-      "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
-      "summary": "This article is brought to you by Queen’s University Belfast.Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-11-09 16:25:06",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "How Do You Land on a Moon With Almost No Gravity?",
-      "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
-      "summary": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos, the Martian moon name...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-11-06 15:00:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
-      "link": "https://spectrum.ieee.org/ieee-preuniversity",
-      "summary": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tes...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-11-05 19:00:02",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Use Your Year-End Review to Reach for a Promotion",
-      "link": "https://spectrum.ieee.org/how-to-get-a-promotion",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-11-05 16:08:03",
-      "category": "ai",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
-      "link": "https://spectrum.ieee.org/2026-solar-eclipse",
-      "summary": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza, it appears that a few puffy white clouds have started to blo...",
-      "source": "IEEE Spectrum",
-      "sourceKey": "ieee",
-      "region": "us",
-      "pubDate": "2026-11-05 14:00:02",
-      "category": "ai",
+      "title": "Argus v0.5.0 发布：纯 Rust 与 GPU 原生绘制的现代 Windows 任务管理器（已获 1.4k Star）",
+      "link": "https://www.oschina.net/news/503550",
+      "summary": "开源现代 Windows 任务管理器 Argus 现已正式发布 v0.5.0 版本。目前项目在 GitHub 上已获得超过 1,400 颗 Star，支持简体中文、繁体中文、英、日、德、法、西、俄 8 种语言，并提供官网浏览器端实时交互预览。 Argus 采用纯 Rust（windows-rs + GPUI Kit）直接调用 Windows 原生 NT/Win32 接口，脱离浏览器内核与 WebV...",
+      "source": "开源中国",
+      "sourceKey": "oschina",
+      "region": "cn",
+      "pubDate": "2026-11-12 21:00:22",
+      "category": "chip",
       "thumbnail": ""
     }
   ]
